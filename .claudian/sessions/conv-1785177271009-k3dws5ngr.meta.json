@@ -1,0 +1,27 @@
+{
+  "id": "conv-1785177271009-k3dws5ngr",
+  "providerId": "claude",
+  "title": "donne moi des liens que je pourrais rajouter entre...",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1785177271010,
+  "updatedAt": 1785258728847,
+  "lastResponseAt": 1785178524799,
+  "sessionId": "da000445-4f72-4329-996b-42fee72fe3d2",
+  "selectedModel": "haiku",
+  "providerState": {
+    "threadId": "da000445-4f72-4329-996b-42fee72fe3d2",
+    "sessionFilePath": "/home/max/.codex/sessions/2026/07/28/rollout-2026-07-28T19-06-29-019fa9b1-3041-7311-b952-faef14644c0d.jsonl",
+    "transcriptRootPath": "/home/max/.codex/sessions"
+  },
+  "currentNote": "02 Concepts/Maths/Combinaisons et coefficients binomiaux.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 0,
+    "percentage": 0
+  }
+}

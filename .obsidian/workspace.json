@@ -1,0 +1,337 @@
+{
+  "main": {
+    "id": "20df0a1c0ddfe9a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec966d3b26688eda",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af75cfe6af2739e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Cours/Maths/2026-08-06 - focntion.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-08-06 - focntion"
+            }
+          },
+          {
+            "id": "776422214a44d43a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "07 MOC/Concepts/Maths/MOC Algèbre.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MOC Algèbre"
+            }
+          },
+          {
+            "id": "f76909c1a5e15fa1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sans titre.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sans titre"
+            }
+          },
+          {
+            "id": "f1f11929476ad96a",
+            "type": "leaf",
+            "state": {
+              "type": "smart-release-notes-view",
+              "state": {},
+              "icon": "file-text",
+              "title": "Release Notes"
+            }
+          },
+          {
+            "id": "d4701d5b5ee49c35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sans titre.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sans titre"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ddd17686fa72f5d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "289ebf2b2dde5655",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3835c23a2cd8cab",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorateur de fichiers"
+            }
+          },
+          {
+            "id": "8f9b0c10c6cce8fb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "[\"matière\"]",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Rechercher"
+            }
+          },
+          {
+            "id": "439a045fc12c2be0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Signets"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "94f8b3aa2bee7d17",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8a9113028e17b0d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c511415e598664d",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
+          },
+          {
+            "id": "0d925fabada9d543",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "05 Ressources/Prerequis_citise-rentree2026.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Liens sortants"
+            }
+          },
+          {
+            "id": "83c8de998b222a31",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
+          },
+          {
+            "id": "f451da595741f943",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rétroliens"
+            }
+          },
+          {
+            "id": "6c53008a1f7fa369",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sans titre.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Plan"
+            }
+          },
+          {
+            "id": "b166cc5fb55c5aa6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Mots-clés"
+            }
+          },
+          {
+            "id": "824843901c1f3a64",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Toutes les propriétés"
+            }
+          },
+          {
+            "id": "963d94236fb0cd83",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Connections"
+            }
+          },
+          {
+            "id": "aeb8dcd12e8ef37d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "horizontal",
+    "width": 406.2890625
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "bases:Créer une nouvelle base": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "realclaudian:Open Claudian": false,
+      "3d-graph:3D Graph": false,
+      "copilot:Open Copilot Chat": false,
+      "easy-tikz:Easy TikZ": false,
+      "smart-connections:Smart Connections: Open random connection": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Toggle Footer Connections": false,
+      "smart-lookup:Smart Lookup: Open lookup view": false,
+      "smart-cluster-graph:Smart Cluster Graph": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "d4701d5b5ee49c35",
+  "lastOpenFiles": [
+    "copilot/copilot-custom-prompts/Clip Web Page.md",
+    "Sans titre.md",
+    "07 MOC/Concepts/Maths/MOC Combinatoire.md",
+    "07 MOC/Concepts/Maths/MOC Dérivation.md",
+    "07 MOC/Concepts/Maths/MOC Ensemble.md",
+    "06 Templates/Cours.md",
+    "Dashboard.md",
+    "02 Concepts/Maths/Limite d'une fonction composée.md",
+    "02 Concepts/Maths/Théorèmes de comparaison et d'encadrement pour les fonctions.md",
+    "02 Concepts/Maths/Théorème de comparaison pour les suites.md",
+    "02 Concepts/Maths/PGCD et algorithme d'Euclide.md",
+    "02 Concepts/Maths/Lien entre intégrale et primitives.md",
+    "02 Concepts/Maths/Loi binomiale.md",
+    "02 Concepts/Maths/Théorème d'encadrement (des gendarmes).md",
+    "02 Concepts/Maths/Étude et propriétés des fonctions cosinus et sinus.md",
+    "02 Concepts/Maths/Argument et forme trigonométrique d'un nombre complexe.md",
+    "05 Ressources/Latex.md",
+    "07 MOC/Concepts/Maths/MOC Algèbre.md",
+    "07 MOC/Concepts/Maths/MOC Géométrie 3d.md",
+    "01 Cours/Maths/2026-08-06 - focntion.md",
+    "02 Concepts/Maths/Suites.md",
+    "06 Templates/MOC.md",
+    "copilot/copilot-custom-prompts/Summarize.md",
+    "07 MOC/Concepts/Physique/MOC Optique.md",
+    "02 Concepts/Maths/Équations polynomiales.md",
+    "02 Concepts/Maths/Cercle trigonométrique et angles remarquables.md",
+    "Sans titre.base",
+    "05 Ressources/Prerequis_citise-rentree2026.pdf",
+    "05 Ressources/PDF Cours physique/Test_28072026162311.pdf",
+    "05 Ressources/PDF Cours physique/Test_28072026163553.pdf",
+    "copilot/copilot-conversations",
+    "05 Ressources/PDF Cours physique/Test_28072026162730.pdf",
+    "05 Ressources/PDF Cours physique/Test_28072026162334.pdf",
+    "05 Ressources/PDF Cours physique/Test_28072026163303.pdf",
+    "05 Ressources/PDF Cours physique/Test_28072026163148.pdf",
+    "copilot/memory",
+    "Sans titre.canvas"
+  ]
+}

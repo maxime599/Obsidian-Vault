@@ -1,0 +1,27 @@
+{
+  "id": "conv-1785178785836-f368othvk",
+  "providerId": "codex",
+  "title": "donne moi des liens que je pourrais rajouter entre...",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1785178785836,
+  "updatedAt": 1785178866008,
+  "lastResponseAt": 1785178836499,
+  "sessionId": "019fa4f2-8be7-7112-b1f2-23286d87a12d",
+  "selectedModel": "gpt-5.4-mini",
+  "providerState": {
+    "threadId": "019fa4f2-8be7-7112-b1f2-23286d87a12d",
+    "sessionFilePath": "/home/max/.codex/sessions/2026/07/27/rollout-2026-07-27T20-59-46-019fa4f2-8be7-7112-b1f2-23286d87a12d.jsonl",
+    "transcriptRootPath": "/home/max/.codex/sessions",
+    "workspaceDependencyToolVersion": 1
+  },
+  "usage": {
+    "inputTokens": 20692,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 19840,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 20692,
+    "percentage": 8,
+    "model": "gpt-5.4-mini"
+  }
+}

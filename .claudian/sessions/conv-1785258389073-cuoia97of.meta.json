@@ -1,0 +1,17 @@
+{
+  "id": "conv-1785258389073-cuoia97of",
+  "providerId": "codex",
+  "title": "transforme tous mes pdf en notes concepts de physi...",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1785258389074,
+  "updatedAt": 1785258731936,
+  "lastResponseAt": 1785258678469,
+  "sessionId": "019fa9b1-3041-7311-b952-faef14644c0d",
+  "selectedModel": "gpt-5.4-mini",
+  "providerState": {
+    "threadId": "019fa9b1-3041-7311-b952-faef14644c0d",
+    "sessionFilePath": "/home/max/.codex/sessions/2026/07/28/rollout-2026-07-28T19-06-29-019fa9b1-3041-7311-b952-faef14644c0d.jsonl",
+    "transcriptRootPath": "/home/max/.codex/sessions",
+    "workspaceDependencyToolVersion": 1
+  }
+}

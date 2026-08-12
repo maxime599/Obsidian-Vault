@@ -1,0 +1,203 @@
+/* Fond sombre semi-transparent pour garder la lisibilité */
+body {
+    background: rgba(0, 0, 0, 0.3) !important;
+}
+
+/* Parties d'Obsidian transparentes pour laisser passer le blur */
+.app-container,
+.horizontal-main-container,
+.workspace,
+.workspace-ribbon,
+.workspace-ribbon::before,
+.side-dock-ribbon,
+.mod-left,
+.workspace-split,
+.workspace-tabs,
+.workspace-tab-header-container,
+.workspace-tab-container,
+.workspace-leaf {
+    background: transparent !important;
+    background-color: transparent !important;
+    background-image: none !important;
+    --tab-container-background: transparent !important;
+}
+
+/* Zone de note avec un léger voile noir */
+.workspace-leaf-content,
+.workspace-leaf-content[data-type="markdown"],
+.markdown-source-view,
+.markdown-preview-view,
+.view-content,
+.markdown-reading-view,
+.cm-editor {
+    background: rgba(0, 0, 0, 0.35) !important;
+    background-color: rgba(0, 0, 0, 0.0) !important;
+}
+
+
+/* Fenêtre des paramètres */
+.modal-container,
+.modal,
+.modal-content,
+.vertical-tab-content,
+.setting-tab-content {
+    background: rgba(0, 0, 0, 0.45) !important;
+    background-color: rgba(0, 0, 0, 0.45) !important;
+    background-image: none !important;
+}
+
+/* Barre latérale des paramètres */
+.vertical-tab-header,
+.vertical-tab-header-group {
+    background: transparent !important;
+    background-color: transparent !important;
+}
+
+
+/* Onglets en haut */
+.workspace-tab-header-container,
+.workspace-tab-header-container-inner,
+.workspace-tab-header,
+.workspace-tab-header-inner {
+    background: transparent !important;
+    background-color: transparent !important;
+    background-image: none !important;
+}
+
+/* Barre au-dessus de la note (navigation + titre) */
+.view-header,
+.view-header-title-container,
+.view-header-title,
+.view-actions {
+    background: transparent !important;
+    background-color: transparent !important;
+}
+
+/* Barre d'état en bas (mots, caractères, synchro...) */
+.status-bar {
+    background: rgba(0, 0, 0, 0.35) !important;
+    background-color: rgba(0, 0, 0, 0.0) !important;
+    backdrop-filter: none !important;
+}
+
+/* Fond général des zones de travail */
+.workspace-tab-container,
+.workspace-leaf,
+.workspace-leaf-content,
+.view-content {
+    background: rgba(0, 0, 0, 0.0) !important;
+    background-color: rgba(0, 0, 0, 0.0) !important;
+}
+
+
+
+
+/* Fenêtres modales : paramètres, sélecteur de vault, commandes, etc. */
+.modal-container,
+.modal,
+.modal-content,
+.modal-bg,
+.prompt,
+.prompt-container,
+.suggestion-container {
+    background: rgba(0, 0, 0, 0.55) !important;
+    background-color: rgba(0, 0, 0, 0.55) !important;
+    background-image: none !important;
+}
+
+/* Paramètres Obsidian */
+.vertical-tab-header,
+.vertical-tab-content,
+.setting-item,
+.setting-item-control,
+.setting-tab-content {
+    background: transparent !important;
+    background-color: transparent !important;
+}
+
+/* Sélecteur de vault */
+.workspace-leaf-content[data-type="file-explorer"],
+.nav-file,
+.nav-folder {
+    background: transparent !important;
+}
+
+
+
+
+
+.theme-dark {
+    --modal-background: rgba(0, 0, 0, 0.0) !important;
+    --background-primary: rgba(0, 0, 0, 0.0) !important;
+    --background-secondary: rgba(0, 0, 0, 0.20) !important;
+
+    --background-modifier-form-field: rgba(255,255,255,0.05) !important;
+    --background-modifier-hover: rgba(255,255,255,0.08) !important;
+}
+
+
+
+
+/* ==========================================================
+   Popups Obsidian - effet glassmorphism
+   ========================================================== */
+
+/* Aperçu au survol d'un lien / note */
+.popover,
+.hover-popover {
+    background: rgba(10, 10, 15, 0.50) !important;
+    backdrop-filter: blur(250px) saturate(140%) !important;
+    -webkit-backdrop-filter: blur(25px) saturate(140%) !important;
+
+    border: 1px solid rgba(255,255,255,0.08) !important;
+    border-radius: 14px !important;
+    
+}
+
+
+/* Menus contextuels (clic droit, menus...) */
+.menu {
+    background: rgba(10, 10, 15, 0.80) !important;
+    backdrop-filter: blur(30px) saturate(150%) !important;
+    -webkit-backdrop-filter: blur(30px) saturate(150%) !important;
+
+    border-radius: 12px !important;
+    border: 1px solid rgba(255,255,255,0.08) !important;
+}
+
+
+/* Recherche, palette de commandes, suggestions */
+.suggestion-container,
+.prompt {
+    background: rgba(10,10,15,0.80) !important;
+    backdrop-filter: blur(35px) saturate(150%) !important;
+    -webkit-backdrop-filter: blur(35px) saturate(150%) !important;
+
+    border-radius: 16px !important;
+    border: 1px solid rgba(255,255,255,0.1) !important;
+}
+
+
+/* Éléments à l'intérieur des popups */
+.menu-item,
+.suggestion-item {
+    background: transparent !important;
+}
+
+.menu-item:hover,
+.suggestion-item.is-selected {
+    background: rgba(255,255,255,0.08) !important;
+}
+
+
+
+body {
+  --font-text-override: system-ui, 'Twemoji', 'Noto Color Emoji', sans-serif;
+  --font-editor-override: system-ui, 'Twemoji', 'Noto Color Emoji', sans-serif;
+  --font-interface-override: system-ui, 'Twemoji', 'Noto Color Emoji', sans-serif;
+}
+
+/* Force l'affichage des glypes d'emojis dans le moteur de rendu CodeMirror */
+.cm-line, .markdown-rendered {
+  font-family: var(--font-text-override) !important;
+}

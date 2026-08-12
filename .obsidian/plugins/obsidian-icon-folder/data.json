@@ -1,0 +1,53 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons2",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "OuLayoutDashboard",
+      "OiNotebook",
+      "FasInfo",
+      "TiPdf",
+      "LiApple"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": true,
+    "iconInTitlePosition": "inline",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "custom",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "Dashboard.md": {
+    "iconName": "OuLayoutDashboard",
+    "iconColor": "#6874cf"
+  },
+  "01 Cours": "OiNotebook",
+  "02 Concepts": "LiArchive",
+  "03 TD-TP": "FasScrewdriverWrench",
+  "05 Ressources": "LiLibraryBig",
+  "06 Templates": "LiLayoutTemplate",
+  "07 MOC": "FasArrowsToCircle",
+  "copilot": "SiGooglegemini",
+  "01 Cours/Maths": "TiMathPi",
+  "01 Cours/Physique": "LiApple",
+  "02 Concepts/Maths": "TiMathPi",
+  "02 Concepts/Physique": "LiApple",
+  "05 Ressources/PDF Cours physique": "TiPdf"
+}

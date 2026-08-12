@@ -1,0 +1,12 @@
+{
+  "cssTheme": "",
+  "enabledCssSnippets": [
+    "mon-theme"
+  ],
+  "baseFontSize": 22,
+  "theme": "obsidian",
+  "baseFontSizeAction": true,
+  "nativeMenus": false,
+  "showViewHeader": true,
+  "showRibbon": true
+}

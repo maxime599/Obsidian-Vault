@@ -1,0 +1,51 @@
+{
+  "collapse-filter": false,
+  "search": "-file:\"MOC Theoreme\" -path:copilot  ",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"02 Concepts/Maths\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:\"07 MOC/Concepts/Maths\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 7738388
+      }
+    },
+    {
+      "query": "path:\"02 Concepts/Physique\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5367102
+      }
+    },
+    {
+      "query": "path:\"07 MOC/Concepts/Physique\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 1330452
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.04795425257732,
+  "lineSizeMultiplier": 0.987967139175258,
+  "collapse-forces": false,
+  "centerStrength": 0.404961340206186,
+  "repelStrength": 10.5734536082474,
+  "linkStrength": 0.881684922680412,
+  "linkDistance": 30,
+  "scale": 0.13348388671875,
+  "close": true
+}
