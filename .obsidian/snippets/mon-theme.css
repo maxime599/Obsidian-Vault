@@ -34,7 +34,6 @@ body {
     background-color: rgba(0, 0, 0, 0.0) !important;
 }
 
-
 /* Fenêtre des paramètres */
 .modal-container,
 .modal,
@@ -52,7 +51,6 @@ body {
     background: transparent !important;
     background-color: transparent !important;
 }
-
 
 /* Onglets en haut */
 .workspace-tab-header-container,
@@ -89,9 +87,6 @@ body {
     background-color: rgba(0, 0, 0, 0.0) !important;
 }
 
-
-
-
 /* Fenêtres modales : paramètres, sélecteur de vault, commandes, etc. */
 .modal-container,
 .modal,
@@ -122,21 +117,14 @@ body {
     background: transparent !important;
 }
 
-
-
-
-
 .theme-dark {
     --modal-background: rgba(0, 0, 0, 0.0) !important;
-    --background-primary: rgba(0, 0, 0, 0.0) !important;
+    --background-primary: rgb(0 0 0 / 40%) !important;
     --background-secondary: rgba(0, 0, 0, 0.20) !important;
 
     --background-modifier-form-field: rgba(255,255,255,0.05) !important;
     --background-modifier-hover: rgba(255,255,255,0.08) !important;
 }
-
-
-
 
 /* ==========================================================
    Popups Obsidian - effet glassmorphism
@@ -151,9 +139,7 @@ body {
 
     border: 1px solid rgba(255,255,255,0.08) !important;
     border-radius: 14px !important;
-    
 }
-
 
 /* Menus contextuels (clic droit, menus...) */
 .menu {
@@ -164,7 +150,6 @@ body {
     border-radius: 12px !important;
     border: 1px solid rgba(255,255,255,0.08) !important;
 }
-
 
 /* Recherche, palette de commandes, suggestions */
 .suggestion-container,
@@ -177,7 +162,6 @@ body {
     border: 1px solid rgba(255,255,255,0.1) !important;
 }
 
-
 /* Éléments à l'intérieur des popups */
 .menu-item,
 .suggestion-item {
@@ -188,8 +172,6 @@ body {
 .suggestion-item.is-selected {
     background: rgba(255,255,255,0.08) !important;
 }
-
-
 
 body {
   --font-text-override: system-ui, 'Twemoji', 'Noto Color Emoji', sans-serif;

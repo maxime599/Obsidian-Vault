@@ -45,9 +45,9 @@
   "06 Templates": "LiLayoutTemplate",
   "07 MOC": "FasArrowsToCircle",
   "copilot": "SiGooglegemini",
-  "01 Cours/Maths": "TiMathPi",
   "01 Cours/Physique": "LiApple",
   "02 Concepts/Maths": "TiMathPi",
   "02 Concepts/Physique": "LiApple",
-  "05 Ressources/PDF Cours physique": "TiPdf"
+  "05 Ressources/PDF Cours physique": "TiPdf",
+  "01 Cours/Math": "TiMathPi"
 }

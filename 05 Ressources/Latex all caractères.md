@@ -926,7 +926,7 @@ $\upxi$
 $\Upxi$
 $\upzeta$
 $\urcorner$
-$\usetagform{N}$
+$\usetagform{1}$
 $\varDelta$
 $\varepsilon$
 $\varGamma$
@@ -1004,4 +1004,4 @@ $\yen$
 $\zeta$
 
 
-test modif
+

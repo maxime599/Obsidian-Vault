@@ -2,13 +2,11 @@
   "obsidian-latex-suite",
   "obsidian-style-settings",
   "font-size",
-  "obsidian-full-calendar",
   "dataview",
   "templater-obsidian",
   "obsidian-excalidraw-plugin",
   "editing-toolbar",
   "waypoint",
-  "realclaudian",
   "3d-graph",
   "persistent-graph",
   "copilot",
@@ -18,5 +16,10 @@
   "latex-autocomplete",
   "easy-tikz",
   "smart-connections",
-  "obsidian-git"
+  "obsidian-git",
+  "vault-size-history",
+  "obsidian-full-calendar",
+  "calendar-bases",
+  "prisma-calendar",
+  "obsidian-languagetool-plugin"
 ]

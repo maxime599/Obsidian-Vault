@@ -1,0 +1,13 @@
+views:
+  - type: calendar
+    name: Calendrier
+    filters:
+      and:
+        - file.inFolder("01 Cours")
+    order:
+      - file.name
+      - date
+    sort:
+      - property: date
+        direction: ASC
+    startDate: note.date

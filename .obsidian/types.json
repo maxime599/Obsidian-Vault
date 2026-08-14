@@ -3,9 +3,12 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "date": "text",
+    "date": "datetime",
     "MOC": "multitext",
     "Concepts liés": "multitext",
-    "Concepts": "multitext"
+    "Concepts": "multitext",
+    "End Date": "datetime",
+    "endTime": "datetime",
+    "end_date": "datetime"
   }
 }

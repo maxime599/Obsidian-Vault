@@ -1,19 +1,26 @@
----
-type: cours
-matiere: <% tp.file.folder(true).split("/").at(-1) %>
-semestre:
-date: <% tp.date.now("YYYY-MM-DD") %>
-prof:
-tags:
-  - cours
-Concepts:
----
 <%*
 let title = await tp.system.prompt("Titre du cours");
-let date = tp.date.now("YYYY-MM-DD");
+let duration = await tp.system.prompt("Durée du cours (en minutes)");
 
-await tp.file.rename(`${date} - ${title}`);
-%>
+let now = moment();
+let startDate = now.format("YYYY-MM-DDTHH:mm");
+let endDate = moment(now).add(Number(duration), 'minutes').format("YYYY-MM-DDTHH:mm");
+let dateFile = now.format("YYYY-MM-DD");
+
+await tp.file.rename(`${title}, ${tp.file.folder(true).split("/").at(-1)} ${dateFile}`);
+-%>---
+semestre: 
+date: <% startDate %>
+End Date: <% endDate %>
+Calendar Title: <% `${title}, t${tp.file.folder(true).split("/").at(-1)}` %>
+prof: 
+tags:
+  - cours
+  - <% tp.file.folder(true).split("/").at(-1) %>
+Concepts: 
+
+
+---
 
 # <% title %>
 
@@ -29,7 +36,6 @@ await tp.file.rename(`${date} - ${title}`);
 
 
 ## À retenir
-
 -
 ## Travail à faire
 
@@ -37,7 +43,6 @@ await tp.file.rename(`${date} - ${title}`);
 ## Concepts liés
 
 - [[]]
-
 
 
 

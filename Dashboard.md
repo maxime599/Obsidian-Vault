@@ -9,8 +9,6 @@ SORT matiere ASC
 ```
 
 
-
-
 # :OuListCheck: À faire
 
 ```dataview
@@ -33,3 +31,5 @@ WHERE date >= date(today) - dur(7 days)
 GROUP BY matiere
 SORT matiere
 ```
+
+

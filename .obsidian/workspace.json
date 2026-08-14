@@ -8,74 +8,86 @@
         "type": "tabs",
         "children": [
           {
-            "id": "af75cfe6af2739e3",
+            "id": "08ace8b449ca37bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Cours/Maths/2026-08-06 - focntion.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-08-06 - focntion"
-            }
-          },
-          {
-            "id": "776422214a44d43a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "07 MOC/Concepts/Maths/MOC Algèbre.md",
+                "file": "06 Templates/Cours.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MOC Algèbre"
+              "title": "Cours"
             }
           },
           {
-            "id": "f76909c1a5e15fa1",
+            "id": "4dec850eaaf37e66",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sans titre.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sans titre"
-            }
-          },
-          {
-            "id": "f1f11929476ad96a",
-            "type": "leaf",
-            "state": {
-              "type": "smart-release-notes-view",
+              "type": "custom-calendar-view-default",
               "state": {},
-              "icon": "file-text",
-              "title": "Release Notes"
+              "icon": "calendar",
+              "title": "Calendar"
             }
           },
           {
-            "id": "d4701d5b5ee49c35",
+            "id": "ea92341a195feb35",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sans titre.md",
+                "file": "06 Templates/Cours.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sans titre"
+              "title": "Cours"
+            }
+          },
+          {
+            "id": "c7aa0547cb4b3beb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Cours/Math/test7,  maths 2026-08-13.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "test7,  maths 2026-08-13"
+            }
+          },
+          {
+            "id": "591ec1c772c9f375",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Cours/Math/null, Math 2026-08-13.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "null, Math 2026-08-13"
+            }
+          },
+          {
+            "id": "63085de2fbcaf00d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Cours/Math/Dérivation, Math 2026-08-14.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dérivation, Math 2026-08-14"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -87,6 +99,7 @@
       {
         "id": "289ebf2b2dde5655",
         "type": "tabs",
+        "dimension": 69.3498452012384,
         "children": [
           {
             "id": "a3835c23a2cd8cab",
@@ -94,7 +107,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byCreatedTimeReverse",
                 "autoReveal": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -109,7 +122,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"matière\"]",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -134,10 +147,27 @@
             }
           }
         ]
+      },
+      {
+        "id": "5a2d787d1153d171",
+        "type": "tabs",
+        "dimension": 30.65015479876161,
+        "children": [
+          {
+            "id": "95b09945f265e85c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vue graphique"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 302.05078125
   },
   "right": {
     "id": "94f8b3aa2bee7d17",
@@ -147,16 +177,6 @@
         "id": "e8a9113028e17b0d",
         "type": "tabs",
         "children": [
-          {
-            "id": "4c511415e598664d",
-            "type": "leaf",
-            "state": {
-              "type": "claudian-view",
-              "state": {},
-              "icon": "bot",
-              "title": "Claudian"
-            }
-          },
           {
             "id": "0d925fabada9d543",
             "type": "leaf",
@@ -187,6 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "06 Templates/Cours.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +226,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sans titre.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -262,13 +282,23 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "7ee884bb7d3b5374",
+            "type": "leaf",
+            "state": {
+              "type": "smart-env-status-view",
+              "state": {},
+              "icon": "gauge",
+              "title": "Smart Environment Status"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 448.25390625
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -281,56 +311,55 @@
       "obsidian-full-calendar:Open Full Calendar": false,
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "realclaudian:Open Claudian": false,
       "3d-graph:3D Graph": false,
       "copilot:Open Copilot Chat": false,
       "easy-tikz:Easy TikZ": false,
+      "obsidian-git:Open Git source control": false,
+      "vault-size-history:Vault size history": false,
+      "prisma-calendar:Calendar": false,
       "smart-connections:Smart Connections: Open random connection": false,
       "smart-connections:Smart Connections: Open connections view": false,
-      "smart-connections:Toggle Footer Connections": false,
-      "smart-lookup:Smart Lookup: Open lookup view": false,
-      "smart-cluster-graph:Smart Cluster Graph": false,
-      "obsidian-git:Open Git source control": false
+      "smart-connections:Toggle Footer Connections": false
     }
   },
-  "active": "d4701d5b5ee49c35",
+  "active": "aeb8dcd12e8ef37d",
   "lastOpenFiles": [
-    "copilot/copilot-custom-prompts/Clip Web Page.md",
-    "Sans titre.md",
-    "07 MOC/Concepts/Maths/MOC Combinatoire.md",
-    "07 MOC/Concepts/Maths/MOC Dérivation.md",
-    "07 MOC/Concepts/Maths/MOC Ensemble.md",
     "06 Templates/Cours.md",
+    "01 Cours/Math/null, Math 2026-08-13.md",
+    "01 Cours/Math/test7,  maths 2026-08-13.md",
+    "01 Cours/Math/Dérivation, Math 2026-08-14.md",
+    "Tasks/Virtual Events.md",
+    "01 Cours/Virtual Events.md",
+    "01 Cours/Math/test8, Math 2026-08-13.md",
+    "01 Cours/Math/test8, tMath 2026-08-13.md",
+    "01 Cours/Math/test8 Math 2026-08-13.md",
     "Dashboard.md",
-    "02 Concepts/Maths/Limite d'une fonction composée.md",
-    "02 Concepts/Maths/Théorèmes de comparaison et d'encadrement pour les fonctions.md",
-    "02 Concepts/Maths/Théorème de comparaison pour les suites.md",
-    "02 Concepts/Maths/PGCD et algorithme d'Euclide.md",
-    "02 Concepts/Maths/Lien entre intégrale et primitives.md",
-    "02 Concepts/Maths/Loi binomiale.md",
-    "02 Concepts/Maths/Théorème d'encadrement (des gendarmes).md",
-    "02 Concepts/Maths/Étude et propriétés des fonctions cosinus et sinus.md",
-    "02 Concepts/Maths/Argument et forme trigonométrique d'un nombre complexe.md",
-    "05 Ressources/Latex.md",
-    "07 MOC/Concepts/Maths/MOC Algèbre.md",
-    "07 MOC/Concepts/Maths/MOC Géométrie 3d.md",
-    "01 Cours/Maths/2026-08-06 - focntion.md",
-    "02 Concepts/Maths/Suites.md",
-    "06 Templates/MOC.md",
-    "copilot/copilot-custom-prompts/Summarize.md",
-    "07 MOC/Concepts/Physique/MOC Optique.md",
-    "02 Concepts/Maths/Équations polynomiales.md",
-    "02 Concepts/Maths/Cercle trigonométrique et angles remarquables.md",
-    "Sans titre.base",
+    "01 Cours/Sans titre.base",
+    "01 Cours/Physique/2026-08-13 Molécule.md",
+    "05 Ressources/Latex all caractères.md",
     "05 Ressources/Prerequis_citise-rentree2026.pdf",
+    "01 Cours/Math/a-20260813174454.md",
+    "01 Cours/Math/2026-08-13 - test5.md",
+    "01 Cours/Math/2026-08-13 - test.md",
+    "01 Cours/Math/2026-08-13 - test4.md",
+    "01 Cours/Math/2026-08-13 - test3.md",
+    "01 Cours/Math/2026-08-13 - test2.md",
+    "01 Cours/Math/2026-08-13 -.md",
+    "01 Cours/Math/2026-08-13 - null.md",
+    "01 Cours/test calendart-20260813140149.md",
+    "copilot/copilot-conversations/Ajouter_tag_terminal_spécifique@20260806_131153.md",
+    "06 Templates/Concepts.md",
+    "06 Templates/MOC.md",
+    "01 Cours/Math/2026-08-06 - Trigo.md",
+    "01 Cours/Math/2026-08-06 - focntion.md",
+    "01 Cour",
+    "Tasks",
     "05 Ressources/PDF Cours physique/Test_28072026162311.pdf",
     "05 Ressources/PDF Cours physique/Test_28072026163553.pdf",
     "copilot/copilot-conversations",
     "05 Ressources/PDF Cours physique/Test_28072026162730.pdf",
     "05 Ressources/PDF Cours physique/Test_28072026162334.pdf",
     "05 Ressources/PDF Cours physique/Test_28072026163303.pdf",
-    "05 Ressources/PDF Cours physique/Test_28072026163148.pdf",
-    "copilot/memory",
     "Sans titre.canvas"
   ]
 }
