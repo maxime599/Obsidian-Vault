@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "OuCpu",
+      "OuBinary",
       "OuLayoutDashboard",
       "OiNotebook",
-      "FasInfo",
-      "TiPdf",
-      "LiApple"
+      "FasInfo"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -49,5 +49,7 @@
   "02 Concepts/Maths": "TiMathPi",
   "02 Concepts/Physique": "LiApple",
   "05 Ressources/PDF Cours physique": "TiPdf",
-  "01 Cours/Math": "TiMathPi"
+  "01 Cours/Math": "TiMathPi",
+  "01 Cours/Info": "OuCpu",
+  "01 Cours/Électronique_numérique": "OuBinary"
 }

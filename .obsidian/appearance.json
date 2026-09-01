@@ -3,7 +3,7 @@
   "enabledCssSnippets": [
     "mon-theme"
   ],
-  "baseFontSize": 21,
+  "baseFontSize": 18,
   "theme": "obsidian",
   "baseFontSizeAction": true,
   "nativeMenus": false,

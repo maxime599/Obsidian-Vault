@@ -3,5 +3,6 @@
   "rightToLeft": false,
   "spellcheck": true,
   "alwaysUpdateLinks": true,
-  "showUnsupportedFiles": false
+  "showUnsupportedFiles": false,
+  "attachmentFolderPath": "05 Ressources/Pièces jointes collées"
 }

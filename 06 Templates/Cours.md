@@ -10,6 +10,7 @@ let dateFile = now.format("YYYY-MM-DD");
 await tp.file.rename(`${title}, ${tp.file.folder(true).split("/").at(-1)} ${dateFile}`);
 -%>---
 semestre: 
+type de cours:
 date: <% startDate %>
 End Date: <% endDate %>
 Calendar Title: <% `${title}, t${tp.file.folder(true).split("/").at(-1)}` %>
@@ -38,12 +39,6 @@ Concepts:
 ## À retenir
 -
 ## Travail à faire
-
-
-## Concepts liés
-
-- [[]]
-
 
 
 

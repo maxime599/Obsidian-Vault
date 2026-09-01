@@ -70,7 +70,7 @@ Explique comment ça marche étape par étape.
 ## 📚 Cours associés
 
 ```dataview
-TABLE date AS Date, matiere AS Matière
+TABLE date AS Date, regexreplace(file.folder, ".*\/", "") AS Matière
 FROM "01 Cours"
 WHERE contains(file.outlinks, this.file.link)
 SORT date_cours ASC

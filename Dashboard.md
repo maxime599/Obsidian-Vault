@@ -2,10 +2,10 @@
 # :FarCalendarDays:Cours du jour 
 
 ```dataview
-TABLE matiere, prof
+TABLE regexreplace(file.folder, ".*\/", "") AS Matière, prof
 FROM "01 Cours"
-WHERE date = date(today)
-SORT matiere ASC
+WHERE dateformat(date, "yyyy-MM-dd") = dateformat(date(today), "yyyy-MM-dd")
+SORT regexreplace(file.folder, ".*\/", "") ASC
 ```
 
 
@@ -31,5 +31,3 @@ WHERE date >= date(today) - dur(7 days)
 GROUP BY matiere
 SORT matiere
 ```
-
-a
