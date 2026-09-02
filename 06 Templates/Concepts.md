@@ -5,6 +5,7 @@ tags:
   - concepts
 MOC:
 date_creation: <% tp.date.now("YYYY-MM-DD") %>
+Ressources:
 ---
 
 # <% tp.file.title %>

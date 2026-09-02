@@ -19,7 +19,7 @@ tags:
   - cours
   - <% tp.file.folder(true).split("/").at(-1) %>
 Concepts: 
-
+Ressources:
 
 ---
 

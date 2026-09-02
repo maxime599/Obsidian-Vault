@@ -5,38 +5,101 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "path:\"02 Concepts/Maths\"  ",
+      "query": "path:\"02 Concepts/Math\"  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 8201766
       }
     },
     {
-      "query": "path:\"07 MOC/Concepts/Maths\"  ",
+      "query": "path:\"07 MOC/Concepts/Math\"  ",
       "color": {
         "a": 1,
-        "rgb": 7738388
+        "rgb": 16727357
       }
     },
     {
       "query": "path:\"02 Concepts/Physique\"  ",
       "color": {
         "a": 1,
-        "rgb": 5367102
+        "rgb": 1461774
       }
     },
     {
       "query": "path:\"07 MOC/Concepts/Physique\"  ",
       "color": {
         "a": 1,
-        "rgb": 1330452
+        "rgb": 3328050
+      }
+    },
+    {
+      "query": "path:\"02 Concepts/Info\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 10653195
+      }
+    },
+    {
+      "query": "path:\"07 MOC/Concepts/Info\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16769838
+      }
+    },
+    {
+      "query": "path:\"01 Cours/Info\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6971163
+      }
+    },
+    {
+      "query": "path:\"02 Concepts/Elen1\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 39311
+      }
+    },
+    {
+      "query": "path:\"07 MOC/Concepts/Elen1\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 65518
+      }
+    },
+    {
+      "query": "path:\"01 Cours/Elen1\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 158050
+      }
+    },
+    {
+      "query": "path:\"02 Concepts/Électronique_numérique\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 2113175
+      }
+    },
+    {
+      "query": "path:\"07 MOC/Concepts/Électronique_numérique\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5406207
+      }
+    },
+    {
+      "query": "path:\"01 Cours/Électronique_numérique\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 931242
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1.04795425257732,
@@ -46,6 +109,6 @@
   "repelStrength": 10.5734536082474,
   "linkStrength": 0.881684922680412,
   "linkDistance": 30,
-  "scale": 0.12604581744581406,
+  "scale": 0.08078106113119056,
   "close": true
 }

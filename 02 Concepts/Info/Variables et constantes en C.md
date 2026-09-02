@@ -8,7 +8,7 @@ tags:
 MOC:
   - "[[MOC Langage C]]"
 date_creation: 2026-09-01
-Calendar Title: "[[01 Cours/Info/Variables et constantes en C|Variables et constantes en C]]"
+Calendar Title: "[[Variables et constantes en C|Variables et constantes en C]]"
 ---
 # Variables et constantes en C
 

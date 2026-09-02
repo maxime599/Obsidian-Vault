@@ -24,8 +24,8 @@ Ressources : [[Info1_Slides.pdf]]
 
 ## Notes
 
-Un ordi manipule du [[binaire]]
-On verra les [[portes logiques]] en Auto partie SIN, et leur fabrication dans les cours de SAé+Elen1
+Un ordi manipule du binaire
+On verra les [[Portes logiques et algèbre de Boole|portes logiques]] en Auto partie SIN, et leur fabrication dans les cours de SAé+Elen1
 
 Deux compétences : Concevoir et Vérifier ([Voir la page 9](<Info1_Slides.pdf#page=9>))
 
@@ -56,7 +56,7 @@ Arrêt slide 30
 
 ## Travail à faire
  - [x] Ajouter les concepts binaire, portes logiques et langage C
- - [ ] Regarder la ou les vidéos avant le prochain CM
+ - [x] Regarder la ou les vidéos avant le prochain CM
  - [x] Vérifier comment itialiser les constantes
  
 

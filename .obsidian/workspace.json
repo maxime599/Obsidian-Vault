@@ -18,91 +18,35 @@
             }
           },
           {
-            "id": "948a78f5c5c62e41",
+            "id": "064eaf08d61fb7a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07 MOC/Concepts/Info/MOC Langage C.md",
+                "file": "Dashboard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MOC Langage C"
+              "title": "Dashboard"
             }
           },
           {
-            "id": "93beeb40ce405cc4",
+            "id": "5c82c679e1830569",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Concepts/Électronique_numérique/Représentations d'une fonction logique.md",
+                "file": "02 Concepts/Info/Syntaxe en C.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Représentations d'une fonction logique"
+              "title": "Syntaxe en C"
             }
           },
           {
-            "id": "85833f768dc7624c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 Concepts/Électronique_numérique/Portes logiques et algèbre de Boole.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Portes logiques et algèbre de Boole"
-            }
-          },
-          {
-            "id": "8c82b0176a55cae2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 Concepts/Info/Types de données élémentaires.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Types de données élémentaires"
-            }
-          },
-          {
-            "id": "0adbd15cccdd60a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Cours/Info/Variables et constantes en C.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Variables et constantes en C"
-            }
-          },
-          {
-            "id": "fa5184830fbce014",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 Concepts/Elen1/Types de régime en électicité.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Types de régime en électicité"
-            }
-          },
-          {
-            "id": "b8375895d5cdc8c8",
+            "id": "a74d12fcc95e4855",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -110,9 +54,47 @@
               "icon": "lucide-git-fork",
               "title": "Vue graphique"
             }
+          },
+          {
+            "id": "1ee2d651c783eb9f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vue graphique"
+            }
+          },
+          {
+            "id": "e0f9661ecbc93a6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 Concepts/Méthodologie_scientifique/La démarche scientifique et réfutabilité.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "La démarche scientifique et réfutabilité"
+            }
+          },
+          {
+            "id": "db61b917487dad8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06 Templates/Concepts.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Concepts"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -147,7 +129,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Elen1",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -289,16 +271,6 @@
             }
           },
           {
-            "id": "963d94236fb0cd83",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "smart-connections",
-              "title": "Connections"
-            }
-          },
-          {
             "id": "aeb8dcd12e8ef37d",
             "type": "leaf",
             "state": {
@@ -306,16 +278,6 @@
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
-            }
-          },
-          {
-            "id": "7ee884bb7d3b5374",
-            "type": "leaf",
-            "state": {
-              "type": "smart-env-status-view",
-              "state": {},
-              "icon": "gauge",
-              "title": "Smart Environment Status"
             }
           },
           {
@@ -329,11 +291,11 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 381.17578125
+    "width": 336.68359375
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -354,49 +316,51 @@
       "prisma-calendar:Calendar": false,
       "smart-connections:Smart Connections: Open random connection": false,
       "smart-connections:Smart Connections: Open connections view": false,
-      "smart-connections:Toggle Footer Connections": false
+      "smart-connections:Toggle Footer Connections": false,
+      "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "aeb8dcd12e8ef37d",
+  "active": "a3835c23a2cd8cab",
   "lastOpenFiles": [
-    "07 MOC/Concepts/Info/MOC Langage C.md",
-    "07 MOC/Concepts/Électronique_numérique/MOC Boole.md",
-    "Dashboard.md",
-    "02 Concepts/Électronique_numérique/Représentations d'une fonction logique.md",
-    "02 Concepts/Électronique_numérique/Portes logiques et algèbre de Boole.md",
+    "01 Cours/Info/Intro à l'algo et au language C, Info 2026-09-01.md",
+    "02 Concepts/Méthodologie_scientifique/La démarche scientifique et réfutabilité.md",
+    "07 MOC/Concepts/Méthodologie_scientifique/MOC Demarche.md",
+    "07 MOC/Concepts/Math/MOC Arithmetique.md",
     "02 Concepts/Info/Types de données élémentaires.md",
-    "02 Concepts/Elen1/Types de régime en électicité.md",
-    "01 Cours/Info/Variables et constantes en C.md",
+    "02 Concepts/Info/Syntaxe en C.md",
+    "07 MOC/Concepts/Info/MOC Langage C.md",
+    "01 Cours/Info/Visionnage de la vidéo, Info 2026-09-02.md",
+    "Dashboard.md",
+    "02 Concepts/Méthodologie_scientifique/Rôle et responsabilité de l'ingénieur.md",
     "01 Cours/Électronique_numérique/Intro-organisation de cours, Électronique numérique 2026-09-01.md",
     "01 Cours/Elen1/Intro Cm1-Types de régime en électicité, Elen1 2026-09-01.md",
-    "07 MOC/Concepts/Électronique_numérique/MOC Logique.md",
+    "02 Concepts/Électronique_numérique/Portes logiques et algèbre de Boole.md",
+    "02 Concepts/Math/Logique mathématique et booléenne.md",
+    "02 Concepts/Math/Modes de raisonnement mathématique.md",
+    "02 Concepts/Méthodologie_scientifique/Usage critique des intelligences artificielles.md",
+    "02 Concepts/Méthodologie_scientifique/Techniques d'apprentissage et rappel actif.md",
+    "01 Cours/Méthodologie_scientifique/Intro, Méthodologie_scientifique 2026-09-02.md",
+    "07 MOC/Concepts/Méthodologie_scientifique/MOC Methode.md",
+    "07 MOC/Concepts/Électronique_numérique/MOC Boole.md",
+    "07 MOC/Concepts/Méthodologie_scientifique",
+    "02 Concepts/Méthodologie_scientifique",
+    "07 MOC/Concepts/Math/MOC Démonstration.md",
+    "07 MOC/Concepts/Math/MOC Vecteurs.md",
+    "01 Cours/Math/Intro-Logique et raisonnement mathématiques, Math 2026-09-02.md",
+    "Sans titre 1",
+    "Sans titre",
+    "05 Ressources/Info1_Slides.pdf",
+    "06 Templates/Cours.md",
+    "06 Templates/Concepts.md",
+    "05 Ressources/diapo_CITISE_AutoSIN.pdf",
+    "01 Cours/Méthodologie_scientifique",
+    "05 Ressources/S1_cours_math_chap1.pdf",
+    "06 Templates/MOC.md",
     "07 MOC/Concepts/Électronique_numérique",
     "02 Concepts/Électronique_numérique",
-    "01 Cours/Info/Intro à l'algo et au language C, Info 2026-09-01.md",
-    "02 Concepts/Info",
-    "07 MOC/Concepts/Info",
-    "06 Templates/Concepts.md",
-    "06 Templates/Cours.md",
-    "07 MOC/Concepts/Physique/MOC Signaux.md",
-    "02 Concepts/Maths/Argument et forme trigonométrique d'un nombre complexe.md",
-    "Types de régime en électicité.md",
-    "02 Concepts/Elen1",
     "05 Ressources/Pièces jointes collées/Pasted image 20260901152027.png",
-    "05 Ressources/Pièces jointes collées",
     "05 Ressources/Pièces jointes collées/Pasted image 20260901152755.png",
     "05 Ressources/Pièces jointes collées/Pasted image 20260901152133.png",
-    "01 Cours/Électronique_numérique",
-    "05 Ressources/Info1_Slides.pdf",
-    "01 Cours/Info",
-    "05 Ressources/Latex all caractères.md",
-    "05 Ressources/Fascicule TD ELEN1 CITISE.pdf",
-    "02 Concepts/Maths/Théorème du point fixe.md",
-    "02 Concepts/Maths/Théorème des valeurs intermédiaires.md",
-    "01 Cours/Virtual Events.md",
-    "01 Cours/Math/test, Math 2026-08-30.md",
-    "01 Cours/Physique/2026-08-13 Molécule.md",
-    "01 Cours/Physique/2026-08-06 - Newton.md",
-    "01 Cours/Math/null, Math 2026-08-13.md",
     "Sans titre.canvas"
   ]
 }

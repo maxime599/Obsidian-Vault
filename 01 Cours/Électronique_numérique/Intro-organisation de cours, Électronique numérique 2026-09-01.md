@@ -15,7 +15,7 @@ Concepts:
 
 # Intro-organisation de cours
 
-Ressources : voir fasticule
+Ressources : [[diapo_CITISE_AutoSIN.pdf]]
 ## Objectifs
 
 - Comprendre le but de la matière

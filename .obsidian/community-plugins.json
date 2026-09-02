@@ -15,12 +15,11 @@
   "obsidian-tikzjax",
   "latex-autocomplete",
   "easy-tikz",
-  "smart-connections",
   "obsidian-git",
-  "vault-size-history",
   "obsidian-full-calendar",
   "calendar-bases",
   "prisma-calendar",
   "obsidian-languagetool-plugin",
-  "execute-code"
+  "execute-code",
+  "vault-size-history"
 ]

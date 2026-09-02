@@ -2,10 +2,12 @@
 # :FarCalendarDays:Cours du jour 
 
 ```dataview
-TABLE regexreplace(file.folder, ".*\/", "") AS Matière, prof
+TABLE WITHOUT ID 
+	link(file.path, split(file.name, ",")[0]) AS "Cours",
+	regexreplace(file.folder, ".*\/", "") AS Matière, prof
 FROM "01 Cours"
 WHERE dateformat(date, "yyyy-MM-dd") = dateformat(date(today), "yyyy-MM-dd")
-SORT regexreplace(file.folder, ".*\/", "") ASC
+SORT date ASC
 ```
 
 
@@ -19,15 +21,27 @@ WHERE !completed
 
 
 
-# Derniers concepts vus en cours
+# Derniers concepts vus aujourd'hui
 ```dataview
 TABLE WITHOUT ID
-    rows.matiere AS "Matière",
-    rows.file.link AS "Cours",
-    rows.concepts AS "Concepts liés"
+    regexreplace(file.folder, ".*\/", "") AS "Matière",
+    link(file.path, split(file.name, ",")[0]) AS "Cours",
+    concepts AS "Concepts liés"
 FROM "01 Cours"
-FLATTEN concepts AS concepts
-WHERE date >= date(today) - dur(7 days)
-GROUP BY matiere
-SORT matiere
+WHERE date >= date(today) - dur(0 days)
+SORT date ASC
 ```
+
+
+# Derniers concepts vus cette semaine 
+```dataview
+TABLE WITHOUT ID
+    regexreplace(file.folder, ".*\/", "") AS "Matière",
+    link(file.path, split(file.name, ",")[0]) AS "Cours",
+    concepts AS "Concepts liés"
+FROM "01 Cours"
+WHERE date >= date(today) - dur(7 days) AND date < date(today) 
+SORT date ASC
+```
+
+
