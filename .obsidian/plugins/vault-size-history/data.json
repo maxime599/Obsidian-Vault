@@ -1,8 +1,8 @@
 {
   "graphDateFormat": "M/D/YY",
-  "fileDateProperty": "",
-  "fileDatePropertyFormat": "",
-  "fileIndexEnabled": false,
+  "fileDateProperty": "date_creation",
+  "fileDatePropertyFormat": "DD/MM/YYYY",
+  "fileIndexEnabled": true,
   "fileDeletionIndexEnabled": false,
   "fileIndexPath": "file_index.csv",
   "fileIndexRefreshInterval": 300,
@@ -31,5 +31,5 @@
     }
   ],
   "startDateBasedOn": -1,
-  "fileIndexStartedOn": ""
+  "fileIndexStartedOn": "1970-01-01 01:00:00"
 }

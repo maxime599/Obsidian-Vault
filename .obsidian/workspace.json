@@ -18,83 +18,17 @@
             }
           },
           {
-            "id": "064eaf08d61fb7a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dashboard.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dashboard"
-            }
-          },
-          {
-            "id": "5c82c679e1830569",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 Concepts/Info/Syntaxe en C.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Syntaxe en C"
-            }
-          },
-          {
-            "id": "a74d12fcc95e4855",
+            "id": "179b1fe8bbd33a95",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Vue graphique"
-            }
-          },
-          {
-            "id": "1ee2d651c783eb9f",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vue graphique"
-            }
-          },
-          {
-            "id": "e0f9661ecbc93a6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 Concepts/Méthodologie_scientifique/La démarche scientifique et réfutabilité.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "La démarche scientifique et réfutabilité"
-            }
-          },
-          {
-            "id": "db61b917487dad8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06 Templates/Concepts.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Concepts"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +40,6 @@
       {
         "id": "289ebf2b2dde5655",
         "type": "tabs",
-        "dimension": 69.3498452012384,
         "children": [
           {
             "id": "a3835c23a2cd8cab",
@@ -156,12 +89,11 @@
         ]
       },
       {
-        "id": "5a2d787d1153d171",
+        "id": "923fec60c91d7522",
         "type": "tabs",
-        "dimension": 30.65015479876161,
         "children": [
           {
-            "id": "95b09945f265e85c",
+            "id": "ec71f32d0d526abe",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -174,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247.015625
+    "width": 255.0078125
   },
   "right": {
     "id": "94f8b3aa2bee7d17",
@@ -295,7 +227,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 336.68359375
+    "width": 303.54296875
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -320,10 +252,17 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "a3835c23a2cd8cab",
+  "active": "179b1fe8bbd33a95",
   "lastOpenFiles": [
-    "01 Cours/Info/Intro à l'algo et au language C, Info 2026-09-01.md",
+    "01 Cours/Électronique_numérique/Intro-organisation de cours, Électronique numérique 2026-09-01.md",
+    "06 Templates/Concepts.md",
     "02 Concepts/Méthodologie_scientifique/La démarche scientifique et réfutabilité.md",
+    "05 Ressources/PDF Cours/Info1_Slides.pdf",
+    "05 Ressources/PDF Cours",
+    "06 Templates/Cours.md",
+    "01 Cours/Info/Intro à l'algo et au language C, Info 2026-09-01.md",
+    "02 Concepts/Électronique_numérique/Portes logiques et algèbre de Boole.md",
+    "file_index.csv",
     "07 MOC/Concepts/Méthodologie_scientifique/MOC Demarche.md",
     "07 MOC/Concepts/Math/MOC Arithmetique.md",
     "02 Concepts/Info/Types de données élémentaires.md",
@@ -332,9 +271,7 @@
     "01 Cours/Info/Visionnage de la vidéo, Info 2026-09-02.md",
     "Dashboard.md",
     "02 Concepts/Méthodologie_scientifique/Rôle et responsabilité de l'ingénieur.md",
-    "01 Cours/Électronique_numérique/Intro-organisation de cours, Électronique numérique 2026-09-01.md",
     "01 Cours/Elen1/Intro Cm1-Types de régime en électicité, Elen1 2026-09-01.md",
-    "02 Concepts/Électronique_numérique/Portes logiques et algèbre de Boole.md",
     "02 Concepts/Math/Logique mathématique et booléenne.md",
     "02 Concepts/Math/Modes de raisonnement mathématique.md",
     "02 Concepts/Méthodologie_scientifique/Usage critique des intelligences artificielles.md",
@@ -348,16 +285,10 @@
     "07 MOC/Concepts/Math/MOC Vecteurs.md",
     "01 Cours/Math/Intro-Logique et raisonnement mathématiques, Math 2026-09-02.md",
     "Sans titre 1",
-    "Sans titre",
-    "05 Ressources/Info1_Slides.pdf",
-    "06 Templates/Cours.md",
-    "06 Templates/Concepts.md",
-    "05 Ressources/diapo_CITISE_AutoSIN.pdf",
+    "05 Ressources/PDF Cours/diapo_CITISE_AutoSIN.pdf",
     "01 Cours/Méthodologie_scientifique",
-    "05 Ressources/S1_cours_math_chap1.pdf",
-    "06 Templates/MOC.md",
+    "05 Ressources/PDF Cours/S1_cours_math_chap1.pdf",
     "07 MOC/Concepts/Électronique_numérique",
-    "02 Concepts/Électronique_numérique",
     "05 Ressources/Pièces jointes collées/Pasted image 20260901152027.png",
     "05 Ressources/Pièces jointes collées/Pasted image 20260901152755.png",
     "05 Ressources/Pièces jointes collées/Pasted image 20260901152133.png",

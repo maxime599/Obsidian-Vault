@@ -12,7 +12,6 @@ Concepts:
   - "[[Variables et constantes en C]]"
   - "[[Types de données élémentaires]]"
 ---
-
 # Intro à l'algo et au langage C
 
 
