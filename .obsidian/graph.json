@@ -53,7 +53,7 @@
       "query": "path:\"01 Cours/Info\"  ",
       "color": {
         "a": 1,
-        "rgb": 6971163
+        "rgb": 6380339
       }
     },
     {
@@ -74,7 +74,7 @@
       "query": "path:\"01 Cours/Elen1\"  ",
       "color": {
         "a": 1,
-        "rgb": 158050
+        "rgb": 3627094
       }
     },
     {
@@ -95,20 +95,48 @@
       "query": "path:\"01 Cours/Électronique_numérique\"  ",
       "color": {
         "a": 1,
-        "rgb": 931242
+        "rgb": 4015713
+      }
+    },
+    {
+      "query": "path:\"02 Concepts/Méthodologie_scientifique\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 10640395
+      }
+    },
+    {
+      "query": "path:\"07 MOC/Concepts/Méthodologie_scientifique\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16751918
+      }
+    },
+    {
+      "query": "path:\"01 Cours/Méthodologie_scientifique\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6376243
+      }
+    },
+    {
+      "query": "path:\"01 Cours/Math\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6633785
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1.04795425257732,
   "lineSizeMultiplier": 0.987967139175258,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.404961340206186,
   "repelStrength": 10.5734536082474,
   "linkStrength": 0.881684922680412,
   "linkDistance": 30,
-  "scale": 0.18175738754517878,
-  "close": false
+  "scale": 0.052009832137531076,
+  "close": true
 }

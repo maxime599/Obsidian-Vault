@@ -11,7 +11,6 @@ tags:
 Concepts:
   - "[[Types de régime en électicité]]"
 ---
-
 # Intro Cm1-Types de régime en électicité
 
 

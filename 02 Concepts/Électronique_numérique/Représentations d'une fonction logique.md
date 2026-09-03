@@ -8,6 +8,7 @@ tags:
 MOC:
   - "[[MOC Boole]]"
 date_creation: 2026-09-01
+Ressources: "[[diapo_CITISE_AutoSIN.pdf]]"
 ---
 # Représentations d'une fonction logique
 
@@ -29,7 +30,7 @@ Tableau exhaustif répertoriant la totalité des combinaisons possibles des vari
 Schéma matériel normalisé (norme IEC ou ANSI/IEEE) représentant le composant logique dans un circuit d'électronique numérique.
 
 ### 4. Le chronogramme
-Graphique temporel illustrant l'évolution des niveaux logiques ($0$ et $1$) des signaux d'entrée et de sortie au cours du temps.
+Graphique temporel illustrant l'évolution des niveaux logiques ($0$ et $1$) des signaux d'entrée et de sortie au cours du temps. Attention il faut que tout les cas soit visiblens
 
 
 ## 2. Synthèse comparative sur la porte ET (AND)

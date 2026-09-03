@@ -8,6 +8,7 @@ tags:
 MOC:
   - "[[MOC Boole]]"
 date_creation: 2026-09-01
+Ressources: "[[diapo_CITISE_AutoSIN.pdf]]"
 ---
 # Portes logiques et algèbre de Boole
 
@@ -72,6 +73,53 @@ Symbole
 ![[Pasted image 20260901152755.png|170]]
 
 Chronogramme (voir fasticule)
+
+--- 
+
+### Fonction OR (Disjonction / OU)
+La sortie est vraie ($1$) si au moins une des entrées est vraie ($1$).
+- **Équation** : $s = a \lor b$ (ou $s = a \text{ OU } b$)
+- **Table de vérité** :
+
+| $a$ | $b$ | $s$ |
+| :---: | :---: | :---: |
+| 0 | 0 | 0 |
+| 0 | 1 | 1 |
+| 1 | 0 | 1 |
+| 1 | 1 | 1 |
+
+---
+
+### Fonction XOR (Disjonction exclusive / OU Exclusif)
+La sortie est vraie ($1$) si et seulement si les deux entrées ont des états logiques différents.
+- **Équation** : $s = a \oplus b$
+- **Table de vérité** :
+
+| $a$ | $b$ | $s$ |
+| :---: | :---: | :---: |
+| 0 | 0 | 0 |
+| 0 | 1 | 1 |
+| 1 | 0 | 1 |
+| 1 | 1 | 0 |
+
+
+## Concepts liés
+
+- [[Représentations d'une fonction logique]]
+
+
+## 📚 Cours associés
+
+```dataview
+TABLE date AS Date, regexreplace(file.folder, ".*\/", "") AS Matière
+FROM "01 Cours"
+WHERE contains(file.outlinks, this.file.link)
+SORT date_cours ASC
+````
+
+
+
+
 
 ## Concepts liés
 

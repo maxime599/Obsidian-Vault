@@ -92,6 +92,7 @@ int main() {
 ## Concepts liés
 
 - [[Types de données élémentaires]]
+- [[Syntaxe en C]]
 - [[Fonctions et modularité]]
 - [[Pointeurs et gestion de la mémoire]]
 

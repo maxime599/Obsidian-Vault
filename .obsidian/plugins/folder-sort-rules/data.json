@@ -1,0 +1,12 @@
+{
+  "rules": [
+    {
+      "folderPath": "01 Cours/Elen1",
+      "fileSortOrder": "modified-desc",
+      "folderSortOrder": "created-asc",
+      "recursive": true,
+      "manualFileOrder": [],
+      "manualFolderOrder": []
+    }
+  ]
+}

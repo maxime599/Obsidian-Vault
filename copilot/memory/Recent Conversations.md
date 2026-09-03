@@ -21,3 +21,7 @@
 ## Recherche de notes sur la dérivée
 **Time:** 2026-08-02 21:03
 **Summary:** L'utilisateur demande à l'IA de trouver ses notes concernant la 'dérivation'. L'IA indique qu'elle n'a pas trouvé d'informations spécifiques dans le contexte récent, mentionnant seulement une note sur l'effet photoélectrique qui ne traite pas directement du sujet. Elle suggère ensuite d'utiliser la commande '@vault dérivation physique' pour effectuer une recherche plus approfondie.
+
+## Compléter le cours sur OR et XOR
+**Time:** 2026-09-03 16:58
+**Summary:** L'utilisateur demande une extension du cours de logique numérique en incluant les portes logiques OR et XOR. La réponse doit expliquer ces fonctions, leurs symboles, leurs tables de vérité et leur application dans la conception des circuits numériques.

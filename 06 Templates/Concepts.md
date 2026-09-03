@@ -1,6 +1,5 @@
 ---
 type: concept
-matière:
 tags:
   - concepts
 MOC:
