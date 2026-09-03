@@ -29,7 +29,7 @@ Soient $a$, $b$ et $c$ des variables booléennes ($\in \{0, 1\}$) :
   - $(a \cdot b) \cdot c = a \cdot (b \cdot c)$
   - $(a \lor b) \lor c = a \lor (b \lor c)$
 - **Distributivité** :
-  - $a \cdot (b v c) = (a \cdot b) \lor (a \cdot c)$
+  - $a \cdot (b \lor c) = (a \cdot b) \lor (a \cdot c)$
   - $a \lor (b \cdot c) = (a \lor b) \cdot (a \lor c)$
 - **Éléments neutres** :
   - $a \cdot 1 = a$

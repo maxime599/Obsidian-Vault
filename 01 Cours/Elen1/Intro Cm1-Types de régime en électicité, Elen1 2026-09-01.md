@@ -11,6 +11,25 @@ tags:
 Concepts:
   - "[[Types de régime en électicité]]"
 ---
+
+```dataviewjs
+let current = dv.current();
+let pages = dv.pages(`"${current.file.folder}"`)
+  .where(p => p.date)
+  .sort(p => p.date, 'asc');
+
+let idx = pages.findIndex(p => p.file.path === current.file.path);
+let prev = idx > 0 ? pages[idx - 1] : null;
+let next = (idx !== -1 && idx < pages.length - 1) ? pages[idx + 1] : null;
+
+let getCleanLink = (page) => {
+  if (!page) return "Aucun";
+  let cleanTitle = page.file.name.split(',')[0].trim();
+  return `[[${page.file.name}|${cleanTitle}]]`;
+};
+
+dv.paragraph(`**Précédent :** ${getCleanLink(prev)} | **Suivant :** ${getCleanLink(next)}`);
+```
 # Intro Cm1-Types de régime en électicité
 
 

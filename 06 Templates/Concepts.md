@@ -2,12 +2,21 @@
 type: concept
 tags:
   - concepts
+  - <% tp.file.folder(true).split("/").at(-1) %>
 MOC:
 date_creation: <% tp.date.now("YYYY-MM-DD") %>
 Ressources:
 ---
+<%*
+let sujet = await tp.system.prompt("Nom du concept");
+sujet = sujet.charAt(0).toUpperCase() + sujet.slice(1);
+await tp.file.rename(sujet);
 
-# <% tp.file.title %>
+tR += `
+
+# ${sujet}`;
+
+%>
 
 > [!info] Définition courte
 > 

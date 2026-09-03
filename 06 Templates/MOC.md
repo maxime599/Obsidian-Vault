@@ -1,8 +1,8 @@
 ---
 type: moc
-matière:
 tags:
   - moc
+  - <% tp.file.folder(true).split("/").at(-1) %>
 date_creation: <% tp.date.now("YYYY-MM-DD") %>
 ---
 <%*

@@ -12,8 +12,28 @@ Concepts:
   - "[[Portes logiques et algèbre de Boole]]"
   - "[[Représentations d'une fonction logique]]"
   - "[[Logique mathématique et booléenne]]"
+  - "[[Propriétés de l'algèbre de Boole]]"
 Ressources: "[[diapo_CITISE_AutoSIN.pdf]]"
 ---
+
+```dataviewjs
+let current = dv.current();
+let pages = dv.pages(`"${current.file.folder}"`)
+  .where(p => p.date)
+  .sort(p => p.date, 'asc');
+
+let idx = pages.findIndex(p => p.file.path === current.file.path);
+let prev = idx > 0 ? pages[idx - 1] : null;
+let next = (idx !== -1 && idx < pages.length - 1) ? pages[idx + 1] : null;
+
+let getCleanLink = (page) => {
+  if (!page) return "Aucun";
+  let cleanTitle = page.file.name.split(',')[0].trim();
+  return `[[${page.file.name}|${cleanTitle}]]`;
+};
+
+dv.paragraph(`**Précédent :** ${getCleanLink(prev)} | **Suivant :** ${getCleanLink(next)}`);
+```
 
 # Suite chap1
 
@@ -131,6 +151,6 @@ Ex pour s'entrainer : voir sur moodle
 -
 ## Travail à faire
 
-- [ ] S'entrainer à réduire des équation (ex sur moddle)
-- [ ] finir l'ex slide 43 sur la fasticule papier
+- [x] S'entrainer à réduire des équation (ex sur moddle)
+- [x] finir l'ex slide 43 sur la fasticule papier
 
