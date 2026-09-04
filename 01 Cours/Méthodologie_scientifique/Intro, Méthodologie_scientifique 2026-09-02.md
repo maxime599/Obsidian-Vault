@@ -1,8 +1,8 @@
 ---
 semestre: S1
 type de cours: CM
-date: 2026-09-02T13:33
-End Date: 2026-09-02T15:03
+date: 2026-09-02T13:33:00
+End Date: 2026-09-02T15:03:00
 Calendar Title: "[[01 Cours/Méthodologie_scientifique/Intro, Méthodologie_scientifique 2026-09-02|Intro, Méthodologie_scientifique]]"
 prof: Eduardo Brandao
 tags:
@@ -16,22 +16,46 @@ Concepts:
 ---
 
 ```dataviewjs
-let current = dv.current();
-let pages = dv.pages(`"${current.file.folder}"`)
-  .where(p => p.date)
-  .sort(p => p.date, 'asc');
+const activeFile = app.workspace.getActiveFile();
 
-let idx = pages.findIndex(p => p.file.path === current.file.path);
-let prev = idx > 0 ? pages[idx - 1] : null;
-let next = (idx !== -1 && idx < pages.length - 1) ? pages[idx + 1] : null;
+if (!activeFile) {
+    dv.paragraph("Aucune note active.");
+} else {
 
-let getCleanLink = (page) => {
-  if (!page) return "Aucun";
-  let cleanTitle = page.file.name.split(',')[0].trim();
-  return `[[${page.file.name}|${cleanTitle}]]`;
-};
+    const pages = dv.pages()
+        .where(p => 
+            p.date &&
+            p.file.folder === activeFile.parent.path
+        )
+        .sort(p => p.date, "asc")
+        .array();
 
-dv.paragraph(`**Précédent :** ${getCleanLink(prev)} | **Suivant :** ${getCleanLink(next)}`);
+    const index = pages.findIndex(
+        p => p.file.path === activeFile.path
+    );
+
+    const prev = index > 0
+        ? pages[index - 1]
+        : null;
+
+    const next = index !== -1 && index < pages.length - 1
+        ? pages[index + 1]
+        : null;
+
+    function getCleanLink(page) {
+        if (!page) return "Aucun";
+
+        const cleanTitle = page.file.name
+            .split(",")[0]
+            .trim();
+
+        return `[[${page.file.path}|${cleanTitle}]]`;
+    }
+
+    dv.paragraph(
+        `**Précédent :** ${getCleanLink(prev)} | **Suivant :** ${getCleanLink(next)}`
+    );
+}
 ```
 # Intro
 

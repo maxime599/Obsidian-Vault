@@ -32,25 +32,69 @@ Pour démontrer qu'une proposition $P$ est vraie, on suppose que sa négation $\
 > [!example] Démonstration de l'irrationnalité de $\sqrt{2}$
 > 1. **Hypothèse par l'absurde** : On suppose que $\sqrt{2}$ est rationnel, c'est-à-dire qu'il s'écrit $\sqrt{2} = \frac{p}{q}$ avec $p \in \mathbb{N}, q \in \mathbb{N}^*$ et $\text{PGCD}(p, q) = 1$ (fraction irréductible).
 > 2. **Développement** : $2 = \frac{p^2}{q^2} \implies p^2 = 2q^2$. Donc $p^2$ est pair, ce qui implique que $p$ est pair ($p = 2k$).
-> 3. **Subsitution** : $(2k)^2 = 2q^2 \implies 4k^2 = 2q^2 \implies q^2 = 2k^2$. Donc $q^2$ est pair, ce qui implique que $q$ est pair.
+> 3. **Substitution** : $(2k)^2 = 2q^2 \implies 4k^2 = 2q^2 \implies q^2 = 2k^2$. Donc $q^2$ est pair, ce qui implique que $q$ est pair.
 > 4. **Contradiction** : $p$ et $q$ sont tous deux pairs, ils admettent donc $2$ comme diviseur commun. Cela contredit l'hypothèse $\text{PGCD}(p, q) = 1$.
 > 5. **Conclusion** : L'hypothèse est fausse, $\sqrt{2}$ est donc irrationnel.
 
 
-## 3. Autres structures de démonstration
+## 3. Raisonnement par Disjonction des cas
 
-- **Raisonnement par double implication** : Pour prouver $P \iff Q$, on démontre séparément l'implication directe ($P \implies Q$) et la réciproque ($Q \implies P$).
-- **Raisonnement par disjonction des cas** : Si une condition dépend de différentes situations (ex. la parité d'un entier, le signe d'un réel), on prouve l'assertion séparément pour chaque cas couvrant l'ensemble des possibilités.
-- **Raisonnement par Analyse-Synthèse** :
-  - *Analyse* : On suppose le problème résolu pour déterminer les propriétés nécessaires des solutions potentielles (limite les candidats).
-  - *Synthèse* : On vérifie parmi les candidats trouvés lesquels sont effectivement solutions (confirme la validité).
+Lorsque la véracité d'une assertion dépend de différentes situations ou structures (par exemple la parité d'un entier ou le reste d'une division euclidienne), on sépare la démonstration en plusieurs cas étanches couvrant l'ensemble des possibles.
+
+> [!example] Condition de divisibilité par 3 de $n^2 + 3n + 2$
+> Soit $n \in \mathbb{N}$. On cherche à quelle condition sur $n$ l'expression $E(n) = n^2 + 3n + 2$ est divisible par $3$. Tout entier $n$ s'écrit sous la forme $3k$, $3k+1$ ou $3k+2$ ($k \in \mathbb{N}$).
+> 
+> - **Cas 1 : $n = 3k$ ($n$ est un multiple de 3)**
+>   $$E(n) = (3k)^2 + 3(3k) + 2 = 9k^2 + 9k + 2 = 3(3k^2 + 3k) + 2$$
+>   Le reste de la division par 3 est $2$ ; $E(n)$ **n'est pas divisible par 3**.
+> 
+> - **Cas 2 : $n = 3k + 1$ ($n \equiv 1 \pmod 3$)**
+>   $$E(n) = (3k+1)^2 + 3(3k+1) + 2 = 9k^2 + 6k + 1 + 9k + 3 + 2 = 9k^2 + 15k + 6 = 3(3k^2 + 5k + 2)$$
+>   L'expression **est divisible par 3**.
+> 
+> - **Cas 3 : $n = 3k + 2$ ($n \equiv 2 \pmod 3$)**
+>   $$E(n) = (3k+2)^2 + 3(3k+2) + 2 = 9k^2 + 12k + 4 + 9k + 6 + 2 = 9k^2 + 21k + 12 = 3(3k^2 + 7k + 4)$$
+>   L'expression **est divisible par 3**.
+> 
+> **Conclusion** : $n^2 + 3n + 2$ est divisible par 3 si et seulement si $n$ n'est pas un multiple de 3.
+
+
+## 4. Raisonnement par Analyse-Synthèse
+
+Méthode structurée en deux phases qui permet de trouver et valider les solutions d'un problème (équations, équations différentielles, recherche de fonctions).
+
+1. **Phase d'Analyse** : On suppose le problème résolu (soit $x$ une solution). On en déduit des conditions nécessaires sur $x$ pour restreindre l'ensemble des candidats potentiels.
+2. **Phase de Synthèse** : On teste un par un les candidats trouvés lors de l'analyse pour vérifier s'ils satisfont effectivement le problème initial (condition suffisante).
+
+> [!example] Résolution dans $\mathbb{R}$ de l'équation $\sqrt{x+2} = x$
+> 
+> - **Analyse** :
+>   Supposons que $x \in \mathbb{R}$ soit solution.
+>   - Pour que la racine soit définie, il faut $x + 2 \ge 0 \implies x \ge -2$.
+>   - Comme une racine carrée est toujours positive, $x = \sqrt{x+2} \implies x \ge 0$.
+>   - En élevant au carré : 
+>     $$(\sqrt{x+2})^2 = x^2 \implies x + 2 = x^2 \implies x^2 - x - 2 = 0$$
+>   - Résolution du second degré : $\Delta = (-1)^2 - 4(1)(-2) = 9$.
+>   - Les racines sont $x_1 = \frac{1 - 3}{2} = -1$ et $x_2 = \frac{1 + 3}{2} = 2$.
+>   - Les seuls candidats possibles sont $-1$ et $2$.
+> 
+> - **Synthèse** :
+>   - Pour $x = -1$ : $\sqrt{-1 + 2} = \sqrt{1} = 1 \neq -1$. Donc $-1$ n'est pas solution.
+>   - Pour $x = 2$ : $\sqrt{2 + 2} = \sqrt{4} = 2$. La condition est vérifiée, $2$ est solution.
+> 
+> **Conclusion** : L'unique solution de l'équation est $S = \{2\}$.
+
+
+## 5. Autre structure : La double implication
+
+Pour démontrer une équivalence logique $P \iff Q$, on réalise la démonstration en deux temps :
+1. Implication directe : On suppose $P$ vraie et on démontre $Q$ ($P \implies Q$).
+2. Réciproque : On suppose $Q$ vraie et on démontre $P$ ($Q \implies P$).
 
 
 ## Concepts liés
 
 - [[Logique mathématique et booléenne]]
-- [[Divisibilité dans Z]]
-
 
 ## 📚 Cours associés
 

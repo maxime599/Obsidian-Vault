@@ -2,7 +2,6 @@
   "obsidian-latex-suite",
   "obsidian-style-settings",
   "font-size",
-  "dataview",
   "templater-obsidian",
   "obsidian-excalidraw-plugin",
   "editing-toolbar",
@@ -24,5 +23,7 @@
   "vault-size-history",
   "pdf-plus",
   "live-image-editor",
-  "explorer-sort"
+  "explorer-sort",
+  "cmdr",
+  "dataview"
 ]

@@ -1,0 +1,43 @@
+{
+  "confirmDeletion": true,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [],
+  "fileMenu": [],
+  "leftRibbon": [
+    {
+      "id": "templater-obsidian:create-06 Templates/Cours.md",
+      "icon": "lucide-notebook",
+      "name": "Templater: Create Cours",
+      "mode": "any"
+    },
+    {
+      "id": "templater-obsidian:create-06 Templates/Concepts.md",
+      "icon": "lucide-box",
+      "name": "Templater: Create Concepts",
+      "mode": "any"
+    }
+  ],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [],
+  "macros": [],
+  "explorer": [],
+  "textToolbarCommands": [],
+  "hide": {
+    "statusbar": [],
+    "leftRibbon": []
+  },
+  "spacing": 8,
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}

@@ -1,11 +1,11 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "-file:\"MOC Theoreme\" -path:copilot  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:\"02 Concepts/Math\"  ",
@@ -132,11 +132,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1.04795425257732,
   "lineSizeMultiplier": 0.987967139175258,
-  "collapse-forces": true,
-  "centerStrength": 0.404961340206186,
-  "repelStrength": 10.5734536082474,
+  "collapse-forces": false,
+  "centerStrength": 0.398328971209986,
+  "repelStrength": 9.46849204751359,
   "linkStrength": 0.881684922680412,
   "linkDistance": 30,
-  "scale": 0.059326171875,
-  "close": true
+  "scale": 0.08243546967512329,
+  "close": false
 }
