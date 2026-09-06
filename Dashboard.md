@@ -28,7 +28,7 @@ TABLE WITHOUT ID
     link(file.path, split(file.name, ",")[0]) AS "Cours",
     concepts AS "Concepts liés"
 FROM "01 Cours"
-WHERE date >= date(today) - dur(0 days)
+WHERE date >= date(today) - dur(2 days)
 SORT date ASC
 ```
 

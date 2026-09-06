@@ -37,7 +37,6 @@ La température traduit le niveau d'agitation microscopique d'un système.
 
 ## Concepts liés
 
-- [[00 - MOC - Thermodynamique]]
 - [[Variables d'état et équilibre thermodynamique]]
 - [[Statique des fluides et poussée d'Archimède]]
 

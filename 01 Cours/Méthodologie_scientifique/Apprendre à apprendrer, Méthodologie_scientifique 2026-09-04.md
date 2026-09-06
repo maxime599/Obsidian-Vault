@@ -9,7 +9,8 @@ tags:
   - cours
   - Méthodologie_scientifique
 Concepts:
-  -
+  - "[[Les 5 niveaux de savoir]]"
+  - "[[Méthodes d’apprentissage efficaces et fausses bonnes idées]]"
 ---
 
 ```dataviewjs

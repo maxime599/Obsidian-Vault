@@ -25,3 +25,7 @@
 ## Compléter le cours sur OR et XOR
 **Time:** 2026-09-03 16:58
 **Summary:** L'utilisateur demande une extension du cours de logique numérique en incluant les portes logiques OR et XOR. La réponse doit expliquer ces fonctions, leurs symboles, leurs tables de vérité et leur application dans la conception des circuits numériques.
+
+## Création et liaison de notes concepts Obsidian
+**Time:** 2026-09-05 22:15
+**Summary:** L'utilisateur demande la création de notes concepts à partir de sa note [[Apprendre à apprendrer, Méthodologie_scientifique 2026-09-04]] en suivant et adaptant le modèle [[Concepts]], pour les placer dans le dossier 02 Concepts/Méthodologie_scientifique. Plusieurs notes concepts sont générées et structurées, puis l'utilisateur demande des suggestions de liens à ajouter ou retirer entre ces notes. Plusieurs erreurs techniques surviennent lors de la conversation.

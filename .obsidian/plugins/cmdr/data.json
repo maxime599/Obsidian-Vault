@@ -16,6 +16,12 @@
       "icon": "lucide-box",
       "name": "Templater: Create Concepts",
       "mode": "any"
+    },
+    {
+      "id": "templater-obsidian:create-06 Templates/MOC.md",
+      "icon": "lucide-arrow-right-to-line",
+      "name": "Templater: Create MOC",
+      "mode": "any"
     }
   ],
   "rightRibbon": [],

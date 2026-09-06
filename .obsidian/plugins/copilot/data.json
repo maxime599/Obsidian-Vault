@@ -22,9 +22,9 @@
   "siliconflowApiKey": "",
   "githubCopilotAccessToken": "",
   "githubCopilotToken": "",
-  "githubCopilotTokenExpiresAt": 0,
+  "githubCopilotTokenExpiresAt": 1788724492000,
   "defaultChainType": "llm_chain",
-  "defaultModelKey": "qwen3.5:4b|ollama",
+  "defaultModelKey": "gpt-5.5|openai",
   "embeddingModelKey": "nomic-embed-text|ollama",
   "temperature": 0.1,
   "maxTokens": 6000,
@@ -342,6 +342,330 @@
       "capabilities": [],
       "stream": true,
       "displayName": "qwen3.5:4b"
+    },
+    {
+      "name": "claude-fable-5",
+      "provider": "github-copilot",
+      "enabled": true,
+      "apiKey": ""
+    },
+    {
+      "name": "claude-opus-4.8",
+      "provider": "github-copilot",
+      "enabled": true,
+      "apiKey": ""
+    },
+    {
+      "name": "gemini-3.5-flash",
+      "provider": "github-copilot",
+      "enabled": true,
+      "apiKey": ""
+    },
+    {
+      "name": "gpt-6-astra",
+      "provider": "github-copilot",
+      "enabled": true,
+      "apiKey": ""
+    },
+    {
+      "name": "gpt-4o",
+      "provider": "github-copilot",
+      "enabled": true,
+      "apiKey": ""
+    },
+    {
+      "name": "gpt-5.4",
+      "provider": "github-copilot",
+      "enabled": true,
+      "apiKey": ""
+    },
+    {
+      "name": "gpt-4.1-2025-04-14",
+      "provider": "github-copilot",
+      "enabled": true,
+      "apiKey": ""
+    },
+    {
+      "name": "claude-fable-5.1",
+      "provider": "github-copilot",
+      "enabled": true,
+      "apiKey": ""
+    },
+    {
+      "name": "claude-haiku-4.5",
+      "provider": "github-copilot",
+      "enabled": true,
+      "apiKey": ""
+    },
+    {
+      "name": "claude-opus-4.7",
+      "provider": "github-copilot",
+      "enabled": true,
+      "apiKey": ""
+    },
+    {
+      "name": "claude-opus-4.8-fast",
+      "provider": "github-copilot",
+      "enabled": true,
+      "apiKey": ""
+    },
+    {
+      "name": "claude-opus-5",
+      "provider": "github-copilot",
+      "enabled": true,
+      "apiKey": ""
+    },
+    {
+      "name": "claude-sonnet-5",
+      "provider": "github-copilot",
+      "enabled": true,
+      "apiKey": ""
+    },
+    {
+      "name": "copilot-search-a",
+      "provider": "github-copilot",
+      "enabled": true,
+      "apiKey": ""
+    },
+    {
+      "name": "copilot-search-b",
+      "provider": "github-copilot",
+      "enabled": true,
+      "apiKey": ""
+    },
+    {
+      "name": "copilot-search-c",
+      "provider": "github-copilot",
+      "enabled": true,
+      "apiKey": ""
+    },
+    {
+      "name": "exec-agent-a",
+      "provider": "github-copilot",
+      "enabled": true,
+      "apiKey": ""
+    },
+    {
+      "name": "exec-agent-b",
+      "provider": "github-copilot",
+      "enabled": true,
+      "apiKey": ""
+    },
+    {
+      "name": "exec-agent-c",
+      "provider": "github-copilot",
+      "enabled": true,
+      "apiKey": ""
+    },
+    {
+      "name": "gemini-3.6-flash",
+      "provider": "github-copilot",
+      "enabled": true,
+      "apiKey": ""
+    },
+    {
+      "name": "gemini-3.7-flash",
+      "provider": "github-copilot",
+      "enabled": true,
+      "apiKey": ""
+    },
+    {
+      "name": "gemini-3.8-flash",
+      "provider": "github-copilot",
+      "enabled": true,
+      "apiKey": ""
+    },
+    {
+      "name": "gpt-3.5-turbo",
+      "provider": "github-copilot",
+      "enabled": true,
+      "apiKey": ""
+    },
+    {
+      "name": "gpt-3.5-turbo-0613",
+      "provider": "github-copilot",
+      "enabled": true,
+      "apiKey": ""
+    },
+    {
+      "name": "gpt-4",
+      "provider": "github-copilot",
+      "enabled": true,
+      "apiKey": ""
+    },
+    {
+      "name": "gpt-4-0125-preview",
+      "provider": "github-copilot",
+      "enabled": true,
+      "apiKey": ""
+    },
+    {
+      "name": "gpt-4-0613",
+      "provider": "github-copilot",
+      "enabled": true,
+      "apiKey": ""
+    },
+    {
+      "name": "gpt-4-o-preview",
+      "provider": "github-copilot",
+      "enabled": true,
+      "apiKey": ""
+    },
+    {
+      "name": "gpt-4.1",
+      "provider": "github-copilot",
+      "enabled": true,
+      "apiKey": ""
+    },
+    {
+      "name": "gpt-41-copilot",
+      "provider": "github-copilot",
+      "enabled": true,
+      "apiKey": ""
+    },
+    {
+      "name": "gpt-4o-2024-05-13",
+      "provider": "github-copilot",
+      "enabled": true,
+      "apiKey": ""
+    },
+    {
+      "name": "gpt-4o-2024-08-06",
+      "provider": "github-copilot",
+      "enabled": true,
+      "apiKey": ""
+    },
+    {
+      "name": "gpt-4o-2024-11-20",
+      "provider": "github-copilot",
+      "enabled": true,
+      "apiKey": ""
+    },
+    {
+      "name": "gpt-4o-mini",
+      "provider": "github-copilot",
+      "enabled": true,
+      "apiKey": ""
+    },
+    {
+      "name": "gpt-4o-mini-2024-07-18",
+      "provider": "github-copilot",
+      "enabled": true,
+      "apiKey": ""
+    },
+    {
+      "name": "gpt-5-mini",
+      "provider": "github-copilot",
+      "enabled": true,
+      "apiKey": ""
+    },
+    {
+      "name": "gpt-5.3-codex",
+      "provider": "github-copilot",
+      "enabled": true,
+      "apiKey": ""
+    },
+    {
+      "name": "gpt-5.4-mini",
+      "provider": "github-copilot",
+      "enabled": true,
+      "apiKey": ""
+    },
+    {
+      "name": "gpt-5.5",
+      "provider": "github-copilot",
+      "enabled": true,
+      "apiKey": ""
+    },
+    {
+      "name": "gpt-5.6-luna",
+      "provider": "github-copilot",
+      "enabled": true,
+      "apiKey": ""
+    },
+    {
+      "name": "gpt-5.6-sol",
+      "provider": "github-copilot",
+      "enabled": true,
+      "apiKey": ""
+    },
+    {
+      "name": "gpt-5.6-terra",
+      "provider": "github-copilot",
+      "enabled": true,
+      "apiKey": ""
+    },
+    {
+      "name": "kimi-k2.7-code",
+      "provider": "github-copilot",
+      "enabled": true,
+      "apiKey": ""
+    },
+    {
+      "name": "kimi-k3",
+      "provider": "github-copilot",
+      "enabled": true,
+      "apiKey": ""
+    },
+    {
+      "name": "mai-code-1-flash",
+      "provider": "github-copilot",
+      "enabled": true,
+      "apiKey": ""
+    },
+    {
+      "name": "mai-code-1-flash-4th",
+      "provider": "github-copilot",
+      "enabled": true,
+      "apiKey": ""
+    },
+    {
+      "name": "mai-code-1-flash-picker",
+      "provider": "github-copilot",
+      "enabled": true,
+      "apiKey": ""
+    },
+    {
+      "name": "mai-code-1-flash-secondary",
+      "provider": "github-copilot",
+      "enabled": true,
+      "apiKey": ""
+    },
+    {
+      "name": "mai-code-1-flash-tertiary",
+      "provider": "github-copilot",
+      "enabled": true,
+      "apiKey": ""
+    },
+    {
+      "name": "mai-code-1.1-flash",
+      "provider": "github-copilot",
+      "enabled": true,
+      "apiKey": ""
+    },
+    {
+      "name": "text-embedding-3-small",
+      "provider": "github-copilot",
+      "enabled": true,
+      "apiKey": ""
+    },
+    {
+      "name": "text-embedding-3-small-inference",
+      "provider": "github-copilot",
+      "enabled": true,
+      "apiKey": ""
+    },
+    {
+      "name": "text-embedding-ada-002",
+      "provider": "github-copilot",
+      "enabled": true,
+      "apiKey": ""
+    },
+    {
+      "name": "trajectory-compaction",
+      "provider": "github-copilot",
+      "enabled": true,
+      "apiKey": ""
     }
   ],
   "activeEmbeddingModels": [
@@ -483,7 +807,7 @@
   "defaultConversationNoteName": "{$topic}@{$date}_{$time}",
   "inlineEditCommands": [],
   "projectList": [],
-  "lastDismissedVersion": null,
+  "lastDismissedVersion": "4.0.6",
   "passMarkdownImages": true,
   "enableAutonomousAgent": true,
   "enableCustomPromptTemplating": true,
@@ -502,7 +826,7 @@
   "supadataApiKey": "",
   "enableLexicalBoosts": true,
   "suggestedDefaultCommands": true,
-  "autonomousAgentMaxIterations": 4,
+  "autonomousAgentMaxIterations": 7,
   "autonomousAgentEnabledToolIds": [
     "localSearch",
     "readNote",

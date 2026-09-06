@@ -5,6 +5,7 @@ tags:
   - Thermodynamique
   - thermodynamique/transfert
 MOC:
+  - "[[MOC Transfert]]"
 date_creation: 2026-09-04
 Ressources:
   - "[[Principes de la thermodynamique chapitres I et II.pdf]]"

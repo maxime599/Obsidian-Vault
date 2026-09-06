@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "74a8d9c8ef49f60a",
+    "type": "split",
+    "children": [
+      {
+        "id": "bfd10312f270e4ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5dc4c66c9ac906c5",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "05 Ressources/DS années précédentes/Mathématiques S1/2026 - DS1 - Maths.pdf",
+                "page": 1,
+                "left": -16,
+                "top": 2000,
+                "zoom": 0.185
+              },
+              "icon": "lucide-file-text",
+              "title": "2026 - DS1 - Maths"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5ed4159d90603f66",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "81ddff0030246ef3",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Explorateur de fichiers"
+        }
+      },
+      {
+        "id": "390df3d9441461ad",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Rechercher"
+        }
+      },
+      {
+        "id": "ab8db1f929a04f8b",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Mots-clés"
+        }
+      },
+      {
+        "id": "312a30795765d2eb",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "Toutes les propriétés"
+        }
+      },
+      {
+        "id": "e0430b82e458a89c",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-bookmark",
+          "title": "Signets"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "9cff25e3f627b938",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "933b72e608669819",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "05 Ressources/DS années précédentes/Mathématiques S1/2026 - DS1 - Maths.pdf",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Rétroliens"
+        }
+      },
+      {
+        "id": "14fa806fb2646040",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "05 Ressources/DS années précédentes/Mathématiques S1/2026 - DS1 - Maths.pdf",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Liens sortants"
+        }
+      },
+      {
+        "id": "d3e6f31b521b9599",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "05 Ressources/DS années précédentes/Mathématiques S1/2026 - DS1 - Maths.pdf",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Plan"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "bases:Créer une nouvelle base": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "3d-graph:3D Graph": false,
+      "copilot:Open Copilot Chat": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "prisma-calendar:Calendar": false,
+      "vault-size-history:Vault size history": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "cmdr:Templater: Create Cours": false,
+      "cmdr:Templater: Create Concepts": false
+    }
+  },
+  "active": "5dc4c66c9ac906c5",
+  "lastOpenFiles": [
+    "Sans titre.md",
+    "file_index.sync-conflict-20260905-211313-HMMSCX5.csv",
+    "05 Ressources/DS années précédentes/Physique S1/Optique Géométrique (TSE)/2026 - DS1 - Optique (TSE).pdf",
+    "05 Ressources/DS années précédentes/Mathématiques S1/2026 - DS2 - Maths.pdf",
+    "05 Ressources/DS années précédentes/Physique S2/Électrostatique/2026 - Khôlles1 - 8 - Électrostat.pdf",
+    "05 Ressources/DS années précédentes/Mathématiques S1/QCM - Maths.pdf",
+    "05 Ressources/DS années précédentes/Physique S2/Mécanique/TD1 - Méca.pdf",
+    "05 Ressources/DS années précédentes/Physique S2/Mécanique/2026 - DS1 - Méca.pdf",
+    "05 Ressources/DS années précédentes/Physique S2/Électrostatique/2025 - DS1 - Électrostat.pdf",
+    "05 Ressources/DS années précédentes/Physique S2/Mécanique/2025 - DS2 - Méca.pdf",
+    "05 Ressources/DS années précédentes/Mathématiques S1/2025 - DS2 - Maths.pdf",
+    "Test.md",
+    "01 Cours/Math/Suite des raisonnement et Ensembles, Math 2026-09-04.md",
+    "Dashboard.md"
+  ]
+}

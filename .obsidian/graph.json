@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-file:\"MOC Theoreme\" -path:copilot  ",
+  "search": "-file:\"MOC Theoreme\" -path:copilot -file:\"MOC Résolution d'équationss\"   ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -125,6 +125,27 @@
         "a": 1,
         "rgb": 6633785
       }
+    },
+    {
+      "query": "path:\"02 Concepts/Thermodynamique\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6166453
+      }
+    },
+    {
+      "query": "path:\"07 MOC/Concepts/Thermodynamique\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 10507007
+      }
+    },
+    {
+      "query": "path:\"01 Cours/Thermodynamique\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6177408
+      }
     }
   ],
   "collapse-display": true,
@@ -132,11 +153,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1.04795425257732,
   "lineSizeMultiplier": 0.987967139175258,
-  "collapse-forces": false,
-  "centerStrength": 0.398328971209986,
-  "repelStrength": 9.46849204751359,
-  "linkStrength": 0.881684922680412,
+  "collapse-forces": true,
+  "centerStrength": 0.40225488222267,
+  "repelStrength": 10.1511603150947,
+  "linkStrength": 0.801489832897121,
   "linkDistance": 30,
-  "scale": 0.08243546967512329,
+  "scale": 0.18547980676902737,
   "close": false
 }

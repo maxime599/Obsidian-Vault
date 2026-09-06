@@ -35,11 +35,6 @@ Ressources:
 - [[Techniques d'apprentissage et rappel actif]]
 
 
-## 📐 Outils Mathématiques et Prérequis
-
-- [[Modes de raisonnement mathématique]]
-
-
 ## 📚 Cours associés
 
 ```dataview

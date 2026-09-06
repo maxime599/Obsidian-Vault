@@ -17,7 +17,7 @@ Ressources: "[[Fascicule TD ELEN1 CITISE.pdf]]"
 
 ## Ampèremètre
 Il se branche en série
-![[IMG_20260903_150223.jpg]]{transform="translate(18.3%, -33%) rotate(0deg) scale(1.648)" aspect-ratio=698/393 width=250}
+![[IMG_20260903_150223.jpg]]{transform="translate(18.3%, -33%) rotate(0deg) scale(1.648)" aspect-ratio=698/393 width=306}
 ## Voltmètre
 Il se branche en dérivation sur un récepteur
 ![[IMG_20260903_150228.jpg]]{transform="translate(1.3%, 27.4%) rotate(0deg) scale(1.643)" aspect-ratio=698/393 width=281}

@@ -18,35 +18,7 @@
             }
           },
           {
-            "id": "cd4b1b6e96b5346c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dashboard.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dashboard"
-            }
-          },
-          {
-            "id": "ae5b73d0abe6557c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 Concepts/Math/Fonction indicatrice.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Fonction indicatrice"
-            }
-          },
-          {
-            "id": "b4dc271dddec0945",
+            "id": "d993767892a12dd7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -60,31 +32,23 @@
             }
           },
           {
-            "id": "d993767892a12dd7",
+            "id": "7d9e4ab9a8e65331",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "02 Concepts/Math/Produit cartésien et p-uplets.md",
-                "mode": "source",
-                "source": false
+                "file": "05 Ressources/PDF Cours/Si_cours_math_chap2.pdf",
+                "page": 42,
+                "left": -5,
+                "top": 280,
+                "zoom": 3.1749968994170907
               },
-              "icon": "lucide-file",
-              "title": "Produit cartésien et p-uplets"
+              "icon": "lucide-file-text",
+              "title": "Si_cours_math_chap2"
             }
           },
           {
-            "id": "0c5a9c0359961a3b",
-            "type": "leaf",
-            "state": {
-              "type": "3d_graph_view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "3D-Graph"
-            }
-          },
-          {
-            "id": "747b19aa92358df1",
+            "id": "40903361406054b1",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -94,7 +58,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +70,6 @@
       {
         "id": "289ebf2b2dde5655",
         "type": "tabs",
-        "dimension": 71.75257731958763,
         "children": [
           {
             "id": "a3835c23a2cd8cab",
@@ -114,7 +77,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byCreatedTimeReverse",
                 "autoReveal": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -129,7 +92,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:Méthodologie_scientifique/théorie",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -153,29 +116,11 @@
               "title": "Signets"
             }
           }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "923fec60c91d7522",
-        "type": "tabs",
-        "dimension": 28.24742268041237,
-        "children": [
-          {
-            "id": "ec71f32d0d526abe",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vue graphique"
-            }
-          }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 326.296875
+    "width": 276.5078125
   },
   "right": {
     "id": "94f8b3aa2bee7d17",
@@ -215,6 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "02 Concepts/Math/Applications, restrictions et prolongements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -290,13 +236,23 @@
               "icon": "command-glyph",
               "title": "Execution Runtimes"
             }
+          },
+          {
+            "id": "812f5b1ecf239f48",
+            "type": "leaf",
+            "state": {
+              "type": "github-copilot-chat-view",
+              "state": {},
+              "icon": "bot-message-square",
+              "title": "Copilot Chat"
+            }
           }
         ],
         "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 323
+    "width": 405.75390625
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -315,51 +271,51 @@
       "obsidian-git:Open Git source control": false,
       "vault-size-history:Vault size history": false,
       "prisma-calendar:Calendar": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
-      "cmdr:Templater: Create Concepts": false,
-      "cmdr:Templater: Create Cours": false
+      "pdf-plus:PDF++: Toggle auto-copy": true,
+      "pdf-plus:PDF++: Toggle auto-focus": true,
+      "pdf-plus:PDF++: Toggle auto-paste": true,
+      "cmdr:Templater: Create MOC": false,
+      "cmdr:Templater: Create Cours": false,
+      "cmdr:Templater: Create Concepts": false
     }
   },
   "active": "aeb8dcd12e8ef37d",
   "lastOpenFiles": [
-    "02 Concepts/Math/Produit cartésien et p-uplets.md",
-    "02 Concepts/Physique/Interférences ondulatoires.md",
-    "02 Concepts/Math/Ensemble des parties d'un ensemble.md",
-    "Dashboard.md",
-    "02 Concepts/Math/Fonction indicatrice.md",
-    "02 Concepts/Math/Théorie des ensembles et opérations de base.md",
+    "Exos maths.md",
     "02 Concepts/Math/Quantificateurs logiques.md",
-    "02 Concepts/Math/Applications, restrictions et prolongements.md",
-    "07 MOC/Concepts/Math/MOC Ensemble.md",
-    "02 Concepts/Math/Nombre de parties d'un ensemble.md",
-    "02 Concepts/Math/Principes additif et multiplicatif en dénombrement.md",
-    "02 Concepts/Math/Modes de raisonnement mathématique.md",
-    "01 Cours/Math/Suite des raisonnement et Ensembles, Math 2026-09-04.md",
-    "02 Concepts/Physique/Cinématique et Deuxième loi de Newton.md",
-    "07 MOC/Concepts/Math/MOC Algèbre.md",
-    "07 MOC/Concepts/Math/MOC Analyse.md",
-    "07 MOC/Concepts/Math/MOC Logique.md",
-    "02 Concepts/Math/Logique mathématique et booléenne.md",
     "05 Ressources/PDF Cours/Si_cours_math_chap2.pdf",
-    "02 Concepts/Thermodynamique/Mesure de pression et échelles de température.md",
-    "01 Cours/Math/Intro-Logique et raisonnement mathématiques, Math 2026-09-02.md",
-    "Ensemble.md",
-    "01 Cours/Thermodynamique/Intro à la Thermodynamique, Thermodynamique 2026-09-04.md",
-    "07 MOC/Concepts/Thermodynamique/MOC Mesure.md",
-    "02 Concepts/Thermodynamique/Statique des fluides et poussée d'Archimède.md",
-    "02 Concepts/Physique/Dynamique des fluides et relation de Bernoulli.md",
-    "07 MOC/Concepts/Physique/MOC Fluides.md",
-    "07 MOC/Concepts/Thermodynamique",
-    "00 MOC/Thermodynamique",
-    "00 MOC",
+    "07 MOC/Concepts/Math/MOC Arithmetique.md",
+    "01 Cours/Virtual Events.md",
+    "02 Concepts/Math/Théorie des ensembles et opérations de base.md",
+    "07 MOC/Concepts/Math/MOC Ensemble.md",
+    "01 Cours/Math/Suite des raisonnement et Ensembles, Math 2026-09-04.md",
+    "Sans titre.md",
+    "02 Concepts/Info/Syntaxe en C.md",
+    "Dashboard.md",
+    "02 Concepts/Info/Types de données élémentaires.md",
+    "02 Concepts/Elen1/Branchement en électricité.md",
+    "02 Concepts/Elen1/Conventions en électricité.md",
+    "02 Concepts/Elen1/Types de régime en électicité.md",
+    "02 Concepts/Math/Fonction indicatrice.md",
+    "02 Concepts/Math/Applications, restrictions et prolongements.md",
+    "02 Concepts/Math/Produit cartésien et p-uplets.md",
+    "02 Concepts/Math/Ensemble des parties d'un ensemble.md",
+    "02 Concepts/Méthodologie_scientifique/Rôle et responsabilité de l'ingénieur.md",
+    "02 Concepts/Méthodologie_scientifique/Méthodes d’apprentissage efficaces et fausses bonnes idées.md",
+    "02 Concepts/Math/Principes additif et multiplicatif en dénombrement.md",
+    "02 Concepts/Méthodologie_scientifique/Les 5 niveaux de savoir.md",
+    "01 Cours/Méthodologie_scientifique/Apprendre à apprendrer, Méthodologie_scientifique 2026-09-04.md",
+    "02 Concepts/Méthodologie_scientifique/Le modèle central de l’apprentissage.md",
+    "07 MOC/Concepts/Méthodologie_scientifique/MOC Théorie.md",
+    "file_index.sync-conflict-20260905-211313-HMMSCX5.csv",
     "05 Ressources/PDF Cours/Principes de la thermodynamique chapitres I et II.pdf",
-    "02 Concepts/Thermodynamique",
-    "test",
-    "02 Concepts/Anglais",
-    "01 Cours/Anglais",
-    "05 Ressources/PDF Cours/S1_cours_math_chap1.pdf",
+    "05 Ressources/DS années précédentes/Physique S2/Électrostatique/2026 - TD2 - Électrostat.pdf",
+    "05 Ressources/DS années précédentes/Physique S2/Électrostatique/2026 - TD1 - Électrostat.pdf",
+    "05 Ressources/DS années précédentes/Physique S2/Électrostatique/2026 - Khôlles2 - 9 - Électrostat.pdf",
+    "05 Ressources/DS années précédentes/Physique S2/Électrostatique/2026 - Khôlles2 - 8 - Électrostat.pdf",
+    "05 Ressources/DS années précédentes/Physique S2/Électrostatique/2026 - Khôlles2 - 7 - Électrostat.pdf",
+    "05 Ressources/DS années précédentes/Physique S2/Électrostatique/2026 - Khôlles1 - 8 - Électrostat.pdf",
+    "05 Ressources/DS années précédentes/Physique S2/Électrostatique/2026 - DS2 - Électrostat.pdf",
     "05 Ressources/Pièces jointes collées/IMG_20260903_150223.jpg",
     "05 Ressources/Pièces jointes collées/IMG_20260903_150228.jpg",
     "05 Ressources/Pièces jointes collées/IMG_20260903_150218.jpg",

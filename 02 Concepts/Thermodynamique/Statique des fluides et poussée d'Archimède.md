@@ -32,7 +32,12 @@ $$\mathrm{d}\vec{F} = P \mathrm{d}S \, \vec{n}$$
 > Tout corps plongé dans un fluide au repos subit une force verticale, orientée vers le haut, dont l'intensité est égale au poids du volume de fluide déplacé.
 
 À l'équilibre statique, cette poussée compense exactement le poids de la colonne ou du volume de fluide considéré.
-
+$$\boxed{\vec{F}_A=-\rho_{\text{fluide}}\,V_{\text{immergé}}\,\vec{g}}$$
+Avec :
+- $F_A$ : poussée d'Archimède en **newtons (N)**
+- $\rho_{\text{fluide}}$ : masse volumique du fluide en **kg·m⁻³**
+- $V_{\text{immergé}}$ : volume de l'objet **immergé** en **m³**
+- $g$ : intensité de la pesanteur, environ **$9{,}81\ \text{N·kg}^{-1}$**
 
 ## Concepts liés
 
