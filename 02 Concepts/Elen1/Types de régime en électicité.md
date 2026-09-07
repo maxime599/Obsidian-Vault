@@ -2,11 +2,11 @@
 tags:
   - concepts
   - Elen1
-  - physique/électricité
   - "#physique/signaux"
+  - physique/électricité
 MOC:
-  - "[[MOC Électricité]]"
   - "[[MOC Signaux]]"
+  - "[[MOC Électricité]]"
 date_creation: 2026-09-01
 ---
 # Signaux et régimes électriques

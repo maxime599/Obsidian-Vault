@@ -3,8 +3,11 @@ type: concept
 matière: Info
 tags:
   - concepts
+  - Info
+  - info/syntaxe
 MOC:
   - "[[MOC Langage C]]"
+  - "[[MOC Syntaxe]]"
 date_creation: 2026-09-02
 Ressources: "[[Info1_Slides.pdf]]"
 ---

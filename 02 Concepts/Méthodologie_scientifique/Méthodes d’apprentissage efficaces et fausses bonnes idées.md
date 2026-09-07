@@ -5,7 +5,7 @@ tags:
   - Méthodologie_scientifique
   - methodologie_scientifique/methode
 MOC:
-  - "[[MOC Methode]]"
+  - "[[07 MOC/Concepts/Méthodologie_scientifique/MOC Methode]]"
 date_creation: 2026-09-06
 Ressources:
 ---

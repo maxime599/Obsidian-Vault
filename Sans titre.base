@@ -1,0 +1,22 @@
+filters:
+  and:
+    - and:
+        - file.hasTag("concepts")
+        - file.hasTag("math")
+        - file.ctime > "2026-08-30"
+views:
+  - type: table
+    name: Tableau
+  - type: table
+    name: Vue
+    order:
+      - file.name
+      - date_creation
+      - MOC
+    sort:
+      - property: date_creation
+        direction: ASC
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 329

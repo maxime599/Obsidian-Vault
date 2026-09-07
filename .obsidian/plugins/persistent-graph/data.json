@@ -1,919 +1,1004 @@
 {
   "nodePositions": [
     {
-      "id": "07 MOC/Concepts/Math/MOC Suite.md",
-      "x": -1362.296630859375,
-      "y": 412.9626159667969
-    },
-    {
-      "id": "07 MOC/Concepts/Math/MOC Trigonométrie.md",
-      "x": 345.7460632324219,
-      "y": 206.38076782226562
-    },
-    {
-      "id": "07 MOC/Concepts/Math/MOC Vecteurs.md",
-      "x": -599.6426391601562,
-      "y": -1140.750244140625
-    },
-    {
-      "id": "07 MOC/Concepts/Méthodologie_scientifique/MOC Demarche.md",
-      "x": -49.32014465332031,
-      "y": 1695.2664794921875
-    },
-    {
-      "id": "07 MOC/Concepts/Méthodologie_scientifique/MOC Methode.md",
-      "x": 204.5817108154297,
-      "y": 1647.8079833984375
-    },
-    {
-      "id": "07 MOC/Concepts/Physique/MOC Acoustique.md",
-      "x": -1616.3970947265625,
-      "y": -596.1942138671875
-    },
-    {
-      "id": "07 MOC/Concepts/Physique/MOC Astrophysique.md",
-      "x": -1358.5640869140625,
-      "y": -377.7194519042969
-    },
-    {
-      "id": "07 MOC/Concepts/Physique/MOC Dynamique.md",
-      "x": 354.0338134765625,
-      "y": -464.6205139160156
-    },
-    {
-      "id": "07 MOC/Concepts/Physique/MOC Fluides.md",
-      "x": -94.82917785644531,
-      "y": -1464.9012451171875
-    },
-    {
-      "id": "07 MOC/Concepts/Physique/MOC Lumière.md",
-      "x": -1567.7467041015625,
-      "y": -59.173797607421875
-    },
-    {
-      "id": "07 MOC/Concepts/Physique/MOC Mécanique.md",
-      "x": -446.3834228515625,
-      "y": -813.6052856445312
-    },
-    {
-      "id": "07 MOC/Concepts/Physique/MOC Ondes.md",
-      "x": -1536.1151123046875,
-      "y": -376.0565185546875
-    },
-    {
-      "id": "07 MOC/Concepts/Physique/MOC Optique.md",
-      "x": -1230.3345947265625,
-      "y": -630.4263305664062
-    },
-    {
-      "id": "07 MOC/Concepts/Physique/MOC Quantique.md",
-      "x": -1706.75634765625,
-      "y": -128.6885223388672
-    },
-    {
-      "id": "07 MOC/Concepts/Physique/MOC Signaux.md",
-      "x": 586.1339721679688,
-      "y": -150.20077514648438
-    },
-    {
-      "id": "07 MOC/Concepts/Physique/MOC Thermodynamique.md",
-      "x": 59.51069641113281,
-      "y": -629.4302978515625
-    },
-    {
-      "id": "07 MOC/Concepts/Physique/MOC Électricité.md",
-      "x": 560.7764282226562,
-      "y": -375.0760192871094
-    },
-    {
-      "id": "07 MOC/Concepts/Thermodynamique/MOC Energie.md",
-      "x": 485.9001159667969,
-      "y": -977.6063842773438
-    },
-    {
-      "id": "07 MOC/Concepts/Thermodynamique/MOC Mesure.md",
-      "x": 182.7175750732422,
-      "y": -1454.103271484375
-    },
-    {
-      "id": "07 MOC/Concepts/Thermodynamique/MOC Systeme.md",
-      "x": 580.3413696289062,
-      "y": -1164.6212158203125
-    },
-    {
-      "id": "07 MOC/Concepts/Thermodynamique/MOC Transfert.md",
-      "x": 172.5718536376953,
-      "y": -952.8382568359375
-    },
-    {
-      "id": "07 MOC/Concepts/Thermodynamique/MOC Variables.md",
-      "x": 454.9884338378906,
-      "y": -1302.54248046875
-    },
-    {
-      "id": "07 MOC/Concepts/Électronique_numérique/MOC Boole.md",
-      "x": 1342.03515625,
-      "y": 621.32177734375
-    },
-    {
-      "id": "Dashboard.md",
-      "x": 897.5894775390625,
-      "y": -1508.6884765625
-    },
-    {
-      "id": "Sans titre.md",
-      "x": -713.3743896484375,
-      "y": -1712.8089599609375
-    },
-    {
-      "id": "07 MOC/Concepts/Méthodologie_scientifique/MOC Théorie.md",
-      "x": 744.4967651367188,
-      "y": 1547.4736328125
-    },
-    {
-      "id": "06 Templates/Concepts.md",
-      "x": -1151.1641845703125,
-      "y": -994.546875
-    },
-    {
-      "id": "06 Templates/Cours.md",
-      "x": 1273.1866455078125,
-      "y": -1276.69189453125
-    },
-    {
-      "id": "06 Templates/MOC.md",
-      "x": 1043.1632080078125,
-      "y": -1336.9947509765625
-    },
-    {
-      "id": "07 MOC/Concepts/Info/MOC Langage C.md",
-      "x": 1408.3570556640625,
-      "y": -214.32461547851562
-    },
-    {
-      "id": "07 MOC/Concepts/Math/MOC Algèbre.md",
-      "x": 142.44908142089844,
-      "y": 606.0078735351562
-    },
-    {
-      "id": "07 MOC/Concepts/Math/MOC Analyse.md",
-      "x": 125.53189849853516,
-      "y": 884.6233520507812
-    },
-    {
-      "id": "07 MOC/Concepts/Math/MOC Arithmetique.md",
-      "x": 1205.093505859375,
-      "y": -718.5028076171875
-    },
-    {
-      "id": "07 MOC/Concepts/Math/MOC Combinatoire.md",
-      "x": -233.65928649902344,
-      "y": 1229.63427734375
-    },
-    {
-      "id": "07 MOC/Concepts/Math/MOC Démonstration.md",
-      "x": 965.2386474609375,
-      "y": 863.3170776367188
-    },
-    {
-      "id": "07 MOC/Concepts/Math/MOC Dénombrement.md",
-      "x": -135.7971649169922,
-      "y": 1120.158203125
-    },
-    {
-      "id": "07 MOC/Concepts/Math/MOC Dérivation.md",
-      "x": -411.05279541015625,
-      "y": -363.0194396972656
-    },
-    {
-      "id": "07 MOC/Concepts/Math/MOC Ensemble.md",
-      "x": 154.75372314453125,
-      "y": 1173.77197265625
-    },
-    {
-      "id": "07 MOC/Concepts/Math/MOC Fonction.md",
-      "x": -386.2502746582031,
-      "y": 139.17733764648438
-    },
-    {
-      "id": "07 MOC/Concepts/Math/MOC Géométrie 3d.md",
-      "x": -735.3563232421875,
-      "y": -1180.3853759765625
-    },
-    {
-      "id": "07 MOC/Concepts/Math/MOC Integrales.md",
-      "x": -697.9550170898438,
-      "y": -465.8690490722656
-    },
-    {
-      "id": "07 MOC/Concepts/Math/MOC Limites.md",
-      "x": -963.0316162109375,
-      "y": 188.00677490234375
-    },
-    {
-      "id": "07 MOC/Concepts/Math/MOC Logique.md",
-      "x": 799.337890625,
-      "y": 993.6836547851562
-    },
-    {
-      "id": "07 MOC/Concepts/Math/MOC Lois.md",
-      "x": -940.3724365234375,
-      "y": 1133.477294921875
-    },
-    {
-      "id": "07 MOC/Concepts/Math/MOC Nombres complexes.md",
-      "x": 428.3520812988281,
-      "y": 444.6436767578125
-    },
-    {
-      "id": "07 MOC/Concepts/Math/MOC Probabilites.md",
-      "x": -983.004150390625,
-      "y": 961.6171264648438
-    },
-    {
-      "id": "07 MOC/Concepts/Math/MOC Résolution d'équations.md",
-      "x": -69.83409118652344,
-      "y": 75.21260070800781
-    },
-    {
-      "id": "07 MOC/Concepts/Math/MOC Statistiques.md",
-      "x": -1327.585205078125,
-      "y": 949.9617309570312
-    },
-    {
-      "id": "01 Cours/Elen1/Exercices sur les lois générales d'électricité, Elen1 2026-09-03.md",
-      "x": 848.8936157226562,
-      "y": -270.3771057128906
-    },
-    {
-      "id": "01 Cours/Elen1/Intro Cm1-Types de régime en électicité, Elen1 2026-09-01.md",
-      "x": 728.8421020507812,
-      "y": -56.989227294921875
-    },
-    {
-      "id": "01 Cours/Info/Intro à l'algo et au language C, Info 2026-09-01.md",
-      "x": 1456.763916015625,
-      "y": 182.2401580810547
-    },
-    {
-      "id": "01 Cours/Info/Visionnage de la vidéo, Info 2026-09-02.md",
-      "x": 1439.51708984375,
-      "y": -477.79840087890625
-    },
-    {
-      "id": "01 Cours/Math/Intro-Logique et raisonnement mathématiques, Math 2026-09-02.md",
-      "x": 1134.43896484375,
-      "y": 770.85888671875
-    },
-    {
-      "id": "01 Cours/Math/Suite des raisonnement et Ensembles, Math 2026-09-04.md",
-      "x": 496.3157958984375,
-      "y": 1047.37109375
-    },
-    {
-      "id": "01 Cours/Méthodologie_scientifique/Apprendre à apprendrer, Méthodologie_scientifique 2026-09-04.md",
-      "x": 827.2987670898438,
-      "y": 1454.8118896484375
-    },
-    {
-      "id": "01 Cours/Méthodologie_scientifique/Intro, Méthodologie_scientifique 2026-09-02.md",
-      "x": -429.6150207519531,
-      "y": 1657.157958984375
-    },
-    {
-      "id": "01 Cours/Sans titre.base",
-      "x": -1451.06689453125,
-      "y": -1060.4324951171875
-    },
-    {
-      "id": "01 Cours/Thermodynamique/Intro à la Thermodynamique, Thermodynamique 2026-09-04.md",
-      "x": 154.4152069091797,
-      "y": -1160.823486328125
+      "id": "01 Cours/Virtual Events.md",
+      "x": 661.86279296875,
+      "y": -1715.22021484375
     },
     {
       "id": "01 Cours/Électronique_numérique/Intro-organisation de cours, Électronique numérique 2026-09-01.md",
-      "x": 1566.2393798828125,
-      "y": 449.1094970703125
+      "x": -876.130615234375,
+      "y": 1520.3763427734375
     },
     {
       "id": "01 Cours/Électronique_numérique/Suite chap1, Électronique_numérique 2026-09-03.md",
-      "x": 1435.524169921875,
-      "y": 809.3678588867188
+      "x": -1058.4814453125,
+      "y": 1166.3681640625
     },
     {
       "id": "02 Concepts/Elen1/Branchement en électricité.md",
-      "x": 735.4469604492188,
-      "y": -309.4081726074219
+      "x": 1352.188720703125,
+      "y": -537.5396728515625
     },
     {
       "id": "02 Concepts/Elen1/Conventions en électricité.md",
-      "x": 768.7157592773438,
-      "y": -424.4595031738281
+      "x": 1419.4632568359375,
+      "y": -681.1240844726562
     },
     {
       "id": "02 Concepts/Elen1/Types de régime en électicité.md",
-      "x": 468.10003662109375,
-      "y": -168.83746337890625
+      "x": 1083.384765625,
+      "y": -376.8226013183594
     },
     {
       "id": "02 Concepts/Info/Syntaxe en C.md",
-      "x": 1476.466796875,
-      "y": -321.7866516113281
+      "x": -1548.378173828125,
+      "y": 423.6337585449219
     },
     {
       "id": "02 Concepts/Info/Types de données élémentaires.md",
-      "x": 1412.4613037109375,
-      "y": -81.52721405029297
+      "x": -1428.488037109375,
+      "y": 652.5419921875
     },
     {
       "id": "Encodage des caractères et table ASCII",
-      "x": 1310.09912109375,
-      "y": -19.49233627319336
+      "x": -1311.2420654296875,
+      "y": 678.0039672851562
     },
     {
       "id": "Tableaux et chaînes de caractères",
-      "x": 1447.1285400390625,
-      "y": 32.96805953979492
+      "x": -1391.92333984375,
+      "y": 766.828857421875
     },
     {
       "id": "Pointeurs et gestion de la mémoire",
-      "x": 1558.884521484375,
-      "y": -46.5627326965332
+      "x": -1519.280029296875,
+      "y": 778.409912109375
     },
     {
       "id": "02 Concepts/Info/Variables et constantes en C.md",
-      "x": 1513.96923828125,
-      "y": -157.71141052246094
+      "x": -1548.0972900390625,
+      "y": 661.9341430664062
     },
     {
       "id": "Fonctions et modularité",
-      "x": 1631.5111083984375,
-      "y": -180.7228546142578
+      "x": -1660.748779296875,
+      "y": 703.2356567382812
     },
     {
       "id": "02 Concepts/Math/Applications, restrictions et prolongements.md",
-      "x": 99.50594329833984,
-      "y": 767.5143432617188
+      "x": 187.82762145996094,
+      "y": 520.5086669921875
     },
     {
       "id": "02 Concepts/Math/Argument et forme trigonométrique d'un nombre complexe.md",
-      "x": 522.2202758789062,
-      "y": 302.255615234375
+      "x": 1352.8526611328125,
+      "y": 119.390380859375
     },
     {
       "id": "02 Concepts/Math/Arrangements et permutations.md",
-      "x": -108.6721420288086,
-      "y": 1285.641357421875
+      "x": 748.269287109375,
+      "y": 989.1599731445312
     },
     {
       "id": "02 Concepts/Math/Bases et repères de l'espace.md",
-      "x": -455.1194152832031,
-      "y": -1096.01220703125
+      "x": -531.0508422851562,
+      "y": -618.2984008789062
     },
     {
       "id": "02 Concepts/Math/Binôme de Newton.md",
-      "x": -210.5046844482422,
-      "y": 914.8218383789062
+      "x": 890.6426391601562,
+      "y": 924.4573974609375
     },
     {
       "id": "02 Concepts/Math/Cercle trigonométrique et angles remarquables.md",
-      "x": 303.06964111328125,
-      "y": 94.26573181152344
+      "x": 1043.7266845703125,
+      "y": -36.47214889526367
     },
     {
       "id": "02 Concepts/Math/Combinaisons et coefficients binomiaux.md",
-      "x": -255.3633575439453,
-      "y": 1111.74755859375
+      "x": 808.7510986328125,
+      "y": 1125.3170166015625
     },
     {
       "id": "02 Concepts/Math/Congruences.md",
-      "x": 1308.0831298828125,
-      "y": -779.7367553710938
+      "x": -1509.7135009765625,
+      "y": -70.67052459716797
     },
     {
       "id": "02 Concepts/Math/Conjugué et module d'un nombre complexe.md",
-      "x": 622.8966064453125,
-      "y": 492.1396179199219
+      "x": 1500.2843017578125,
+      "y": 266.92108154296875
     },
     {
       "id": "02 Concepts/Math/Continuité d'une fonction.md",
-      "x": -724.8499145507812,
-      "y": 334.4658508300781
+      "x": -8.747575759887695,
+      "y": 136.9469757080078
     },
     {
       "id": "02 Concepts/Math/Convexité et concavité d'une fonction.md",
-      "x": -341.1230163574219,
-      "y": -237.24880981445312
+      "x": 266.3049011230469,
+      "y": -265.85699462890625
     },
     {
       "id": "02 Concepts/Math/Croissances comparées.md",
-      "x": -647.5324096679688,
-      "y": 129.22474670410156
+      "x": 399.5611267089844,
+      "y": 178.85568237304688
     },
     {
       "id": "02 Concepts/Math/Divisibilité dans Z.md",
-      "x": 1404.917236328125,
-      "y": -702.6051635742188
+      "x": -1447.178466796875,
+      "y": 59.8084716796875
     },
     {
       "id": "02 Concepts/Math/Division euclidienne dans Z.md",
-      "x": 1285.6160888671875,
-      "y": -623.8009033203125
+      "x": -1565.527587890625,
+      "y": 39.988365173339844
     },
     {
       "id": "02 Concepts/Math/Dérivation des fonctions composées et opérations.md",
-      "x": -129.51895141601562,
-      "y": -116.93782043457031
+      "x": 592.8990478515625,
+      "y": -306.8228454589844
     },
     {
       "id": "02 Concepts/Math/Dérivée, sens de variation et extrémums locaux.md",
-      "x": -149.0845489501953,
-      "y": -248.86752319335938
+      "x": 512.8093872070312,
+      "y": -450.08319091796875
     },
     {
       "id": "02 Concepts/Math/Ensemble des parties d'un ensemble.md",
-      "x": 285.55816650390625,
-      "y": 1230.978271484375
+      "x": 367.69317626953125,
+      "y": 992.132568359375
     },
     {
       "id": "02 Concepts/Math/Fonction exponentielle et logarithme népérien.md",
-      "x": -416.79034423828125,
-      "y": 23.2691650390625
+      "x": 493.06549072265625,
+      "y": -64.8641128540039
     },
     {
       "id": "02 Concepts/Math/Fonction indicatrice.md",
-      "x": 240.9012908935547,
-      "y": 852.2948608398438
+      "x": 337.20758056640625,
+      "y": 605.05078125
     },
     {
       "id": "02 Concepts/Math/Forme exponentielle et formule d'Euler.md",
-      "x": 246.08807373046875,
-      "y": 273.1273193359375
+      "x": 1178.6807861328125,
+      "y": 87.93202209472656
     },
     {
       "id": "02 Concepts/Math/Formules de De Moivre et racines n-ièmes.md",
-      "x": 203.84873962402344,
-      "y": 418.2969055175781
+      "x": 1101.0604248046875,
+      "y": 301.7995910644531
     },
     {
       "id": "02 Concepts/Math/Géométrie des nombres complexes.md",
-      "x": 629.3084716796875,
-      "y": 356.3920593261719
+      "x": 1476.397216796875,
+      "y": 131.3893280029297
     },
     {
       "id": "02 Concepts/Math/Inégalité de Bienaymé-Tchebychev.md",
-      "x": -1269.430908203125,
-      "y": 1054.8253173828125
+      "x": -240.6566925048828,
+      "y": 1396.266845703125
     },
     {
       "id": "02 Concepts/Math/Inégalité de concentration et loi des grands nombres.md",
-      "x": -1216.10888671875,
-      "y": 861.5048217773438
+      "x": -233.28221130371094,
+      "y": 1265.8074951171875
     },
     {
       "id": "02 Concepts/Math/Lien entre intégrale et primitives.md",
-      "x": -457.66790771484375,
-      "y": -501.8581237792969
+      "x": 31.141374588012695,
+      "y": -652.1447143554688
     },
     {
       "id": "02 Concepts/Math/Limite d'une fonction composée.md",
-      "x": -810.1968383789062,
-      "y": 95.39339447021484
+      "x": 283.018798828125,
+      "y": 253.2097930908203
     },
     {
       "id": "02 Concepts/Math/Limite d'une suite.md",
-      "x": -1338.61572265625,
-      "y": 295.3767395019531
+      "x": -485.1181335449219,
+      "y": 236.6229248046875
     },
     {
       "id": "02 Concepts/Math/Limites de fonctions et asymptotes.md",
-      "x": -778.4146728515625,
-      "y": 213.4276885986328
+      "x": 164.34951782226562,
+      "y": 235.4104766845703
     },
     {
       "id": "02 Concepts/Math/Logique mathématique et booléenne.md",
-      "x": 1119.420166015625,
-      "y": 614.5494384765625
+      "x": -757.4156494140625,
+      "y": 999.7266235351562
     },
     {
       "id": "02 Concepts/Math/Loi binomiale.md",
-      "x": -845.250244140625,
-      "y": 1016.2542724609375
+      "x": 127.82337188720703,
+      "y": 1475.650634765625
     },
     {
       "id": "02 Concepts/Math/Loi de Bernoulli.md",
-      "x": -823.4630737304688,
-      "y": 1159.46875
+      "x": 37.6116828918457,
+      "y": 1558.892578125
     },
     {
       "id": "Variables aléatoires discrètes",
-      "x": -857.8230590820312,
-      "y": 1274.4312744140625
+      "x": -17.90070152282715,
+      "y": 1665.2786865234375
     },
     {
       "id": "02 Concepts/Math/Matrices.md",
-      "x": -25.623594284057617,
-      "y": 359.3410949707031
+      "x": 814.3219604492188,
+      "y": 334.7667236328125
     },
     {
       "id": "02 Concepts/Math/Modes de raisonnement mathématique.md",
-      "x": 905.0924682617188,
-      "y": 759.885986328125
+      "x": -415.3756103515625,
+      "y": 910.021484375
     },
     {
       "id": "02 Concepts/Math/Nombre de parties d'un ensemble.md",
-      "x": 9.57894229888916,
-      "y": 1239.212158203125
+      "x": 573.1776733398438,
+      "y": 1125.066650390625
     },
     {
       "id": "02 Concepts/Math/Nombre dérivé et équation de la tangente.md",
-      "x": -241.0758819580078,
-      "y": -325.8954162597656
+      "x": 393.63623046875,
+      "y": -464.1113586425781
     },
     {
       "id": "02 Concepts/Math/Nombres complexes et forme algébrique.md",
-      "x": 494.80963134765625,
-      "y": 545.03515625
+      "x": 1403.2447509765625,
+      "y": 360.9207458496094
     },
     {
       "id": "02 Concepts/Math/Nombres premiers.md",
-      "x": 1275.057861328125,
-      "y": -925.4056396484375
+      "x": -1459.263671875,
+      "y": -203.33860778808594
     },
     {
       "id": "02 Concepts/Math/Notion d'intégrale et aire sous une courbe.md",
-      "x": -571.2682495117188,
-      "y": -463.69036865234375
+      "x": 88.7805404663086,
+      "y": -546.9074096679688
     },
     {
       "id": "02 Concepts/Math/Opérations sur les limites et formes indéterminées.md",
-      "x": -710.7324829101562,
-      "y": 27.364498138427734
+      "x": 298.1861572265625,
+      "y": 114.65143585205078
     },
     {
       "id": "02 Concepts/Math/Orthogonalité et positions relatives dans l'espace.md",
-      "x": -653.7529296875,
-      "y": -1284.7088623046875
+      "x": -791.1602783203125,
+      "y": -556.7997436523438
     },
     {
       "id": "02 Concepts/Math/PGCD et algorithme d'Euclide.md",
-      "x": 1107.73681640625,
-      "y": -788.369384765625
+      "x": -1299.5650634765625,
+      "y": -21.730587005615234
     },
     {
       "id": "02 Concepts/Math/Petit théorème de Fermat.md",
-      "x": 1383.12060546875,
-      "y": -873.3517456054688
+      "x": -1590.530029296875,
+      "y": -173.0142364501953
     },
     {
       "id": "02 Concepts/Math/Point d'inflexion.md",
-      "x": -426.8112487792969,
-      "y": -153.57376098632812
+      "x": 310.82635498046875,
+      "y": -377.26898193359375
     },
     {
       "id": "02 Concepts/Math/Positions relatives de deux droites dans l'espace.md",
-      "x": -587.3242797851562,
-      "y": -974.9346313476562
+      "x": -538.4749145507812,
+      "y": -375.3943176269531
     },
     {
       "id": "02 Concepts/Math/Primitives d'une fonction.md",
-      "x": -561.52685546875,
-      "y": -276.2691650390625
+      "x": 134.79547119140625,
+      "y": -389.7615661621094
     },
     {
       "id": "02 Concepts/Math/Principes additif et multiplicatif en dénombrement.md",
-      "x": 101.38250732421875,
-      "y": 1316.4837646484375
+      "x": 545.8504028320312,
+      "y": 1008.2258911132812
     },
     {
       "id": "02 Concepts/Math/Produit cartésien et p-uplets.md",
-      "x": 401.5765686035156,
-      "y": 1200.7510986328125
+      "x": 272.37408447265625,
+      "y": 919.2555541992188
     },
     {
       "id": "02 Concepts/Math/Produit scalaire dans l'espace.md",
-      "x": -637.0239868164062,
-      "y": -1403.5474853515625
+      "x": -860.3892211914062,
+      "y": -659.6329345703125
     },
     {
       "id": "02 Concepts/Math/Projection orthogonale et distance dans l'espace.md",
-      "x": -767.739990234375,
-      "y": -1321.70947265625
+      "x": -904.618896484375,
+      "y": -517.7529907226562
     },
     {
       "id": "02 Concepts/Math/Propriétés et techniques du calcul intégral.md",
-      "x": -671.6671752929688,
-      "y": -335.3617248535156
+      "x": 7.722276210784912,
+      "y": -405.0298767089844
     },
     {
       "id": "02 Concepts/Math/Quantificateurs logiques.md",
-      "x": 732.4957885742188,
-      "y": 894.3017578125
+      "x": -188.6948699951172,
+      "y": 842.1093139648438
     },
     {
       "id": "02 Concepts/Math/Représentation paramétrique d'une droite.md",
-      "x": -488.9013366699219,
-      "y": -1211.0711669921875
+      "x": -649.8002319335938,
+      "y": -635.5515747070312
     },
     {
       "id": "02 Concepts/Math/Succession d'épreuves indépendantes et Schéma de Bernoulli.md",
-      "x": -781.8389892578125,
-      "y": 911.1906127929688
+      "x": 243.4569854736328,
+      "y": 1443.632568359375
     },
     {
       "id": "Arbres de probabilités",
-      "x": -714.9963989257812,
-      "y": 1010.25439453125
+      "x": 307.0299072265625,
+      "y": 1545.3983154296875
     },
     {
       "id": "02 Concepts/Math/Suites majorées, minorées, bornées.md",
-      "x": -1242.3646240234375,
-      "y": 412.0115966796875
+      "x": -390.95361328125,
+      "y": 377.3265686035156
     },
     {
       "id": "02 Concepts/Math/Suites.md",
-      "x": -1482.988525390625,
-      "y": 383.4671630859375
+      "x": -624.9317626953125,
+      "y": 324.39947509765625
     },
     {
       "id": "02 Concepts/Math/Théorie des ensembles et opérations de base.md",
-      "x": 376.340576171875,
-      "y": 1047.1661376953125
+      "x": 216.75965881347656,
+      "y": 812.9218139648438
     },
     {
       "id": "02 Concepts/Math/Théorème d'encadrement (des gendarmes).md",
-      "x": -1315.389892578125,
-      "y": 538.988037109375
+      "x": -457.84027099609375,
+      "y": 507.51275634765625
     },
     {
       "id": "02 Concepts/Math/Théorème de comparaison pour les suites.md",
-      "x": -1432.089599609375,
-      "y": 511.1941223144531
+      "x": -569.0820922851562,
+      "y": 462.5208740234375
     },
     {
       "id": "02 Concepts/Math/Théorème des valeurs intermédiaires.md",
-      "x": -539.6315307617188,
-      "y": 289.75677490234375
+      "x": 115.95675659179688,
+      "y": 58.41727828979492
     },
     {
       "id": "Dichotomie et Balayage",
-      "x": -534.31103515625,
-      "y": 409.42083740234375
+      "x": 8.155302047729492,
+      "y": 5.722812652587891
     },
     {
       "id": "02 Concepts/Math/Théorème du point fixe.md",
-      "x": -973.6686401367188,
-      "y": 320.671142578125
+      "x": -212.26036071777344,
+      "y": 166.77130126953125
     },
     {
       "id": "02 Concepts/Math/Théorème du toit.md",
-      "x": -724.8671264648438,
-      "y": -1000.4938354492188
+      "x": -657.9308471679688,
+      "y": -303.6910705566406
     },
     {
       "id": "02 Concepts/Math/Théorèmes de Bézout et de Gauss.md",
-      "x": 1136.7518310546875,
-      "y": -904.7437133789062
+      "x": -1284.754638671875,
+      "y": -164.20950317382812
     },
     {
       "id": "02 Concepts/Math/Théorèmes de comparaison et d'encadrement pour les fonctions.md",
-      "x": -984.855224609375,
-      "y": 464.4186706542969
+      "x": -122.20738983154297,
+      "y": 479.4901123046875
     },
     {
       "id": "02 Concepts/Math/Triangle de Pascal.md",
-      "x": -463.01055908203125,
-      "y": 923.5491333007812
+      "x": 488.1883850097656,
+      "y": 1268.4661865234375
     },
     {
       "id": "Récurrence",
-      "x": -512.8319091796875,
-      "y": 1031.9732666015625
+      "x": 511.6766662597656,
+      "y": 1386.128173828125
     },
     {
       "id": "02 Concepts/Math/Vecteur normal et équation cartésienne d'un plan.md",
-      "x": -512.0460205078125,
-      "y": -1355.24365234375
+      "x": -750.5133666992188,
+      "y": -734.5867309570312
     },
     {
       "id": "02 Concepts/Math/Échantillons et sommes de variables aléatoires.md",
-      "x": -1165.3621826171875,
-      "y": 995.291259765625
+      "x": -195.91482543945312,
+      "y": 1507.6099853515625
     },
     {
       "id": "02 Concepts/Math/Équations différentielles du premier ordre.md",
-      "x": -289.3537902832031,
-      "y": -128.95272827148438
+      "x": 431.0389709472656,
+      "y": -291.3368835449219
     },
     {
       "id": "02 Concepts/Math/Équations diophantiennes linéaires.md",
-      "x": 1001.4343872070312,
-      "y": -669.9002075195312
+      "x": -1104.410888671875,
+      "y": -44.891082763671875
     },
     {
       "id": "02 Concepts/Math/Équations du second degré dans C.md",
-      "x": 299.39581298828125,
-      "y": 522.3687744140625
+      "x": 1199.65380859375,
+      "y": 398.8381042480469
     },
     {
       "id": "02 Concepts/Math/Équations et inéquations trigonométriques.md",
-      "x": 97.04814147949219,
-      "y": 208.48898315429688
+      "x": 872.509033203125,
+      "y": 117.97789764404297
     },
     {
       "id": "02 Concepts/Math/Équations polynomiales.md",
-      "x": 28.705530166625977,
-      "y": 568.3087768554688
+      "x": 1022.147705078125,
+      "y": 494.7247009277344
     },
     {
       "id": "02 Concepts/Math/Étude et propriétés des fonctions cosinus et sinus.md",
-      "x": 133.67164611816406,
-      "y": 36.35043716430664
+      "x": 842.9590454101562,
+      "y": -76.57955169677734
     },
     {
       "id": "02 Concepts/Méthodologie_scientifique/La démarche scientifique et réfutabilité.md",
-      "x": -162.44879150390625,
-      "y": 1656.518310546875
-    },
-    {
-      "id": "02 Concepts/Méthodologie_scientifique/Rôle et responsabilité de l'ingénieur.md",
-      "x": -290.9056701660156,
-      "y": 1662.33984375
-    },
-    {
-      "id": "02 Concepts/Méthodologie_scientifique/Techniques d'apprentissage et rappel actif.md",
-      "x": -378.1591491699219,
-      "y": 1773.404052734375
-    },
-    {
-      "id": "02 Concepts/Méthodologie_scientifique/Usage critique des intelligences artificielles.md",
-      "x": -258.2429504394531,
-      "y": 1777.8062744140625
-    },
-    {
-      "id": "02 Concepts/Physique/Bilan énergétique et applications de l'effet photoélectrique.md",
-      "x": -1489.4185791015625,
-      "y": -150.2843475341797
-    },
-    {
-      "id": "02 Concepts/Physique/Cinématique et Deuxième loi de Newton.md",
-      "x": -440.82611083984375,
-      "y": -694.3508911132812
-    },
-    {
-      "id": "02 Concepts/Physique/Circuit RC - Charge et décharge.md",
-      "x": 270.81488037109375,
-      "y": -378.6166076660156
-    },
-    {
-      "id": "02 Concepts/Physique/Diffraction des ondes.md",
-      "x": -1343.361083984375,
-      "y": -590.0963745117188
-    },
-    {
-      "id": "02 Concepts/Physique/Dynamique des fluides et relation de Bernoulli.md",
-      "x": -204.4215545654297,
-      "y": -1573.1871337890625
-    },
-    {
-      "id": "02 Concepts/Physique/Effet Doppler.md",
-      "x": -1446.0042724609375,
-      "y": -459.36627197265625
-    },
-    {
-      "id": "02 Concepts/Physique/Effet photoélectrique et modèle du photon.md",
-      "x": -1603.046630859375,
-      "y": -188.39170837402344
-    },
-    {
-      "id": "02 Concepts/Physique/Interférences ondulatoires.md",
-      "x": -1436.811279296875,
-      "y": -667.5131225585938
-    },
-    {
-      "id": "02 Concepts/Physique/La lunette astronomique afocale.md",
-      "x": -1303.338134765625,
-      "y": -725.3540649414062
-    },
-    {
-      "id": "02 Concepts/Physique/Le condensateur et l'intensité du courant.md",
-      "x": 229.88653564453125,
-      "y": -266.0528869628906
-    },
-    {
-      "id": "02 Concepts/Physique/Modèle du gaz parfait.md",
-      "x": -11.914923667907715,
-      "y": -725.6450805664062
-    },
-    {
-      "id": "02 Concepts/Physique/Niveau d'intensité sonore et atténuation.md",
-      "x": -1500.6934814453125,
-      "y": -565.9727172851562
-    },
-    {
-      "id": "02 Concepts/Physique/Poussée d'Archimède.md",
-      "x": -239.41014099121094,
-      "y": -1457.591552734375
-    },
-    {
-      "id": "02 Concepts/Physique/Premier principe de la thermodynamique.md",
-      "x": -90.66363525390625,
-      "y": -635.2189331054688
-    },
-    {
-      "id": "02 Concepts/Physique/Transferts thermiques, résistance et loi de Newton.md",
-      "x": -59.31672668457031,
-      "y": -502.04095458984375
-    },
-    {
-      "id": "02 Concepts/Thermodynamique/0 Toutes les formules.md",
-      "x": -22.661916732788086,
-      "y": -1837.916748046875
-    },
-    {
-      "id": "02 Concepts/Thermodynamique/Mesure de pression et échelles de température.md",
-      "x": 174.22811889648438,
-      "y": -1334.5223388671875
-    },
-    {
-      "id": "02 Concepts/Thermodynamique/Statique des fluides et poussée d'Archimède.md",
-      "x": 26.668170928955078,
-      "y": -1286.5733642578125
-    },
-    {
-      "id": "02 Concepts/Thermodynamique/Système thermodynamique et milieu extérieur.md",
-      "x": 457.2820129394531,
-      "y": -1147.0032958984375
-    },
-    {
-      "id": "02 Concepts/Thermodynamique/Travail des forces de pression et transfert thermique.md",
-      "x": 221.17237854003906,
-      "y": -1061.5450439453125
-    },
-    {
-      "id": "02 Concepts/Thermodynamique/Variables d'état et équilibre thermodynamique.md",
-      "x": 337.82830810546875,
-      "y": -1250.7032470703125
-    },
-    {
-      "id": "Fonctions de plusieurs variables et dérivées partielles",
-      "x": 355.6075744628906,
-      "y": -1369.37060546875
-    },
-    {
-      "id": "02 Concepts/Thermodynamique/Énergie interne et formes d'énergie.md",
-      "x": 381.5578918457031,
-      "y": -1036.7979736328125
-    },
-    {
-      "id": "02 Concepts/Électronique_numérique/Portes logiques et algèbre de Boole.md",
-      "x": 1367.9527587890625,
-      "y": 504.2119445800781
-    },
-    {
-      "id": "02 Concepts/Électronique_numérique/Propriétés de l'algèbre de Boole.md",
-      "x": 1318.2867431640625,
-      "y": 786.6848754882812
-    },
-    {
-      "id": "Conception d'un circuit logique",
-      "x": 1243.6390380859375,
-      "y": 693.7159423828125
-    },
-    {
-      "id": "02 Concepts/Électronique_numérique/Représentations d'une fonction logique.md",
-      "x": 1481.7237548828125,
-      "y": 565.1578979492188
-    },
-    {
-      "id": "Composants d'électronique numérique et FPGA",
-      "x": 1585.3868408203125,
-      "y": 625.047119140625
-    },
-    {
-      "id": "05 Ressources/Latex all caractères.md",
-      "x": 583.6548461914062,
-      "y": -1705.232666015625
-    },
-    {
-      "id": "05 Ressources/Latex.md",
-      "x": -1254.879638671875,
-      "y": -1221.4241943359375
-    },
-    {
-      "id": "05 Ressources/Tuto utiliser ma configuration.md",
-      "x": -1112.6092529296875,
-      "y": -1405.9195556640625
+      "x": 1259.0908203125,
+      "y": 1246.1395263671875
     },
     {
       "id": "02 Concepts/Méthodologie_scientifique/Les 5 niveaux de savoir.md",
-      "x": 643.9134521484375,
-      "y": 1482.8834228515625
+      "x": 1596.297607421875,
+      "y": 723.5304565429688
     },
     {
       "id": "02 Concepts/Méthodologie_scientifique/Méthodes d’apprentissage efficaces et fausses bonnes idées.md",
-      "x": 541.864013671875,
-      "y": 1582.6953125
+      "x": 1520.765380859375,
+      "y": 816.7611694335938
+    },
+    {
+      "id": "02 Concepts/Méthodologie_scientifique/Rôle et responsabilité de l'ingénieur.md",
+      "x": 1245.188232421875,
+      "y": 1371.488037109375
+    },
+    {
+      "id": "02 Concepts/Méthodologie_scientifique/Techniques d'apprentissage et rappel actif.md",
+      "x": 1092.9349365234375,
+      "y": 1405.2095947265625
+    },
+    {
+      "id": "02 Concepts/Méthodologie_scientifique/Usage critique des intelligences artificielles.md",
+      "x": 1145.5989990234375,
+      "y": 1297.385986328125
+    },
+    {
+      "id": "02 Concepts/Physique/Bilan énergétique et applications de l'effet photoélectrique.md",
+      "x": -1409.988037109375,
+      "y": -688.66015625
+    },
+    {
+      "id": "02 Concepts/Physique/Cinématique et Deuxième loi de Newton.md",
+      "x": -164.431640625,
+      "y": -497.2693176269531
+    },
+    {
+      "id": "02 Concepts/Physique/Circuit RC - Charge et décharge.md",
+      "x": 801.8869018554688,
+      "y": -662.6050415039062
+    },
+    {
+      "id": "02 Concepts/Physique/Diffraction des ondes.md",
+      "x": -1193.9656982421875,
+      "y": -1127.012451171875
+    },
+    {
+      "id": "02 Concepts/Physique/Dynamique des fluides et relation de Bernoulli.md",
+      "x": -699.6253051757812,
+      "y": -1159.2408447265625
+    },
+    {
+      "id": "02 Concepts/Physique/Effet Doppler.md",
+      "x": -1306.73974609375,
+      "y": -989.8880004882812
+    },
+    {
+      "id": "02 Concepts/Physique/Effet photoélectrique et modèle du photon.md",
+      "x": -1521.5733642578125,
+      "y": -732.7692260742188
+    },
+    {
+      "id": "02 Concepts/Physique/Interférences ondulatoires.md",
+      "x": -1283.72021484375,
+      "y": -1206.6627197265625
+    },
+    {
+      "id": "02 Concepts/Physique/La lunette astronomique afocale.md",
+      "x": -1159.7684326171875,
+      "y": -1274.0633544921875
+    },
+    {
+      "id": "02 Concepts/Physique/Le condensateur et l'intensité du courant.md",
+      "x": 829.2996215820312,
+      "y": -544.4400024414062
+    },
+    {
+      "id": "02 Concepts/Physique/Modèle du gaz parfait.md",
+      "x": 428.6640930175781,
+      "y": -943.5621337890625
+    },
+    {
+      "id": "02 Concepts/Physique/Niveau d'intensité sonore et atténuation.md",
+      "x": -1345.099365234375,
+      "y": -1103.55810546875
+    },
+    {
+      "id": "02 Concepts/Physique/Poussée d'Archimède.md",
+      "x": -647.1834106445312,
+      "y": -1041.9569091796875
+    },
+    {
+      "id": "02 Concepts/Physique/Premier principe de la thermodynamique.md",
+      "x": 382.31060791015625,
+      "y": -812.3754272460938
+    },
+    {
+      "id": "02 Concepts/Physique/Transferts thermiques, résistance et loi de Newton.md",
+      "x": 494.9554443359375,
+      "y": -732.182373046875
+    },
+    {
+      "id": "02 Concepts/Thermodynamique/0 Toutes les formules.md",
+      "x": 437.5834045410156,
+      "y": -1750.48291015625
+    },
+    {
+      "id": "02 Concepts/Thermodynamique/Mesure de pression et échelles de température.md",
+      "x": -257.3805236816406,
+      "y": -1265.56689453125
+    },
+    {
+      "id": "02 Concepts/Thermodynamique/Statique des fluides et poussée d'Archimède.md",
+      "x": -350.73687744140625,
+      "y": -1118.5333251953125
+    },
+    {
+      "id": "02 Concepts/Thermodynamique/Système thermodynamique et milieu extérieur.md",
+      "x": 41.801719665527344,
+      "y": -1334.325439453125
+    },
+    {
+      "id": "02 Concepts/Thermodynamique/Travail des forces de pression et transfert thermique.md",
+      "x": -126.01654815673828,
+      "y": -999.4183349609375
+    },
+    {
+      "id": "02 Concepts/Thermodynamique/Variables d'état et équilibre thermodynamique.md",
+      "x": -119.11444854736328,
+      "y": -1336.1849365234375
+    },
+    {
+      "id": "Fonctions de plusieurs variables et dérivées partielles",
+      "x": -193.62063598632812,
+      "y": -1446.7861328125
+    },
+    {
+      "id": "02 Concepts/Thermodynamique/Énergie interne et formes d'énergie.md",
+      "x": 72.18046569824219,
+      "y": -1201.913818359375
+    },
+    {
+      "id": "02 Concepts/Électronique_numérique/Portes logiques et algèbre de Boole.md",
+      "x": -998.1817016601562,
+      "y": 1270.371826171875
+    },
+    {
+      "id": "02 Concepts/Électronique_numérique/Propriétés de l'algèbre de Boole.md",
+      "x": -882.1348876953125,
+      "y": 1213.7325439453125
+    },
+    {
+      "id": "Conception d'un circuit logique",
+      "x": -923.6901245117188,
+      "y": 1101.1959228515625
+    },
+    {
+      "id": "02 Concepts/Électronique_numérique/Représentations d'une fonction logique.md",
+      "x": -935.8245239257812,
+      "y": 1382.15625
+    },
+    {
+      "id": "Composants d'électronique numérique et FPGA",
+      "x": -1007.6124877929688,
+      "y": 1478.2935791015625
+    },
+    {
+      "id": "05 Ressources/Latex all caractères.md",
+      "x": 619.1651000976562,
+      "y": -1449.2335205078125
+    },
+    {
+      "id": "05 Ressources/Latex.md",
+      "x": -533.6515502929688,
+      "y": -1779.9840087890625
+    },
+    {
+      "id": "05 Ressources/Tuto utiliser ma configuration.md",
+      "x": -230.91368103027344,
+      "y": -1882.179931640625
+    },
+    {
+      "id": "06 Templates/Concepts.md",
+      "x": -968.48193359375,
+      "y": -1569.213134765625
+    },
+    {
+      "id": "06 Templates/Cours.md",
+      "x": 1853.075927734375,
+      "y": -239.9664764404297
+    },
+    {
+      "id": "06 Templates/MOC.md",
+      "x": 818.3709716796875,
+      "y": -1532.9898681640625
+    },
+    {
+      "id": "07 MOC/Concepts/Info/MOC Langage C.md",
+      "x": -1565.595947265625,
+      "y": 543.225830078125
+    },
+    {
+      "id": "07 MOC/Concepts/Math/MOC Algèbre.md",
+      "x": 1121.5181884765625,
+      "y": 561.9764404296875
+    },
+    {
+      "id": "07 MOC/Concepts/Math/MOC Analyse.md",
+      "x": 221.213134765625,
+      "y": 635.7567138671875
+    },
+    {
+      "id": "07 MOC/Concepts/Math/MOC Arithmetique.md",
+      "x": -1392.72412109375,
+      "y": -97.3699722290039
+    },
+    {
+      "id": "07 MOC/Concepts/Math/MOC Combinatoire.md",
+      "x": 692.5385131835938,
+      "y": 1095.429931640625
+    },
+    {
+      "id": "07 MOC/Concepts/Math/MOC Démonstration.md",
+      "x": -497.3759460449219,
+      "y": 997.5786743164062
+    },
+    {
+      "id": "07 MOC/Concepts/Math/MOC Dénombrement.md",
+      "x": 717.8095092773438,
+      "y": 1212.736083984375
+    },
+    {
+      "id": "07 MOC/Concepts/Math/MOC Dérivation.md",
+      "x": 240.64559936523438,
+      "y": -493.1785583496094
+    },
+    {
+      "id": "07 MOC/Concepts/Math/MOC Ensemble.md",
+      "x": 520.3757934570312,
+      "y": 881.9760131835938
+    },
+    {
+      "id": "07 MOC/Concepts/Math/MOC Fonction.md",
+      "x": 293.3115234375,
+      "y": -56.54987335205078
+    },
+    {
+      "id": "07 MOC/Concepts/Math/MOC Géométrie 3d.md",
+      "x": -781.8944091796875,
+      "y": -434.0123596191406
+    },
+    {
+      "id": "07 MOC/Concepts/Math/MOC Integrales.md",
+      "x": -30.7752685546875,
+      "y": -536.6243896484375
+    },
+    {
+      "id": "07 MOC/Concepts/Math/MOC Limites.md",
+      "x": -21.76119041442871,
+      "y": 275.60589599609375
+    },
+    {
+      "id": "07 MOC/Concepts/Math/MOC Logique.md",
+      "x": -230.11917114257812,
+      "y": 954.695068359375
+    },
+    {
+      "id": "07 MOC/Concepts/Math/MOC Lois.md",
+      "x": 130.1938018798828,
+      "y": 1635.2213134765625
+    },
+    {
+      "id": "07 MOC/Concepts/Math/MOC Nombres complexes.md",
+      "x": 1314.25146484375,
+      "y": 280.4240417480469
+    },
+    {
+      "id": "07 MOC/Concepts/Math/MOC Probabilites.md",
+      "x": 5.519707679748535,
+      "y": 1384.649658203125
+    },
+    {
+      "id": "07 MOC/Concepts/Math/MOC Résolution d'équations.md",
+      "x": 548.8736572265625,
+      "y": 62.04756546020508
+    },
+    {
+      "id": "07 MOC/Concepts/Math/MOC Statistiques.md",
+      "x": -333.2026062011719,
+      "y": 1472.6458740234375
+    },
+    {
+      "id": "07 MOC/Concepts/Math/MOC Suite.md",
+      "x": -508.71337890625,
+      "y": 354.273193359375
+    },
+    {
+      "id": "07 MOC/Concepts/Math/MOC Trigonométrie.md",
+      "x": 1059.9361572265625,
+      "y": 105.19740295410156
+    },
+    {
+      "id": "07 MOC/Concepts/Math/MOC Vecteurs.md",
+      "x": -636.28759765625,
+      "y": -516.3177490234375
+    },
+    {
+      "id": "07 MOC/Concepts/Méthodologie_scientifique/MOC Demarche.md",
+      "x": 1368.40087890625,
+      "y": 1196.6905517578125
+    },
+    {
+      "id": "07 MOC/Concepts/Méthodologie_scientifique/MOC Methode.md",
+      "x": 1405.473388671875,
+      "y": 1020.6026000976562
+    },
+    {
+      "id": "07 MOC/Concepts/Méthodologie_scientifique/MOC Théorie.md",
+      "x": 1715.8753662109375,
+      "y": 713.731689453125
+    },
+    {
+      "id": "07 MOC/Concepts/Physique/MOC Acoustique.md",
+      "x": -1462.6397705078125,
+      "y": -1127.6239013671875
+    },
+    {
+      "id": "07 MOC/Concepts/Physique/MOC Astrophysique.md",
+      "x": -1239.8721923828125,
+      "y": -890.2784423828125
+    },
+    {
+      "id": "07 MOC/Concepts/Physique/MOC Dynamique.md",
+      "x": 918.0941772460938,
+      "y": -632.7984619140625
+    },
+    {
+      "id": "07 MOC/Concepts/Physique/MOC Fluides.md",
+      "x": -560.0707397460938,
+      "y": -1167.476806640625
+    },
+    {
+      "id": "07 MOC/Concepts/Physique/MOC Lumière.md",
+      "x": -1493.415283203125,
+      "y": -602.405517578125
+    },
+    {
+      "id": "07 MOC/Concepts/Physique/MOC Mécanique.md",
+      "x": -267.62542724609375,
+      "y": -558.4721069335938
+    },
+    {
+      "id": "07 MOC/Concepts/Physique/MOC Ondes.md",
+      "x": -1415.723388671875,
+      "y": -916.166015625
+    },
+    {
+      "id": "07 MOC/Concepts/Physique/MOC Optique.md",
+      "x": -1086.014892578125,
+      "y": -1179.4232177734375
+    },
+    {
+      "id": "07 MOC/Concepts/Physique/MOC Quantique.md",
+      "x": -1630.818115234375,
+      "y": -683.1497802734375
+    },
+    {
+      "id": "07 MOC/Concepts/Physique/MOC Signaux.md",
+      "x": 1185.254150390625,
+      "y": -313.45904541015625
+    },
+    {
+      "id": "07 MOC/Concepts/Physique/MOC Thermodynamique.md",
+      "x": 540.9237670898438,
+      "y": -901.2057495117188
+    },
+    {
+      "id": "07 MOC/Concepts/Physique/MOC Électricité.md",
+      "x": 1134.8363037109375,
+      "y": -685.0184326171875
+    },
+    {
+      "id": "07 MOC/Concepts/Thermodynamique/MOC Energie.md",
+      "x": 182.88943481445312,
+      "y": -1249.5093994140625
+    },
+    {
+      "id": "07 MOC/Concepts/Thermodynamique/MOC Mesure.md",
+      "x": -343.7159729003906,
+      "y": -1348.906494140625
+    },
+    {
+      "id": "07 MOC/Concepts/Thermodynamique/MOC Systeme.md",
+      "x": 116.2103500366211,
+      "y": -1440.7457275390625
+    },
+    {
+      "id": "07 MOC/Concepts/Thermodynamique/MOC Transfert.md",
+      "x": -135.00038146972656,
+      "y": -1119.040283203125
+    },
+    {
+      "id": "07 MOC/Concepts/Thermodynamique/MOC Variables.md",
+      "x": -74.83440399169922,
+      "y": -1463.7080078125
+    },
+    {
+      "id": "07 MOC/Concepts/Électronique_numérique/MOC Boole.md",
+      "x": -798.2850341796875,
+      "y": 1299.541015625
+    },
+    {
+      "id": "Dashboard.md",
+      "x": 1020.439453125,
+      "y": -1548.0283203125
+    },
+    {
+      "id": "Sans titre.base",
+      "x": 640.8937377929688,
+      "y": 1782.28564453125
+    },
+    {
+      "id": "Sans titre.md",
+      "x": 184.36911010742188,
+      "y": -1863.9127197265625
+    },
+    {
+      "id": "02 Concepts/Elen1/Lois fondamentales de l'électricité (Kirchhoff et Ohm).md",
+      "x": 1330.128173828125,
+      "y": -888.29345703125
+    },
+    {
+      "id": "07 MOC/Concepts/Elen1/MOC Lois.md",
+      "x": 1411.93994140625,
+      "y": -976.0734252929688
+    },
+    {
+      "id": "02 Concepts/Elen1/Méthode de résolution d'un circuit électrique.md",
+      "x": 1267.4595947265625,
+      "y": -630.2718505859375
+    },
+    {
+      "id": "07 MOC/Concepts/Elen1/MOC Methode.md",
+      "x": 1280.6175537109375,
+      "y": -749.505126953125
+    },
+    {
+      "id": "02 Concepts/Elen1/Résistance électrique et loi d'Ohm.md",
+      "x": 1246.4888916015625,
+      "y": -1029.4796142578125
+    },
+    {
+      "id": "07 MOC/Concepts/Elen1/MOC Composants.md",
+      "x": 1262.0574951171875,
+      "y": -1149.26953125
+    },
+    {
+      "id": "02 Concepts/Elen1/Groupements de résistances (Série et Parallèle).md",
+      "x": 1148.6973876953125,
+      "y": -922.8571166992188
+    },
+    {
+      "id": "07 MOC/Concepts/Elen1/MOC Circuits.md",
+      "x": 1047.0970458984375,
+      "y": -986.7056274414062
+    },
+    {
+      "id": "01 Cours/Elen1/CM2, Elen1 2026-09-07.md",
+      "x": 1139.7371826171875,
+      "y": -1084.2884521484375
+    },
+    {
+      "id": "01 Cours/Elen1/Exercices sur les lois générales d'électricité, Elen1 2026-09-03.md",
+      "x": 1489.74609375,
+      "y": -464.65899658203125
+    },
+    {
+      "id": "01 Cours/Elen1/Exos et cours sur les mailles et les noeuds, Elen1 2026-09-07.md",
+      "x": 1513.614990234375,
+      "y": -826.0232543945312
+    },
+    {
+      "id": "01 Cours/Elen1/Intro Cm1-Types de régime en électicité, Elen1 2026-09-01.md",
+      "x": 1357.05810546875,
+      "y": -277.8463439941406
+    },
+    {
+      "id": "01 Cours/Info/Dessin carré et exos,  2026-09-07.md",
+      "x": -1046.2784423828125,
+      "y": 591.7618408203125
+    },
+    {
+      "id": "01 Cours/Info/Intro à l'algo et au language C, Info 2026-09-01.md",
+      "x": -1315.2476806640625,
+      "y": 963.4716796875
+    },
+    {
+      "id": "01 Cours/Info/Visionnage de la vidéo, Info 2026-09-02.md",
+      "x": -1680.5538330078125,
+      "y": 231.7345428466797
+    },
+    {
+      "id": "01 Cours/Info/suite algo et exos, Info 2026-09-07.md",
+      "x": -1037.6748046875,
+      "y": 288.2585754394531
+    },
+    {
+      "id": "01 Cours/Math/Intro-Logique et raisonnement mathématiques, Math 2026-09-02.md",
+      "x": -679.2216796875,
+      "y": 1127.057861328125
+    },
+    {
+      "id": "01 Cours/Math/Suite des raisonnement et Ensembles, Math 2026-09-04.md",
+      "x": 96.59903717041016,
+      "y": 906.92529296875
+    },
+    {
+      "id": "01 Cours/Méthodologie_scientifique/Apprendre à apprendrer, Méthodologie_scientifique 2026-09-04.md",
+      "x": 1657.3963623046875,
+      "y": 590.3130493164062
+    },
+    {
+      "id": "01 Cours/Méthodologie_scientifique/Intro, Méthodologie_scientifique 2026-09-02.md",
+      "x": 1181.056884765625,
+      "y": 1486.6588134765625
+    },
+    {
+      "id": "01 Cours/Sans titre.base",
+      "x": -765.982177734375,
+      "y": -1677.1727294921875
+    },
+    {
+      "id": "01 Cours/Thermodynamique/Intro à la Thermodynamique, Thermodynamique 2026-09-04.md",
+      "x": 5.662101745605469,
+      "y": -1102.0440673828125
+    },
+    {
+      "id": "02 Concepts/Info/Syntaxe et structure en algorithmique.md",
+      "x": -1194.674560546875,
+      "y": 393.4285583496094
+    },
+    {
+      "id": "07 MOC/Concepts/Info/MOC Algorithmique.md",
+      "x": -1085.768310546875,
+      "y": 443.75213623046875
+    },
+    {
+      "id": "07 MOC/Concepts/Info/MOC Syntaxe.md",
+      "x": -1375.417724609375,
+      "y": 393.2810974121094
     }
   ],
   "pinnedNodes": [],

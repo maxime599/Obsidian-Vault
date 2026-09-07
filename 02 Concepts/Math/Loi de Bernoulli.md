@@ -8,7 +8,7 @@ tags:
   - math/lois
 MOC:
   - "[[MOC Probabilites]]"
-  - "[[MOC Lois]]"
+  - "[[07 MOC/Concepts/Math/MOC Lois]]"
 date_creation: 2026-07-27
 ---
 # Loi de Bernoulli

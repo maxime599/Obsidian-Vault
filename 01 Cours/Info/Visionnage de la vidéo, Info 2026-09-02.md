@@ -45,6 +45,8 @@ dv.paragraph(`**Précédent :** ${getCleanLink(prev)} | **Suivant :** ${getClean
 ## Exercices
 
 Comment faire dessiner un carré à un homme :
+Outils : régle et compas
+
 1. Tracer un cercle de centre O, disons de rayon 1
 2. Tracer une droite passant par O. La droite coupe le cercle en deux points, appelons les A et C
 3. tracer ensuite deux cercles de centre A et C et de même rayon, qui se doit d'être supérieur à 1
