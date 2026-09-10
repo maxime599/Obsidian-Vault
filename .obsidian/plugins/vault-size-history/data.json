@@ -9,13 +9,6 @@
   "legendOrder": "ASCENDING_CHART_VALUE",
   "categories": [
     {
-      "id": 1,
-      "name": "All Files",
-      "pattern": ":regex:.*$",
-      "color": "#0ded17",
-      "alwaysApply": true
-    },
-    {
       "id": 2,
       "name": "Notes",
       "pattern": ":regex:.*\\.(md)$",
@@ -28,6 +21,20 @@
       "pattern": ":regex:.*$",
       "color": "#0dd6a8",
       "alwaysApply": false
+    },
+    {
+      "alwaysApply": false,
+      "color": "#0DAEED",
+      "id": 4,
+      "name": "Not in ABC folder",
+      "pattern": ":not_in:[]"
+    },
+    {
+      "id": 1,
+      "name": "All Files",
+      "pattern": ":regex:.*$",
+      "color": "#0ded17",
+      "alwaysApply": true
     }
   ],
   "startDateBasedOn": 2,

@@ -40,7 +40,38 @@ Un algorithme bien structuré se divise en deux parties principales :
   - La division réelle `/` renvoie un nombre réel (ex: `5 / 3`). On ne peut pas affecter directement son résultat à un entier.
   - Pour obtenir le quotient entier de deux nombres, on utilise l'opérateur `div` (ex: `a <- a div 3`).
 
+
+## 3. Syntaxe des fonctions
+
+L'intégration d'une fonction dans un algorithme respecte une structure en trois étapes distinctes :
+
+1. **Déclaration (Prototype)** : Insérée dans le lexique principal pour spécifier la signature de la fonction (nom, paramètres et type de retour).
+2. **Appel** : Effectué dans le corps de l'algorithme principal en affectant le résultat de la fonction à une variable compatible (`resultat <- f(xp)`).
+3. **Définition** : Écrite en dehors de l'algorithme principal, elle contient le lexique local et les instructions propres à la fonction, conclues par le mot-clé `Retourner`.
+
+*Exemple de structure :*
+```text
+{ Lexique principal }
+f : la fonction (x : 1 réel) -> 1 réel
+
+{ Algorithme principal }
+Début
+    resultat <- f(xp)
+Fin
+
+{ Définition de la fonction f }
+f : la fonction (x : 1 réel) -> 1 réel
+Lexique :
+    res : 1 réel
+Début
+    res <- 2 * x + 3
+    Retourner res
+Fin
+````
+
+
 ## Exemple :
+```
 Lexique:
 	prix_ht : réel
 	quantite : entier
@@ -53,6 +84,7 @@ Début
 	prix_TTC $\leftarrow$ prix_ht * quantite * (taux_TVA/100 + 1)
 	Ecrire("Le prix TTC est ", prix_TTC)
 Fin
+```
 
 
 ## 📚 Cours associés

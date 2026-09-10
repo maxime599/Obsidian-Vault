@@ -18,7 +18,7 @@
             }
           },
           {
-            "id": "f2255e8532829140",
+            "id": "5b79c6f4995cc2db",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,41 +32,43 @@
             }
           },
           {
-            "id": "77e9c20fb338170c",
+            "id": "387cf98787af1d92",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Concepts/Elen1/Résistance électrique et loi d'Ohm.md",
+                "file": "01 Cours/Info/Les fonctions, Info 2026-09-10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Résistance électrique et loi d'Ohm"
-            }
-          },
-          {
-            "id": "9e7b1f3e02616da4",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vue graphique"
-            }
-          },
-          {
-            "id": "b04c49a0feee47fb",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "title": "Les fonctions, Info 2026-09-10"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
+      },
+      {
+        "id": "07d7df8cda0f76db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6bfc4df79e6827ba",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "05 Ressources/PDF exos cours/Exercices_info1.pdf",
+                "page": 16,
+                "left": -4,
+                "top": 733,
+                "zoom": 0.99
+              },
+              "icon": "lucide-file-text",
+              "title": "Exercices_info1"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,7 +80,7 @@
       {
         "id": "289ebf2b2dde5655",
         "type": "tabs",
-        "dimension": 75.77319587628865,
+        "dimension": 74.94845360824742,
         "children": [
           {
             "id": "a3835c23a2cd8cab",
@@ -101,7 +103,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:Méthodologie_scientifique/théorie",
+                "query": "tag:#math/algebre  ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -128,12 +130,12 @@
         ]
       },
       {
-        "id": "babd2a564530cc72",
+        "id": "85ae72c5e5643132",
         "type": "tabs",
-        "dimension": 24.22680412371134,
+        "dimension": 25.051546391752577,
         "children": [
           {
-            "id": "387cf98787af1d92",
+            "id": "99f95a1d5aaea79f",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -146,7 +148,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.9296875
+    "width": 256.4609375
   },
   "right": {
     "id": "94f8b3aa2bee7d17",
@@ -278,7 +280,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.19140625
+    "width": 501.37890625
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -305,33 +307,43 @@
       "cmdr:Templater: Create Concepts": false
     }
   },
-  "active": "b04c49a0feee47fb",
+  "active": "aeb8dcd12e8ef37d",
   "lastOpenFiles": [
-    "02 Concepts/Elen1/Résistance électrique et loi d'Ohm.md",
-    "Dashboard.md",
-    "02 Concepts/Elen1/Méthode de résolution d'un circuit électrique.md",
-    "02 Concepts/Elen1/Lois fondamentales de l'électricité (Kirchhoff et Ohm).md",
-    "02 Concepts/Info/Syntaxe et structure en algorithmique.md",
-    "01 Cours/Info/suite algo et exos, Info 2026-09-07.md",
     "05 Ressources/PDF exos cours/Exercices_info1.pdf",
-    "01 Cours/Elen1/Exos et cours sur les mailles et les noeuds, Elen1 2026-09-07.md",
-    "01 Cours/Info/Dessin carré et exos,  2026-09-07.md",
-    "02 Concepts/Info/Syntaxe en C.md",
-    "07 MOC/Concepts/Info/MOC Algorithmique.md",
-    "07 MOC/Concepts/Info/MOC Syntaxe.md",
-    "01 Cours/Elen1/CM2, Elen1 2026-09-07.md",
+    "01 Cours/Info/Les fonctions, Info 2026-09-10.md",
+    "Dashboard.md",
+    "02 Concepts/Info/Syntaxe et structure en algorithmique.md",
+    "02 Concepts/Info/Fonctions et modularité en algorithmique.md",
+    "07 MOC/Concepts/Info/MOC Fonctions.md",
+    "05 Ressources/PDF Cours/Info1_Slides.pdf",
+    "01 Cours/Info/Visionnage vidéo chap3, Info 2026-09-09.md",
+    "05 Ressources/PDF Cours/Principes de la thermodynamique chapitres I et II.pdf",
+    "01 Cours/Math/ensemble chapitre 2, Math 2026-09-09.md",
+    "01 Cours/Thermodynamique/Suite chapitre 1 et 2, Thermodynamique 2026-09-09.md",
+    "02 Concepts/Thermodynamique/Modèle du gaz parfait, lois de Joule et relation de Mayer.md",
+    "02 Concepts/Math/Composition d'applications et application identité.md",
+    "Sans titre 1.md",
+    "02 Concepts/Math/Image directe et image réciproque.md",
+    "02 Concepts/Math/Injectivité, surjectivité et bijectivité.md",
+    "02 Concepts/Math/Application réciproque d'une bijection.md",
+    "02 Concepts/Math/Applications, restrictions et prolongements.md",
+    "02 Concepts/Elen1/Méthode de résolution d'un circuit électrique.md",
     "02 Concepts/Elen1/Groupements de résistances (Série et Parallèle).md",
-    "07 MOC/Concepts/Elen1/MOC Circuits.md",
-    "07 MOC/Concepts/Elen1/MOC Groupements de résistances (Série et Parallèle).md",
-    "07 MOC/Concepts/Elen1/MOC Composants.md",
-    "07 MOC/Concepts/Math/MOC Résolution d'équations.md",
-    "07 MOC/Concepts/Elen1/MOC Methode.md",
-    "02 Concepts/Elen1/Methode.md",
-    "02 Concepts/Elen1/Branchement en électricité.md",
-    "02 Concepts/Elen1/Conventions en électricité.md",
-    "02 Concepts/Elen1/Types de régime en électicité.md",
-    "07 MOC/Concepts/Elen1/MOC Lois.md",
-    "07 MOC/Concepts/Elen1",
+    "02 Concepts/Thermodynamique/Typologie des transformations et réversibilité - Premier Principe de la thermodynamique.md",
+    "02 Concepts/Thermodynamique/Variables d'état et équilibre thermodynamique.md",
+    "02 Concepts/Thermodynamique/Détentes de Joule (Joule-Gay-Lussac et Joule-Thomson).md",
+    "02 Concepts/Thermodynamique/Calorimétrie et coefficients calorimétriques.md",
+    "02 Concepts/Thermodynamique/Diagramme de Clapeyron.md",
+    "07 MOC/Concepts/Thermodynamique/MOC Transformations.md",
+    "07 MOC/Concepts/Thermodynamique/MOC Diagrammes.md",
+    "07 MOC/Concepts/Thermodynamique/MOC Calorimetrie.md",
+    "Sans titre.base",
+    "05 Ressources/PDF Cours/Si_cours_math_chap2.pdf",
+    "07 MOC/Concepts/SAé",
+    "02 Concepts/SAé",
+    "05 Ressources/PDF Cours/SAé Les appareils de mesure.pdf",
+    "01 Cours/SAé",
+    "01 Cours/Anglais",
     "05 Ressources/Pièces jointes collées/IMG_20260907_195028.jpg",
     "05 Ressources/Pièces jointes collées/IMG_20260907_194926.jpg",
     "05 Ressources/Pièces jointes collées/IMG_20260907_194938.jpg",
@@ -339,16 +351,6 @@
     "05 Ressources/Pièces jointes collées/IMG_20260907_195011.jpg",
     "05 Ressources/Pièces jointes collées/IMG_20260907_195020.jpg",
     "05 Ressources/Pièces jointes collées/IMG_20260907_195023.jpg",
-    "01 Cours/Math/Suite des raisonnement et Ensembles, Math 2026-09-04.md",
-    "01 Cours/Math/Intro-Logique et raisonnement mathématiques, Math 2026-09-02.md",
-    "05 Ressources/PDF Cours/Info1_Slides.pdf",
-    "Excalidraw",
-    "05 Ressources/PDF exos cours",
-    "Sans titre.base",
-    "05 Ressources/PDF Cours/Si_cours_math_chap2.pdf",
-    "file_index.sync-conflict-20260905-211313-HMMSCX5.csv",
-    "05 Ressources/PDF Cours/Principes de la thermodynamique chapitres I et II.pdf",
-    "05 Ressources/DS années précédentes/Physique S2/Électrostatique/2026 - TD2 - Électrostat.pdf",
     "05 Ressources/Pièces jointes collées/IMG_20260903_150223.jpg",
     "05 Ressources/Pièces jointes collées/IMG_20260903_150228.jpg",
     "05 Ressources/Pièces jointes collées/IMG_20260903_150218.jpg",

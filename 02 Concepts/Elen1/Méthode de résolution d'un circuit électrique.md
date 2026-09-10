@@ -27,6 +27,8 @@ Ressources:
 | **2. Lois de Kirchhoff** | Mailles & Nœuds | Écrire les équations de la **loi des mailles** ($\sum U = 0$) et de la **loi des nœuds** ($\sum I = 0$). |
 | **3. Application de la loi d'Ohm** | Substitution $U \to R \cdot I$ | Exprimer chaque tension de composant résistif en fonction du courant correspondant ($U_k = R_k \cdot I_k$) et l'injecter dans les équations de mailles. |
 | **4. Calcul algébrique** | Système d'équations | Réduire le nombre d'inconnues par substitution des courants afin d'obtenir et résoudre un système linéaire. |
+Si le circuit est plusieurs résistances emmêlé, il faut refaire le circuit au brouillon de sorte que toutes les résistances soient horizontales. Il faudra aussi utiliser les formules du [[Groupements de résistances (Série et Parallèle)]]
+
 
 
 ## 2. Exemple d'application (Étude de cas)
@@ -46,6 +48,7 @@ Sur un circuit comportant un générateur $E$ et trois résistances $R_1, R_2, R
 
 - [[Lois fondamentales de l'électricité (Kirchhoff et Ohm)]]
 - [[Conventions en électricité]]
+- [[Groupements de résistances (Série et Parallèle)]]
 
 
 ## 📚 Cours associés

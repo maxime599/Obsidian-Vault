@@ -2,7 +2,7 @@
   "nodePath": "/usr/bin/node",
   "nodePathUpdatedToNode20": true,
   "nodePathUpdatedToNode22": true,
-  "enabled": true,
+  "enabled": false,
   "hotkeys": {
     "accept": "Tab",
     "cancel": "Escape",

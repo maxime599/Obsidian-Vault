@@ -17,8 +17,9 @@ SORT date ASC
 TASK
 FROM "01 Cours"
 WHERE !completed
+GROUP BY regexreplace(file.folder, ".*/", "")
 ```
-
+- [ ] Transformer le cours de auto en concept
 
 
 # Derniers concepts vus aujourd'hui

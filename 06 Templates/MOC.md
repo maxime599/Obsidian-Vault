@@ -8,7 +8,8 @@ const matieres = [
   "Méthodologie_scientifique",
   "Physique",
   "Thermodynamique",
-  "Anglais"
+  "Anglais",
+  "SAé"
 ];
 
 const dossiers = [
@@ -19,7 +20,8 @@ const dossiers = [
   "07 MOC/Concepts/Méthodologie_scientifique",
   "07 MOC/Concepts/Physique",
   "07 MOC/Concepts/Thermodynamique",
-  "07 MOC/Concepts/Anglais"
+  "07 MOC/Concepts/Anglais",
+  "07 MOC/Concepts/SAé"
 ];
 
 // Menu déroulant

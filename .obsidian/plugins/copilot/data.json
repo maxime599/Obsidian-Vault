@@ -22,7 +22,7 @@
   "siliconflowApiKey": "",
   "githubCopilotAccessToken": "",
   "githubCopilotToken": "",
-  "githubCopilotTokenExpiresAt": 1788724492000,
+  "githubCopilotTokenExpiresAt": 1788894252000,
   "defaultChainType": "llm_chain",
   "defaultModelKey": "gpt-5.5|openai",
   "embeddingModelKey": "nomic-embed-text|ollama",

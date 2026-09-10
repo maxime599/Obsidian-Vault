@@ -2,7 +2,7 @@ filters:
   and:
     - and:
         - file.hasTag("concepts")
-        - file.hasTag("math")
+        - file.hasTag("Thermodynamique")
         - file.ctime > "2026-08-30"
 views:
   - type: table

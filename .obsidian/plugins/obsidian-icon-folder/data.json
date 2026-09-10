@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "OuRobot",
+      "RiFireLine",
+      "IbLightBulb",
       "IbLightning",
-      "OuCpu",
-      "OuBinary",
-      "OuLayoutDashboard",
-      "OiNotebook"
+      "OuCpu"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -45,13 +45,15 @@
   "06 Templates": "LiLayoutTemplate",
   "07 MOC": "FasArrowsToCircle",
   "copilot": "SiGooglegemini",
-  "01 Cours/Physique": "LiApple",
   "02 Concepts/Physique": {
     "iconName": "LiApple",
     "iconColor": "#164e0e"
   },
   "05 Ressources/PDF Cours physique": "TiPdf",
-  "01 Cours/Math": "TiMathPi",
+  "01 Cours/Math": {
+    "iconName": "TiMathPi",
+    "iconColor": "#653939"
+  },
   "01 Cours/Info": {
     "iconName": "OuCpu",
     "iconColor": "#6a5f10"
@@ -79,5 +81,23 @@
   "02 Concepts/Math": {
     "iconName": "TiMathPi",
     "iconColor": "#7d2626"
-  }
+  },
+  "01 Cours/Méthodologie_scientifique": {
+    "iconName": "IbLightBulb",
+    "iconColor": "#614b33"
+  },
+  "01 Cours/Thermodynamique": {
+    "iconName": "RiFireLine",
+    "iconColor": "#5e4280"
+  },
+  "02 Concepts/Méthodologie_scientifique": {
+    "iconName": "IbLightBulb",
+    "iconColor": "#a25c0b"
+  },
+  "02 Concepts/Thermodynamique": {
+    "iconName": "RiFireLine",
+    "iconColor": "#5e17b5"
+  },
+  "01 Cours/SAé": "OuRobot",
+  "02 Concepts/SAé": "OuRobot"
 }
