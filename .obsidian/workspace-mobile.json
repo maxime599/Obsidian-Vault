@@ -11,16 +11,14 @@
             "id": "5dc4c66c9ac906c5",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "05 Ressources/DS années précédentes/Mathématiques S1/2026 - DS1 - Maths.pdf",
-                "page": 1,
-                "left": -16,
-                "top": 2000,
-                "zoom": 0.185
+                "file": "Dashboard.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "2026 - DS1 - Maths"
+              "icon": "lucide-file",
+              "title": "Dashboard"
             }
           }
         ]
@@ -119,7 +117,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "05 Ressources/DS années précédentes/Mathématiques S1/2026 - DS1 - Maths.pdf",
+            "file": "Dashboard.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -166,6 +164,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "cmdr:Templater: Create MOC": false,
       "switcher:Ouvrir le sélecteur rapide": false,
       "graph:Ouvrir la vue graphique": false,
       "canvas:Créer une nouvelle toile": false,
@@ -189,6 +188,12 @@
   },
   "active": "5dc4c66c9ac906c5",
   "lastOpenFiles": [
+    "01 Cours/Math/ensemble chapitre 2, Math 2026-09-09.md",
+    "Dashboard.md",
+    "05 Ressources/Latex.md",
+    "05 Ressources/DS années précédentes/Mathématiques S1/2026 - DS1 - Maths.pdf",
+    "01 Cours/Math/Suite des raisonnement et Ensembles, Math 2026-09-04.md",
+    "01 Cours/Virtual Events.md",
     "Sans titre.md",
     "file_index.sync-conflict-20260905-211313-HMMSCX5.csv",
     "05 Ressources/DS années précédentes/Physique S1/Optique Géométrique (TSE)/2026 - DS1 - Optique (TSE).pdf",
@@ -199,9 +204,6 @@
     "05 Ressources/DS années précédentes/Physique S2/Mécanique/2026 - DS1 - Méca.pdf",
     "05 Ressources/DS années précédentes/Physique S2/Électrostatique/2025 - DS1 - Électrostat.pdf",
     "05 Ressources/DS années précédentes/Physique S2/Mécanique/2025 - DS2 - Méca.pdf",
-    "05 Ressources/DS années précédentes/Mathématiques S1/2025 - DS2 - Maths.pdf",
-    "Test.md",
-    "01 Cours/Math/Suite des raisonnement et Ensembles, Math 2026-09-04.md",
-    "Dashboard.md"
+    "Test.md"
   ]
 }

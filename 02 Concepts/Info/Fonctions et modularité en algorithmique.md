@@ -10,15 +10,6 @@ MOC:
 date_creation: 2026-09-09
 Ressources:
 ---
----
-type: concept
-matière: Informatique
-tags:
-  - concept
-  - info/algorithmique
-  - info/fonctions
-date_creation: 2026-09-09
----
 
 # Fonctions et modularité en algorithmique
 

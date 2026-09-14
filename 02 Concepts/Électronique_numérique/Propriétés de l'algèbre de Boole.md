@@ -53,6 +53,14 @@ Ces théorèmes permettent de réduire directement la taille d'une équation :
 - $a \cdot (\bar{a} \lor b) = a \cdot b$
 
 
+## 3. Lois de De Morgan
+    
+Ces théorèmes permettent de transformer le complément d'un produit ou d'une somme en une somme ou un produit de compléments :
+
+- $\overline{a \cdot b} = \bar{a} \lor \bar{b}$
+- $\overline{a \lor b} = \bar{a} \cdot \bar{b}$
+
+
 ## 3. Méthodes de simplification d'une équation
 
 Pour simplifier algébriquement une expression logique :

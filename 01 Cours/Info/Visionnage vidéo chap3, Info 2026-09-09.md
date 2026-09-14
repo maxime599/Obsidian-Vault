@@ -9,6 +9,8 @@ tags:
   - cours
   - Info
 Concepts:
+  - "[[Fonctions et modularité en algorithmique]]"
+  - "[[Syntaxe et structure en algorithmique]]"
 Ressources:
   - "[[Info1_Slides.pdf]]"
 ---

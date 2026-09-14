@@ -68,7 +68,14 @@ Début
     Retourner res
 Fin
 ````
+#### Méthode découpage fonctionnel
+1. Lister = déclarer dans le lexique principal avec R, E, S les fonctions du découpage
+2. Compléter le lexique principal et réaliser l'algo principal en appelant les fonctions du découpage
+3. Définir chaque fonctions du découpage, en dehors de l'algo principal
 
+
+#### Découpe fonctionnel simple
+Découpage dans lequel on ne met pas dans des fonctions les fonctions de bases Écrire et Lire
 
 ## Exemple :
 ```

@@ -170,9 +170,9 @@ avec :
 
 Un **gaz parfait** est un modèle idéal de fluide constitué de particules ponctuelles sans interactions à distance, vérifiant à l'équilibre l'**équation d'état** :
 $$P V = n R T$$
-- $P$ : pression ($	ext{Pa}$)
-- $V$ : volume ($	ext{m}^3$)
-- $T$ : température absolue ($	ext{K}$)
+- $P$ : pression ($Pa$)
+- $V$ : volume (${m}^3$)
+- $T$ : température absolue (${K}$)
 - $n$ : nombre de moles
 - $R$ : constante universelle des gaz parfaits ($R = 8{,}31446\text{ J}\cdot\text{K}^{-1}\cdot\text{mol}^{-1}$)
 
@@ -312,7 +312,7 @@ Les variables d'état $P, V, T$ sont liées par l'équation d'état $f(P,V,T) = 
 ## À retenir
 -
 ## Travail à faire
-- [ ] Rendre l'exemple d'application p29 et p34 pour mercredi 
+- [x] Rendre l'exemple d'application p29 et p34 pour mercredi
 - [x] Transfomer en concept
 - [ ] Comprendre tout le cours et faire des exos pour s'entrainer
 

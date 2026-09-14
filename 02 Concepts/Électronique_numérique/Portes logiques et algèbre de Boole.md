@@ -72,7 +72,7 @@ La sortie est vraie ($1$) si et seulement si **toutes** les entrées sont vraies
 Symbole
 ![[Pasted image 20260901152755.png|170]]
 
-Chronogramme (voir fasticule)
+Chronogramme (voir fascicule)
 
 --- 
 
@@ -102,11 +102,53 @@ La sortie est vraie ($1$) si et seulement si les deux entrées ont des états lo
 | 1 | 0 | 1 |
 | 1 | 1 | 0 |
 
+### Fonction NAND (NON-ET)
+
+La sortie est fausse (0) si et seulement si toutes les entrées sont vraies (1). Elle correspond à l'inverse de la fonction ET.
+- Équation : $s = \overline{a \cdot b}$
+- Table de vérité :
+
+|**a**|**b**|**s**|
+|---|---|---|
+|0|0|1|
+|0|1|1|
+|1|0|1|
+|1|1|0|
+Cette fonction est appelée universelle car elle permet de créer toutes les autres à partir de celle ci
+
+
+### Fonction NOR (NON-OU)
+
+La sortie est vraie (1) si et seulement si toutes les entrées sont fausses (0). Elle correspond à l'inverse de la fonction OU.
+- Équation : $s = \overline{a \lor b}$ (ou $s = \overline{a + b}$)
+- Table de vérité : 
+
+|**a**|**b**|**s**|
+|---|---|---|
+|0|0|1|
+|0|1|0|
+|1|0|0|
+|1|1|0|
+
+### Fonction XNOR (NON-OU Exclusif / Équivalence)
+
+La sortie est vraie (1) si et seulement si les deux entrées ont le même état logique.
+- Équation : $s = \overline{a \oplus b}$ (ou $s = a \odot b$)
+- Table de vérité :
+
+| **a** | **b** | **s** |
+| ----- | ----- | ----- |
+| 0     | 0     | 1     |
+| 0     | 1     | 0     |
+| 1     | 0     | 0     |
+| 1     | 1     | 1     |
+
+
 
 ## Concepts liés
 
 - [[Représentations d'une fonction logique]]
-
+- [[Propriétés de l'algèbre de Boole]]
 
 ## 📚 Cours associés
 

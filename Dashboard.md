@@ -19,8 +19,8 @@ FROM "01 Cours"
 WHERE !completed
 GROUP BY regexreplace(file.folder, ".*/", "")
 ```
-- [ ] Transformer le cours de auto en concept
-
+- [ ] Elen1 regarder vidéo
+- [ ] préparer le tp
 
 # Derniers concepts vus aujourd'hui
 ```dataview
