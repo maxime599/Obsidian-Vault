@@ -4,6 +4,7 @@ tags:
   - concepts
   - Math
   - math/logique
+  - flashcards/Math
 MOC:
   - "[[MOC Logique]]"
 date_creation: 2026-09-04
@@ -30,8 +31,10 @@ Ressources:
 
 Pour nier une proposition quantifiée, on transforme le quantificateur et on prend la négation de l'assertion :
 
-- $\text{non}(\forall x \in E, \, P(x)) \iff \exists x \in E, \, \text{non}(P(x))$
-- $\text{non}(\exists x \in E, \, P(x)) \iff \forall x \in E, \, \text{non}(P(x))$
+- $\text{non}(\forall x \in E, \, P(x)) \iff$::$\exists x \in E, \, \text{non}(P(x))$
+<!--SR:!2026-09-22,4,270-->
+- $\text{non}(\exists x \in E, \, P(x)) \iff$::$\forall x \in E, \, \text{non}(P(x))$
+<!--SR:!2026-09-22,4,270-->
 
 
 ## 3. Importance de l'ordre des quantificateurs

@@ -9,6 +9,8 @@ tags:
   - cours
   - Info
 Concepts:
+  - "[[Syntaxe et structure en algorithmique]]"
+  - "[[Fonctions et modularité en algorithmique]]"
 Ressources:
   - "[[Exercices_info1.pdf]]"
 ---
@@ -130,17 +132,47 @@ Lexique principal
 	{R : calcule et renvoie un jour de l'année en déclinaison du soleil
 	E : un entier, le jour de l'année
 	S : un réel, la déclinaison du soleil}
-	Dec : une fonction (j : un entier) $\to$ un réem
+	Dec : une fonction (j : un entier) $\to$ un réel
 	$~$
 	{R : calcul et renvoie la durée d'insolation en heure
 	E : un entier, le jour de l'année
 	un réel, la latitude en degré
 	S : un réel, la durée d'insolation}
-	Di : un fonction (j : un entier)
+	Di : un fonction (j : un entier, lat un réel) $\to$ un réel
+	$~$
+	j : un entier
+	lat : un réel
+	duree : un réel
+	
+Algo principal
+	Ecrire("Entrer le jour de l'année et la latitude en degré")
+	Lire(j, lat)
+	duree $\leftarrow$ Di(j, lat)
+	Ecrire("La durée d'insolation est de : ", duree)
+
+
+{Définition}
+Dec : une fonction (j : un entier) $\to$ un réel
+	Lexique local
+		declinaison : un réel
+	Algo local
+		declinaison $\leftarrow$ arcsin(0.398 × sin(0.0171915 × j − 1.3962634))
+		Retourner declinaison
+		
+Di : un fonction (j : un entier, lat un réel) $\to$ un réel
+	Lexique local
+		declinaison
+		duree : un réel
+	Algo local
+		declinaison $\leftarrow$ Dec(j)
+		duree $\leftarrow$ 24/π * arccos(−tan(lat) * tan(declinaison))
+		Retourner duree
+
+
 
 ## À retenir
 -
 ## Travail à faire
-- [ ] finir l'ex 3.7
+- [x] finir l'ex 3.7
 
 

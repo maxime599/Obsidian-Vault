@@ -5,6 +5,7 @@ tags:
   - concepts
   - math
   - math/Démonstration
+  - flashcards/Math
 MOC:
   - "[[MOC Démonstration]]"
 date_creation: 2026-09-02

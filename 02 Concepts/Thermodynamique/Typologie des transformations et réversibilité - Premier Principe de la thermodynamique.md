@@ -4,8 +4,10 @@ tags:
   - concepts
   - Thermodynamique
   - thermodynamique/transformations
+  - thermodynamique/principe
 MOC:
   - "[[MOC Transformations]]"
+  - "[[MOC Principe]]"
 date_creation: 2026-09-09
 Ressources:
   - "[[Principes de la thermodynamique chapitres I et II.pdf]]"
@@ -19,26 +21,22 @@ Ressources:
 
 ## 1. Bilan du Premier Principe selon la transformation
 
-Le premier principe s'écrit $\Delta U = Q + W$ (avec $W = -\int P \, dV$).
+Le premier principe s'écrit :: $\Delta U = Q + W$ (avec $W = -\int P \, dV$).
 
-- **Transformation Isobare ($P = \text{constante}$)** :
-  $$Q_P = C_P \Delta T, \qquad W = -P \Delta V$$
-- **Transformation Isochore ($V = \text{constante}$)** :
-  $$W = 0 \implies \Delta U = Q_V = C_V \Delta T$$
-- **Transformation Isotherme ($T = \text{constante}$)** :
-  $$\Delta U = 0 \implies Q = -W = nRT \ln\left(\frac{V_F}{V_0}\right) \quad (\text{pour un gaz parfait})$$
-- **Transformation Adiabatique ($Q = 0$)** :
-  $$\Delta U = W$$
+- **Transformation Isobare ($P = \text{constante}$)** ::$$Q_P = C_P \Delta T, \qquad W = -P \Delta V$$
+- **Transformation Isochore ($V = \text{constante}$)** :: $$W = 0 \implies \Delta U = Q_V = C_V \Delta T$$
+- **Transformation Isotherme ($T = \text{constante}$)** :: $$\Delta U = 0 \implies Q = -W = nRT \ln\left(\frac{V_F}{V_0}\right) \quad (\text{pour un gaz parfait})$$
+- **Transformation Adiabatique ($Q = 0$)** :: $$\Delta U = W$$
 
 
 ## 2. Classification selon le déroulement temporel
 
-- **Transformation irréversible** : Évolution spontanée, rapide ou brutale au cours de laquelle le système passe par des états intermédiaires hors équilibre.
-- **Transformation quasi-statique** : Évolution suffisamment lente pour que le système passe par une suite continue d'états de quasi-équilibre à chaque instant.
-- **Transformation réversible** : Transformation quasi-statique pouvant être inversée par une modification infinitésimale des contraintes extérieures, ramenant le système et le milieu extérieur dans leurs états initiaux exacts.
+- **Transformation irréversible** ::: Évolution spontanée, rapide ou brutale au cours de laquelle le système passe par des états intermédiaires hors équilibre.
+- **Transformation quasi-statique** ::: Évolution suffisamment lente pour que le système passe par une suite continue d'états de quasi-équilibre à chaque instant.
+- **Transformation réversible** ::: Transformation quasi-statique pouvant être inversée par une modification infinitésimale des contraintes extérieures, ramenant le système et le milieu extérieur dans leurs états initiaux exacts.
 
 > [!warning] Attention
-> Toute transformation réversible est quasi-statique, mais la réciproque n'est pas vraie.
+> Toute transformation réversible est ==quasi-statique==, mais la réciproque n'est pas vraie.
 
 
 ## 3. Causes d'irréversibilité
@@ -59,6 +57,8 @@ L'irréversibilité d'un processus est engendrée par :
 - [[Diagramme de Clapeyron]]
 - [[Énergie interne et formes d'énergie]]
 - [[Travail des forces de pression et transfert thermique]]
+- [[Second Principe de la thermodynamique et énoncés fondamentaux]]
+- [[Calcul de la variation d'entropie]]
 
 
 ## 📚 Cours associés

@@ -5,8 +5,11 @@ tags:
   - concepts
   - physique
   - physique/thermodynamique
+  - Thermodynamique
+  - thermodynamique/principe
 MOC:
   - "[[MOC Thermodynamique]]"
+  - "[[MOC Principe]]"
 date_creation: 2026-07-28
 ---
 # Premier principe de la thermodynamique

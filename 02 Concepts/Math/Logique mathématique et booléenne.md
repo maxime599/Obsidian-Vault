@@ -5,6 +5,7 @@ tags:
   - concepts
   - math
   - Électronique_numérique/boole
+  - flashcards/Math
 MOC:
   - "[[MOC Boole]]"
 date_creation: 2026-09-02
@@ -38,24 +39,30 @@ Une **assertion** (ou proposition) est un énoncé mathématique qui est soit ex
 L'assertion « Si $P$ alors $Q$ » est **fausse uniquement lorsque $P$ est vraie et $Q$ est fausse**.
 - $P$ est une **condition suffisante** pour avoir $Q$.
 - $Q$ est une **condition nécessaire** pour avoir $P$.
-- **Réciproque** : La réciproque de $P \implies Q$ est l'implication $Q \implies P$ (une implication vraie n'implique pas que sa réciproque le soit).
+- **Réciproque** : La réciproque de $P \implies Q$ est l'implication :: $Q \implies P$ (une implication vraie n'implique pas que sa réciproque le soit).
+<!--SR:!2026-09-22,4,270-->
 
 ### L'équivalence ($P \iff Q$)
-L'assertion « $P$ si et seulement si $Q$ » est vraie si $P$ et $Q$ ont exactement la même valeur de vérité.
-$$[P \iff Q] \iff [(P \implies Q) \text{ et } (Q \implies P)]$$
+L'assertion « $P$ si et seulement si $Q$ » est vraie si :: $P$ et $Q$ ont exactement la même valeur de vérité.$$[P \iff Q] \iff [(P \implies Q) \text{ et } (Q \implies P)]$$
+<!--SR:!2026-09-22,4,270-->
 
 
 ## 3. Théorèmes et lois équivalentes
 
 > [!theorem] Lois de De Morgan
 > La négation d'une disjonction est la conjonction des négations, et inversement :
-> $$\text{non}(P \text{ ou } Q) \iff \text{non}(P) \text{ et } \text{non}(Q)$$
-> $$\text{non}(P \text{ et } Q) \iff \text{non}(P) \text{ ou } \text{non}(Q)$$
+> $\text{non}(P \text{ ou } Q) \iff$::$\text{non}(P) \text{ et } \text{non}(Q)$
+<!--SR:!2026-09-22,4,270-->
+> $\text{non}(P \text{ et } Q) \iff$::$\text{non}(P) \text{ ou } \text{non}(Q)$
+<!--SR:!2026-09-22,4,270-->
 
 > [!theorem] Équivalences fondamentales de l'implication
-> - Forme disjonctive : $[P \implies Q] \iff [\text{non}(P) \text{ ou } Q]$
-> - Négation de l'implication : $\text{non}(P \implies Q) \iff [P \text{ et } \text{non}(Q)]$
-> - Contraposée : $[P \implies Q] \iff [\text{non}(Q) \implies \text{non}(P)]$
+> - Forme disjonctive : $[P \implies Q] \iff$::$[\text{non}(P) \text{ ou } Q]$
+<!--SR:!2026-09-20,2,230-->
+> - Négation de l'implication : $\text{non}(P \implies Q) \iff$::$[P \text{ et } \text{non}(Q)]$
+<!--SR:!2026-09-21,3,250-->
+> - Contraposée : $[P \implies Q] \iff$::$[\text{non}(Q) \implies \text{non}(P)]$
+<!--SR:!2026-09-22,4,270-->
 
 
 ## Concepts liés

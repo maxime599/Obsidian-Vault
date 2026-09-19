@@ -5,6 +5,7 @@ tags:
   - Elen1
   - physique/électricité
   - "#elen1/circuits"
+  - flashcards/Elen1
 MOC:
   - "[[MOC Électricité]]"
   - "[[MOC Circuits]]"
@@ -21,8 +22,8 @@ Ressources:
 ## 1. Association en série
 
 Des résistances sont dites en **série** lorsqu'elles sont traversées par un même courant.
-
-$$R_{\text{eq}} = R_1 + R_2 + \dots + R_n = \sum_{i=1}^{n} R_i$$
+$R_{eq}$ si les résistances sont en séries :: $$R_{\text{eq}} = R_1 + R_2 + \dots + R_n = \sum_{i=1}^{n} R_i$$
+<!--SR:!2026-09-21,4,270-->
 
 - La résistance équivalente est supérieure à la plus grande des résistances du groupement.
 
@@ -30,21 +31,22 @@ $$R_{\text{eq}} = R_1 + R_2 + \dots + R_n = \sum_{i=1}^{n} R_i$$
 ## 2. Association en parallèle (en dérivation)
 
 Des résistances sont dites en **parallèle** lorsqu'elles sont soumises à la même tension.
-
-$$\frac{1}{R_{\text{eq}}} = \frac{1}{R_1} + \frac{1}{R_2} + \dots + \frac{1}{R_n} = \sum_{i=1}^{n} \frac{1}{R_i}$$
+$R_{eq}$ si les résistances sont en dérivation :: $$\frac{1}{R_{\text{eq}}} = \frac{1}{R_1} + \frac{1}{R_2} + \dots + \frac{1}{R_n} = \sum_{i=1}^{n} \frac{1}{R_i}$$
+<!--SR:!2026-09-21,4,270-->
 
 ### Cas particuliers usuels
 
-- **Deux résistances en parallèle** :
-  $$R_{\text{eq}} = \frac{R_1 \cdot R_2}{R_1 + R_2}$$
+- **$R_{eq}$ si deux résistances en parallèle** ::  $$R_{\text{eq}} = \frac{R_1 \cdot R_2}{R_1 + R_2}$$
+<!--SR:!2026-09-21,4,270-->
 
-- **$n$ résistances identiques de valeur $R$ en parallèle** :
-  $$R_{\text{eq}} = \frac{R}{n}$$
+- **$R_{eq}$ si $n$ résistances identiques de valeur $R$ en parallèle** ::  $$R_{\text{eq}} = \frac{R}{n}$$
+<!--SR:!2026-09-21,4,270-->
   *Exemple* : $1\,000$ résistances de $50\,\Omega$ en parallèle donnent :
   $$R_{\text{eq}} = \frac{50}{1\,000} = 0,05\,\Omega$$
 
 > [!note] Propriété remarquable
-> La valeur de $R_{\text{eq}}$ d'un groupement parallèle est toujours **strictement inférieure à la plus petite** des résistances du groupe.
+> La valeur de $R_{\text{eq}}$ d'un groupement parallèle est toujours ==**strictement inférieure à la plus petite** des résistances du groupe.==
+<!--SR:!2026-09-21,4,270-->
 
 
 ## Concepts liés

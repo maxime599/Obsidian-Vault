@@ -4,6 +4,7 @@ tags:
   - concepts
   - Math
   - math/ensemble
+  - flashcards/Math
 MOC:
   - "[[MOC Ensemble]]"
 date_creation: 2026-09-04

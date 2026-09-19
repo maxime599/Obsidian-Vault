@@ -21,12 +21,12 @@ Ressources:
 
 ## 1. Démarche systématique de résolution
 
-| Étape | Action | Description |
-| :--- | :--- | :--- |
-| **1. Schéma et conventions** | Dessin & Fléchage | Représenter le circuit, flécher les tensions $U_k$ et courants $I_k$ en appliquant la **convention récepteur** pour les résistances et **générateur** pour les sources. |
-| **2. Lois de Kirchhoff** | Mailles & Nœuds | Écrire les équations de la **loi des mailles** ($\sum U = 0$) et de la **loi des nœuds** ($\sum I = 0$). |
-| **3. Application de la loi d'Ohm** | Substitution $U \to R \cdot I$ | Exprimer chaque tension de composant résistif en fonction du courant correspondant ($U_k = R_k \cdot I_k$) et l'injecter dans les équations de mailles. |
-| **4. Calcul algébrique** | Système d'équations | Réduire le nombre d'inconnues par substitution des courants afin d'obtenir et résoudre un système linéaire. |
+| Étape                              | Action                         | Description                                                                                                                                                             |
+| :--------------------------------- | :----------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1. Schéma et conventions**       | Dessin & Fléchage              | Représenter le circuit, flécher les tensions $U_k$ et courants $I_k$ en appliquant la **convention récepteur** pour les résistances et **générateur** pour les sources. |
+| **2. Lois de Kirchhoff**           | Mailles & Nœuds                | Écrire les équations de la **loi des mailles** ($\sum U = 0$) et de la **loi des nœuds** ($\sum I = 0$).                                                                |
+| **3. Application de la loi d'Ohm** | Substitution $U \to R \cdot I$ | Exprimer chaque tension de composant résistif en fonction du courant correspondant ($U_k = R_k \cdot I_k$) et l'injecter dans les équations de mailles.                 |
+| **4. Calcul algébrique**           | Système d'équations            | Réduire le nombre d'inconnues par substitution des courants afin d'obtenir et résoudre un système linéaire.                                                             |
 Si le circuit est plusieurs résistances emmêlé, il faut refaire le circuit au brouillon de sorte que toutes les résistances soient horizontales. Il faudra aussi utiliser les formules du [[Groupements de résistances (Série et Parallèle)]]
 
 

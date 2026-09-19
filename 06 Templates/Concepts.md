@@ -24,6 +24,7 @@ type: concept
 tags:
   - concepts
   - <% tp.file.folder(true).split("/").at(-1) %>
+  - flashcards/<% tp.file.folder(true).split("/").at(-1) %> 
 MOC:
 date_creation: <% tp.date.now("YYYY-MM-DD") %>
 Ressources:

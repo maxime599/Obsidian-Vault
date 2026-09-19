@@ -4,6 +4,7 @@ tags:
   - concepts
   - Math
   - math/fonction
+  - flashcards/Math
 MOC:
   - "[[MOC Fonction]]"
 date_creation: 2026-09-09
@@ -36,9 +37,8 @@ Soient $f, g : \mathbb{R} \to \mathbb{R}$ définies par $f(x) = x^2 - 1$ et $g(x
 
 ## 2. Application identité
 
-Soit $E$ un ensemble. L'**application identité** de $E$, notée $\text{Id}_E$, est définie par :
-
-$$\text{Id}_E : E \to E, \quad x \mapsto x$$
+Soit $E$ un ensemble. L'**application identité** de $E$, notée $\text{Id}_E$, est définie par ::$$\text{Id}_E : E \to E, \quad x \mapsto x$$
+<!--SR:!2026-09-21,3,250-->
 
 ### Propriété d'élément neutre
 Pour toute application $f: E \to E$ :

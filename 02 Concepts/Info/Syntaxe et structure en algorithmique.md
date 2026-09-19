@@ -5,6 +5,7 @@ tags:
   - Info
   - "#info/syntaxe"
   - info/algorithmique
+  - flashcards/info
 MOC:
   - "[[MOC Syntaxe]]"
   - "[[MOC Algorithmique]]"
@@ -23,31 +24,45 @@ Ressources:
 
 Un algorithme bien structuré se divise en deux parties principales :
 
-- **Le Lexique (ou Déclarations)** : Répertorie l'ensemble des objets manipulés en précisant leur type.
-  - **Constante** : Valeur fixe définie dès le début (ex: `TAUX : constante réelle := 6.55957`).
+- **Le Lexique (ou Déclarations)** : Répertorie ==l'ensemble des objets manipulés en précisant leur type.==
+<!--SR:!2026-09-21,3,250-->
+
+  - **Constante** : Valeur ==fixe== définie dès le début (ex: `TAUX : ==constante réelle := 6.55957`==).
+<!--SR:!2026-09-21,4,270!2026-09-21,4,270-->
+  
   - **Variable** : Espace mémoire identifié par un nom dont la valeur peut évoluer (ex: `frcs, eur : 2 réels`).
-- **Le Corps de l'algorithme** : Encadré par les mots-clés `Début` et `Fin`, il contient la suite logique d'instructions à exécuter.
+  
+- **Le Corps de l'algorithme** : Encadré par les mots-clés ==`Début` et `Fin`==, il contient ==la suite logique d'instructions à exécuter==.
+<!--SR:!2026-09-21,4,270!2026-09-20,3,250-->
 
 
 ## 2. Instructions fondamentales et typage
 
 - **Entrées / Sorties** :
-  - `Ecrire(...)` : Affiche du texte ou la valeur d'une variable à l'écran.
-  - `Lire(...)` : Interrompt l'exécution pour récupérer une valeur saisie par l'utilisateur.
-- **Affectation ($\leftarrow$)** : Attribue une valeur ou le résultat d'une expression à une variable (`variable <- expression`).
+  - `Ecrire(...)` ::: Affiche du texte ou la valeur d'une variable à l'écran.
+<!--SR:!2026-09-21,4,270!2026-09-21,4,270-->
+  - `Lire(...)` ::: Interrompt l'exécution pour récupérer une valeur saisie par l'utilisateur.
+<!--SR:!2026-09-21,4,270!2026-09-21,4,270-->
+- **Affectation ($\leftarrow$)** ::: Attribue une valeur ou le résultat d'une expression à une variable
+<!--SR:!2026-09-21,4,270!2026-09-21,4,270-->
+(`variable <- expression`).
 - **Règles de typage et d'opérateurs** :
   - La compatibilité des types doit être respectée lors d'une affectation.
-  - La division réelle `/` renvoie un nombre réel (ex: `5 / 3`). On ne peut pas affecter directement son résultat à un entier.
-  - Pour obtenir le quotient entier de deux nombres, on utilise l'opérateur `div` (ex: `a <- a div 3`).
+  - La division réelle `/` renvoie un nombre ==réel== (ex: `5 / 3`). On ne peut pas affecter directement son résultat à un entier.
+  - Pour obtenir le quotient entier de deux nombres, on utilise l'opérateur ==`div` (ex: `a <- a div 3`).==
+<!--SR:!2026-09-21,4,270!2026-09-21,4,270-->
 
 
 ## 3. Syntaxe des fonctions
 
 L'intégration d'une fonction dans un algorithme respecte une structure en trois étapes distinctes :
 
+Syntaxe fonction en algo
+?
 1. **Déclaration (Prototype)** : Insérée dans le lexique principal pour spécifier la signature de la fonction (nom, paramètres et type de retour).
 2. **Appel** : Effectué dans le corps de l'algorithme principal en affectant le résultat de la fonction à une variable compatible (`resultat <- f(xp)`).
 3. **Définition** : Écrite en dehors de l'algorithme principal, elle contient le lexique local et les instructions propres à la fonction, conclues par le mot-clé `Retourner`.
+<!--SR:!2026-09-21,4,270-->
 
 *Exemple de structure :*
 ```text
@@ -68,14 +83,18 @@ Début
     Retourner res
 Fin
 ````
+
 #### Méthode découpage fonctionnel
+?
 1. Lister = déclarer dans le lexique principal avec R, E, S les fonctions du découpage
 2. Compléter le lexique principal et réaliser l'algo principal en appelant les fonctions du découpage
 3. Définir chaque fonctions du découpage, en dehors de l'algo principal
+<!--SR:!2026-09-20,2,230-->
 
 
 #### Découpe fonctionnel simple
-Découpage dans lequel on ne met pas dans des fonctions les fonctions de bases Écrire et Lire
+Découpage dans lequel on ==ne met pas dans des fonctions les fonctions de bases Écrire et Lire==
+<!--SR:!2026-09-21,4,270-->
 
 ## Exemple :
 ```

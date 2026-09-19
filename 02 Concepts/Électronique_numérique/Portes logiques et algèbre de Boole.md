@@ -5,6 +5,7 @@ tags:
   - concepts
   - "#Électronique_numérique"
   - "#Électronique_numérique/boole"
+  - "#flashcards/Électronique_numérique"
 MOC:
   - "[[MOC Boole]]"
 date_creation: 2026-09-01
@@ -31,7 +32,7 @@ L'électronique numérique traite l'information de manière discrète sous forme
 ### Fonction Identité (Buffer / OUI)
 La sortie recopie exactement l'état de l'entrée.
 - **Équation** : $s = a$
-- **Table de vérité** :
+- **Table de vérité**:
 
 | $a$ | $s$ |
 | :-: | :-: |
@@ -42,35 +43,49 @@ La sortie recopie exactement l'état de l'entrée.
 
 ### Fonction NOT (Inverseur / NON)
 La sortie prend l'état complémentaire (inverse) de l'entrée.
-- **Équation** : $s = \bar{a}$
-- **Table de vérité** :
+- **Équation** porte NOT ::: $s = \bar{a}$
+<!--SR:!2026-09-21,4,270!2026-09-21,4,270-->
+- **Table de vérité** porte NOT :
+??
+| $a$ | $s$ |
+| :-: | :-: |
+|  0  |  1  |
+|  1  |  0  |
+<!--SR:!2026-09-21,4,270!2026-09-21,4,270-->
 
 | $a$ | $s$ |
-| :---: | :---: |
-| 0 | 1 |
-| 1 | 0 |
-Symbole :
-![[Pasted image 20260901152027.png|153]]
+| :-: | :-: |
+|  0  |  1  |
+|  1  |  0  |
+Symbole porte not ::: ![[Pasted image 20260901152027.png|153]]
+<!--SR:!2026-09-21,4,270!2026-09-21,4,270-->
 
-Chronogramme 
-![[Pasted image 20260901152133.png|89]]
 
 ---
 
 ### Fonction AND (Conjonction / ET)
 La sortie est vraie ($1$) si et seulement si **toutes** les entrées sont vraies ($1$).
-- **Équation** : $s = a \cdot b$ (ou $s = a \text{ ET } b$)
-- **Table de vérité** :
+- **Équation** porte AND ::: $s = a \cdot b$
+<!--SR:!2026-09-21,4,270!2026-09-21,4,270-->
+- **Table de vérité** porte AND :
+??
+| $a$ | $b$ | $s$ |
+| :-: | :-: | :-: |
+|  0  |  0  |  0  |
+|  0  |  1  |  0  |
+|  1  |  0  |  0  |
+|  1  |  1  |  1  |
+<!--SR:!2026-09-21,4,270!2026-09-21,4,270-->
 
 | $a$ | $b$ | $s$ |
-| :---: | :---: | :---: |
-| 0 | 0 | 0 |
-| 0 | 1 | 0 |
-| 1 | 0 | 0 |
-| 1 | 1 | 1 |
+| :-: | :-: | :-: |
+|  0  |  0  |  0  |
+|  0  |  1  |  0  |
+|  1  |  0  |  0  |
+|  1  |  1  |  1  |
 
-Symbole
-![[Pasted image 20260901152755.png|170]]
+Symbole porte AND ::: ![[Pasted image 20260901152755.png|170]]
+<!--SR:!2026-09-21,4,270!2026-09-21,4,270-->
 
 Chronogramme (voir fascicule)
 
@@ -78,63 +93,110 @@ Chronogramme (voir fascicule)
 
 ### Fonction OR (Disjonction / OU)
 La sortie est vraie ($1$) si au moins une des entrées est vraie ($1$).
-- **Équation** : $s = a \lor b$ (ou $s = a \text{ OU } b$)
-- **Table de vérité** :
+- **Équation** porte OR ::: $s = a \lor b$
+<!--SR:!2026-09-21,4,270!2026-09-21,4,270-->
+- **Table de vérité** porte OR :
+??
+| $a$ | $b$ | $s$ |
+| :-: | :-: | :-: |
+|  0  |  0  |  0  |
+|  0  |  1  |  1  |
+|  1  |  0  |  1  |
+|  1  |  1  |  1  |
+<!--SR:!2026-09-21,4,270!2026-09-21,4,270-->
 
 | $a$ | $b$ | $s$ |
-| :---: | :---: | :---: |
-| 0 | 0 | 0 |
-| 0 | 1 | 1 |
-| 1 | 0 | 1 |
-| 1 | 1 | 1 |
+| :-: | :-: | :-: |
+|  0  |  0  |  0  |
+|  0  |  1  |  1  |
+|  1  |  0  |  1  |
+|  1  |  1  |  1  |
 
 ---
 
 ### Fonction XOR (Disjonction exclusive / OU Exclusif)
 La sortie est vraie ($1$) si et seulement si les deux entrées ont des états logiques différents.
-- **Équation** : $s = a \oplus b$
-- **Table de vérité** :
+- **Équation** porte XOR ::: $s = a \oplus b$
+<!--SR:!2026-09-21,3,250!2026-09-21,4,270-->
+- **Table de vérité** porte XOR :
+??
+| $a$ | $b$ | $s$ |
+| :-: | :-: | :-: |
+|  0  |  0  |  0  |
+|  0  |  1  |  1  |
+|  1  |  0  |  1  |
+|  1  |  1  |  0  |
+<!--SR:!2026-09-21,4,270!2026-09-21,4,270-->
 
 | $a$ | $b$ | $s$ |
-| :---: | :---: | :---: |
-| 0 | 0 | 0 |
-| 0 | 1 | 1 |
-| 1 | 0 | 1 |
-| 1 | 1 | 0 |
+| :-: | :-: | :-: |
+|  0  |  0  |  0  |
+|  0  |  1  |  1  |
+|  1  |  0  |  1  |
+|  1  |  1  |  0  |
 
 ### Fonction NAND (NON-ET)
 
 La sortie est fausse (0) si et seulement si toutes les entrées sont vraies (1). Elle correspond à l'inverse de la fonction ET.
-- Équation : $s = \overline{a \cdot b}$
-- Table de vérité :
+- Équation porte NAND ::: $s = \overline{a \cdot b}$
+<!--SR:!2026-09-21,4,270!2026-09-21,4,270-->
+- Table de vérité porte NAND:
+??
+| **a** | **b** | **s** |
+| ----- | ----- | ----- |
+| 0     | 0     | 1     |
+| 0     | 1     | 1     |
+| 1     | 0     | 1     |
+| 1     | 1     | 0     |
+<!--SR:!2026-09-21,4,270!2026-09-21,4,270-->
 
-|**a**|**b**|**s**|
-|---|---|---|
-|0|0|1|
-|0|1|1|
-|1|0|1|
-|1|1|0|
-Cette fonction est appelée universelle car elle permet de créer toutes les autres à partir de celle ci
+| **a** | **b** | **s** |
+| ----- | ----- | ----- |
+| 0     | 0     | 1     |
+| 0     | 1     | 1     |
+| 1     | 0     | 1     |
+| 1     | 1     | 0     |
+
+Cette fonction est appelée ==universelle== car elle permet de créer toutes les autres à partir de celle ci
+<!--SR:!2026-09-21,4,270-->
 
 
 ### Fonction NOR (NON-OU)
 
 La sortie est vraie (1) si et seulement si toutes les entrées sont fausses (0). Elle correspond à l'inverse de la fonction OU.
-- Équation : $s = \overline{a \lor b}$ (ou $s = \overline{a + b}$)
-- Table de vérité : 
+- Équation porte NOR ::: $s = \overline{a \lor b}$
+<!--SR:!2026-09-21,4,270!2026-09-21,4,270-->
+- Table de vérité porte NOR:
+??
+| **a** | **b** | **s** |
+| ----- | ----- | ----- |
+| 0     | 0     | 1     |
+| 0     | 1     | 0     |
+| 1     | 0     | 0     |
+| 1     | 1     | 0     |
+<!--SR:!2026-09-21,4,270!2026-09-21,4,270-->
 
-|**a**|**b**|**s**|
-|---|---|---|
-|0|0|1|
-|0|1|0|
-|1|0|0|
-|1|1|0|
+| **a** | **b** | **s** |
+| ----- | ----- | ----- |
+| 0     | 0     | 1     |
+| 0     | 1     | 0     |
+| 1     | 0     | 0     |
+| 1     | 1     | 0     |
 
 ### Fonction XNOR (NON-OU Exclusif / Équivalence)
 
 La sortie est vraie (1) si et seulement si les deux entrées ont le même état logique.
-- Équation : $s = \overline{a \oplus b}$ (ou $s = a \odot b$)
-- Table de vérité :
+- Équation porte XNOR ::: $s = \overline{a \oplus b}$
+<!--SR:!2026-09-21,4,270!2026-09-21,4,270-->
+- Table de vérité porte XNOR:
+??
+| **a** | **b** | **s** |
+| ----- | ----- | ----- |
+| 0     | 0     | 1     |
+| 0     | 1     | 0     |
+| 1     | 0     | 0     |
+| 1     | 1     | 1     |
+<!--SR:!2026-09-21,4,270!2026-09-21,4,270-->
 
 | **a** | **b** | **s** |
 | ----- | ----- | ----- |

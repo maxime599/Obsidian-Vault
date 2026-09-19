@@ -4,6 +4,7 @@ tags:
   - concepts
   - Électronique_numérique
   - Électronique_numérique/boole
+  - flashcards/Électronique_numérique
 MOC:
   - "[[MOC Boole]]"
 date_creation: 2026-09-10
@@ -38,11 +39,14 @@ Le tableau est une grille regroupant l'ensemble des combinaisons des variables d
 
 Pour obtenir la forme minimale sous forme de somme de termes produits :
 
+Régles du tableau de Karnaugh :
+?
 1. **Taille des blocs** : Former des rassemblements de $2^k$ cases contiguës ($1, 2, 4, 8, 16$).
 2. **Taille maximale** : Les blocs doivent être aussi grands que possible afin d'éliminer un maximum de variables ($1$ bloc de $2^k$ cases élimine $k$ variables).
 3. **Nombre minimal de groupes** : Recouvrir l'ensemble des `1` du tableau avec le moins de rassemblements possible.
 4. **Chevauchement** : Une case contenant un `1` peut appartenir à plusieurs groupes.
 5. **Conditions indifférentes (`X` ou `d`)** : Les états indifférents peuvent être assimilés à des `1` pour agrandir un groupe, ou à des `0` s'ils n'apportent aucun bénéfice.
+<!--SR:!2026-09-21,4,270-->
 
 
 ## 3. Lecture de l'équation simplifiée

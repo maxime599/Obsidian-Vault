@@ -4,6 +4,7 @@ tags:
   - concepts
   - Thermodynamique
   - thermodynamique/mesure
+  - flashcards/thermodynamique
 MOC:
   - "[[MOC Mesure]]"
 date_creation: 2026-09-04
@@ -21,8 +22,9 @@ Ressources:
 La température traduit le niveau d'agitation microscopique d'un système.
 
 - **Kelvin ($\text{K}$)** : Unité fondamentale de température absolue du Système International.
-- **Celsius ($^\circ\text{C}$)** : $T(\text{K}) = T(^\circ\text{C}) + 273.15$
-- **Fahrenheit ($^\circ\text{F}$)** : $T(^\circ\text{C}) = \frac{T(^\circ\text{F}) - 32}{1.8}$
+- **Celsius ($^\circ\text{C}$)** : $T(\text{K})$ = ==$T(^\circ\text{C}) + 273.15$==
+- **Fahrenheit ($^\circ\text{F}$)** : $T(^\circ\text{C})$ = ==$\frac{T(^\circ\text{F}) - 32}{1.8}$==
+<!--SR:!2026-09-22,4,270!2026-09-22,4,270-->
 
 
 ## 2. Instruments et modes de mesure de la pression

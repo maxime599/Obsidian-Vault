@@ -70,7 +70,7 @@ Problèmes dans le code :
 ## À retenir
 -
 ## Travail à faire
-- [ ] QCM lundi au prochain CM
+- [x] QCM lundi au prochain CM
 - [x] Chercher le 3.2 (pas obligatoire)
 - [x] Faire le 3.4 avec l'ex 2.4
 

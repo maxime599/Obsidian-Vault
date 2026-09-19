@@ -5,6 +5,7 @@ tags:
   - Math
   - math/ensemble
   - math/fonction
+  - flashcards/Math
 MOC:
   - "[[MOC Ensemble]]"
   - "[[MOC Fonction]]"
@@ -16,7 +17,10 @@ Ressources:
 # Image directe et image réciproque
 
 > [!info] Définition courte
-> L'**image directe** $f(A)$ est le sous-ensemble de l'ensemble d'arrivée constitué des images des éléments de $A$. L'**image réciproque** $f^{-1}(B)$ est le sous-ensemble de l'ensemble de départ constitué de tous les antécédents des éléments de $B$.
+> L'**image directe** $f(A)$ est :: le sous-ensemble de l'ensemble d'arrivée constitué des images des éléments de $A$.
+<!--SR:!2026-09-20,2,230-->
+> L'**image réciproque** $f^{-1}(B)$ est :: le sous-ensemble de l'ensemble de départ constitué de tous les antécédents des éléments de $B$.
+<!--SR:!2026-09-22,3,230-->
 
 
 ## 1. Image directe

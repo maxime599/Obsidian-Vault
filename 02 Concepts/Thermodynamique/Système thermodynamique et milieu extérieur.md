@@ -3,6 +3,7 @@ type: concept
 tags:
   - concepts
   - Thermodynamique
+  - flashcards/thermodynamique
 MOC:
   - "[[MOC Systeme]]"
 date_creation: 2026-09-04
@@ -19,18 +20,24 @@ Ressources:
 
 Selon la nature de la frontière séparant le système du milieu extérieur, on distingue trois types fondamentaux :
 
-| Type de système | Échange de matière | Échange d'énergie | Exemple |
-| :--- | :---: | :---: | :--- |
-| **Fermé** | Non | Oui | Fluide étanche dans un piston |
-| **Ouvert** | Oui | Oui | Turbine, moteur, corps humain |
-| **Isolé** | Non | Non | Bouteille isotherme idéale, Univers |
+| Type de système | Échange de matière | Échange d'énergie | Exemple                             |
+| :-------------- | :----------------: | :---------------: | :---------------------------------- |
+| **Fermé**       |      ==Non==       |      ==Oui==      | Fluide étanche dans un piston       |
+| **Ouvert**      |      ==Oui==       |      ==Oui==      | Turbine, moteur, corps humain       |
+| **Isolé**       |      ==Non==       |      ==Non==      | Bouteille isotherme idéale, Univers |
+<!--SR:!2026-09-22,4,270!2026-09-22,4,270!2026-09-22,4,270!2026-09-22,4,270!2026-09-22,4,270!2026-09-22,4,270-->
 
 
 ## 2. Interaction avec le milieu extérieur
 
-Le milieu extérieur représente tout ce qui n'appartient pas au système. Les échanges s'effectuent à travers la frontière sous deux formes majeures :
+Le milieu extérieur représente ==tout ce qui n'appartient pas au système==.
+<!--SR:!2026-09-22,4,270--> 
+
+Les échanges s'effectuent à travers la frontière sous deux formes majeures :
+?
 - **Matière** : Transfert de masse (systèmes ouverts).
 - **Énergie** : Transfert mécanique (travail $W$) ou transfert thermique (chaleur $Q$).
+<!--SR:!2026-09-21,2,230-->
 
 
 ## Concepts liés
@@ -38,6 +45,7 @@ Le milieu extérieur représente tout ce qui n'appartient pas au système. Les �
 - [[Variables d'état et équilibre thermodynamique]]
 - [[Énergie interne et formes d'énergie]]
 - [[Travail des forces de pression et transfert thermique]]
+- [[Entropie et bilan entropique]]
 
 ## 📚 Cours associés
 

@@ -4,6 +4,7 @@ tags:
   - concepts
   - Thermodynamique
   - thermodynamique/diagrammes
+  - flashcards/thermodynamique
 MOC:
   - "[[MOC Diagrammes]]"
 date_creation: 2026-09-09
@@ -47,6 +48,7 @@ $$\left|-\gamma \frac{P}{V}\right| > \left|-\frac{P}{V}\right|$$
 ## Concepts liés
 
 - [[Travail des forces de pression et transfert thermique]]
+- [[Comparaison des détentes isotherme et adiabatique]]
 
 
 ## 📚 Cours associés

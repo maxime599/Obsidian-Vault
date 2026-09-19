@@ -27,5 +27,8 @@
   "cmdr",
   "dataview",
   "github-copilot",
-  "contribution-graph"
+  "contribution-graph",
+  "better-export-pdf",
+  "excalidraw-extras",
+  "obsidian-spaced-repetition"
 ]

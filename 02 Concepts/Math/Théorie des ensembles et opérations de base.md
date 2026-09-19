@@ -4,6 +4,7 @@ tags:
   - concepts
   - Math
   - math/ensemble
+  - flashcards/Math
 MOC:
   - "[[MOC Ensemble]]"
 date_creation: 2026-09-04
@@ -22,8 +23,8 @@ Ressources:
   - La négation est notée $x \notin E \iff \text{non}(x \in E)$.
   - **Ensemble vide ($\emptyset$)** : L'ensemble ne contenant aucun élément.
 - **Inclusion ($\subset$)** : $A \subset B \iff (\forall x \in A, \, x \in B)$. On dit que $A$ est une partie ou un sous-ensemble de $B$.
-- **Égalité de deux ensembles** : Deux ensembles $A$ et $B$ sont égaux si et seulement s'ils s'incluent mutuellement :
-  $$A = B \iff (A \subset B \text{ et } B \subset A)$$
+- **Égalité de deux ensembles** : Deux ensembles $A$ et $B$ sont égaux si et seulement si :: ils s'incluent mutuellement :$$A = B \iff (A \subset B \text{ et } B \subset A)$$
+<!--SR:!2026-09-22,4,270-->
 
 
 ## 2. Opérations fondamentales sur les parties
@@ -36,7 +37,8 @@ Soit $E$ un ensemble, $A \subset E$ et $B \subset E$ :
 - **Différence** : $A \setminus B = \{x \in A \text{ et } x \notin B\} = A \cap \bar{B}$
 
 > [!note] Parties disjointes
-> Deux parties $A$ et $B$ sont dites **disjointes** si leur intersection est vide : $A \cap B = \emptyset$.
+> Deux parties $A$ et $B$ sont dites **disjointes** si :: leur intersection est vide :$A \cap B = \emptyset$.
+<!--SR:!2026-09-22,3,250-->
 
 
 ## 3. Lois de De Morgan
@@ -45,7 +47,7 @@ Soient $A$ et $B$ deux parties d'un ensemble $E$ :
 
 - $\overline{A \cup B} = \bar{A} \cap \bar{B}$
 - $\overline{A \cap B} = \bar{A} \cup \bar{B}$
-
+[[Propriétés de l'algèbre de Boole#3. Lois de De Morgan]]
 
 ## Concepts liés
 
@@ -53,6 +55,7 @@ Soient $A$ et $B$ deux parties d'un ensemble $E$ :
 - [[Produit cartésien et p-uplets]]
 - [[Quantificateurs logiques]]
 - [[Fonction indicatrice]]
+- [[Propriétés de l'algèbre de Boole#3. Lois de De Morgan]]
 
 
 ## 📚 Cours associés

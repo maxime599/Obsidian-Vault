@@ -5,6 +5,7 @@ tags:
   - SAé
   - physique/électricité
   - SAé/materiel
+  - flashcards/SAé
 MOC:
   - "[[MOC Électricité]]"
   - "[[MOC Materiel]]"
@@ -21,33 +22,46 @@ Ressources:
 
 ## 1. Génération et alimentation
 
-- **Alimentation stabilisée** :
-  - Fournit des tensions et courants continus ($DC$) stables nécessaires au fonctionnement des circuits.
-  - Intègre une protection par limitation de courant pour sécuriser les composants en cas de court-circuit.
-- **Générateur Basses Fréquences (GBF)** :
-  - Source de tension délivrant des signaux périodiques de formes variées (sinusoïdal, carré, triangulaire).
+**Alimentation stabilisée** :
+??
+- Fournit des tensions et courants continus ($DC$) stables nécessaires au fonctionnement des circuits.
+- Intègre une protection par limitation de courant pour sécuriser les composants en cas de court-circuit.
+<!--SR:!2026-09-20,3,250!2026-09-20,3,250-->
+
+**Générateur Basses Fréquences (GBF)** :
+??
+- Source de tension délivrant des signaux périodiques de formes variées (sinusoïdal, carré, triangulaire).
+<!--SR:!2026-09-20,3,250!2026-09-21,4,270-->
 
 
 ## 2. Mesure et observation
 
-- **Multimètre numérique** :
-  - Appareil polyvalent permettant de mesurer plusieurs grandeurs physiques : tension (voltmètre), intensité (ampèremètre), résistance (ohmmètre) et capacité (capacimètre).
-- **Oscilloscope** :
-  - Appareil de visualisation permettant d'observer l'évolution temporelle de $1$ ou $2$ signaux électriques simultanément.
+**Multimètre numérique** :
+??
+- Appareil polyvalent permettant de mesurer plusieurs grandeurs physiques : tension (voltmètre), intensité (ampèremètre), résistance (ohmmètre) et capacité (capacimètre).
+<!--SR:!2026-09-21,4,270!2026-09-21,4,270-->
+
+**Oscilloscope** :
+??
+- Appareil de visualisation permettant d'observer l'évolution temporelle de $1$ ou $2$ signaux électriques simultanément.
+<!--SR:!2026-09-20,3,250!2026-09-21,4,270-->
 
 
 ## 3. Modes d'affichage et couplage (AC / DC)
 
 Lors de la mesure ou de l'observation d'un signal :
 
-- **Couplage DC (*Direct Current*)** : Conserve la totalité du signal (composante continue $+$ composante alternative).
-- **Couplage AC (*Alternating Current*)** : Filtre la composante continue pour ne conserver et n'afficher que la composante alternative du signal.
+- **Couplage DC (*Direct Current*)** ::: Conserve la totalité du signal (composante continue $+$ composante alternative).
+<!--SR:!2026-09-21,4,270!2026-09-21,4,270-->
+- **Couplage AC (*Alternating Current*)** ::: Filtre la composante continue pour ne conserver et n'afficher que la composante alternative du signal.
+<!--SR:!2026-09-20,3,250!2026-09-21,4,270-->
 
 
 ## 4. Connectique de laboratoire
 
-- **Câbles Banane** : Principalement utilisés pour les connexions de puissance et les mesures en courant continu (multimètre, alimentation).
-- **Câbles BNC** : Câbles coaxiaux utilisés pour acheminer des signaux à haute fréquence ou haute précision sans interférences (GBF, oscilloscope).
+- **Câbles ==Banane==** : Principalement utilisés pour les connexions de puissance et les mesures en courant continu (multimètre, alimentation).
+- **Câbles ==BNC**== : Câbles coaxiaux utilisés pour acheminer des signaux à haute fréquence ou haute précision sans interférences (GBF, oscilloscope).
+<!--SR:!2026-09-21,4,270!2026-09-21,4,270-->
 
 
 ## Concepts liés

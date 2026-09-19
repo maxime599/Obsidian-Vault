@@ -4,6 +4,7 @@ tags:
   - concepts
   - Électronique_numérique
   - Électronique_numérique/boole
+  - flashcards/Électronique_numérique
 MOC:
   - "[[MOC Boole]]"
 date_creation: 2026-09-03
@@ -20,45 +21,48 @@ Ressources: "[[diapo_CITISE_AutoSIN.pdf]]"
 Soient $a$, $b$ et $c$ des variables booléennes ($\in \{0, 1\}$) :
 
 - **Commutativité** :
-  - $a \cdot b = b \cdot a$
-  - $a \lor b = b \lor a$
+  - $a \cdot b$ = b ==$\cdot a$==
+  - $a \lor b$ = ==$b \lor a$==
 - **Idempotence** :
-  - $a \cdot a = a$
-  - $a \lor a = a$
+  - $a \cdot a$ = ==$a$==
+  - $a \lor a$ = ==$a$==
 - **Associativité** :
-  - $(a \cdot b) \cdot c = a \cdot (b \cdot c)$
-  - $(a \lor b) \lor c = a \lor (b \lor c)$
+  - $(a \cdot b) \cdot c$ = ==$a \cdot (b \cdot c)$==
+  - $(a \lor b) \lor c$ = ==$a \lor (b \lor c)$==
 - **Distributivité** :
-  - $a \cdot (b \lor c) = (a \cdot b) \lor (a \cdot c)$
-  - $a \lor (b \cdot c) = (a \lor b) \cdot (a \lor c)$
+  - $a \cdot (b \lor c)$ = ==$(a \cdot b) \lor (a \cdot c)$==
+  - $a \lor (b \cdot c)$ = ==$(a \lor b) \cdot (a \lor c)$==
 - **Éléments neutres** :
-  - $a \cdot 1 = a$
-  - $a \lor 0 = a$
+  - $a \cdot 1$ = ==$a$==
+  - $a \lor 0$ = ==$a$==
 - **Éléments absorbants** :
-  - $a \cdot 0 = 0$
-  - $a \lor 1 = 1$
+  - $a \cdot 0$ = ==$0$==
+  - $a \lor 1$ = ==$1$==
 - **Complémentation** :
-  - $a \cdot \bar{a} = 0$
-  - $a \lor \bar{a} = 1$
-  - $\overline{\overline{a}} = a$
+  - $a \cdot \bar{a}$ = ==$0$==
+  - $a \lor \bar{a}$ = ==$1$==
+  - $\overline{\overline{a}}$ = ==$a$==
+<!--SR:!2026-09-21,4,270!2026-09-21,4,270!2026-09-21,4,270!2026-09-21,4,270!2026-09-21,4,270!2026-09-21,4,270!2026-09-21,4,270!2026-09-21,4,270!2026-09-21,4,270!2026-09-21,4,270!2026-09-21,4,270!2026-09-21,4,270!2026-09-20,3,250!2026-09-21,4,270!2026-09-21,4,270-->
 
 
 ## 2. Lois d'absorption
 
 Ces théorèmes permettent de réduire directement la taille d'une équation :
 
-- $a \lor (a \cdot b) = a$
-- $a \cdot (a \lor b) = a$
-- $a \lor (\bar{a} \cdot b) = a \lor b$
-- $a \cdot (\bar{a} \lor b) = a \cdot b$
+- $a \lor (a \cdot b)$ = ==$a$==
+- $a \cdot (a \lor b)$ = ==$a$==
+- $a \lor (\bar{a} \cdot b)$ = ==$a \lor b$==
+- $a \cdot (\bar{a} \lor b)$ = ==$a \cdot b$==
+<!--SR:!2026-09-21,4,270!2026-09-21,4,270!2026-09-21,4,270!2026-09-20,2,230-->
 
 
 ## 3. Lois de De Morgan
     
 Ces théorèmes permettent de transformer le complément d'un produit ou d'une somme en une somme ou un produit de compléments :
 
-- $\overline{a \cdot b} = \bar{a} \lor \bar{b}$
-- $\overline{a \lor b} = \bar{a} \cdot \bar{b}$
+- $\overline{a \cdot b}$ = ==$\bar{a} \lor \bar{b}$==
+- $\overline{a \lor b}$ = ==$\bar{a} \cdot \bar{b}$==
+<!--SR:!2026-09-21,4,270!2026-09-21,4,270-->
 
 
 ## 3. Méthodes de simplification d'une équation

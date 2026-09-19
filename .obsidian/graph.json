@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:\"02 Concepts/Math\"  ",
@@ -158,6 +158,6 @@
   "repelStrength": 10.1511603150947,
   "linkStrength": 0.801489832897121,
   "linkDistance": 30,
-  "scale": 0.059241664841148095,
-  "close": true
+  "scale": 0.16175802467583228,
+  "close": false
 }

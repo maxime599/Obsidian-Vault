@@ -6,6 +6,7 @@ tags:
   - math/ensemble
   - math/fonction
   - math/analyse
+  - flashcards/Math
 MOC:
   - "[[MOC Ensemble]]"
   - "[[MOC Fonction]]"
@@ -17,7 +18,8 @@ Ressources:
 # Fonction indicatrice
 
 > [!info] Définition courte
-> La **fonction indicatrice** (ou caractéristique) d'une partie $A \subset E$, notée $\mathbb{1}_A$, est l'application de $E$ dans $\{0, 1\}$ qui vaut $1$ sur $A$ et $0$ en dehors.
+> La **fonction indicatrice** (ou caractéristique) :: d'une partie $A \subset E$, notée $\mathbb{1}_A$, est l'application de $E$ dans $\{0, 1\}$ qui vaut $1$ sur $A$ et $0$ en dehors.
+<!--SR:!2026-09-21,3,250-->
 
 
 ## 1. Définition formelle
@@ -32,10 +34,11 @@ $$\mathbb{1}_A : E \to \{0, 1\}, \quad x \mapsto \begin{cases} 1 & \text{si } x 
 Soient $A$ et $B$ deux parties d'un même ensemble $E$ :
 
 - **Égalité d'ensembles** : $A = B \iff \mathbb{1}_A = \mathbb{1}_B$
-- **Intersection** : $\mathbb{1}_{A \cap B} = \mathbb{1}_A \times \mathbb{1}_B$
-- **Réunion** : $\mathbb{1}_{A \cup B} = \mathbb{1}_A + \mathbb{1}_B - \mathbb{1}_A \times \mathbb{1}_B$
-- **Réunion disjointe** ($A \cap B = \emptyset$) : $\mathbb{1}_{A \cup B} = \mathbb{1}_A + \mathbb{1}_B$
-- **Complémentaire** : $\mathbb{1}_{\bar{A}} = 1 - \mathbb{1}_A$
+- **Intersection** : $\mathbb{1}_{A \cap B}$ = ==$\mathbb{1}_A \times \mathbb{1}_B$==
+- **Réunion** : $\mathbb{1}_{A \cup B} =$ ==$\mathbb{1}_A + \mathbb{1}_B - \mathbb{1}_A \times \mathbb{1}_B$==
+- **Réunion disjointe** ($A \cap B = \emptyset$) : $\mathbb{1}_{A \cup B}$ = ==$\mathbb{1}_A + \mathbb{1}_B$==
+- **Complémentaire** : $\mathbb{1}_{\bar{A}}$ = ==$1 - \mathbb{1}_A$==
+<!--SR:!2026-09-22,4,270!2026-09-22,4,270!2026-09-22,4,270!2026-09-22,4,270-->
 
 
 ## Concepts liés

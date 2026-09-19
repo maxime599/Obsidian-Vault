@@ -4,6 +4,7 @@ tags:
   - concepts
   - Thermodynamique
   - thermodynamique/transfert
+  - flashcards/thermodynamique
 MOC:
   - "[[MOC Transfert]]"
 date_creation: 2026-09-04
@@ -18,23 +19,23 @@ Ressources:
 
 ## 1. Travail des forces de pression ($W$)
 
-Lors d'une variation élémentaire de volume $\mathrm{d}V$ exercée sous une pression $P$, le travail infinitésimal recu s'écrit :
+Lors d'une variation élémentaire de volume $\mathrm{d}V$ exercée sous une pression $P$, le travail infinitésimal recu s'écrit ::$$\delta W = -P \mathrm{d}V$$
+<!--SR:!2026-09-22,4,270-->
 
-$$\delta W = -P \mathrm{d}V$$
-
-Pour une transformation d'un état initial ($V_i$) à un état final ($V_f$) :
-
-$$W = -\int_{V_i}^{V_f} P \mathrm{d}V$$
+Pour une transformation d'un état initial ($V_i$) à un état final ($V_f$), le travail s'écrit ::$$W = -\int_{V_i}^{V_f} P \mathrm{d}V$$
+<!--SR:!2026-09-22,4,270-->
 
 - **Convention de signe centrée sur le système** :
-  - **Compression** ($\mathrm{d}V < 0$) : $W > 0$, le système reçoit de l'énergie sous forme mécanique.
-  - **Expansion / Détente** ($\mathrm{d}V > 0$) : $W < 0$, le système fournit du travail au milieu extérieur.
+  - **Compression** ($\mathrm{d}V < 0$) : $W$ ==$>$== $0$, le système reçoit de l'énergie sous forme mécanique.
+  - **Expansion / Détente** ($\mathrm{d}V > 0$) : $W$ ==$<$== $0$, le système fournit du travail au milieu extérieur.
+<!--SR:!2026-09-22,4,270!2026-09-22,4,270-->
 
 
 ## 2. Transfert thermique ($Q$)
 
 - **Définition** : Échange d'énergie désordonné s'effectuant à l'échelle microscopique sous l'effet d'un écart de température.
-- **Transformation adiabatique** : Transformation réalisée sans aucun échange thermique avec le milieu extérieur ($Q = 0$).
+- **Transformation adiabatique** ::: Transformation réalisée sans aucun échange thermique avec le milieu extérieur ($Q = 0$).
+<!--SR:!2026-09-22,4,270!2026-09-22,4,270-->
 
 > [!warning] Attention aux idées reçues
 > Une transformation adiabatique ($Q = 0$) n'implique pas que la température du système reste constante ; la température peut varier en raison du travail $W$ reçu ou fourni.

@@ -33,7 +33,7 @@
     "pat": null,
     "accessToken": {
       "token": null,
-      "expiresAt": null
+      "expiresAt": 0
     },
     "selectedModel": {
       "label": "GPT-4.1",
