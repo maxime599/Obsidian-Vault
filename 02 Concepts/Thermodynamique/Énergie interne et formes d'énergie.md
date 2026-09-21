@@ -32,7 +32,7 @@ En thermodynamique, l'énergie totale $E$ d'un système s'exprime par la somme :
 ## 2. Principe de conservation de l'énergie
 
 - **Loi de conservation** :: L'énergie ne peut être ni créée ni détruite ; elle se transforme d'une forme à une autre ou s'échange avec le milieu extérieur.
-<!--SR:!2026-09-20,2,230-->
+<!--SR:!2026-09-27,7,250-->
 - **Approche thermodynamique** : La variation de l'énergie totale $\Delta E$ (et en particulier de $\Delta U$ pour un système au repos macroscopique) est la seule grandeur mesurable lors d'une transformation.
 
 

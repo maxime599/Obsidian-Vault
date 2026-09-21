@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiExcalidraw",
       "OuRobot",
       "RiFireLine",
       "IbLightBulb",
-      "IbLightning",
-      "OuCpu"
+      "IbLightning"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -99,5 +99,6 @@
     "iconColor": "#5e17b5"
   },
   "01 Cours/SAé": "OuRobot",
-  "02 Concepts/SAé": "OuRobot"
+  "02 Concepts/SAé": "OuRobot",
+  "Excalidraw": "SiExcalidraw"
 }

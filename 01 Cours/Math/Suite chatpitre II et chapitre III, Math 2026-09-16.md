@@ -347,6 +347,6 @@ Pour combler ce manque, les mathématiciens ont construit l'ensemble $\mathbb{R}
 ## À retenir
 -
 ## Travail à faire
-- [ ] Transformer en concept
+- [x] Transformer en concept
 
 

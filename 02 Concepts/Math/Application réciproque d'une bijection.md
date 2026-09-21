@@ -47,7 +47,7 @@ $$f \circ f^{-1} = \text{Id}_F \quad \text{et} \quad f^{-1} \circ f = \text{Id}_
 ## 3. Réciproque d'une composée
 
 Si $f$ est une bijection de $E$ dans $F$ et $g$ une bijection de $F$ dans $G$, alors $g \circ f$ est une bijection de $E$ dans $G$ et son application réciproque s'écrit ::$$(g \circ f)^{-1} = f^{-1} \circ g^{-1}$$
-<!--SR:!2026-09-20,2,230-->
+<!--SR:!2026-09-27,7,250-->
 
 
 ## Concepts liés

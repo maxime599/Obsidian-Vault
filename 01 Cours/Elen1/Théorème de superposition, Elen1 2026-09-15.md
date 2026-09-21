@@ -65,7 +65,7 @@ $E_{th} = E_{1}*\frac{R_{2}}{R_{1}+R_{2}}+E_{2}*\frac{R_{1}}{R_{1}+R_{2}}$
 ## À retenir
 -
 ## Travail à faire
-- [ ] Finir la feuille de pompe pour le partiel (jusquà ce TD)
+- [x] Finir la feuille de pompe pour le partiel (jusquà ce TD)
 
 
  

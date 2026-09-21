@@ -26,7 +26,7 @@ Calendar Title: "[[Variables et constantes en C|Variables et constantes en C]]"
   - Le nom doit commencer par une lettre ou un tiret bas `_`.
   - Pas d'espaces, de tirets `-`, ni de caractères accentués (`é`, `à`, etc.).
   - Ne pas utiliser les mots-clés réservés du C (`int`, `return`, `if`, etc.).
-
+- Pour faire par exemple $10^{-11}$ :: 
 
 ## 2. Déclaration, initialisation et affectation
 
@@ -51,12 +51,6 @@ En C, il existe deux manières standards de définir une constante :
    ```c
    const double PI = 3.14159265;
    const int SEUIL_VALIDE = 10;
-   ```
-2. **Avec la directive du préprocesseur `#define`** :
-   Réalise un remplacement textuel direct avant la compilation.
-   ```c
-   #define MAX_ELEVES 30
-   #define EPSILON 0.0001
    ```
 
 
@@ -92,7 +86,7 @@ int main() {
 ## Concepts liés
 
 - [[Types de données élémentaires]]
-- [[Syntaxe en C]]
+- [[Syntaxe et structure de base en C - C++]]
 - [[Fonctions et modularité]]
 - [[Pointeurs et gestion de la mémoire]]
 

@@ -57,7 +57,7 @@ En algorithmique et en langage C, l'information est classée en plusieurs catég
 ## Concepts liés
 
 - [[Variables et constantes en C]]
-- [[Syntaxe en C]]
+- [[Syntaxe et structure de base en C - C++]]
 - [[Encodage des caractères et table ASCII]]
 - [[Tableaux et chaînes de caractères]]
 - [[Pointeurs et gestion de la mémoire]]

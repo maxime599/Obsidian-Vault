@@ -22,7 +22,7 @@ Ressources:
 ## 1. Loi des mailles
 
 Une **maille** est :: un ensemble d'éléments formant une boucle fermée dans un circuit.
-<!--SR:!2026-09-20,3,250-->
+<!--SR:!2026-10-02,12,270-->
 
 Loi des mailles
 ?

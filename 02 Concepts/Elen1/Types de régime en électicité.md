@@ -32,17 +32,17 @@ Les 3 types de régimes :
 
 L'expression temporelle de la tension est donnée par :
 ==$$V(t) = V_{\text{crête}} \cdot \sin(\omega \cdot t)$$==
-<!--SR:!2026-09-20,3,250-->
+<!--SR:!2026-09-30,10,270-->
 
 
 
 ### Tensions et amplitudes
 - **Valeur crête ($V_{\text{crête}}$ ou $V_{\text{max}}$)** :: Valeur maximale ou minimale atteinte par la courbe (ex. $325\text{ V}$ pour le réseau domestique en France).
-<!--SR:!2026-09-20,3,250-->
+<!--SR:!2026-10-01,11,270-->
 - **Amplitude crête à crête ($V_{\text{pp}}$)** : Écart total entre le maximum et le minimum :: $$V_{\text{pp}} = V_{\text{max}} - V_{\text{min}}$$
 <!--SR:!2026-09-21,4,270-->
 - **Amplitude ($V_m$)** :: $$V_m = \frac{V_{\text{max}} - V_{\text{min}}}{2}$$
-<!--SR:!2026-09-20,3,250-->
+<!--SR:!2026-10-01,11,270-->
 - **Tension efficace ($V_{\text{eff}}$)** : Tension continue équivalente fournissant les mêmes performances énergétiques dans un récepteur ::  $$V_{\text{eff}} = \frac{V_{\text{crête}}}{\sqrt{2}}$$
 <!--SR:!2026-09-21,4,270-->
 
@@ -50,7 +50,7 @@ L'expression temporelle de la tension est donnée par :
 
 ### Période, fréquence et pulsation
 - **Période ($T$)** :: Durée d'un motif élémentaire exprimée en secondes ($\text{s}$). Un cycle complet correspond à un tour du cercle trigonométrique ($2\pi\text{ rad}$).
-<!--SR:!2026-09-20,2,230-->
+<!--SR:!2026-09-27,7,250-->
 - **Fréquence ($f$)** :: Nombre de motifs répétés en une seconde, exprimée en Hertz ($\text{Hz}$) :
 <!--SR:!2026-09-21,4,270-->
   $$f = \frac{1}{T}$$

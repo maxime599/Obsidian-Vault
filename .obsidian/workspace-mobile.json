@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard.md",
+                "file": "02 Concepts/Math/Fonction indicatrice.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dashboard"
+              "title": "Fonction indicatrice"
             }
           }
         ]
@@ -158,12 +158,23 @@
           "icon": "lucide-list",
           "title": "Plan"
         }
+      },
+      {
+        "id": "378158b45c9ee243",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
       }
     ],
     "currentTab": 0
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-spaced-repetition:Apprendre les flashcards": false,
       "cmdr:Templater: Create MOC": false,
       "switcher:Ouvrir le sélecteur rapide": false,
       "graph:Ouvrir la vue graphique": false,
@@ -188,8 +199,10 @@
   },
   "active": "5dc4c66c9ac906c5",
   "lastOpenFiles": [
-    "01 Cours/Math/ensemble chapitre 2, Math 2026-09-09.md",
+    "02 Concepts/Math/Fonction exponentielle et logarithme népérien.md",
+    "02 Concepts/Math/Formules de De Moivre et racines n-ièmes.md",
     "Dashboard.md",
+    "01 Cours/Math/ensemble chapitre 2, Math 2026-09-09.md",
     "05 Ressources/Latex.md",
     "05 Ressources/DS années précédentes/Mathématiques S1/2026 - DS1 - Maths.pdf",
     "01 Cours/Math/Suite des raisonnement et Ensembles, Math 2026-09-04.md",

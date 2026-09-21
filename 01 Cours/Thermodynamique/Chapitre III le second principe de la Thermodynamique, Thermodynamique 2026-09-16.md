@@ -9,6 +9,11 @@ tags:
   - cours
   - Thermodynamique
 Concepts:
+  - "[[Comparaison des détentes isotherme et adiabatique]]"
+  - "[[Lois de Laplace (Transformations isentropiques)]]"
+  - "[[Calcul de la variation d'entropie]]"
+  - "[[Entropie et bilan entropique]]"
+  - "[[Second Principe de la thermodynamique et énoncés fondamentaux]]"
 Ressources:
   - "[[Thermodynamique chapitre III le second principe.pdf]]"
 ---
@@ -246,7 +251,7 @@ La capacité thermique de chaque cylindre est notée $C$ (supposée constante).
 ## À retenir
 -
 ## Travail à faire
-- [ ] Transformer en concept
+- [x] Transformer en concept
 - [ ] Comprendre
 - [ ] Apprendre
 - [ ] S'entrainer

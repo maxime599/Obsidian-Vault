@@ -10,7 +10,7 @@ tags:
   - Info
 Concepts:
   - "[[Division euclidienne dans Z]]"
-  - "[[Syntaxe en C]]"
+  - "[[Syntaxe et structure en algorithmique]]"
 Ressources: "[[Info1_Slides.pdf]]"
 ---
 

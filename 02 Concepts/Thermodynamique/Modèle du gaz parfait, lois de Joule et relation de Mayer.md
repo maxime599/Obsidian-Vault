@@ -45,9 +45,9 @@ Les capacités thermiques molaires dépendent de la structure atomique des molé
 - **Relation de Mayer** :: $$C_P - C_V = nR$$
 <!--SR:!2026-09-21,2,190-->
 - **Coefficient isentropique (ou d'adiabatique)** $\gamma$ :: $$\gamma = \frac{C_P}{C_V}$$
-<!--SR:!2026-09-20,1,170-->
+<!--SR:!2026-09-22,2,190-->
 - **Expressions de $C_V$ et $C_P$ en fonction de $\gamma$** ::  $$C_V = \frac{nR}{\gamma - 1}, \qquad C_P = \frac{\gamma nR}{\gamma - 1}$$
-<!--SR:!2026-09-20,1,210-->
+<!--SR:!2026-09-23,3,230-->
 
 
 ## 3. Première et deuxième loi de Joule

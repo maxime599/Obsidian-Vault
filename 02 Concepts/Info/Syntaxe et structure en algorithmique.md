@@ -33,7 +33,7 @@ Un algorithme bien structuré se divise en deux parties principales :
   - **Variable** : Espace mémoire identifié par un nom dont la valeur peut évoluer (ex: `frcs, eur : 2 réels`).
   
 - **Le Corps de l'algorithme** : Encadré par les mots-clés ==`Début` et `Fin`==, il contient ==la suite logique d'instructions à exécuter==.
-<!--SR:!2026-09-21,4,270!2026-09-20,3,250-->
+<!--SR:!2026-09-21,4,270!2026-10-01,11,270-->
 
 
 ## 2. Instructions fondamentales et typage
@@ -89,7 +89,7 @@ Fin
 1. Lister = déclarer dans le lexique principal avec R, E, S les fonctions du découpage
 2. Compléter le lexique principal et réaliser l'algo principal en appelant les fonctions du découpage
 3. Définir chaque fonctions du découpage, en dehors de l'algo principal
-<!--SR:!2026-09-20,2,230-->
+<!--SR:!2026-09-27,7,250-->
 
 
 #### Découpe fonctionnel simple

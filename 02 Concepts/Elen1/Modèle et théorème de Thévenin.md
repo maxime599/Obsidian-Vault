@@ -15,7 +15,7 @@ Ressources:
 
 > [!info] Définition courte
 > Le **théorème de Thévenin** :: affirme que tout dipôle linéaire vu de deux bornes peut être remplacé par un modèle équivalent constitué d'une source idéale de tension $E_{\text{th}}$ en série avec une résistance $R_{\text{th}}$.
-<!--SR:!2026-09-20,2,230-->
+<!--SR:!2026-09-27,7,250-->
 
 
 ## 1. Énoncé du théorème

@@ -58,7 +58,7 @@ L'assertion « $P$ si et seulement si $Q$ » est vraie si :: $P$ et $Q$ ont exac
 
 > [!theorem] Équivalences fondamentales de l'implication
 > - Forme disjonctive : $[P \implies Q] \iff$::$[\text{non}(P) \text{ ou } Q]$
-<!--SR:!2026-09-20,2,230-->
+<!--SR:!2026-09-25,5,230-->
 > - Négation de l'implication : $\text{non}(P \implies Q) \iff$::$[P \text{ et } \text{non}(Q)]$
 <!--SR:!2026-09-21,3,250-->
 > - Contraposée : $[P \implies Q] \iff$::$[\text{non}(Q) \implies \text{non}(P)]$

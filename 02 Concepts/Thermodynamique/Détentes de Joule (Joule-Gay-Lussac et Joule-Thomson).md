@@ -26,7 +26,7 @@ Un gaz contenu dans un compartiment rigide ($T_0, P_0$) se détend vers un secon
 - **Bilan du 1ᵉʳ principe** :
   Formule de la détente de Joule-Gay-Lussac (détente libre dans le vide)$$\Delta U = W + Q = 0$$
   La détente de Joule-Gay-Lussac est :: **isoénergétique** ($\Delta U = 0$).
-<!--SR:!2026-09-20,1,190-->
+<!--SR:!2026-09-23,3,210-->
 - **Cas du gaz parfait** : Comme $dU = C_V dT$, $\Delta U = 0 \implies \Delta T = 0$. 
 La détente d'un gaz parfait s'effectue sans :: variation de température ($T_{\text{final}} = T_0$).
 <!--SR:!2026-09-22,4,270-->

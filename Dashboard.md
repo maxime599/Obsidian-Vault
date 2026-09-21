@@ -20,7 +20,7 @@ WHERE !completed
 GROUP BY regexreplace(file.folder, ".*/", "")
 ```
 
-
+- [ ] ajouter des flashcards pour les 5 derniers concepts de thermo
 
 # Derniers concepts vus aujourd'hui
 ```dataview

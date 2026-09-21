@@ -28,7 +28,7 @@ Soit $A$ une partie de $\mathbb{R}$.
 - **Minorée** :: $\exists m \in \mathbb{R}, \, \forall x \in A, \, m \le x$. $m$ est un *minorant* de $A$.
 <!--SR:!2026-09-22,4,270-->
 - **Bornée** :: $A$ est à la fois majorée et minorée.
-<!--SR:!2026-09-20,1,210-->
+<!--SR:!2026-09-23,3,230-->
 
 
 ## 2. Maximum et Minimum

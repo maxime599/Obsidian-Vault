@@ -15,7 +15,7 @@ Ressources:
 
 > [!info] Définition courte
 > Le **théorème de superposition** énonce que ==dans un circuit électrique linéaire comportant plusieurs sources indépendantes, la grandeur électrique (tension ou intensité) en un point est égale à la **somme algébrique** des grandeurs produites par chaque source agissant seule.==
-<!--SR:!2026-09-20,2,210-->
+<!--SR:!2026-09-26,6,230-->
 
 
 ## 1. Principe et extinction des sources
@@ -32,7 +32,7 @@ Méthode d'application du théorème de superposition
 1. **Isolation des contributions** : Calculer la contribution individuelle de chaque source en éteignant toutes les autres.
 2. **Sommation** : Additionner algébriquement les contributions obtenues pour trouver la grandeur globale :
 $$U_{AB} = \sum_{k=1}^{n} U_{AB_k}$$
-<!--SR:!2026-09-20,3,250-->
+<!--SR:!2026-09-30,10,270-->
 
 
 ## 3. Exemple d'application (Deux sources de tension)
