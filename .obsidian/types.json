@@ -8,7 +8,7 @@
     "Concepts liés": "multitext",
     "Concepts": "multitext",
     "End Date": "datetime",
-    "endTime": "datetime",
+    "endTime": "text",
     "end_date": "datetime",
     "Ressources": "multitext"
   }

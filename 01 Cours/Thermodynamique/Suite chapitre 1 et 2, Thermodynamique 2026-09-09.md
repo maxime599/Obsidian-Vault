@@ -314,6 +314,6 @@ Les variables d'état $P, V, T$ sont liées par l'équation d'état $f(P,V,T) = 
 ## Travail à faire
 - [x] Rendre l'exemple d'application p29 et p34 pour mercredi
 - [x] Transfomer en concept
-- [ ] Comprendre tout le cours et faire des exos pour s'entrainer
+- [x] Comprendre tout le cours et faire des exos pour s'entrainer
 
 

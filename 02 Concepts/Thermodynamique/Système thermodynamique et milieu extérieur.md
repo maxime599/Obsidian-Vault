@@ -25,19 +25,19 @@ Selon la nature de la frontière séparant le système du milieu extérieur, on 
 | **Fermé**       |      ==Non==       |      ==Oui==      | Fluide étanche dans un piston       |
 | **Ouvert**      |      ==Oui==       |      ==Oui==      | Turbine, moteur, corps humain       |
 | **Isolé**       |      ==Non==       |      ==Non==      | Bouteille isotherme idéale, Univers |
-<!--SR:!2026-09-22,4,270!2026-09-22,4,270!2026-09-22,4,270!2026-09-22,4,270!2026-09-22,4,270!2026-09-22,4,270-->
+<!--SR:!2026-10-08,16,290!2026-10-07,15,290!2026-10-08,16,290!2026-12-01,56,310!2026-10-07,15,290!2026-12-03,58,310-->
 
 
 ## 2. Interaction avec le milieu extérieur
 
 Le milieu extérieur représente ==tout ce qui n'appartient pas au système==.
-<!--SR:!2026-09-22,4,270--> 
+<!--SR:!2026-10-07,15,290--> 
 
 Les échanges s'effectuent à travers la frontière sous deux formes majeures :
 ?
 - **Matière** : Transfert de masse (systèmes ouverts).
 - **Énergie** : Transfert mécanique (travail $W$) ou transfert thermique (chaleur $Q$).
-<!--SR:!2026-09-21,2,230-->
+<!--SR:!2026-10-12,16,250-->
 
 
 ## Concepts liés

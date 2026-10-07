@@ -15,7 +15,7 @@ Ressources:
 
 > [!info] Définition courte
 > Le **théorème de superposition** énonce que ==dans un circuit électrique linéaire comportant plusieurs sources indépendantes, la grandeur électrique (tension ou intensité) en un point est égale à la **somme algébrique** des grandeurs produites par chaque source agissant seule.==
-<!--SR:!2026-09-26,6,230-->
+<!--SR:!2026-10-16,20,250-->
 
 
 ## 1. Principe et extinction des sources
@@ -32,7 +32,7 @@ Méthode d'application du théorème de superposition
 1. **Isolation des contributions** : Calculer la contribution individuelle de chaque source en éteignant toutes les autres.
 2. **Sommation** : Additionner algébriquement les contributions obtenues pour trouver la grandeur globale :
 $$U_{AB} = \sum_{k=1}^{n} U_{AB_k}$$
-<!--SR:!2026-09-30,10,270-->
+<!--SR:!2026-11-10,38,290-->
 
 
 ## 3. Exemple d'application (Deux sources de tension)
@@ -50,7 +50,8 @@ Pour déterminer la tension à vide $U_{AB_0}$ (ou la tension équivalente de Th
 3. **Tension totale $U_{AB_0}$** :
    $$U_{AB_0} = E_{\text{th}} = U_{AB_{01}} + U_{AB_{02}}$$
 
-   $$E_{\text{th}} = E_1 \cdot \frac{R_2}{R_1 + R_2} + E_2 \cdot \frac{R_1}{R_1 + R_2}$$
+   Tension final dans le théorème de superposition ::$$E_{\text{th}} = E_1 \cdot \frac{R_2}{R_1 + R_2} + E_2 \cdot \frac{R_1}{R_1 + R_2}$$
+<!--SR:!2026-10-07,11,270-->
 
 ## 4. Exemple dans un exos
 ![[Drawing 2026-09-15 15.01.54.excalidraw]]

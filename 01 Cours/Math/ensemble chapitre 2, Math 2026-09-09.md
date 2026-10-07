@@ -311,7 +311,7 @@ dv.paragraph(`**Précédent :** ${getCleanLink(prev)} | **Suivant :** ${getClean
 ## Travail à faire
 - [x] Relire tout le cours
 - [x] Le transformer en concept 
-- [ ] Apprendre
+- [x] Apprendre
 - [x] démontrer le théorème 7
 
 

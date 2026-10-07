@@ -3,10 +3,8 @@ type: concept
 tags:
   - concepts
   - Elen1
-  - physique/électricité
   - "#elen1/methode"
 MOC:
-  - "[[MOC Électricité]]"
   - "[[07 MOC/Concepts/Elen1/MOC Methode|MOC Methode]]"
   - "[[MOC Résolution d'équations]]"
 date_creation: 2026-09-07

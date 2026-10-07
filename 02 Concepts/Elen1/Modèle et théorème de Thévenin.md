@@ -15,7 +15,7 @@ Ressources:
 
 > [!info] Définition courte
 > Le **théorème de Thévenin** :: affirme que tout dipôle linéaire vu de deux bornes peut être remplacé par un modèle équivalent constitué d'une source idéale de tension $E_{\text{th}}$ en série avec une résistance $R_{\text{th}}$.
-<!--SR:!2026-09-27,7,250-->
+<!--SR:!2026-10-23,25,270-->
 
 
 ## 1. Énoncé du théorème
@@ -33,13 +33,13 @@ Pour déterminer les éléments $E_{\text{th}}$ et $R_{\text{th}}$ du modèle é
 1. **Détermination de $E_{\text{th}}$ (Tension de Thévenin)**
 ?
    On effectue une mesure ou un calcul de la **tension à vide** entre les bornes $A$ et $B$ du dipôle (lorsque aucun courant ne sort des bornes).   $$E_{\text{th}} = U_{AB \text{ à vide}}$$
-<!--SR:!2026-09-21,4,270-->
+<!--SR:!2026-12-08,63,310-->
 
 2. **Détermination de $R_{\text{th}}$ (Résistance de Thévenin)** :
 ?
 On **éteint toutes les sources autonomes** du circuit (les sources de tension sont remplacées par des fils / courts-circuits, et les sources de courant par des interrupteurs ouverts).
 $R_{\text{th}}$ correspond alors à la résistance équivalente vue entre les bornes $A$ et $B$ (ce que mesurerait un ohmmètre branché entre $A$ et $B$).
-<!--SR:!2026-09-21,4,270-->
+<!--SR:!2026-12-01,56,310-->
 
 ![[IMG_20260914_203011.jpg]]{transform="translate(-1.7%, -14.2%) rotate(0deg) scale(1)" aspect-ratio=531/398 width=531}
 ## Concepts liés

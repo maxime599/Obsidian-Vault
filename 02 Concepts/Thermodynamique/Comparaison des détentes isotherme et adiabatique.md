@@ -15,7 +15,8 @@ Ressources:
 # Comparaison des détentes isotherme et adiabatique
 
 > [!info] Définition courte
-> Lors d'une détente d'un gaz parfait entre un volume $V_A$ et un volume $V_B > V_A$, la chute de pression est plus prononcée lors d'une **détente adiabatique** que lors d'une **détente isotherme**.
+> Lors d'une détente d'un gaz parfait entre un volume $V_A$ et un volume $V_B > V_A$, la chute de pression est plus prononcée lors d'une ==**détente adiabatique** que lors d'une **détente isotherme**.==
+<!--SR:!2026-10-18,15,290-->
 
 
 ## 1. Étude comparative quantitative

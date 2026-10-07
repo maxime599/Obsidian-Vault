@@ -1,0 +1,1 @@
+float Distance_vision(float taille);

@@ -1,0 +1,1 @@
+$R_{th}= \frac{E_th R}{U_R} -R$

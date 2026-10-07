@@ -26,10 +26,10 @@ Un gaz contenu dans un compartiment rigide ($T_0, P_0$) se détend vers un secon
 - **Bilan du 1ᵉʳ principe** :
   Formule de la détente de Joule-Gay-Lussac (détente libre dans le vide)$$\Delta U = W + Q = 0$$
   La détente de Joule-Gay-Lussac est :: **isoénergétique** ($\Delta U = 0$).
-<!--SR:!2026-09-23,3,210-->
+<!--SR:!2026-11-05,33,250-->
 - **Cas du gaz parfait** : Comme $dU = C_V dT$, $\Delta U = 0 \implies \Delta T = 0$. 
 La détente d'un gaz parfait s'effectue sans :: variation de température ($T_{\text{final}} = T_0$).
-<!--SR:!2026-09-22,4,270-->
+<!--SR:!2026-11-29,54,310-->
 
 
 ## 2. Détente de Joule-Thomson (détente à travers un tampon poreux)
@@ -40,12 +40,12 @@ Un fluide s'écoule en régime permanent à travers un milieu poreux d'une zone 
   - Côté haute pression : le fluide reçoit le travail $W_0 = P_0 V_0$.
   - Côté basse pression : le fluide fournit le travail $W_1 = -P_1 V_1$.
 - **Bilan du 1ᵉʳ principe** de la détente de Joule-Thomson :: $$\Delta U = U_1 - U_0 = W_0 + W_1 = P_0 V_0 - P_1 V_1$$$$U_1 + P_1 V_1 = U_0 + P_0 V_0$$
-<!--SR:!2026-09-21,2,190-->
+<!--SR:!2026-10-12,9,190-->
 - **Enthalpie (==$H = U + PV$==)** :
   $$H_1 = H_0 \implies \Delta H = 0$$
   La détente de Joule-Thomson est **isenthalpique**.
 - **Cas du gaz parfait** : Selon la 2ᵈᵉ loi de Joule, $dH = C_P dT$. Ainsi, ==$\Delta H = 0 \implies \Delta T = 0$.==
-<!--SR:!2026-09-21,3,250!2026-09-21,3,250-->
+<!--SR:!2026-10-31,28,270!2026-11-13,41,290-->
 
 
 ## Concepts liés

@@ -7,7 +7,7 @@ tags:
   - math/analyse
   - math/ensemble
 MOC:
-  - "[[MOC Analyse]]"
+  - "[[07 MOC/Concepts/Math/MOC Analyse]]"
   - "[[MOC Ensemble]]"
 date_creation: 2026-09-17
 Ressources:
@@ -24,28 +24,28 @@ Ressources:
 Soit $A$ une partie de $\mathbb{R}$.
 
 - **Majorée** :: $\exists M \in \mathbb{R}, \, \forall x \in A, \, x \le M$. $M$ est un *majorant* de $A$.
-<!--SR:!2026-09-22,4,270-->
+<!--SR:!2026-10-08,16,290-->
 - **Minorée** :: $\exists m \in \mathbb{R}, \, \forall x \in A, \, m \le x$. $m$ est un *minorant* de $A$.
-<!--SR:!2026-09-22,4,270-->
+<!--SR:!2026-11-20,47,290-->
 - **Bornée** :: $A$ est à la fois majorée et minorée.
-<!--SR:!2026-09-23,3,230-->
+<!--SR:!2026-11-12,39,270-->
 
 
 ## 2. Maximum et Minimum
 
 - **Maximum ($\max$)** :: Si $A$ est majorée et que son majorant appartient à $A$, cet élément est unique et constitue le maximum : $\max(A) \in A$.
-<!--SR:!2026-09-22,4,270-->
+<!--SR:!2026-10-08,16,290-->
 - **Minimum ($\min$)** :: Si $A$ est minorée et que son minorant appartient à $A$, cet élément est unique et constitue le minimum : $\min(A) \in A$.
-<!--SR:!2026-09-21,3,250-->
+<!--SR:!2026-11-15,43,290-->
 
 
 ## 3. Théorème de la borne supérieure et inférieure
 
 Soit $A$ une partie non vide de $\mathbb{R}$ :
 - **Borne supérieure ($\sup(A)$)** :: Si $A$ est majorée, l'ensemble des majorants de $A$ admet un plus petit élément, noté $\sup(A)$.
-<!--SR:!2026-09-21,3,250-->
+<!--SR:!2026-11-11,39,290-->
 - **Borne inférieure ($\inf(A)$)** :: Si $A$ est minorée, l'ensemble des minorants de $A$ admet un plus grand élément, noté $\inf(A)$.
-<!--SR:!2026-09-22,4,270-->
+<!--SR:!2026-10-08,16,290-->
 
 
 ## 4. Distinction entre Borne Supérieure et Maximum

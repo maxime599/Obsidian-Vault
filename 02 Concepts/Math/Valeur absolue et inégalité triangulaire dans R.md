@@ -8,7 +8,7 @@ tags:
   - math/analyse
 MOC:
   - "[[MOC Ensemble]]"
-  - "[[MOC Analyse]]"
+  - "[[07 MOC/Concepts/Math/MOC Analyse]]"
 date_creation: 2026-09-17
 Ressources:
 ---

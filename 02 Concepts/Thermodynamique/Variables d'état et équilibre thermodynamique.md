@@ -25,7 +25,7 @@ Les variables macroscopiques ($P$, $V$, $T$, $m$) se divisent en deux catégorie
   - *Exemples* : Pression $P$, Température $T$, Masse volumique $\rho$.
 - **Paramètres extensifs** : Proportionnels à la taille ou à la quantité de matière du système. Ils s'additionnent lors de la réunion de deux sous-systèmes.
   - *Exemples* : Volume $V$, Masse $m$, Énergie interne $U$, Charge électrique.
-<!--SR:!2026-09-21,3,250-->
+<!--SR:!2026-11-19,47,290-->
 
 
 ## 2. États d'équilibre et régimes d'évolution

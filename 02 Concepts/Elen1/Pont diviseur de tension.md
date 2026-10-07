@@ -6,7 +6,6 @@ tags:
   - flashcards/Elen1
 MOC:
   - "[[MOC Circuits]]"
-  - "[[MOC Électricité]]"
 date_creation: 2026-09-14
 Ressources:
 ---
@@ -26,7 +25,7 @@ Soit un circuit composé d'un générateur de tension $E$ alimentant deux résis
 1. Loi des mailles : $E = U_1 + U_2$
 2. Loi d'Ohm : $E = R_1 I + R_2 I = (R_1 + R_2) I$
 3. Expression de l'intensité : $I = \frac{E}{R_1 + R_2}$
-<!--SR:!2026-10-02,12,270-->
+<!--SR:!2026-11-17,45,290-->
 
 ### Formules de tension
 En réinjectant $I$ dans la loi d'Ohm aux bornes de chaque résistance :
@@ -42,7 +41,7 @@ $$U_2 = R_2 I \implies U_2 = E \cdot \frac{R_2}{R_1 + R_2}$$
 ## 2. Cas général ($n$ résistances en série)
 
 Pour un ensemble de $n$ résistances $R_1, R_2, \dots, R_n$ branchées en série sous une tension globale $E$, la tension $U_k$ aux bornes de la résistance $R_k$ s'exprime par (Pont diviseur de tension) ::$$U_k = E \cdot \frac{R_k}{\displaystyle\sum_{i=1}^{n} R_i} = E \cdot \frac{R_k}{R_1 + R_2 + \dots + R_n}$$
-<!--SR:!2026-09-21,4,270-->
+<!--SR:!2026-11-04,32,270-->
 
 
 ## Concepts liés

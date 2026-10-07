@@ -40,11 +40,11 @@ L'assertion « Si $P$ alors $Q$ » est **fausse uniquement lorsque $P$ est vraie
 - $P$ est une **condition suffisante** pour avoir $Q$.
 - $Q$ est une **condition nécessaire** pour avoir $P$.
 - **Réciproque** : La réciproque de $P \implies Q$ est l'implication :: $Q \implies P$ (une implication vraie n'implique pas que sa réciproque le soit).
-<!--SR:!2026-09-22,4,270-->
+<!--SR:!2026-10-08,16,290-->
 
 ### L'équivalence ($P \iff Q$)
 L'assertion « $P$ si et seulement si $Q$ » est vraie si :: $P$ et $Q$ ont exactement la même valeur de vérité.$$[P \iff Q] \iff [(P \implies Q) \text{ et } (Q \implies P)]$$
-<!--SR:!2026-09-22,4,270-->
+<!--SR:!2026-10-08,16,290-->
 
 
 ## 3. Théorèmes et lois équivalentes
@@ -52,17 +52,17 @@ L'assertion « $P$ si et seulement si $Q$ » est vraie si :: $P$ et $Q$ ont exac
 > [!theorem] Lois de De Morgan
 > La négation d'une disjonction est la conjonction des négations, et inversement :
 > $\text{non}(P \text{ ou } Q) \iff$::$\text{non}(P) \text{ et } \text{non}(Q)$
-<!--SR:!2026-09-22,4,270-->
+<!--SR:!2026-10-08,16,290-->
 > $\text{non}(P \text{ et } Q) \iff$::$\text{non}(P) \text{ ou } \text{non}(Q)$
-<!--SR:!2026-09-22,4,270-->
+<!--SR:!2026-10-08,16,290-->
 
 > [!theorem] Équivalences fondamentales de l'implication
 > - Forme disjonctive : $[P \implies Q] \iff$::$[\text{non}(P) \text{ ou } Q]$
-<!--SR:!2026-09-25,5,230-->
+<!--SR:!2026-10-08,5,210-->
 > - Négation de l'implication : $\text{non}(P \implies Q) \iff$::$[P \text{ et } \text{non}(Q)]$
-<!--SR:!2026-09-21,3,250-->
+<!--SR:!2026-11-11,38,290-->
 > - Contraposée : $[P \implies Q] \iff$::$[\text{non}(Q) \implies \text{non}(P)]$
-<!--SR:!2026-09-22,4,270-->
+<!--SR:!2026-10-08,16,290-->
 
 
 ## Concepts liés

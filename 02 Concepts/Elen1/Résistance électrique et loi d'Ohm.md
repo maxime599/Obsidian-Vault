@@ -3,12 +3,10 @@ type: concept
 tags:
   - concepts
   - Elen1
-  - physique/électricité
   - "#elen1/composants"
   - flashcards/Elen1
 MOC:
   - "[[MOC Composants]]"
-  - "[[MOC Électricité]]"
 date_creation: 2026-09-07
 Ressources:
 ---
@@ -28,7 +26,7 @@ $$R = \frac{\rho \cdot L}{S}$$
 - $\rho$ : résistivité du matériau en Ohms-mètres ($\Omega\cdot\text{m}$)
 - $L$ : longueur du matériau en mètres ($\text{m}$)
 - $S$ : section transversale du matériau en mètres carrés ($\text{m}^2$)
-<!--SR:!2026-10-01,11,270-->
+<!--SR:!2026-11-13,41,290-->
 
 
 ## 2. Loi d'Ohm

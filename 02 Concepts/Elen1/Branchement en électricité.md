@@ -3,9 +3,7 @@ type: concept
 tags:
   - concepts
   - Elen1
-  - physique/électricité
 MOC:
-  - "[[MOC Électricité]]"
 date_creation: 2026-09-03
 Ressources: "[[Fascicule TD ELEN1 CITISE.pdf]]"
 ---

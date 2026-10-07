@@ -252,7 +252,7 @@ La capacité thermique de chaque cylindre est notée $C$ (supposée constante).
 -
 ## Travail à faire
 - [x] Transformer en concept
-- [ ] Comprendre
-- [ ] Apprendre
-- [ ] S'entrainer
+- [x] Comprendre
+- [x] Apprendre
+- [x] S'entrainer
 

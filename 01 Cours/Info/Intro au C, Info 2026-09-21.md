@@ -9,6 +9,8 @@ tags:
   - cours
   - Info
 Concepts:
+  - "[[Variables et constantes en C]]"
+  - "[[Syntaxe et structure de base en C - C++]]"
 Ressources:
   - "[[Exercices_info1.pdf]]"
 ---

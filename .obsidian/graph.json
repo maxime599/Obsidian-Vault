@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-file:\"MOC Theoreme\" -path:copilot -file:\"MOC Résolution d'équationss\"   ",
+  "search": "-file:\"MOC Theoreme\" -path:copilot -file:\"MOC Résolution d'équations\"  -path:Excalidraw  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -153,11 +153,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1.04795425257732,
   "lineSizeMultiplier": 0.987967139175258,
-  "collapse-forces": true,
-  "centerStrength": 0.40225488222267,
+  "collapse-forces": false,
+  "centerStrength": 0.445238574592309,
   "repelStrength": 10.1511603150947,
-  "linkStrength": 0.801489832897121,
+  "linkStrength": 0.848399436279444,
   "linkDistance": 30,
-  "scale": 0.1490402789723269,
+  "scale": 0.05152063910671059,
   "close": true
 }

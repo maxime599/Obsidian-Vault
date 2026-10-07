@@ -10,7 +10,7 @@ tags:
 MOC:
   - "[[MOC Ensemble]]"
   - "[[MOC Fonction]]"
-  - "[[MOC Analyse]]"
+  - "[[07 MOC/Concepts/Math/MOC Analyse]]"
 date_creation: 2026-09-04
 Ressources:
   - "[[Si_cours_math_chap2.pdf]]"
@@ -19,7 +19,7 @@ Ressources:
 
 > [!info] Définition courte
 > La **fonction indicatrice** (ou caractéristique) :: d'une partie $A \subset E$, notée $\mathbb{1}_A$, est l'application de $E$ dans $\{0, 1\}$ qui vaut $1$ sur $A$ et $0$ en dehors.
-<!--SR:!2026-09-21,3,250-->
+<!--SR:!2026-11-09,37,290-->
 
 
 ## 1. Définition formelle
@@ -38,7 +38,7 @@ Soient $A$ et $B$ deux parties d'un même ensemble $E$ :
 - **Réunion** : $\mathbb{1}_{A \cup B} =$ ==$\mathbb{1}_A + \mathbb{1}_B - \mathbb{1}_A \times \mathbb{1}_B$==
 - **Réunion disjointe** ($A \cap B = \emptyset$) : $\mathbb{1}_{A \cup B}$ = ==$\mathbb{1}_A + \mathbb{1}_B$==
 - **Complémentaire** : $\mathbb{1}_{\bar{A}}$ = ==$1 - \mathbb{1}_A$==
-<!--SR:!2026-09-22,4,270!2026-09-22,4,270!2026-09-22,4,270!2026-09-22,4,270-->
+<!--SR:!2026-10-08,16,290!2026-10-08,16,290!2026-10-08,16,290!2026-10-08,16,290-->
 
 
 ## Concepts liés

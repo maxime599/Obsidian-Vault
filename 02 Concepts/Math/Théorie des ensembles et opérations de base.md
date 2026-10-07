@@ -24,7 +24,7 @@ Ressources:
   - **Ensemble vide ($\emptyset$)** : L'ensemble ne contenant aucun élément.
 - **Inclusion ($\subset$)** : $A \subset B \iff (\forall x \in A, \, x \in B)$. On dit que $A$ est une partie ou un sous-ensemble de $B$.
 - **Égalité de deux ensembles** : Deux ensembles $A$ et $B$ sont égaux si et seulement si :: ils s'incluent mutuellement :$$A = B \iff (A \subset B \text{ et } B \subset A)$$
-<!--SR:!2026-09-22,4,270-->
+<!--SR:!2026-10-08,16,290-->
 
 
 ## 2. Opérations fondamentales sur les parties
@@ -38,7 +38,7 @@ Soit $E$ un ensemble, $A \subset E$ et $B \subset E$ :
 
 > [!note] Parties disjointes
 > Deux parties $A$ et $B$ sont dites **disjointes** si :: leur intersection est vide :$A \cap B = \emptyset$.
-<!--SR:!2026-09-22,3,250-->
+<!--SR:!2026-11-18,45,290-->
 
 
 ## 3. Lois de De Morgan

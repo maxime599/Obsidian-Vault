@@ -1,5 +1,5 @@
 
-# :FarCalendarDays:Cours du jour 
+# :FarCalendarDays:Cours du jour :
 
 ```dataview
 TABLE WITHOUT ID 
@@ -19,8 +19,8 @@ FROM "01 Cours"
 WHERE !completed
 GROUP BY regexreplace(file.folder, ".*/", "")
 ```
+Math : tranformer en concept
 
-- [ ] ajouter des flashcards pour les 5 derniers concepts de thermo
 
 # Derniers concepts vus aujourd'hui
 ```dataview

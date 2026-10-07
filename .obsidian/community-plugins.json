@@ -7,7 +7,6 @@
   "editing-toolbar",
   "waypoint",
   "3d-graph",
-  "persistent-graph",
   "copilot",
   "obsidian-emoji-toolbar",
   "obsidian-icon-folder",
@@ -32,5 +31,8 @@
   "excalidraw-extras",
   "obsidian-spaced-repetition",
   "code-space",
-  "multi-column-markdown"
+  "multi-column-markdown",
+  "latex-math",
+  "obsidian-plugin-toc",
+  "persistent-graph"
 ]

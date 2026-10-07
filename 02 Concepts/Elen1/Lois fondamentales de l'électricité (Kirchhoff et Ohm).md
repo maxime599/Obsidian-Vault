@@ -3,12 +3,10 @@ type: concept
 tags:
   - concepts
   - Elen1
-  - physique/électricité
   - "#elen1/lois"
   - flashcards/Elen1
 MOC:
   - "[[07 MOC/Concepts/Elen1/MOC Lois|MOC Lois]]"
-  - "[[MOC Électricité]]"
 date_creation: 2026-09-07
 Ressources:
   - "[[Info1_Slides.pdf]]"
@@ -22,14 +20,14 @@ Ressources:
 ## 1. Loi des mailles
 
 Une **maille** est :: un ensemble d'éléments formant une boucle fermée dans un circuit.
-<!--SR:!2026-10-02,12,270-->
+<!--SR:!2026-11-16,44,290-->
 
 Loi des mailles
 ?
 > [!theorem] Principe
 > La somme algébrique des tensions le long d'une maille orientée est égale à zéro :
 > $$\sum U_k = 0$$
-<!--SR:!2026-09-21,4,270-->
+<!--SR:!2026-12-06,61,310-->
 
 En orientant la maille selon un sens de parcours choisi :
 - Une tension dans le sens du parcours intervient positivement (ou négativement selon l'orientation choisie des flèches).
@@ -42,14 +40,14 @@ En orientant la maille selon un sens de parcours choisi :
 ## 2. Loi des nœuds
 
 Un **nœud** est ==un point d'interconnexion reliant au moins trois conducteurs==.
-<!--SR:!2026-09-21,4,270-->
+<!--SR:!2026-12-04,59,310-->
 
 Loi des nœuds
 ?
 > [!theorem] Principe
 > La somme algébrique des courants traversant un nœud est nulle. Les courants entrant dans le nœud sont comptés positivement ($+$) et les courants sortant sont comptés négativement ($-$) :
 > $$\sum I_{\text{entrants}} - \sum I_{\text{sortants}} = 0$$
-<!--SR:!2026-09-21,4,270-->
+<!--SR:!2026-11-30,55,310-->
 
 - *Exemple (au nœud $N_1$)* : $I_1 - I_2 - I_3 = 0 \iff I_1 = I_2 + I_3$
 

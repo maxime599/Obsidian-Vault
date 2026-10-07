@@ -24,7 +24,7 @@ Dans un fluide au repos, l'interaction avec une surface $\mathrm{d}S$ s'exerce n
 $$\mathrm{d}\vec{F} = P \mathrm{d}S \, \vec{n}$$
 - $P$ est la pression (grandeur scalaire exprimée en Pascal, $\text{Pa} = \text{N}\cdot\text{m}^{-2} = \text{kg}\cdot\text{m}^{-1}\cdot\text{s}^{-2}$).
 - $\vec{n}$ est le vecteur unitaire orthogonal à la surface, orienté vers l'extérieur du volume délimité.
-<!--SR:!2026-09-21,3,250-->
+<!--SR:!2026-11-11,39,290-->
 
 
 ## 2. Poussée d'Archimède

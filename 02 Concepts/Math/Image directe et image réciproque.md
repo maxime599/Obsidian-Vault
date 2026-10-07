@@ -18,9 +18,9 @@ Ressources:
 
 > [!info] Définition courte
 > L'**image directe** $f(A)$ est :: le sous-ensemble de l'ensemble d'arrivée constitué des images des éléments de $A$.
-<!--SR:!2026-09-27,7,250-->
+<!--SR:!2026-10-24,26,270-->
 > L'**image réciproque** $f^{-1}(B)$ est :: le sous-ensemble de l'ensemble de départ constitué de tous les antécédents des éléments de $B$.
-<!--SR:!2026-09-22,3,230-->
+<!--SR:!2026-11-07,35,270-->
 
 
 ## 1. Image directe

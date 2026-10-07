@@ -25,19 +25,19 @@ Ressources: "[[Info1_Slides.pdf]]"
 Tout programme écrit en C / C++ s'articule autour des éléments fondamentaux suivants :
 
 - **Directives du préprocesseur** : Introduites par ==`#include <...>`==, elles permettent d'importer les bibliothèques nécessaires
-<!--SR:!2026-09-24,4,270--> 
+<!--SR:!2026-10-09,15,290--> 
 
 (ex: `#include <iostream>` pour la gestion des flux d'entrées/sorties).
 - **Espace de nom** : ==`using namespace std;`== permet d'utiliser directement les fonctions de la bibliothèque standard sans devoir ajouter le préfixe `std::`.
 - **Fonction principale  :: `main()`** : Point d'entrée obligatoire du programme (`int main() { ... return 0; }`).
-<!--SR:!2026-09-23,3,250-->
+<!--SR:!2026-11-14,41,290-->
 - **Portée globale** : Tout élément déclaré en dehors de la fonction `main()` possède une portée globale (ex. fonctions secondaires).
 - **Fin d'instruction** : Chaque instruction doit impérativement se terminer par ==un point-virgule `;`.==
 - **Commentaires** :
   - Commentaires sur une seule ligne :: `// commentaire`
-<!--SR:!2026-09-24,4,270-->
+<!--SR:!2026-10-10,16,290-->
   - Commentaires sur plusieurs lignes :: `/* commentaire */`
-<!--SR:!2026-09-24,4,270-->
+<!--SR:!2026-10-09,15,290-->
 
 
 ## 2. Tableau de traduction : Algorithmie vers C / C++
@@ -54,9 +54,9 @@ Tout programme écrit en C / C++ s'articule autour des éléments fondamentaux s
 | **Afficher un message**  | $\text{Ecrire()}$ |               `cout <<`                |
 | **Récupérer une saisie** |  $\text{Lire()}$  |                `cin >>`                |
 Ecrire() = :: `cout <<`
-<!--SR:!2026-09-24,4,270-->
+<!--SR:!2026-10-10,16,290-->
 Lire() = :: `cin >>`
-<!--SR:!2026-09-24,4,270-->
+<!--SR:!2026-10-09,15,290-->
 
 > [!warning] Distinction sur la division
 > En C / C++, l'opérateur `/` adapte son comportement au type des opérandes :
@@ -102,6 +102,7 @@ int main() {
 
 - [[Types de données élémentaires]]
 - [[Variables et constantes en C]]
+- [[Fonctions et découpage fonctionnel en C++]]
 
 
 ## 📚 Cours associés

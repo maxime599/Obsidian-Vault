@@ -34,7 +34,7 @@ Pour tout $n \in \mathbb{N}^*$, on note $[\![ 1 ; n ]\!] = \{1, 2, \dots, n\}$.
 Un ensemble $E$ est **infini** s'il n'est pas fini.
 
 > **Théorème de caractérisation** :: S'il existe une bijection entre un ensemble $E$ et une partie propre $A \subsetneq E$ ($A \neq E$), alors $E$ est infini.
-<!--SR:!2026-09-22,3,230-->
+<!--SR:!2026-10-23,20,250-->
 
 ### Exemple : Infinitude de $\mathbb{N}$
 Soit $2\mathbb{N} = \{2k \mid k \in \mathbb{N}\}$ l'ensemble des entiers pairs ($2\mathbb{N} \subsetneq \mathbb{N}$).
@@ -44,7 +44,7 @@ L'application $f : \mathbb{N} \to 2\mathbb{N}$ définie par $f(n) = 2n$ est bije
 ## 3. Dénombrabilité
 
 - **Ensemble dénombrable** : Un ensemble $E$ est dénombrable si :: ill existe une bijection entre $E$ et $\mathbb{N}$.
-<!--SR:!2026-09-22,4,270-->
+<!--SR:!2026-10-08,16,290-->
 - **Dénombrabilité de $\mathbb{Q}$** : L'ensemble des nombres rationnels $\mathbb{Q}$ est infini dénombrable.
 - **Non-dénombrabilité de $\mathbb{R}$ (Théorème de Cantor, 1874)** : L'ensemble des nombres réels $\mathbb{R}$ est infini mais **non dénombrable** (son cardinal est supérieur à celui de $\mathbb{N}$).
 

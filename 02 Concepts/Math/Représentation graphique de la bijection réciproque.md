@@ -7,7 +7,7 @@ tags:
   - math/analyse
   - math/fonction
 MOC:
-  - "[[MOC Analyse]]"
+  - "[[07 MOC/Concepts/Math/MOC Analyse]]"
   - "[[MOC Fonction]]"
 date_creation: 2026-09-17
 Ressources:

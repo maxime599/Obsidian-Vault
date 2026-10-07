@@ -21,9 +21,11 @@ Ressources:
 ## 1. Hypothèses fondamentales
 
 Les relations de Laplace s'appliquent strictement si les 3 conditions suivantes sont réunies :
+?
 1. Le fluide étudié est un **gaz parfait**.
 2. La transformation est **adiabatique** ($\delta Q = 0$) et **réversible** (soit une transformation isentropique $\Delta S = 0$).
 3. Le coefficient isentropique $\gamma = \frac{C_p}{C_v}$ est **constant** sur l'intervalle de température considéré.
+<!--SR:!2026-10-17,14,290-->
 
 
 ## 2. Démonstration de la relation (Dégonflage d'un pneu)
@@ -45,12 +47,12 @@ Soit une détente adiabatique quasi-statique de l'air (gaz parfait) contenu dans
 
 Selon le couple de variables retenu :
 
-- **Relation $(P, V)$** :
-  $$P V^\gamma = \text{constante}$$
-- **Relation $(T, V)$** :
-  $$T V^{\gamma-1} = \text{constante}$$
-- **Relation $(P, T)$** :
-  $$P^{1-\gamma} \cdot T^\gamma = \text{constante} \quad \iff \quad P^{\frac{1-\gamma}{\gamma}} \cdot T = \text{constante}$$
+- **Relation $(P, V)$** ::$$P V^\gamma = \text{constante}$$
+<!--SR:!2026-10-17,14,290-->
+- **Relation $(T, V)$** ::$$T V^{\gamma-1} = \text{constante}$$
+<!--SR:!2026-10-16,10,270-->
+- **Relation $(P, T)$** ::$$P^{1-\gamma} \cdot T^\gamma = \text{constante} \quad \iff \quad P^{\frac{1-\gamma}{\gamma}} \cdot T = \text{constante}$$
+<!--SR:!2026-10-13,7,250-->
 
 
 ## Concepts liés

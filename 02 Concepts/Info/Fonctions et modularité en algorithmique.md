@@ -7,6 +7,7 @@ tags:
   - info/fonctions
 MOC:
   - "[[MOC Fonctions]]"
+  - "[[MOC Algorithmique]]"
 date_creation: 2026-09-09
 Ressources:
 ---

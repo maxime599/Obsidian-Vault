@@ -27,7 +27,7 @@ Dans $\mathbb{R}$, une équation peut ne pas avoir de solution si son discrimina
 2. Si $\Delta\ge0$, appliquer la formule usuelle dans $\mathbb{R}$.
 3. Si $\Delta<0$, poser $\sqrt{\Delta}=i\sqrt{-\Delta}$.
 4. Écrire les deux solutions :
-   $$z_1=\frac{-b+i\sqrt{-\Delta}}{2a}\qquad\text{et}\qquad z_2=\frac{-b-i\sqrt{-\Delta}}{2a}.$$
+   $$z_1=\frac{-b+i\sqrt{-\Delta}}{2a}\qquad\text{et}\qquad z_2=\frac{-b-i\sqrt{-\Delta}}{2a}$$
 
 ## Exemple simple
 

@@ -5,8 +5,10 @@ tags:
   - concepts
   - math
   - math/nombrescomplexes
+  - math/vecteurs
 MOC:
   - "[[MOC Nombres complexes]]"
+  - "[[MOC Vecteurs]]"
 date_creation: 2026-07-28
 ---
 # Géométrie des nombres complexes
@@ -50,6 +52,8 @@ Pour traduire une figure géométrique :
 - [[Argument et forme trigonométrique d'un nombre complexe]]
 - [[Forme exponentielle et formule d'Euler]]
 - [[Cercle trigonométrique et angles remarquables]]
+- [[Fonction exponentielle et logarithme népérien]]
+
 
 ## 📚 Cours associés
 

@@ -8,7 +8,7 @@ tags:
   - flashcards/Math
 MOC:
   - "[[MOC Fonction]]"
-  - "[[MOC Analyse]]"
+  - "[[07 MOC/Concepts/Math/MOC Analyse]]"
 date_creation: 2026-09-04
 Ressources:
   - "[[Si_cours_math_chap2.pdf]]"
@@ -17,7 +17,7 @@ Ressources:
 
 > [!info] Définition courte
 > Une **application** est :: une relation binaire entre deux ensembles qui associe à chaque élément de départ une image unique dans l'ensemble d'arrivée.
-<!--SR:!2026-09-21,3,250-->
+<!--SR:!2026-11-18,46,290-->
 
 
 ## 1. Application vs Fonction
@@ -26,13 +26,13 @@ Ressources:
 - **Fonction** : Certains éléments de $E$ peuvent n'avoir aucune image. Le domaine de définition $D_f$ est une partie de $E$.
 
 Différence application et fonction : :: Application = Tout élément de l'ensemble de départ $E$ possède **exactement une** image dans $F$, fonction = Certains éléments de $E$ peuvent n'avoir aucune image
-<!--SR:!2026-09-21,3,250-->
+<!--SR:!2026-11-14,42,290-->
 > [!example] Vocabulaire
 > Pour $f(x) = y$ :
 > - $E$ est ==l'ensemble de départ==, $F$ ==l'ensemble d'arrivée==.
 > - $y$ est ==l'**image** de $x$==.
 > - $x$ est un ==**antécédent** de $y$== (il peut y en avoir zéro, un ou plusieurs).
-<!--SR:!2026-09-22,4,270!2026-09-22,4,270!2026-09-22,4,270!2026-09-21,3,250-->
+<!--SR:!2026-10-08,16,290!2026-10-08,16,290!2026-11-20,47,290!2026-11-19,47,290-->
 
 
 ## 2. Restriction d'une application
@@ -45,7 +45,7 @@ $$f_{|A} : A \to F, \quad x \mapsto f(x)$$
 ## 3. Prolongement d'une application
 
 Soit $f : A \to F$ avec $A \subset E$. Un **prolongement** de $f$ à $E$ est :: toute application $\tilde{f} : E \to F$ telle que sa restriction à $A$ égale $f$ ($\tilde{f}_{|A} = f$).
-<!--SR:!2026-09-22,3,230-->
+<!--SR:!2026-11-03,31,270-->
 
 > [!example] Prolongement par continuité
 > Pour $f : \mathbb{R}^* \to \mathbb{R}, \, x \mapsto \frac{\sin(x)}{x}$, un prolongement continu à $\mathbb{R}$ est :
