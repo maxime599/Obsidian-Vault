@@ -24,7 +24,7 @@ La température traduit le niveau d'agitation microscopique d'un système.
 - **Kelvin ($\text{K}$)** : Unité fondamentale de température absolue du Système International.
 - **Celsius ($^\circ\text{C}$)** : $T(\text{K})$ = ==$T(^\circ\text{C}) + 273.15$==
 - **Fahrenheit ($^\circ\text{F}$)** : $T(^\circ\text{C})$ = ==$\frac{T(^\circ\text{F}) - 32}{1.8}$==
-<!--SR:!2026-10-08,16,290!2026-10-08,16,290-->
+<!--SR:!2026-12-11,64,310!2026-12-11,64,310-->
 
 
 ## 2. Instruments et modes de mesure de la pression

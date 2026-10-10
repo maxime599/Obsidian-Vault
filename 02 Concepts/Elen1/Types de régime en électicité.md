@@ -24,14 +24,14 @@ Les 3 types de régimes :
 - **Régime sinusoïdal** : Tension périodique qui varie selon une fonction sinus.
   - *Exemple* : Réseau électrique domestique.
 - **Régime quelconque** : Tout signal ne répondant ni aux critères du régime continu ni à ceux du régime sinusoïdal.
-<!--SR:!2026-10-07,16,290-->
+<!--SR:!2026-12-12,65,310-->
 
 
 ## 2. Caractéristiques du régime sinusoïdal
 
 L'expression temporelle de la tension est donnée par :
 ==$$V(t) = V_{\text{crête}} \cdot \sin(\omega \cdot t)$$==
-<!--SR:!2026-10-08,5,250-->
+<!--SR:!2026-10-26,18,270-->
 
 
 
@@ -39,7 +39,7 @@ L'expression temporelle de la tension est donnée par :
 - **Valeur crête ($V_{\text{crête}}$ ou $V_{\text{max}}$)** :: Valeur maximale ou minimale atteinte par la courbe (ex. $325\text{ V}$ pour le réseau domestique en France).
 <!--SR:!2026-11-12,40,290-->
 - **Amplitude crête à crête ($V_{\text{pp}}$)** : Écart total entre le maximum et le minimum :: $$V_{\text{pp}} = V_{\text{max}} - V_{\text{min}}$$
-<!--SR:!2026-10-07,16,290-->
+<!--SR:!2026-12-11,64,310-->
 - **Amplitude ($V_m$)** :: $$V_m = \frac{V_{\text{max}} - V_{\text{min}}}{2}$$
 <!--SR:!2026-11-02,30,270-->
 - **Tension efficace ($V_{\text{eff}}$)** : Tension continue équivalente fournissant les mêmes performances énergétiques dans un récepteur ::  $$V_{\text{eff}} = \frac{V_{\text{crête}}}{\sqrt{2}}$$

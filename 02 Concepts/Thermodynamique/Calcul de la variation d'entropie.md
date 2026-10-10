@@ -21,7 +21,7 @@ Ressources:
 ## 1. Méthode générale de calcul
 
 1. **Cas réversible** : On applique directement l'intégration de la forme différentielle : Calcule de $\Delta S$::$$\Delta S = \int_{T_i}^{T_f} \frac{\delta Q_{\text{rév}}}{T}$$
-<!--SR:!2026-10-08,5,230-->
+<!--SR:!2026-10-11,3,210-->
 2. **Cas irréversible** :
 ?
    - Déterminer les états initial et final grâce aux contraintes et au Premier Principe ($\Delta U = Q + W$).
@@ -29,7 +29,7 @@ Ressources:
    - Calculer $\Delta S$ le long de ce chemin fictif via $\int \frac{\delta Q_{\text{fictif}}}{T}$.
    - Déterminer l'entropie échangée réelle $S_e = \frac{Q_{\text{réel}}}{T_e}$ avec la source.
    - En déduire l'entropie créée : $S_c = \Delta S - S_e > 0$.
-<!--SR:!2026-10-07,1,230-->
+<!--SR:!2026-10-09,1,210-->
 
 
 ## 2. Exemple : Chauffage d'un système condensé (capacité $C_p$)
@@ -37,7 +37,7 @@ Ressources:
 Un cylindre de laiton de capacité $C_p$ constante est porté de $T_0$ à $T_1$ sous pression constante $P_a$.
 
 - **Chauffage réversible** (contact avec une suite infinie de thermostats de $T_0$ à $T_1$) $\Delta S=$ ::$$\Delta S = \int_{T_0}^{T_1} \frac{C_p \, dT}{T} = C_p \ln\left(\frac{T_1}{T_0}\right)$$
-<!--SR:!2026-10-07,1,150-->
+<!--SR:!2026-10-10,2,150-->
 - **Chauffage irréversible** (contact brutal direct avec une source à $T_1$) :
   - Variation d'entropie du cylindre : $\Delta S = C_p \ln\left(\frac{T_1}{T_0}\right)$ (identique car même état initial et final).
   - Entropie échangée (pour un chaufage irréversible): $S_e = \frac{Q}{T_1} = \frac{C_p (T_1 - T_0)}{T_1}$

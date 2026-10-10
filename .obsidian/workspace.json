@@ -4,49 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b012cef0f6501173",
+        "id": "f77640dd92dc9b81",
         "type": "tabs",
         "children": [
           {
-            "id": "4784b5c7f7bae840",
+            "id": "08ebb25764b399d8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Cours/Elen1/Amplificateur opérationnel ou AOP, Elen1 2026-09-28.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Amplificateur opérationnel ou AOP, Elen1 2026-09-28"
-            }
-          },
-          {
-            "id": "4fa7cabb5d97d100",
-            "type": "leaf",
-            "state": {
-              "type": "custom-calendar-view-default",
+              "type": "empty",
               "state": {},
-              "icon": "calendar",
-              "title": "Calendar"
-            }
-          },
-          {
-            "id": "01cc458d1b0643e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Cours/Elen1/exos sur l'aop, Elen1 2026-10-01.md",
-                "mode": "source",
-                "source": false
-              },
               "icon": "lucide-file",
-              "title": "exos sur l'aop, Elen1 2026-10-01"
+              "title": "Nouvel onglet"
             }
           },
           {
-            "id": "2237d3d00bc55a1b",
+            "id": "65aa65b2ab3e6ae7",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -55,7 +27,8 @@
               "title": "Vue graphique"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -297,8 +270,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 543.98828125,
-    "collapsed": true
+    "width": 543.98828125
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -327,44 +299,43 @@
       "code-space:Open code space dashboard": false
     }
   },
-  "active": "4784b5c7f7bae840",
+  "active": "aeb8dcd12e8ef37d",
   "lastOpenFiles": [
-    "01 Cours/Elen1/exos sur l'aop, Elen1 2026-10-01.md",
-    "02 Concepts/Elen1/Montages de base à Amplificateur Opérationnel (AOP).md",
-    "Dashboard.md",
-    "01 Cours/Elen1/Préparation TP2, Elen1 2026-10-03.md",
-    "01 Cours/Elen1/Analyse harmonique, Elen1 2026-10-06.md",
-    "01 Cours/Elen1/Prépatation TP3, Elen1 2026-10-07.md",
-    "02 Concepts/Elen1/Analyse harmonique et diagrammes de Bode.md",
-    "05 Ressources/PDF Cours/TP N°3.pdf",
-    "01 Cours/Elen1/az  2026-10-07 a.md",
-    "01 Cours/Elen1/2026-10-07 test.md",
-    "07 MOC/Concepts/Math/MOC Ensemble.md",
-    "01 Cours/Méthodologie_scientifique/r_solution_td_applications_et_bijections.md",
-    "05 Ressources/PDF Cours/TP N°2 elen.pdf",
-    "02 Concepts/Elen1/Composants réactifs ; Condensateur et Inductance.md",
-    "02 Concepts/Elen1/Analyse indicielle et circuit RC du premier ordre.md",
-    "07 MOC/Concepts/Elen1/MOC Analyse.md",
-    "Excalidraw/Drawing 2026-10-06 16.43.35.excalidraw.md",
-    "05 Ressources/LIbreoffice/TP2.odt.osl-tmp",
-    "Excalidraw/Drawing 2026-10-06 14.46.55.excalidraw.md",
-    "02 Concepts/Elen1/Théorème de superposition.md",
-    "Sans titre 1.md",
-    "05 Ressources/PDF Cours/Info1_Slides.pdf",
-    "05 Ressources/PDF exos cours/Exercices_info1.pdf",
-    "01 Cours/Info/Exos chapitre 3, Info 2026-09-14.md",
-    "05 Ressources/LIbreoffice/TP2.odt",
-    "05 Ressources/LIbreoffice",
-    "05 Ressources/PDF Cours/SAÉ_1_Phase_02_2023_2024.pdf",
-    "05 Ressources/Codes pour la programation/Info/Exercices/5.6/output/main",
-    "05 Ressources/Codes pour la programation/Info/Exercices/5.6/output",
-    "01 Cours/Info/suite algo et exos, Info 2026-09-07.md",
-    "01 Cours/Info/Visionnage vidéo chap3, Info 2026-09-09.md",
-    "01 Cours/Info/Les fonctions, Info 2026-09-10.md",
-    "01 Cours/Elen1/Exos RC en td, Elen1 2026-09-21.md",
+    "01 Cours/Thermodynamique/Suite TD2, Thermodynamique 2026-10-09.md",
+    "05 Ressources/PDF Cours/TD2  Thermo 2627.pdf",
+    "05 Ressources/DS années précédentes/Physique S1/Thermodynamique (TSE)/Formulaire - Thermo (TSE).pdf",
     "01 Cours/Thermodynamique/chapitre 4 , Thermodynamique 2026-09-30.md",
+    "02 Concepts/Thermodynamique/Lois de Laplace (Transformations isentropiques).md",
     "01 Cours/Thermodynamique/entropie en TD, Thermodynamique 2026-10-02.md",
-    "02 Concepts/Thermodynamique/Calcul de la variation d'entropie.md",
+    "02 Concepts/Thermodynamique/Entropie et bilan entropique.md",
+    "05 Ressources/PDF Cours/Chapitre IV thermo.pdf",
+    "02 Concepts/Elen1/Analyse harmonique et diagrammes de Bode.md",
+    "05 Ressources/PDF Cours/Fascicule TD ELEN1 CITISE.pdf",
+    "01 Cours/Elen1/Analyse harmonique, Elen1 2026-10-08.md",
+    "01 Cours/Elen1/Prépatation TP3, Elen1 2026-10-07.md",
+    "01 Cours/Elen1/Analyse harmonique, Elen1 2026-10-06.md",
+    "02 Concepts/Elen1/Analyse indicielle et circuit RC du premier ordre.md",
+    "01 Cours/Math/chapitre 4 les sommes, Math 2026-10-07.md",
+    "Excalidraw/Drawing 2026-10-08 08.40.47.excalidraw.md",
+    "Dashboard.md",
+    "05 Ressources/PDF Cours/TP N°3.pdf",
+    "05 Ressources/LIbreoffice/TP3.odt",
+    "Excalidraw/Drawing 2026-10-08 09.09.12.excalidraw.md",
+    "Excalidraw/Drawing 2026-10-08 08.55.23.excalidraw.md",
+    "Excalidraw/Drawing 2026-10-08 08.49.43.excalidraw.md",
+    "Excalidraw/Drawing 2026-10-08 08.34.15.excalidraw.md",
+    "Excalidraw/Drawing 2026-10-08 08.41.36.excalidraw.md",
+    "Excalidraw/Drawing 2026-10-08 08.24.23.excalidraw.md",
+    "Excalidraw/Drawing 2026-10-08 08.16.59.excalidraw.md",
+    "02 Concepts/Math/Sommes, changements d'indice et sommes télescopiques.md",
+    "02 Concepts/Math/Suites.md",
+    "02 Concepts/Math/Binôme de Newton.md",
+    "02 Concepts/Math/Principes additif et multiplicatif en dénombrement.md",
+    "07 MOC/Concepts/Math/MOC Dénombrement.md",
+    "05 Ressources/PDF Cours/math chapitre 4 S1.pdf",
+    "05 Ressources/PDF Cours/TP N°2 elen.pdf",
+    "05 Ressources/LIbreoffice/TP2.odt.osl-tmp",
+    "05 Ressources/PDF Cours/Info1_Slides.pdf",
     "05 Ressources/Pièces jointes collées/Q7.1,2.bmp",
     "05 Ressources/Pièces jointes collées/Q7.1 (1).bmp",
     "05 Ressources/Pièces jointes collées/Q7.1.bmp",

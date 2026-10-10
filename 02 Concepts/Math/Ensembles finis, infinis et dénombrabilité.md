@@ -44,7 +44,7 @@ L'application $f : \mathbb{N} \to 2\mathbb{N}$ définie par $f(n) = 2n$ est bije
 ## 3. Dénombrabilité
 
 - **Ensemble dénombrable** : Un ensemble $E$ est dénombrable si :: ill existe une bijection entre $E$ et $\mathbb{N}$.
-<!--SR:!2026-10-08,16,290-->
+<!--SR:!2026-12-10,63,310-->
 - **Dénombrabilité de $\mathbb{Q}$** : L'ensemble des nombres rationnels $\mathbb{Q}$ est infini dénombrable.
 - **Non-dénombrabilité de $\mathbb{R}$ (Théorème de Cantor, 1874)** : L'ensemble des nombres réels $\mathbb{R}$ est infini mais **non dénombrable** (son cardinal est supérieur à celui de $\mathbb{N}$).
 

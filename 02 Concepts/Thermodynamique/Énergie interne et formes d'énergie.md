@@ -21,10 +21,10 @@ Ressources:
 ## 1. Structure de l'énergie totale
 
 En thermodynamique, l'énergie totale $E$ d'un système s'exprime par la somme :: $$E = E_m + U$$
-<!--SR:!2026-10-07,15,290-->
+<!--SR:!2026-12-06,59,310-->
 
 - **Énergie macroscopique ($E_m$)** ::: Somme de l'énergie cinétique globale du système ($E_c$) et de son énergie potentielle dans des champs extérieurs ($E_p$).
-<!--SR:!2026-10-08,16,290!2026-11-16,41,290-->
+<!--SR:!2026-12-08,61,310!2026-11-16,41,290-->
 - **Énergie interne ($U$)** ::: Énergie microscopique associée à l'activité atomique et moléculaire du système (cinétique d'agitation thermique et potentielle d'interaction intermoléculaire).
 <!--SR:!2026-10-13,17,250!2026-12-03,58,310-->
 

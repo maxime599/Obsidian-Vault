@@ -32,7 +32,7 @@ Différence application et fonction : :: Application = Tout élément de l'ensem
 > - $E$ est ==l'ensemble de départ==, $F$ ==l'ensemble d'arrivée==.
 > - $y$ est ==l'**image** de $x$==.
 > - $x$ est un ==**antécédent** de $y$== (il peut y en avoir zéro, un ou plusieurs).
-<!--SR:!2026-10-08,16,290!2026-10-08,16,290!2026-11-20,47,290!2026-11-19,47,290-->
+<!--SR:!2026-12-14,67,310!2026-12-14,67,310!2026-11-20,47,290!2026-11-19,47,290-->
 
 
 ## 2. Restriction d'une application

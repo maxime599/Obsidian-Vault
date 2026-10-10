@@ -46,7 +46,7 @@ Régles du tableau de Karnaugh :
 3. **Nombre minimal de groupes** : Recouvrir l'ensemble des `1` du tableau avec le moins de rassemblements possible.
 4. **Chevauchement** : Une case contenant un `1` peut appartenir à plusieurs groupes.
 5. **Conditions indifférentes (`X` ou `d`)** : Les états indifférents peuvent être assimilés à des `1` pour agrandir un groupe, ou à des `0` s'ils n'apportent aucun bénéfice.
-<!--SR:!2026-10-07,16,290-->
+<!--SR:!2026-12-13,66,310-->
 
 
 ## 3. Lecture de l'équation simplifiée

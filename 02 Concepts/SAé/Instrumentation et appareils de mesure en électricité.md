@@ -39,7 +39,7 @@ Ressources:
 **Multimètre numérique** :
 ??
 - Appareil polyvalent permettant de mesurer plusieurs grandeurs physiques : tension (voltmètre), intensité (ampèremètre), résistance (ohmmètre) et capacité (capacimètre).
-<!--SR:!2026-10-07,16,290!2026-11-29,54,310-->
+<!--SR:!2026-12-14,67,310!2026-11-29,54,310-->
 
 **Oscilloscope** :
 ??
@@ -52,9 +52,9 @@ Ressources:
 Lors de la mesure ou de l'observation d'un signal :
 
 - **Couplage DC (*Direct Current*)** ::: Conserve la totalité du signal (composante continue $+$ composante alternative).
-<!--SR:!2026-10-07,16,290!2026-12-06,61,310-->
+<!--SR:!2026-12-10,63,310!2026-12-06,61,310-->
 - **Couplage AC (*Alternating Current*)** ::: Filtre la composante continue pour ne conserver et n'afficher que la composante alternative du signal.
-<!--SR:!2026-11-15,43,290!2026-10-07,16,290-->
+<!--SR:!2026-11-15,43,290!2026-12-11,64,310-->
 
 
 ## 4. Connectique de laboratoire

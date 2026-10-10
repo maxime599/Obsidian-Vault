@@ -40,7 +40,7 @@ Les capacités thermiques molaires dépendent de la structure atomique des molé
 | :-------------------------------------------------------- | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | **Gaz monoatomique** (ex : $\text{He}$, $\text{Ar}$)      |                      ==$\frac{5}{2}R$==                      |                      ==$\frac{3}{2}R$==                      |
 | **Gaz diatomique** (ex : $\text{N}_2$, $\text{O}_2$, air) |                      ==$\frac{7}{2}R$==                      |                      ==$\frac{5}{2}R$==                      |
-<!--SR:!2026-10-08,16,290!2026-10-08,16,290!2026-11-17,45,290!2026-11-30,55,310-->
+<!--SR:!2026-12-10,63,310!2026-12-12,65,310!2026-11-17,45,290!2026-11-30,55,310-->
 
 - **Relation de Mayer** :: $$C_P - C_V = nR$$
 <!--SR:!2026-10-11,15,230-->
@@ -59,14 +59,14 @@ Pour tout gaz parfait :
   Formule de la 1ʳᵉ loi de Joule :: $$dU = C_V \, dT \implies \Delta U = C_V \Delta T$$
 <!--SR:!2026-10-13,14,210-->
   *(Pour une transformation isotherme d'un gaz parfait, $\Delta U$ = ==$0$==)*.
-<!--SR:!2026-10-08,16,290-->
+<!--SR:!2026-12-14,67,310-->
 
 - **2ᵈᵉ loi de Joule** :: L'enthalpie $H = U + PV$ ne dépend que de la température $T$.
 <!--SR:!2026-11-13,38,290-->
   Formule de la 2ᵈᵉ loi de Joule :: $$dH = C_P \, dT \implies \Delta H = C_P \Delta T$$
 <!--SR:!2026-10-12,9,190-->
   *(Pour une transformation isotherme, $\Delta H$ = ==$0$==)*.
-<!--SR:!2026-10-07,15,290-->
+<!--SR:!2026-12-04,57,310-->
 
 
 ## Concepts liés

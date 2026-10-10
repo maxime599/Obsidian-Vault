@@ -32,9 +32,9 @@ Ressources:
 Pour nier une proposition quantifiée, on transforme le quantificateur et on prend la négation de l'assertion :
 
 - $\text{non}(\forall x \in E, \, P(x)) \iff$::$\exists x \in E, \, \text{non}(P(x))$
-<!--SR:!2026-10-08,16,290-->
+<!--SR:!2026-12-09,62,310-->
 - $\text{non}(\exists x \in E, \, P(x)) \iff$::$\forall x \in E, \, \text{non}(P(x))$
-<!--SR:!2026-10-08,16,290-->
+<!--SR:!2026-12-12,65,310-->
 
 
 ## 3. Importance de l'ordre des quantificateurs

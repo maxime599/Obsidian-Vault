@@ -38,7 +38,7 @@ Soient $A$ et $B$ deux parties d'un même ensemble $E$ :
 - **Réunion** : $\mathbb{1}_{A \cup B} =$ ==$\mathbb{1}_A + \mathbb{1}_B - \mathbb{1}_A \times \mathbb{1}_B$==
 - **Réunion disjointe** ($A \cap B = \emptyset$) : $\mathbb{1}_{A \cup B}$ = ==$\mathbb{1}_A + \mathbb{1}_B$==
 - **Complémentaire** : $\mathbb{1}_{\bar{A}}$ = ==$1 - \mathbb{1}_A$==
-<!--SR:!2026-10-08,16,290!2026-10-08,16,290!2026-10-08,16,290!2026-10-08,16,290-->
+<!--SR:!2026-12-10,63,310!2026-12-09,62,310!2026-12-09,62,310!2026-12-14,67,310-->
 
 
 ## Concepts liés

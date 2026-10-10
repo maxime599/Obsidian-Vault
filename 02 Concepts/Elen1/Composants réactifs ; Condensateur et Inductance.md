@@ -34,7 +34,7 @@ Sa fonction principale est de stocker des charges électriques.
 
 > [!note] Propriété de continuité
 > Il ne peut **pas y avoir de ==variation brusque de tension==** aux bornes d'un condensateur ($u_C$ est une fonction continue du temps).
-<!--SR:!2026-10-08,12,270-->
+<!--SR:!2026-11-22,45,290-->
 
 
 ## 2. L'Inductance (Bobine)

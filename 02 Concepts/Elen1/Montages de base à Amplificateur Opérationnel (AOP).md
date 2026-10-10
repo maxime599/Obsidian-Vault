@@ -24,7 +24,7 @@ Pour tous les montages fonctionnant en **régime linéaire** (présence d'une co
 ?
 * **Court-circuit virtuel** : $\epsilon = e^+ - e^- = 0 \implies e^+ = e^-$
 * **Courants d'entrée nuls** : $I^+ = 0\text{ A}$ et $I^- = 0\text{ A}$
-<!--SR:!2026-10-07,4,270-->
+<!--SR:!2026-10-22,14,290-->
 
 ## 2. Montage Amplificateur Inverseur
 

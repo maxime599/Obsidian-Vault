@@ -38,7 +38,7 @@ Le premier principe s'écrit :: $\Delta U = Q + W$ (avec $W = -\int P \, dV$).
 ## 2. Classification selon le déroulement temporel
 
 - **Transformation irréversible** ::: Évolution spontanée, rapide ou brutale au cours de laquelle le système passe par des états intermédiaires hors équilibre.
-<!--SR:!2026-10-08,5,230!2026-10-17,14,290-->
+<!--SR:!2026-10-25,17,250!2026-10-17,14,290-->
 - **Transformation quasi-statique** ::: Évolution suffisamment lente pour que le système passe par une suite continue d'états de quasi-équilibre à chaque instant.
 <!--SR:!2026-10-14,11,270!2026-10-13,7,270-->
 - **Transformation réversible** ::: Transformation quasi-statique pouvant être inversée par une modification infinitésimale des contraintes extérieures, ramenant le système et le milieu extérieur dans leurs états initiaux exacts.

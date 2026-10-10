@@ -30,14 +30,14 @@ Ressources:
 ## 2. Bilan d'entropie d'un système fermé
 
 Pour un système fermé en contact avec une source de chaleur (thermostat à la température $T_e$), $dS =$ ::$$dS = \delta S_e + \delta S_c = \frac{\delta Q_e}{T_e} + \delta S_c$$
-<!--SR:!2026-10-08,4,230-->
+<!--SR:!2026-10-10,2,210-->
 
 En intégrant sur une transformation globale :
 
 $$\Delta S = S_e + S_c$$
 
 - **Entropie échangée $S_e$** (en integrant) :: $S_e = \int \frac{\delta Q_e}{T_e}$.
-<!--SR:!2026-10-07,4,210-->
+<!--SR:!2026-10-10,2,190-->
 	Elle peut être positive, négative ou nulle (pour un système ==fermé isolé==, $S_e = 0$).
 - **Entropie créée $S_c$** : Reflète l'irréversibilité interne du processus :
   - **Transformation réversible** : $S_c$ = ::$0$

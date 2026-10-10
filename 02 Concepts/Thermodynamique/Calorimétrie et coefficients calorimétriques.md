@@ -37,7 +37,7 @@ $$\delta Q = C \, dT$$
 ## 2. Bilan calorimétrique
 
 Pour un système fermé adiabatique (ou isolé) subissant un échange thermique entre plusieurs sous-systèmes sans travail mécanique ($W = 0$) ::$$\sum Q_i = 0$$
-<!--SR:!2026-10-08,5,170-->
+<!--SR:!2026-10-16,8,170-->
 
 - *Exemple avec un calorimètre de capacité $C_{\text{cal}}$ contenant une masse $m_1$ d'eau à $\theta_1$ mélangée à une masse $m_2$ d'eau à $\theta_2$* :
   $$(m_1 c_{\text{eau}} + C_{\text{cal}})(\theta_F - \theta_1) + m_2 c_{\text{eau}} (\theta_F - \theta_2) = 0$$

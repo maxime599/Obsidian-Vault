@@ -44,7 +44,7 @@ La sortie recopie exactement l'état de l'entrée.
 ### Fonction NOT (Inverseur / NON)
 La sortie prend l'état complémentaire (inverse) de l'entrée.
 - **Équation** porte NOT ::: $s = \bar{a}$
-<!--SR:!2026-11-30,55,310!2026-10-07,16,290-->
+<!--SR:!2026-11-30,55,310!2026-12-10,63,310-->
 - **Table de vérité** porte NOT :
 ??
 | $a$ | $s$ |
@@ -75,7 +75,7 @@ La sortie est vraie ($1$) si et seulement si **toutes** les entrées sont vraies
 |  0  |  1  |  0  |
 |  1  |  0  |  0  |
 |  1  |  1  |  1  |
-<!--SR:!2026-10-07,16,290!2026-12-01,56,310-->
+<!--SR:!2026-12-08,61,310!2026-12-01,56,310-->
 
 | $a$ | $b$ | $s$ |
 | :-: | :-: | :-: |
@@ -117,7 +117,7 @@ La sortie est vraie ($1$) si au moins une des entrées est vraie ($1$).
 ### Fonction XOR (Disjonction exclusive / OU Exclusif)
 La sortie est vraie ($1$) si et seulement si les deux entrées ont des états logiques différents.
 - **Équation** porte XOR ::: $s = a \oplus b$
-<!--SR:!2026-10-27,28,270!2026-10-07,16,290-->
+<!--SR:!2026-10-27,28,270!2026-12-11,64,310-->
 - **Table de vérité** porte XOR :
 ??
 | $a$ | $b$ | $s$ |
@@ -148,7 +148,7 @@ La sortie est fausse (0) si et seulement si toutes les entrées sont vraies (1).
 | 0     | 1     | 1     |
 | 1     | 0     | 1     |
 | 1     | 1     | 0     |
-<!--SR:!2026-10-07,16,290!2026-10-07,16,290-->
+<!--SR:!2026-12-08,61,310!2026-12-13,66,310-->
 
 | **a** | **b** | **s** |
 | ----- | ----- | ----- |
@@ -174,7 +174,7 @@ La sortie est vraie (1) si et seulement si toutes les entrées sont fausses (0).
 | 0     | 1     | 0     |
 | 1     | 0     | 0     |
 | 1     | 1     | 0     |
-<!--SR:!2026-10-07,16,290!2026-10-07,16,290-->
+<!--SR:!2026-12-08,61,310!2026-12-12,65,310-->
 
 | **a** | **b** | **s** |
 | ----- | ----- | ----- |
@@ -196,7 +196,7 @@ La sortie est vraie (1) si et seulement si les deux entrées ont le même état 
 | 0     | 1     | 0     |
 | 1     | 0     | 0     |
 | 1     | 1     | 1     |
-<!--SR:!2026-10-07,16,290!2026-12-04,59,310-->
+<!--SR:!2026-12-14,67,310!2026-12-04,59,310-->
 
 | **a** | **b** | **s** |
 | ----- | ----- | ----- |

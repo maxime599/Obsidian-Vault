@@ -98,6 +98,7 @@ $\frac{V_{s}}{V_{e}}= \frac{j\tau\omega}{1+j \tau \omega} = j \tau \omega * \fra
 $20\log\left(| \frac{V_{s}}{V_{e}} |\right) = 20\log(|j \tau \omega * \frac{1}{1+j \tau \omega}|)$
 $|H(j \omega)|=20\log(|j \tau \omega|)+20 \log\left(| \frac{1}{1+j \tau \omega} |\right)$, où les deux termes soit connus
 
+
 ## Exercices
 
 
@@ -105,5 +106,5 @@ $|H(j \omega)|=20\log(|j \tau \omega|)+20 \log\left(| \frac{1}{1+j \tau \omega} 
 -
 ## Travail à faire
 
-
+- [ ] reprendre les exos
 

@@ -51,7 +51,7 @@ Pour déterminer la tension à vide $U_{AB_0}$ (ou la tension équivalente de Th
    $$U_{AB_0} = E_{\text{th}} = U_{AB_{01}} + U_{AB_{02}}$$
 
    Tension final dans le théorème de superposition ::$$E_{\text{th}} = E_1 \cdot \frac{R_2}{R_1 + R_2} + E_2 \cdot \frac{R_1}{R_1 + R_2}$$
-<!--SR:!2026-10-07,11,270-->
+<!--SR:!2026-11-19,42,290-->
 
 ## 4. Exemple dans un exos
 ![[Drawing 2026-09-15 15.01.54.excalidraw]]

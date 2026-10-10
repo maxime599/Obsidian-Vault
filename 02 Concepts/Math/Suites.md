@@ -79,6 +79,7 @@ $$S_n=u_0\frac{1-q^{n+1}}{1-q}$$
 - [[Limite d'une suite]] 
 - [[Théorème de comparaison pour les suites]]
 - [[Théorème d'encadrement (des gendarmes)]]
+- [[Sommes, changements d'indice et sommes télescopiques]]
 
 
 ## 📚 Cours associés

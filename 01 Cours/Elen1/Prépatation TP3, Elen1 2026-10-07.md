@@ -9,7 +9,9 @@ tags:
   - cours
   - Elen1
 Concepts:
+  - "[[Analyse indicielle et circuit RC du premier ordre]]"
 Ressources:
+  - "[[TP N°3.pdf]]"
 ---
 
 ```dataviewjs
@@ -38,6 +40,7 @@ dv.paragraph(`**Précédent :** ${getCleanLink(prev)} | **Suivant :** ${getClean
 -
 
 ## Notes
+
 ![[TP N°3.pdf#page=2&rect=65,637,533,750|TP N°3, p.2]]
 
 ### Q1

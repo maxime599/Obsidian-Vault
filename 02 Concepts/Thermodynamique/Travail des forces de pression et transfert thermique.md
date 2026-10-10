@@ -20,22 +20,22 @@ Ressources:
 ## 1. Travail des forces de pression ($W$)
 
 Lors d'une variation élémentaire de volume $\mathrm{d}V$ exercée sous une pression $P$, le travail infinitésimal recu s'écrit ::$$\delta W = -P \mathrm{d}V$$
-<!--SR:!2026-10-08,16,290-->
+<!--SR:!2026-12-12,65,310-->
 
 Pour une transformation d'un état initial ($V_i$) à un état final ($V_f$), le travail s'écrit ::$$W = -\int_{V_i}^{V_f} P \mathrm{d}V$$
-<!--SR:!2026-10-07,15,290-->
+<!--SR:!2026-12-07,60,310-->
 
 - **Convention de signe centrée sur le système** :
   - **Compression** ($\mathrm{d}V < 0$) : $W$ ==$>$== $0$, le système reçoit de l'énergie sous forme mécanique.
   - **Expansion / Détente** ($\mathrm{d}V > 0$) : $W$ ==$<$== $0$, le système fournit du travail au milieu extérieur.
-<!--SR:!2026-10-08,16,290!2026-10-08,16,290-->
+<!--SR:!2026-12-09,62,310!2026-12-14,67,310-->
 
 
 ## 2. Transfert thermique ($Q$)
 
 - **Définition** : Échange d'énergie désordonné s'effectuant à l'échelle microscopique sous l'effet d'un écart de température.
 - **Transformation adiabatique** ::: Transformation réalisée sans aucun échange thermique avec le milieu extérieur ($Q = 0$).
-<!--SR:!2026-10-08,16,290!2026-10-07,15,290-->
+<!--SR:!2026-12-13,66,310!2026-12-06,59,310-->
 
 > [!warning] Attention aux idées reçues
 > Une transformation adiabatique ($Q = 0$) n'implique pas que la température du système reste constante ; la température peut varier en raison du travail $W$ reçu ou fourni.

@@ -30,7 +30,7 @@ $R_{eq}$ si les résistances sont en séries :: $$R_{\text{eq}} = R_1 + R_2 + \d
 
 Des résistances sont dites en **parallèle** lorsqu'elles sont soumises à la même tension.
 $R_{eq}$ si les résistances sont en dérivation :: $$\frac{1}{R_{\text{eq}}} = \frac{1}{R_1} + \frac{1}{R_2} + \dots + \frac{1}{R_n} = \sum_{i=1}^{n} \frac{1}{R_i}$$
-<!--SR:!2026-10-07,16,290-->
+<!--SR:!2026-12-13,66,310-->
 
 ### Cas particuliers usuels
 

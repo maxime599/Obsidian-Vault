@@ -28,7 +28,7 @@ Un algorithme bien structuré se divise en deux parties principales :
 <!--SR:!2026-11-12,40,290-->
 
   - **Constante** : Valeur ==fixe== définie dès le début (ex: `TAUX : ==constante réelle := 6.55957`==).
-<!--SR:!2026-10-07,16,290!2026-10-07,16,290-->
+<!--SR:!2026-12-12,65,310!2026-12-08,61,310-->
   
   - **Variable** : Espace mémoire identifié par un nom dont la valeur peut évoluer (ex: `frcs, eur : 2 réels`).
   
@@ -42,9 +42,9 @@ Un algorithme bien structuré se divise en deux parties principales :
   - `Ecrire(...)` ::: Affiche du texte ou la valeur d'une variable à l'écran.
 <!--SR:!2026-11-29,54,310!2026-12-08,63,310-->
   - `Lire(...)` ::: Interrompt l'exécution pour récupérer une valeur saisie par l'utilisateur.
-<!--SR:!2026-10-07,16,290!2026-12-02,57,310-->
+<!--SR:!2026-12-09,62,310!2026-12-02,57,310-->
 - **Affectation ($\leftarrow$)** ::: Attribue une valeur ou le résultat d'une expression à une variable
-<!--SR:!2026-11-30,55,310!2026-10-07,16,290-->
+<!--SR:!2026-11-30,55,310!2026-12-13,66,310-->
 (`variable <- expression`).
 - **Règles de typage et d'opérateurs** :
   - La compatibilité des types doit être respectée lors d'une affectation.

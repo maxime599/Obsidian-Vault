@@ -24,7 +24,7 @@ Ressources:
   - **Ensemble vide ($\emptyset$)** : L'ensemble ne contenant aucun élément.
 - **Inclusion ($\subset$)** : $A \subset B \iff (\forall x \in A, \, x \in B)$. On dit que $A$ est une partie ou un sous-ensemble de $B$.
 - **Égalité de deux ensembles** : Deux ensembles $A$ et $B$ sont égaux si et seulement si :: ils s'incluent mutuellement :$$A = B \iff (A \subset B \text{ et } B \subset A)$$
-<!--SR:!2026-10-08,16,290-->
+<!--SR:!2026-12-10,63,310-->
 
 
 ## 2. Opérations fondamentales sur les parties

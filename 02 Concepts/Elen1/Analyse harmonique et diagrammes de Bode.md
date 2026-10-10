@@ -28,6 +28,7 @@ L'étude s'appuie sur le formalisme complexe et la notion d'**impédance complex
 | **Résistance ($R$)**   |                    ==$\underline{Z}_R = R$==                    |         ==$R$==         |                ==$0$==                 |
 | **Condensateur ($C$)** | ==$\underline{Z}_C = \frac{1}{jC\omega} = -\frac{j}{C\omega}$== | ==$\frac{1}{C\omega}$== |          ==$-\frac{\pi}{2}$==          |
 | **Inductance ($L$)**   |                ==$\underline{Z}_L = jL\omega$==                 |      ==$L\omega$==      |          ==$+\frac{\pi}{2}$==          |
+<!--SR:!2026-10-12,4,270!2026-10-12,4,270!2026-10-12,4,270!2026-10-12,4,270!2026-10-12,4,270!2026-10-12,4,270!2026-10-12,4,270!2026-10-09,1,230!2026-10-12,4,270-->
 
 
 ## 2. Fonction de transfert, Gain et Phase
@@ -39,8 +40,11 @@ $$H(j\omega) = \frac{\underline{V}_s}{\underline{V}_e}$$
 De cette fonction de transfert, on extrait deux grandeurs fondamentales :
 
 1. **Le Gain en décibels ($G_{\text{dB}}$)** ::$$G_{\text{dB}}(\omega) = 20 \log_{10} |H(j\omega)| \quad (\text{en dB})$$
+<!--SR:!2026-10-09,1,210-->
 2. **La Phase (Déphasage $\varphi$)** ::$$\varphi(\omega) = \arg(H(j\omega)) \quad (\text{en rad ou en degrés})$$
-
+<!--SR:!2026-10-09,1,230-->
+La fréquence de coupure :: $fc = \frac{1}{2 \pi \tau}$. il y aura des réactions différentes avant et après cette fréquence
+<!--SR:!2026-10-11,3,250-->
 
 ## 3. Diagrammes de Bode
 
@@ -48,6 +52,7 @@ Les **diagrammes de Bode** sont constitués de deux tracés superposés représe
 ?
 - **Le diagramme de gain** : $G_{\text{dB}}$ en fonction de la fréquence/pulsation.
 - **Le diagramme de phase** : $\varphi$ en fonction de la fréquence/pulsation.
+<!--SR:!2026-10-11,3,250-->
 
 ### Échelle logarithmique
 Les diagrammes sont tracés sur un papier **semi-logarithmique** :
@@ -57,7 +62,8 @@ Les diagrammes sont tracés sur un papier **semi-logarithmique** :
 
 ## 4. Exemples de circuits $RC$ et fonctions de transfert canoniques
 
-Les circuits passifs simples font intervenir la constante de temps $\tau$ (avec $\tau = RC$ ou $\tau = \frac{L}{R}$) et s'expriment à partir de briques élémentaires :: $G_{0},~j\tau \omega,~ \frac{1}{j\tau \omega},~1+\tau \omega,~ \frac{1}{1+j\tau \omega}$
+Les circuits passifs simples font intervenir la constante de temps $\tau$ (avec $\tau = RC$ ou $\tau = \frac{L}{R}$) et s'expriment à partir de briques élémentaires :: $G_{0},~j\tau \omega,~ \frac{1}{j\tau \omega},~1+j\tau \omega,~ \frac{1}{1+j\tau \omega}$
+<!--SR:!2026-10-12,4,270-->
 
 ### A. Circuit $RC$ (Filtre passe-bas du premier ordre)
 La tension de sortie $V_s$ est prélevée aux bornes du condensateur $C$.
