@@ -13,6 +13,25 @@ date_creation: 2026-07-28
 
 > [!info] Définition courte
 > Pour deux entiers $a$ et $b$, avec $a\ne0$, on dit que **$a$ divise $b$**, noté $a\mid b$, lorsqu'il existe un entier $k$ tel que $b=ak$. Dans ce cas, $a$ est un diviseur de $b$ et $b$ est un multiple de $a$.
+```dataviewjs
+const currentFile = app.workspace.getActiveFile();
+const cache = app.metadataCache.getFileCache(currentFile);
+
+if (cache && cache.headings) {
+    let toc = "";
+    for (let h of cache.headings) {
+        // Optionnel : ignorer le tout premier titre niveau 1 si c'est le titre de la note
+        if (h.level === 1) continue;
+        
+        // Calcul de l'indentation selon le niveau du titre (h2, h3, etc.)
+        const indent = "    ".repeat(h.level - 2);
+        toc += `${indent}- [[#${h.heading}|${h.heading}]]\n`;
+    }
+    dv.paragraph(toc);
+} else {
+    dv.paragraph("Aucun titre trouvé dans cette note.");
+}
+```
 
 ## Explication intuitive
 

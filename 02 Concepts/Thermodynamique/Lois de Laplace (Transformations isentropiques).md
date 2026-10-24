@@ -16,6 +16,25 @@ Ressources:
 
 > [!info] Définition courte
 > Les **lois de Laplace** relient les variables d'état ($P, V, T$) d'un gaz parfait subissant une transformation **adiabatique et réversible** (isentropique), sous réserve que le coefficient $\gamma = \frac{C_p}{C_v}$ soit constant.
+```dataviewjs
+const currentFile = app.workspace.getActiveFile();
+const cache = app.metadataCache.getFileCache(currentFile);
+
+if (cache && cache.headings) {
+    let toc = "";
+    for (let h of cache.headings) {
+        // Optionnel : ignorer le tout premier titre niveau 1 si c'est le titre de la note
+        if (h.level === 1) continue;
+        
+        // Calcul de l'indentation selon le niveau du titre (h2, h3, etc.)
+        const indent = "    ".repeat(h.level - 2);
+        toc += `${indent}- [[#${h.heading}|${h.heading}]]\n`;
+    }
+    dv.paragraph(toc);
+} else {
+    dv.paragraph("Aucun titre trouvé dans cette note.");
+}
+```
 
 
 ## 1. Hypothèses fondamentales
@@ -25,7 +44,7 @@ Les relations de Laplace s'appliquent strictement si les 3 conditions suivantes 
 1. Le fluide étudié est un **gaz parfait**.
 2. La transformation est **adiabatique** ($\delta Q = 0$) et **réversible** (soit une transformation isentropique $\Delta S = 0$).
 3. Le coefficient isentropique $\gamma = \frac{C_p}{C_v}$ est **constant** sur l'intervalle de température considéré.
-<!--SR:!2026-10-17,14,290-->
+<!--SR:!2026-12-16,57,310-->
 
 
 ## 2. Démonstration de la relation (Dégonflage d'un pneu)
@@ -48,18 +67,16 @@ Soit une détente adiabatique quasi-statique de l'air (gaz parfait) contenu dans
 Selon le couple de variables retenu :
 
 - **Relation $(P, V)$** ::$$P V^\gamma = \text{constante}$$
-<!--SR:!2026-10-17,14,290-->
+<!--SR:!2026-12-17,58,310-->
 - **Relation $(T, V)$** ::$$T V^{\gamma-1} = \text{constante}$$
-<!--SR:!2026-10-16,10,270-->
+<!--SR:!2026-11-16,27,270-->
 - **Relation $(P, T)$** ::$$P^{1-\gamma} \cdot T^\gamma = \text{constante} \quad \iff \quad P^{\frac{1-\gamma}{\gamma}} \cdot T = \text{constante}$$
-<!--SR:!2026-10-13,7,250-->
+<!--SR:!2026-10-23,3,210-->
 
 
 ## Concepts liés
 
 - [[Modèle du gaz parfait, lois de Joule et relation de Mayer]]
-- [[Typologie des transformations et réversibilité - Premier Principe de la thermodynamique]]
-- [[Comparaison des détentes isotherme et adiabatique]]
 
 
 ## 📚 Cours associés

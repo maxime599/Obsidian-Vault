@@ -19,6 +19,25 @@ Ressources:
 > [!info] Définition courte
 > L'**application réciproque** $f^{-1}$ d'une bijection $f : E \to F$ est l'application de $F$ dans $E$ qui :: associe à tout élément de $F$ son unique antécédent dans $E$ par $f$.
 <!--SR:!2026-10-21,18,270-->
+```dataviewjs
+const currentFile = app.workspace.getActiveFile();
+const cache = app.metadataCache.getFileCache(currentFile);
+
+if (cache && cache.headings) {
+    let toc = "";
+    for (let h of cache.headings) {
+        // Optionnel : ignorer le tout premier titre niveau 1 si c'est le titre de la note
+        if (h.level === 1) continue;
+        
+        // Calcul de l'indentation selon le niveau du titre (h2, h3, etc.)
+        const indent = "    ".repeat(h.level - 2);
+        toc += `${indent}- [[#${h.heading}|${h.heading}]]\n`;
+    }
+    dv.paragraph(toc);
+} else {
+    dv.paragraph("Aucun titre trouvé dans cette note.");
+}
+```
 
 
 ## 1. Définition et équivalence fondamentale

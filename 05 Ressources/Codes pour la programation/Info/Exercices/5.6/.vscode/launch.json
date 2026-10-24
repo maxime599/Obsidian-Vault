@@ -1,0 +1,31 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+   {
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "name": "Déboguer C++",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/main.exe", // Doit correspondre au -o du tasks.json
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${workspaceFolder}",
+            "environment": [],
+            "externalConsole": false,
+            "MIMode": "gdb", // ou lldb sur Mac
+            "setupCommands": [
+                {
+                    "description": "Activer l'impression jolie pour gdb",
+                    "text": "-enable-pretty-printing",
+                    "ignoreequal": true
+                }
+            ],
+            "preLaunchTask": "C/C++: g++ build multi-file" // Doit correspondre au "label" de tasks.json
+        }
+    ]
+}
+}

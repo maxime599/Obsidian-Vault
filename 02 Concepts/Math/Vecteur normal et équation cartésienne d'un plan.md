@@ -15,6 +15,25 @@ date_creation: 2026-07-27
 
 > [!info] Définition courte
 > Dans un repère orthonormé de l'espace, un **vecteur normal** à un plan $(P)$ est un vecteur non nul $\vec{n}$ orthogonal à tout vecteur directeur de ce plan. Tout plan possède une **équation cartésienne** de la forme $ax + by + cz + d = 0$, où les coefficients $(a, b, c)$ sont les coordonnées d'un vecteur normal $\vec{n}\begin{pmatrix}a\\b\\c\end{pmatrix}$.
+```dataviewjs
+const currentFile = app.workspace.getActiveFile();
+const cache = app.metadataCache.getFileCache(currentFile);
+
+if (cache && cache.headings) {
+    let toc = "";
+    for (let h of cache.headings) {
+        // Optionnel : ignorer le tout premier titre niveau 1 si c'est le titre de la note
+        if (h.level === 1) continue;
+        
+        // Calcul de l'indentation selon le niveau du titre (h2, h3, etc.)
+        const indent = "    ".repeat(h.level - 2);
+        toc += `${indent}- [[#${h.heading}|${h.heading}]]\n`;
+    }
+    dv.paragraph(toc);
+} else {
+    dv.paragraph("Aucun titre trouvé dans cette note.");
+}
+```
 
 
 ## Explication intuitive

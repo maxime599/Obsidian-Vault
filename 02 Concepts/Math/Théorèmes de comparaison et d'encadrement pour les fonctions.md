@@ -17,6 +17,25 @@ date_creation: 2026-07-26
 
 > [!info] Définition courte
 > Les théorèmes de comparaison et d'encadrement (notamment le **théorème des gendarmes**) permettent de déterminer la limite d'une fonction complexe en la minorant, la majorant ou l'encadrant par des fonctions plus simples.
+```dataviewjs
+const currentFile = app.workspace.getActiveFile();
+const cache = app.metadataCache.getFileCache(currentFile);
+
+if (cache && cache.headings) {
+    let toc = "";
+    for (let h of cache.headings) {
+        // Optionnel : ignorer le tout premier titre niveau 1 si c'est le titre de la note
+        if (h.level === 1) continue;
+        
+        // Calcul de l'indentation selon le niveau du titre (h2, h3, etc.)
+        const indent = "    ".repeat(h.level - 2);
+        toc += `${indent}- [[#${h.heading}|${h.heading}]]\n`;
+    }
+    dv.paragraph(toc);
+} else {
+    dv.paragraph("Aucun titre trouvé dans cette note.");
+}
+```
 
 
 ## Explication intuitive
@@ -60,7 +79,7 @@ Calculer $\lim_{x \to +\infty} \frac{\sin(2x)}{x}$ :
 > **2. Théorème d'encadrement / des Gendarmes (Limite finie) :**
 > Soient $f, g, h$ trois fonctions définies sur $I = ]b; +\infty[$ telles que pour tout $x \in I, \ g(x) \le f(x) \le h(x)$ :
 > - Si $\lim_{x \to +\infty} g(x) = l$ et $\lim_{x \to +\infty} h(x) = l$ (avec $l \in \mathbb{R}$), alors $\lim_{x \to +\infty} f(x) = l$.
-[[Théorèmes de comparaison et d'encadrement pour les fonctions]]
+
 
 ## Concepts liés
 

@@ -34,5 +34,7 @@
   "multi-column-markdown",
   "latex-math",
   "obsidian-plugin-toc",
-  "persistent-graph"
+  "persistent-graph",
+  "obsidian-local-rest-api",
+  "gemini-scribe"
 ]

@@ -13,6 +13,7 @@ Concepts:
   - "[[Loi binomiale]]"
   - "[[Combinaisons et coefficients binomiaux]]"
   - "[[Sommes, changements d'indice et sommes télescopiques]]"
+  - "[[Triangle de Pascal]]"
 Ressources:
   - "[[chapitre 4 les sommes, Math 2026-10-07]]"
 ---

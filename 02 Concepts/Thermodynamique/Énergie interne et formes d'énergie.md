@@ -15,7 +15,28 @@ Ressources:
 
 > [!info] Définition courte
 > L'**énergie interne** $U$ ==représente la réserve d'énergie microscopique stockée au sein d'un système (agitation thermique et interactions moléculaires)==. Elle s'ajoute à l'énergie macroscopique $E_m$ pour former l'énergie totale $E$.
-<!--SR:!2026-10-09,13,230-->
+<!--SR:!2026-10-26,11,270-->
+
+```dataviewjs
+const currentFile = app.workspace.getActiveFile();
+const cache = app.metadataCache.getFileCache(currentFile);
+
+if (cache && cache.headings) {
+    let toc = "";
+    for (let h of cache.headings) {
+        // Optionnel : ignorer le tout premier titre niveau 1 si c'est le titre de la note
+        if (h.level === 1) continue;
+        
+        // Calcul de l'indentation selon le niveau du titre (h2, h3, etc.)
+        const indent = "    ".repeat(h.level - 2);
+        toc += `${indent}- [[#${h.heading}|${h.heading}]]\n`;
+    }
+    dv.paragraph(toc);
+} else {
+    dv.paragraph("Aucun titre trouvé dans cette note.");
+}
+```
+<!--SR:!2026-11-23,43,250-->
 
 
 ## 1. Structure de l'énergie totale
@@ -26,7 +47,7 @@ En thermodynamique, l'énergie totale $E$ d'un système s'exprime par la somme :
 - **Énergie macroscopique ($E_m$)** ::: Somme de l'énergie cinétique globale du système ($E_c$) et de son énergie potentielle dans des champs extérieurs ($E_p$).
 <!--SR:!2026-12-08,61,310!2026-11-16,41,290-->
 - **Énergie interne ($U$)** ::: Énergie microscopique associée à l'activité atomique et moléculaire du système (cinétique d'agitation thermique et potentielle d'interaction intermoléculaire).
-<!--SR:!2026-10-13,17,250!2026-12-03,58,310-->
+<!--SR:!2026-12-15,63,270!2026-12-03,58,310-->
 
 
 ## 2. Principe de conservation de l'énergie
@@ -39,8 +60,6 @@ En thermodynamique, l'énergie totale $E$ d'un système s'exprime par la somme :
 ## Concepts liés
 
 - [[Système thermodynamique et milieu extérieur]]
-- [[Travail des forces de pression et transfert thermique]]
-- [[Second Principe de la thermodynamique et énoncés fondamentaux]]
 
 
 ## 📚 Cours associés

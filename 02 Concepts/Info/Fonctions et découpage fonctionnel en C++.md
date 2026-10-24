@@ -16,6 +16,25 @@ Ressources:
 
 > [!info] Définition courte
 > Le **découpage fonctionnel** (ou modularité) en C++ consiste à structurer un projet informatique en séparant la déclaration des fonctions (fichiers d'en-tête `.h`), leur définition (fichiers sources `.cpp`) et l'exécution principale (`main.cpp`) afin d'améliorer la lisibilité, la réutilisabilité et la maintenance du code.
+```dataviewjs
+const currentFile = app.workspace.getActiveFile();
+const cache = app.metadataCache.getFileCache(currentFile);
+
+if (cache && cache.headings) {
+    let toc = "";
+    for (let h of cache.headings) {
+        // Optionnel : ignorer le tout premier titre niveau 1 si c'est le titre de la note
+        if (h.level === 1) continue;
+        
+        // Calcul de l'indentation selon le niveau du titre (h2, h3, etc.)
+        const indent = "    ".repeat(h.level - 2);
+        toc += `${indent}- [[#${h.heading}|${h.heading}]]\n`;
+    }
+    dv.paragraph(toc);
+} else {
+    dv.paragraph("Aucun titre trouvé dans cette note.");
+}
+```
 
 
 ## 1. Déclaration et définition d'une fonction
@@ -47,12 +66,12 @@ MonProjet/
 └── main.cpp            <-- Programme principal
 
 ```
-<!--SR:!2026-10-17,14,290-->
+<!--SR:!2026-12-17,58,310-->
 
 ### A. Le fichier d'en-tête (`.h` ou `.hpp`)
 ?
 Il sert d'interface publique. Il contient uniquement les prototypes des fonctions et les constantes globales.
-<!--SR:!2026-10-19,16,290-->
+<!--SR:!2026-12-22,63,310-->
 
 ```cpp
 // mes_fonctions.h
@@ -67,7 +86,7 @@ double calculerMoyenne(double a, double b);
 ### B. Le fichier d'implémentation (`.cpp`)
 ?
 Il contient le code effectif des fonctions déclarées dans le fichier `.h`.
-<!--SR:!2026-10-18,15,290-->
+<!--SR:!2026-12-19,60,310-->
 
 ```cpp
 // mes_fonctions.cpp
@@ -87,7 +106,7 @@ double calculerMoyenne(double a, double b) {
 ### C. Le fichier principal (`main.cpp`)
 ?
 Il contient la fonction `main()` qui utilise les fonctions modulaires.
-<!--SR:!2026-10-19,16,290-->
+<!--SR:!2026-12-23,64,310-->
 
 ```cpp
 // main.cpp

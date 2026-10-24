@@ -18,12 +18,31 @@ Ressources:
 > [!info] Définition courte
 > L'**analyse indicielle** consiste à ==étudier la réponse transitoire d'un circuit soumis à un échelon de tension (passage brutal de $0$ à $E$).== Appliquée au circuit $RC$, elle conduit à une équation différentielle du premier ordre décrivant la charge du condensateur.
 <!--SR:!2026-10-28,25,270-->
+```dataviewjs
+const currentFile = app.workspace.getActiveFile();
+const cache = app.metadataCache.getFileCache(currentFile);
+
+if (cache && cache.headings) {
+    let toc = "";
+    for (let h of cache.headings) {
+        // Optionnel : ignorer le tout premier titre niveau 1 si c'est le titre de la note
+        if (h.level === 1) continue;
+        
+        // Calcul de l'indentation selon le niveau du titre (h2, h3, etc.)
+        const indent = "    ".repeat(h.level - 2);
+        toc += `${indent}- [[#${h.heading}|${h.heading}]]\n`;
+    }
+    dv.paragraph(toc);
+} else {
+    dv.paragraph("Aucun titre trouvé dans cette note.");
+}
+```
 
 
 ## 1. Principe de l'analyse indicielle
 
 On applique à l'entrée d'un système un échelon de tension $e(t)$ défini par ::$$e(t) = \begin{cases} 0 & \text{pour } t < 0 \\ E & \text{pour } t \ge 0 \end{cases}$$L'objectif est d'observer l'évolution temporelle de la tension en sortie $U_C(t)$.
-<!--SR:!2026-10-11,15,290-->
+<!--SR:!2026-12-07,57,310-->
 
 
 ## 2. Établissement de l'équation différentielle

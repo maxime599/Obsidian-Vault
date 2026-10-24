@@ -4,21 +4,51 @@
     "type": "split",
     "children": [
       {
-        "id": "f77640dd92dc9b81",
+        "id": "808669c46dc918f5",
         "type": "tabs",
         "children": [
           {
-            "id": "08ebb25764b399d8",
+            "id": "9e5fb34184e19147",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "01 Cours/Elen1/AOP en régime saturé et Analyse qualitative, Elen1 2026-10-20.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "title": "AOP en régime saturé et Analyse qualitative, Elen1 2026-10-20"
             }
           },
           {
-            "id": "65aa65b2ab3e6ae7",
+            "id": "52d74edc57a93c38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Cours/Optique_géometrique/TD1 exo4, Optique_géometrique 2026-10-23.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TD1 exo4, Optique_géometrique 2026-10-23"
+            }
+          },
+          {
+            "id": "c9c1b842596f7380",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-10-23 13.34.39.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-10-23 13.34.39.excalidraw"
+            }
+          },
+          {
+            "id": "dd42ed5c0d34455d",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -28,7 +58,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -40,7 +70,7 @@
       {
         "id": "289ebf2b2dde5655",
         "type": "tabs",
-        "dimension": 72.4742268041237,
+        "dimension": 75.65656565656566,
         "children": [
           {
             "id": "a3835c23a2cd8cab",
@@ -63,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tva",
+                "query": " sphérique",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,12 +120,12 @@
         ]
       },
       {
-        "id": "3cb75a1c62a2b047",
+        "id": "5b19ca114ab303ca",
         "type": "tabs",
-        "dimension": 27.52577319587629,
+        "dimension": 24.343434343434346,
         "children": [
           {
-            "id": "694934163c7db28f",
+            "id": "b7676589b29b89e6",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -108,7 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5
+    "width": 251.4765625
   },
   "right": {
     "id": "94f8b3aa2bee7d17",
@@ -138,8 +168,8 @@
             "state": {
               "type": "copilot-chat-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "copilot-chat-view"
+              "icon": "message-square",
+              "title": "Copilot (Quick Chat)"
             }
           },
           {
@@ -221,8 +251,8 @@
             "state": {
               "type": "github-copilot-chat-view",
               "state": {},
-              "icon": "bot-message-square",
-              "title": "Copilot Chat"
+              "icon": "lucide-ghost",
+              "title": "github-copilot-chat-view"
             }
           },
           {
@@ -241,8 +271,8 @@
             "state": {
               "type": "code-space-outline",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "code-space-outline"
+              "icon": "code",
+              "title": "Code outline"
             }
           },
           {
@@ -261,8 +291,28 @@
             "state": {
               "type": "github-copilot-chat-view",
               "state": {},
-              "icon": "bot-message-square",
-              "title": "Copilot Chat"
+              "icon": "lucide-ghost",
+              "title": "github-copilot-chat-view"
+            }
+          },
+          {
+            "id": "9ba75fd1483aa8cf",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-agent-chat-view",
+              "state": {},
+              "icon": "copilot-agent",
+              "title": "Copilot Agent"
+            }
+          },
+          {
+            "id": "3363a11376bd4a70",
+            "type": "leaf",
+            "state": {
+              "type": "gemini-agent-view",
+              "state": {},
+              "icon": "sparkles",
+              "title": "Mode Agent"
             }
           }
         ],
@@ -270,7 +320,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 543.98828125
+    "width": 525.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -283,7 +333,6 @@
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "3d-graph:3D Graph": false,
-      "copilot:Open Copilot Chat": false,
       "easy-tikz:Easy TikZ": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-full-calendar:Open Full Calendar": false,
@@ -296,56 +345,58 @@
       "cmdr:Templater: Create Concepts": false,
       "cmdr:Templater: Create MOC": false,
       "obsidian-spaced-repetition:Apprendre les flashcards": false,
-      "code-space:Open code space dashboard": false
+      "code-space:Open code space dashboard": false,
+      "copilot:Open Copilot Agent Chat": false,
+      "gemini-scribe:Gemini Scribe : Mode agent": false
     }
   },
   "active": "aeb8dcd12e8ef37d",
   "lastOpenFiles": [
-    "01 Cours/Thermodynamique/Suite TD2, Thermodynamique 2026-10-09.md",
-    "05 Ressources/PDF Cours/TD2  Thermo 2627.pdf",
-    "05 Ressources/DS années précédentes/Physique S1/Thermodynamique (TSE)/Formulaire - Thermo (TSE).pdf",
-    "01 Cours/Thermodynamique/chapitre 4 , Thermodynamique 2026-09-30.md",
-    "02 Concepts/Thermodynamique/Lois de Laplace (Transformations isentropiques).md",
-    "01 Cours/Thermodynamique/entropie en TD, Thermodynamique 2026-10-02.md",
-    "02 Concepts/Thermodynamique/Entropie et bilan entropique.md",
-    "05 Ressources/PDF Cours/Chapitre IV thermo.pdf",
-    "02 Concepts/Elen1/Analyse harmonique et diagrammes de Bode.md",
-    "05 Ressources/PDF Cours/Fascicule TD ELEN1 CITISE.pdf",
-    "01 Cours/Elen1/Analyse harmonique, Elen1 2026-10-08.md",
-    "01 Cours/Elen1/Prépatation TP3, Elen1 2026-10-07.md",
-    "01 Cours/Elen1/Analyse harmonique, Elen1 2026-10-06.md",
-    "02 Concepts/Elen1/Analyse indicielle et circuit RC du premier ordre.md",
-    "01 Cours/Math/chapitre 4 les sommes, Math 2026-10-07.md",
-    "Excalidraw/Drawing 2026-10-08 08.40.47.excalidraw.md",
+    "01 Cours/Elen1/AOP en régime saturé et Analyse qualitative, Elen1 2026-10-20.md",
+    "01 Cours/Elen1/Analyse qualitative, Elen1 2026-10-22.md",
     "Dashboard.md",
-    "05 Ressources/PDF Cours/TP N°3.pdf",
-    "05 Ressources/LIbreoffice/TP3.odt",
-    "Excalidraw/Drawing 2026-10-08 09.09.12.excalidraw.md",
-    "Excalidraw/Drawing 2026-10-08 08.55.23.excalidraw.md",
-    "Excalidraw/Drawing 2026-10-08 08.49.43.excalidraw.md",
-    "Excalidraw/Drawing 2026-10-08 08.34.15.excalidraw.md",
-    "Excalidraw/Drawing 2026-10-08 08.41.36.excalidraw.md",
-    "Excalidraw/Drawing 2026-10-08 08.24.23.excalidraw.md",
-    "Excalidraw/Drawing 2026-10-08 08.16.59.excalidraw.md",
-    "02 Concepts/Math/Sommes, changements d'indice et sommes télescopiques.md",
-    "02 Concepts/Math/Suites.md",
-    "02 Concepts/Math/Binôme de Newton.md",
-    "02 Concepts/Math/Principes additif et multiplicatif en dénombrement.md",
-    "07 MOC/Concepts/Math/MOC Dénombrement.md",
+    "01 Cours/Optique_géometrique/TD1 exo4, Optique_géometrique 2026-10-23.md",
+    "05 Ressources/LIbreoffice/TP5 v2.odt",
+    "05 Ressources/DS années précédentes/Physique S1/Optique Géométrique (TSE)/TD1 - Optique (TSE).pdf",
+    "optique_geometrique chapitre 4.md",
+    "05 Ressources/PDF Cours/OPTIQUE GEOMETRIQUE IV.pdf",
+    "02 Concepts/Optique_géometrique/Nature des objets, des images et foyers optiques.md",
+    "02 Concepts/Optique_géometrique/Stigmatisme et conditions de Gauss.md",
+    "Excalidraw/Drawing 2026-10-23 13.34.39.excalidraw.md",
+    "05 Ressources/PDF Cours/Maths chapitre 5.pdf",
+    "07 MOC/Concepts/Math/MOC Nombres complexes.md",
+    "01 Cours/Math/chapitre 5 nombres complé et trigo, Math 2026-10-23.md",
+    "02 Concepts/Elen1/Types de régime en électicité.md",
+    "01 Cours/Math/maths_chapitre_5_nombres_complexes_et_trigonom_trie.md",
+    "maths_chapitre_5_nombres_complexes_et_trigonom_trie.md.crdownload",
     "05 Ressources/PDF Cours/math chapitre 4 S1.pdf",
-    "05 Ressources/PDF Cours/TP N°2 elen.pdf",
-    "05 Ressources/LIbreoffice/TP2.odt.osl-tmp",
-    "05 Ressources/PDF Cours/Info1_Slides.pdf",
+    "01 Cours/Math/chapitre 4 les sommes, Math 2026-10-07.md",
+    "02 Concepts/Elen1/Analyse qualitative des filtres (circuits passifs et AOP).md",
+    "02 Concepts/Elen1/Montages de base à Amplificateur Opérationnel (AOP).md",
+    "02 Concepts/Elen1/Analyse harmonique et diagrammes de Bode.md",
+    "05 Ressources/Pièces jointes collées/Pasted image 20261020133913.png",
+    "01 Cours/Optique_géometrique/TD1, Optique_géometrique 2026-10-21.md",
+    "02 Concepts/Optique_géometrique/Lois de Snell-Descartes et réflexion totale.md",
+    "02 Concepts/Optique_géometrique/Principe de Fermat et indépendance des rayons lumineux.md",
+    "02 Concepts/Optique_géometrique/Principes fondamentaux de propagation de la lumière.md",
+    "02 Concepts/Optique_géometrique/Cadre et modèle du rayon en optique géométrique.md",
+    "02 Concepts/Optique_géometrique/Modèle des photons et dualité onde-corpuscule.md",
+    "02 Concepts/Optique_géometrique/Modèle des ondes électromagnétiques et indice de réfraction.md",
+    "01 Cours/Elen1/exos sur l'aop, Elen1 2026-10-01.md",
+    "01 Cours/Elen1/Amplificateur opérationnel ou AOP, Elen1 2026-09-28.md",
+    "05 Ressources/PDF Cours/TP N°5 elen.pdf",
+    "05 Ressources/LIbreoffice/lu80923tnc.tmp",
+    "05 Ressources/LIbreoffice/Tp6 template.odt",
+    "05 Ressources/LIbreoffice/lu80923tj8.tmp",
+    "05 Ressources/Pièces jointes collées/Pasted Image 20261020084929_213.png",
+    "05 Ressources/Pièces jointes collées/Pasted image 20261018111459.png",
+    "05 Ressources/Pièces jointes collées/Pasted image 20261018111455.png",
+    "05 Ressources/Pièces jointes collées/Pasted Image 20261013114104_300.png",
     "05 Ressources/Pièces jointes collées/Q7.1,2.bmp",
     "05 Ressources/Pièces jointes collées/Q7.1 (1).bmp",
     "05 Ressources/Pièces jointes collées/Q7.1.bmp",
     "05 Ressources/Pièces jointes collées/Q6.7curseurs.bmp",
     "05 Ressources/Pièces jointes collées/Q6.310ns.bmp",
-    "05 Ressources/Pièces jointes collées/Q6.3.1micros.bmp",
-    "05 Ressources/Pièces jointes collées/Q6.3.1ms 1.bmp",
-    "05 Ressources/Pièces jointes collées/Q6.3.1ms.bmp",
-    "05 Ressources/Pièces jointes collées/Q6.3.5ms.bmp",
-    "05 Ressources/Pièces jointes collées/Q4thebest 1.bmp",
     "Sans titre.canvas"
   ]
 }

@@ -15,6 +15,25 @@ date_creation: 2026-07-27
 
 > [!info] Définition courte
 > La **projection orthogonale** d'un point $A$ sur un plan $P$ (ou une droite $d$) est le point d'intersection $H$ du plan (ou de la droite) avec la droite (ou le plan) passant par $A$ et qui lui est perpendiculaire. Le point $H$ est le point du plan le plus proche de $A$, et la longueur $AH$ est la **distance du point au plan**.
+```dataviewjs
+const currentFile = app.workspace.getActiveFile();
+const cache = app.metadataCache.getFileCache(currentFile);
+
+if (cache && cache.headings) {
+    let toc = "";
+    for (let h of cache.headings) {
+        // Optionnel : ignorer le tout premier titre niveau 1 si c'est le titre de la note
+        if (h.level === 1) continue;
+        
+        // Calcul de l'indentation selon le niveau du titre (h2, h3, etc.)
+        const indent = "    ".repeat(h.level - 2);
+        toc += `${indent}- [[#${h.heading}|${h.heading}]]\n`;
+    }
+    dv.paragraph(toc);
+} else {
+    dv.paragraph("Aucun titre trouvé dans cette note.");
+}
+```
 
 
 ## Explication intuitive

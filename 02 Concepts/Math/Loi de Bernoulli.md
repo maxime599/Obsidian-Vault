@@ -15,6 +15,25 @@ date_creation: 2026-07-27
 
 > [!info] Définition courte
 > Une **épreuve de Bernoulli** est une expérience aléatoire ne comportant que deux issues possibles : le **succès** ($S$) de probabilité $p$ et l'**échec** ($\bar{S}$) de probabilité $1-p$. La **loi de Bernoulli** est la loi de la variable aléatoire $X$ qui prend la valeur $1$ en cas de succès et $0$ en cas d'échec.
+```dataviewjs
+const currentFile = app.workspace.getActiveFile();
+const cache = app.metadataCache.getFileCache(currentFile);
+
+if (cache && cache.headings) {
+    let toc = "";
+    for (let h of cache.headings) {
+        // Optionnel : ignorer le tout premier titre niveau 1 si c'est le titre de la note
+        if (h.level === 1) continue;
+        
+        // Calcul de l'indentation selon le niveau du titre (h2, h3, etc.)
+        const indent = "    ".repeat(h.level - 2);
+        toc += `${indent}- [[#${h.heading}|${h.heading}]]\n`;
+    }
+    dv.paragraph(toc);
+} else {
+    dv.paragraph("Aucun titre trouvé dans cette note.");
+}
+```
 
 
 ## Explication intuitive

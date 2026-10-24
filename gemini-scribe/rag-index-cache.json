@@ -1,0 +1,1949 @@
+{
+  "version": "1.0",
+  "storeName": "fileSearchStores/obsidiancourstlcom-uhfzo8jg4cse",
+  "lastSync": 1792009388530,
+  "files": {
+    "Sans titre.md": {
+      "contentHash": "4bba04d0e16aa807cc5f9fdc80aee4e325c1e5659ee81f24f84d5a3c776dae36",
+      "lastIndexed": 1791979741764
+    },
+    "Sans titre 1.md": {
+      "contentHash": "4ba0784dbbcb9e38be19201d4097cd42be0692d52c6e9b5095d21c5004635da8",
+      "lastIndexed": 1791979741790
+    },
+    "Tout le chapitre II math.md": {
+      "contentHash": "a20f4ea059557714a0ca1e0764a0faa784272a98543469a7078415c57612305a",
+      "lastIndexed": 1791979741981
+    },
+    "Poubelle/Ex8 td1 thermo.md": {
+      "contentHash": "da000a146c96d2882c96a817daf7549f86f950fc56fae286c1d9e6a5aa9fbc50",
+      "lastIndexed": 1791979742361
+    },
+    "Tout le chapitre III math.md": {
+      "contentHash": "b8608aa88f8d3bc0716240c7d29b4a600701c02293aab4237e2ca87c7c18590b",
+      "lastIndexed": 1791979742380
+    },
+    "Excalidraw/Drawing 2026-10-13 11.41.03.excalidraw.md": {
+      "contentHash": "ed229de3610536b3fc56660a393d50a05be6a2e65cf349fd8297e2859eeaf0fb",
+      "lastIndexed": 1791979746324
+    },
+    "Excalidraw/Drawing 2026-10-12 12.11.16.excalidraw.md": {
+      "contentHash": "1daeda9d8e489423fb212b63ab9e172ea22e51bc20f03cb3d54402c20038c265",
+      "lastIndexed": 1791979747418
+    },
+    "Excalidraw/Drawing 2026-10-08 08.55.23.excalidraw.md": {
+      "contentHash": "ec4eea47ce403be483534aed42224463e276dfe37b2b87081a606feae068d1af",
+      "lastIndexed": 1791979909887
+    },
+    "Excalidraw/Drawing 2026-10-06 16.43.35.excalidraw.md": {
+      "contentHash": "b43d3642e6a44ba1ceb97de65ab8028ad4dc74a40a1407a66a58afc838fab994",
+      "lastIndexed": 1791980071195
+    },
+    "Excalidraw/Drawing 2026-10-06 14.46.55.excalidraw.md": {
+      "contentHash": "33eef17e2f610a139d5dfdc13cfdf1569bede8808f34844751cb7061631495b5",
+      "lastIndexed": 1791980232346
+    },
+    "Excalidraw/Drawing 2026-10-08 08.16.59.excalidraw.md": {
+      "contentHash": "eaa97ac06626eaec8b1676f8463d7bf209cbe365e371d7ee3b2bdd990224e67f",
+      "lastIndexed": 1791980232710
+    },
+    "Excalidraw/Drawing 2026-09-28 16.22.00.excalidraw.md": {
+      "contentHash": "2cd690ee48d140d7246f8536a536c6cc0c0ca821050f28e942622907814ff875",
+      "lastIndexed": 1791980393513
+    },
+    "Excalidraw/Drawing 2026-09-29 16.51.12.excalidraw.md": {
+      "contentHash": "4b148294f14433d2b9189e09bbaf751b08d92658b9950abfcbf8e0d8a2014912",
+      "lastIndexed": 1791980393984
+    },
+    "Excalidraw/Drawing 2026-09-28 16.49.05.excalidraw.md": {
+      "contentHash": "c76a7111ba86dff80b562558b55f4fd3549815306ee9be2ec5ae0a6bdf12dc5e",
+      "lastIndexed": 1791980394016
+    },
+    "02 Concepts/Optique_géometrique/Modèle des ondes électromagnétiques et indice de réfraction.md": {
+      "contentHash": "cfb2d45e09bbf9eae1592a076793f35617cad7a3a63aadc0ed461758f2269993",
+      "lastIndexed": 1792003471135
+    },
+    "Excalidraw/Drawing 2026-09-22 15.51.59.excalidraw.md": {
+      "contentHash": "ab1d0ce12b9b8acae3f041e38e835c767b6cf2f5ca9b87b92771526e3939e5a7",
+      "lastIndexed": 1791980555975
+    },
+    "Excalidraw/Drawing 2026-09-23 14.10.37.excalidraw.md": {
+      "contentHash": "b4c12bce341ed8f5fab119af7fdbd46517c610aa16f2d1a0b5764629ce9b8116",
+      "lastIndexed": 1791980556512
+    },
+    "Excalidraw/Drawing 2026-09-22 10.30.49.excalidraw.md": {
+      "contentHash": "566589022e970fcdcd00fb05926b4e99ed14b83e1d6ee0eafdf77899f6f62e9d",
+      "lastIndexed": 1791980556746
+    },
+    "02 Concepts/Physique/Bilan énergétique et applications de l'effet photoélectrique.md": {
+      "contentHash": "af891402a5c02f5b71a96c5950512bebbb9214683ca8c6d66f2ff00ae29a8d9c",
+      "lastIndexed": 1791980561746
+    },
+    "02 Concepts/Physique/Diffraction des ondes.md": {
+      "contentHash": "61b92ca09abf730f37fbbc7811916990f9321096cc55beca51ec04b25a4e30a0",
+      "lastIndexed": 1791980565360
+    },
+    "02 Concepts/Physique/Effet Doppler.md": {
+      "contentHash": "815f733ded245169d48a0151dd557c14399b787291ea4257af6c9f2c1fa92ec7",
+      "lastIndexed": 1791980568526
+    },
+    "02 Concepts/Physique/Effet photoélectrique et modèle du photon.md": {
+      "contentHash": "b6d7b7f00bc7d305da69552950e8f8b514fdd24e9c71e2228471e89e03f69a96",
+      "lastIndexed": 1791980861053
+    },
+    "02 Concepts/Physique/Interférences ondulatoires.md": {
+      "contentHash": "fcdee2e25da914739fa0845bab5b217d89259aef0e175d2d6b1a1ebc00bad3fb",
+      "lastIndexed": 1791980576193
+    },
+    "02 Concepts/Physique/Niveau d'intensité sonore et atténuation.md": {
+      "contentHash": "c4cf7bd52018ffc92bcd0be3b5b342d0e6166f06947eb190b6d5b3d3f0fcb3a7",
+      "lastIndexed": 1791980580267
+    },
+    "06 Templates/MOC.md": {
+      "contentHash": "5a5012d1c832e78d735fc1727eabc70d3800bb92b294f2291e33ede98eb8160b",
+      "lastIndexed": 1791981104943
+    },
+    "Excalidraw/Drawing 2026-09-22 09.10.51.excalidraw.md": {
+      "contentHash": "44d289e5d6be9e2178cef6c0155d6bcf388f185f2f9c724404a0674fd67cf90a",
+      "lastIndexed": 1791980717680
+    },
+    "Excalidraw/Drawing 2026-09-22 08.57.25.excalidraw.md": {
+      "contentHash": "894246f7584594957891dfa5f0fc70dcbc118f35c37d96789f9bd0587b75b1e0",
+      "lastIndexed": 1791980717765
+    },
+    "Excalidraw/Drawing 2026-09-21 15.38.45.excalidraw.md": {
+      "contentHash": "a60bb63806c4641d8169a89ae41c4dbec29523d59cd0f4459c9b7cec2d194ee6",
+      "lastIndexed": 1791980717875
+    },
+    "07 MOC/Concepts/Optique_géometrique/MOC Ondes.md": {
+      "contentHash": "f7ab3407986f3893ad86d4fbf69c5c2c3977eea01f9dce35022ebab0cb6df7c9",
+      "lastIndexed": 1791980726959
+    },
+    "02 Concepts/Optique_géometrique/Modèle des photons et dualité onde-corpuscule.md": {
+      "contentHash": "9a7e223d6548998f8f38635ab940148406ceebc5f39c3d4e8c150415c3f40c77",
+      "lastIndexed": 1792003457644
+    },
+    "07 MOC/Concepts/Optique_géometrique/MOC Quantique.md": {
+      "contentHash": "d4262e542706c0ec84cdd334ee8e1490d7ecf745a1f3167688f8ecf67ad0a2cf",
+      "lastIndexed": 1791980857242
+    },
+    "Excalidraw/Drawing 2026-09-21 13.16.16.excalidraw.md": {
+      "contentHash": "6a4b400b6a71aeb532f7dfe5bdb5b90a114dec1012dd29d32880038491645ea7",
+      "lastIndexed": 1791980880158
+    },
+    "02 Concepts/Optique_géometrique/Cadre et modèle du rayon en optique géométrique.md": {
+      "contentHash": "7dfbbd759227304c565f363b7ef4fb07a599e1e3e1c2ff342e03ebcc3f188e64",
+      "lastIndexed": 1792003355950
+    },
+    "07 MOC/Concepts/Optique_géometrique/MOC Model.md": {
+      "contentHash": "83cf2cf34b0ed4ac0cb35aad60d888957f5e4a2afeeef4f6503f62cc939ad206",
+      "lastIndexed": 1791980997568
+    },
+    "02 Concepts/Optique_géometrique/Principes fondamentaux de propagation de la lumière.md": {
+      "contentHash": "fd6a70665dab2c28f444e76e8ee0058796d870ca4ebb54c55f6787bf5fde3d1b",
+      "lastIndexed": 1792003429542
+    },
+    "cours_d_optique_g_om_trique.md": {
+      "contentHash": "f33214890741e4388d94ceb5dc51d8c26c944bb2b15dda0addcb52995390b3f4",
+      "lastIndexed": 1791981040997
+    },
+    "copilot/skills/obsidian-markdown/references/EMBEDS.md": {
+      "contentHash": "dfdf1c646efae9cbbb146b8635c3197d2f90b477d3a8a0bfc04b70960b85b855",
+      "lastIndexed": 1791981041122
+    },
+    "copilot/skills/obsidian-markdown/references/CALLOUTS.md": {
+      "contentHash": "414c1d0073f6d5879c2d1f725aaaa84b97a59b396430ba288b4edf492af76ff8",
+      "lastIndexed": 1791981041502
+    },
+    "copilot/skills/obsidian-markdown/references/PROPERTIES.md": {
+      "contentHash": "2bec60f21c2a029194cca49e5c5dcf578b23470d649f1d7d0c2161023141d29b",
+      "lastIndexed": 1791981041518
+    },
+    "Dashboard.md": {
+      "contentHash": "1e2318e99b0f78774107e1182eef99d899b845c46df54dcdb884ab72b4cc7ae1",
+      "lastIndexed": 1791981121527
+    },
+    "copilot/skills/obsidian-cli/SKILL.md": {
+      "contentHash": "0b49b34483b94bda1562891c9ba04e58561e173a6eccfac263346c0631a80eb0",
+      "lastIndexed": 1791981045442
+    },
+    "copilot/skills/obsidian-markdown/SKILL.md": {
+      "contentHash": "595012a6f3cb3933f2a716846ca776d64a3c1a9a605d9890e9e64098ce160db5",
+      "lastIndexed": 1791981045461
+    },
+    "copilot/skills/openartifacts-publish/themes/research-memo.md": {
+      "contentHash": "1070c99a58fbd6627ff2f11e1450c9bc62eb4220dd49808c77fa6b24c769c47e",
+      "lastIndexed": 1791981045600
+    },
+    "copilot/skills/openartifacts-publish/SKILL.md": {
+      "contentHash": "4f9c85fb059bced5a50c72feb3978316d8829de82ab9e4b8b3f194be1a6bb2a9",
+      "lastIndexed": 1791981045747
+    },
+    "copilot/skills/obsidian-bases/SKILL.md": {
+      "contentHash": "179e9353974cf491b09bd070f4e4bf4083a4e333191efed0858d144ee26ba8cd",
+      "lastIndexed": 1791981045831
+    },
+    "07 MOC/Concepts/Optique_géometrique/MOC Principe.md": {
+      "contentHash": "0b443648564005d96c9bef943e07b5b8f085c3af3e8a6b9afa5ea6b6546c27f0",
+      "lastIndexed": 1791981046701
+    },
+    "copilot/skills/json-canvas/SKILL.md": {
+      "contentHash": "6407e10ba95fa253fc1aaf5b161919273eccd29639f6400bfd0e9401e910940e",
+      "lastIndexed": 1791981048902
+    },
+    "copilot/skills/copilot-youtube-transcript/SKILL.md": {
+      "contentHash": "f8dc78e4824d7fa50aeab19dfc9314ce3c279087dc1c5e9422eff598e042b12d",
+      "lastIndexed": 1791981049254
+    },
+    "copilot/skills/json-canvas/references/EXAMPLES.md": {
+      "contentHash": "9c2ed6c0baa031ff01893e089c1510292e1070f5c0fa923ea487b93e1aae5306",
+      "lastIndexed": 1791981049411
+    },
+    "copilot/skills/obsidian-bases/references/EXAMPLES.md": {
+      "contentHash": "e9fd53b3bdd7b0612bc5d499f3272c4a68e7d017eecfa36d1ce5f121ffb802c6",
+      "lastIndexed": 1791981049880
+    },
+    "copilot/skills/obsidian-bases/references/FUNCTIONS_REFERENCE.md": {
+      "contentHash": "3879bc0c9e270a3b7bbb11c039ee433d929f3c9e4132404e990a07fb9173080f",
+      "lastIndexed": 1791981049918
+    },
+    "02 Concepts/Physique/Premier principe de la thermodynamique.md": {
+      "contentHash": "6d92c7a70d16edffa85692d4fe9c4cd7c5f147151cf1a55db732d29a395001a1",
+      "lastIndexed": 1792002891348
+    },
+    "copilot/copilot-conversations/Test_Conversation@20261012_162314.md": {
+      "contentHash": "e7c3ef674d453f30e297a09fe640ef767875bd84d654797495ed3500b63c2a83",
+      "lastIndexed": 1791981052725
+    },
+    "copilot/copilot-conversations/This_chat_is_about_a_conversation_between...)_@20261012_161452.md": {
+      "contentHash": "f90d083d88660710da7862241ee1cd2fc3eb9e74ccd70f7bdc96b307cbad2b6f",
+      "lastIndexed": 1791981053046
+    },
+    "copilot/copilot-conversations/返回_Korean_语言的招呼_###_Title_Korean_Greeting@20261012_155401.md": {
+      "contentHash": "1aafcb36e765937b17bf10a6054bbe611d2e9c63dfb94dcf760d3ceca9f21036",
+      "lastIndexed": 1791981053095
+    },
+    "copilot/memory/Recent Conversations.md": {
+      "contentHash": "ec597fad9ca5fdc4b00421f04dbc26a7a85cd2351ddeed9d695bf6546d07e5a7",
+      "lastIndexed": 1791981053164
+    },
+    "copilot/skills/copilot-fetch-x/SKILL.md": {
+      "contentHash": "a9ae127873b3e0d16b09e838150b88f24c22358a62e30c79602b83bf963d04b4",
+      "lastIndexed": 1791981053227
+    },
+    "02 Concepts/Thermodynamique/Second Principe de la thermodynamique et énoncés fondamentaux.md": {
+      "contentHash": "d43d35e703cfbc8620894c801f53a61ee2fce781b609f77d2b361002bb1f68f2",
+      "lastIndexed": 1792003609172
+    },
+    "copilot/copilot-conversations/test@20261012_170317.md": {
+      "contentHash": "7771da575a884cf8a47c77b706df8f693ad6cc634c95e71e39f7eceb374444c9",
+      "lastIndexed": 1791981056167
+    },
+    "copilot/copilot-conversations/Cydonia-24B-v4.3_This_conversation_has_been_ended_@20261012_160935.md": {
+      "contentHash": "10777d3447b452538ffe60e2f9606f6b41d5639bb2d0e03264703dab8f6f7b54",
+      "lastIndexed": 1791981056202
+    },
+    "07 MOC/Concepts/Thermodynamique/MOC Variables.md": {
+      "contentHash": "b8b933133724fd097f3c751ad59b6cb9a8c5091c849ce06f5dd391b5de2346cb",
+      "lastIndexed": 1791981056359
+    },
+    "02 Concepts/Thermodynamique/Typologie des transformations et réversibilité - Premier Principe de la thermodynamique.md": {
+      "contentHash": "46226014d12116b05f7db4bdadab6193afdff9a72ca696a554d32741d9f3b427",
+      "lastIndexed": 1792003648788
+    },
+    "copilot/copilot-conversations/I_need_to_verify_your_identity_before_we_continue.@20261012_162928.md": {
+      "contentHash": "fd4bcef98bab3a863b526e0239c15ed9c5707fd368ac154b142e8924d0a6d367",
+      "lastIndexed": 1791981057143
+    },
+    "07 MOC/Concepts/Électronique_numérique/MOC Boole.md": {
+      "contentHash": "b61589d9a6e36f91d02f42d34b1a88bd1bb5370716184ec2aa7d97b700954c1c",
+      "lastIndexed": 1791981057186
+    },
+    "07 MOC/Concepts/Thermodynamique/MOC Transformations.md": {
+      "contentHash": "c0a1284cfab994f64c4580190d7132e47af54cae88b2a7dfed19146f0abd20c7",
+      "lastIndexed": 1791981060122
+    },
+    "07 MOC/Concepts/Thermodynamique/MOC Mesure.md": {
+      "contentHash": "e38bc2085b3bd2138bc5f3c7df6554067358640c2552e9becc264c65d522c55c",
+      "lastIndexed": 1791981060352
+    },
+    "07 MOC/Concepts/Thermodynamique/MOC Principe.md": {
+      "contentHash": "d1e71c21e5b9edc2d2e152a61178dc7eec15749cff98070ae30b9761ebad4cbc",
+      "lastIndexed": 1791981060775
+    },
+    "07 MOC/Concepts/Thermodynamique/MOC Transfert.md": {
+      "contentHash": "b5e1f587a6cb87b9ab9fb51d9e3b02e297032cbc4da8d72e37819b6279c418d0",
+      "lastIndexed": 1791981061193
+    },
+    "07 MOC/Concepts/Thermodynamique/MOC Systeme.md": {
+      "contentHash": "2f52cc18b2b804e70674509c601dd6d744eefbdd5046f476aeb09fde5de2537c",
+      "lastIndexed": 1791981061359
+    },
+    "07 MOC/Concepts/Thermodynamique/MOC Machines.md": {
+      "contentHash": "7e7d5c2ca8d8f2d7bea18c9e765b6cd871f0dfffb97079857440150f18725b95",
+      "lastIndexed": 1791981064352
+    },
+    "07 MOC/Concepts/Thermodynamique/MOC Energie.md": {
+      "contentHash": "b165ba8cf8190952c6e0347d309b4e0b8e1671c56f025f74f047e1157b298894",
+      "lastIndexed": 1791981064726
+    },
+    "07 MOC/Concepts/Thermodynamique/MOC Diagrammes.md": {
+      "contentHash": "da04511c6350f330a10a8c37fa6b38c9317f6ba65c4fcfb175c02e8cad5d7024",
+      "lastIndexed": 1791981064789
+    },
+    "07 MOC/Concepts/Thermodynamique/MOC Entropie.md": {
+      "contentHash": "2423bcefdd850a303aa1dfeb5cad1bd95dac50eac7aa28431b81aa734638d88d",
+      "lastIndexed": 1791981065036
+    },
+    "07 MOC/Concepts/Thermodynamique/MOC Gaz.md": {
+      "contentHash": "7867b10e82f1dc5e77df75eaef867ebf61142ae3ba97df4e9dce8aafa68fe95c",
+      "lastIndexed": 1791981065512
+    },
+    "07 MOC/Concepts/SAé/MOC Materiel.md": {
+      "contentHash": "94d54616d95eccb9939513e9dc67baae3df13b753828183fa7bd0cc63ddf0500",
+      "lastIndexed": 1791981068866
+    },
+    "07 MOC/Concepts/Thermodynamique/MOC Calorimetrie.md": {
+      "contentHash": "fad1454339d23b3555801989cef9051b61c1b28200dc499bcf358bdddcec7656",
+      "lastIndexed": 1791981068884
+    },
+    "07 MOC/Concepts/Physique/MOC Signaux.md": {
+      "contentHash": "9e76f63aed9e2864820f3a85a7f74cbeccf818eca682dd7625f4099802023efd",
+      "lastIndexed": 1791981069086
+    },
+    "07 MOC/Concepts/Physique/MOC Thermodynamique.md": {
+      "contentHash": "5cd8e591885b043343c82865ae7496576fda141844f5f0433637b184b3674c2b",
+      "lastIndexed": 1791981069259
+    },
+    "07 MOC/Concepts/Physique/MOC Électricité.md": {
+      "contentHash": "9b9eb7f41defd857aa7e866447054840d1ef0ed4fc452207697ce991a917dfae",
+      "lastIndexed": 1791981069949
+    },
+    "07 MOC/Concepts/Physique/MOC Lumière.md": {
+      "contentHash": "1010ccbbc8e5dcc3e4d1740ad3e0573dc00f722c9c39a89871339ef2db6cffb7",
+      "lastIndexed": 1791981073157
+    },
+    "07 MOC/Concepts/Physique/MOC Ondes.md": {
+      "contentHash": "5c51219ede3ecafcc39542df942e0fbfc62314fd3edfee66b0c2ae054c0b41fe",
+      "lastIndexed": 1791981073175
+    },
+    "07 MOC/Concepts/Physique/MOC Mécanique.md": {
+      "contentHash": "efd2a4e46e586f4874e22eb900c1b83bc851a9a7c011dcd0d35cc29a89182350",
+      "lastIndexed": 1791981073936
+    },
+    "07 MOC/Concepts/Physique/MOC Optique.md": {
+      "contentHash": "8d8271e1de527defa2ceed113bad85d5898f0eb40e2bafff4401110aca339fd2",
+      "lastIndexed": 1791981073959
+    },
+    "07 MOC/Concepts/Physique/MOC Quantique.md": {
+      "contentHash": "7eb6aa4a0382b8aafbef24faa7f3d552a95e567fd1daf0b8cfeae5ed8cab825b",
+      "lastIndexed": 1791981074095
+    },
+    "07 MOC/Concepts/Physique/MOC Dynamique.md": {
+      "contentHash": "7593c53f239122705e735b5dbf0abd360820280762a7978d94f668bb87bc6edd",
+      "lastIndexed": 1791981077116
+    },
+    "07 MOC/Concepts/Physique/MOC Astrophysique.md": {
+      "contentHash": "6486418e09dc6f15def3391022f67a31969512c123d34b1fbe1026da7a2ac38c",
+      "lastIndexed": 1791981077165
+    },
+    "07 MOC/Concepts/Physique/MOC Fluides.md": {
+      "contentHash": "6f00df6006a47af2d71d98ca11e259b25227198509249a401a99c950b833f1a4",
+      "lastIndexed": 1791981077408
+    },
+    "07 MOC/Concepts/Math/MOC Vecteurs.md": {
+      "contentHash": "2d5573173145108993aa942136005b26ce771ca40ca01fd84f6f321e00f1d4ab",
+      "lastIndexed": 1791981077567
+    },
+    "07 MOC/Concepts/Physique/MOC Acoustique.md": {
+      "contentHash": "f87ba9a99ca3fba5eceedca80dc8429cdc4c93afb1da2d18ca75c8b00362d840",
+      "lastIndexed": 1791981077903
+    },
+    "07 MOC/Concepts/Math/MOC Statistiques.md": {
+      "contentHash": "5491851c3fc3e3df6e2fbdc9d24f2b648e00438f64612b443b4fb49cabb1f225",
+      "lastIndexed": 1791981081802
+    },
+    "07 MOC/Concepts/Math/MOC Trigonométrie.md": {
+      "contentHash": "691901cb0e5bc563d00f9448aee79006f916a9dfbef5c687bf9448d304bd5331",
+      "lastIndexed": 1791981081804
+    },
+    "07 MOC/Concepts/Math/MOC Suite.md": {
+      "contentHash": "919dbb4da61cce02aaa58582a1e88e6b1c56e0de27276022b6ba59ebd07d2f56",
+      "lastIndexed": 1791981081846
+    },
+    "07 MOC/Concepts/Math/MOC Theoreme.md": {
+      "contentHash": "c6223e5916cd92ee6ac12ef52854d4e8802e916fed918595939e034127857c60",
+      "lastIndexed": 1791981081860
+    },
+    "07 MOC/Concepts/Math/MOC Résolution d'équations.md": {
+      "contentHash": "dd3d60005cc5da09d30013f09ad8ebdb7ac63eaf2eef5ef48a0b2e4a8ae14de3",
+      "lastIndexed": 1791981082219
+    },
+    "07 MOC/Concepts/Math/MOC Probabilites.md": {
+      "contentHash": "0bc332e45b15eb158422a9a52ce211f3aac698a04af04da0c396126f7b8b1a06",
+      "lastIndexed": 1791981085268
+    },
+    "07 MOC/Concepts/Math/MOC Limites.md": {
+      "contentHash": "5a7968b6c843589c2615b58c899047fb43d4c12951981a101efadb304cd1779b",
+      "lastIndexed": 1791981085299
+    },
+    "07 MOC/Concepts/Math/MOC Nombres complexes.md": {
+      "contentHash": "2bf562c218a440795d6c9fe0a199005e29b852ee1a8ae52cecab2afe8ea6e5f5",
+      "lastIndexed": 1791981085619
+    },
+    "07 MOC/Concepts/Math/MOC Logique.md": {
+      "contentHash": "4204d5c59fb1b6b150fbecda1e8547c8b7813910fa78f40268665ccddbf25db2",
+      "lastIndexed": 1791981085978
+    },
+    "07 MOC/Concepts/Math/MOC Lois.md": {
+      "contentHash": "b3bc0090fc122433cc2ee6fad5f145f7c1bd18a12d54f1455bd8e69a48183a9f",
+      "lastIndexed": 1791981086130
+    },
+    "07 MOC/Concepts/Math/MOC Integrales.md": {
+      "contentHash": "ec6f136ab18ca6ef04f977d2989df3828dccdfd72f80cbd8900e5518f47ff233",
+      "lastIndexed": 1791981088984
+    },
+    "07 MOC/Concepts/Math/MOC Géométrie 3d.md": {
+      "contentHash": "aebbad7d391afb003a2d7c96adc932ca4eeb184062e38bee2425f318d57a581f",
+      "lastIndexed": 1791981089023
+    },
+    "07 MOC/Concepts/Math/MOC Ensemble.md": {
+      "contentHash": "7d3ba62c65f9824644ba2dd9a66c7f0250176fd8322382a515ee4938c53a400a",
+      "lastIndexed": 1791981089319
+    },
+    "07 MOC/Concepts/Math/MOC Fonction.md": {
+      "contentHash": "d5e56fdd325d2c0a92f9d84d75281141840d36ef445d8e1ab23f1ad570b3f369",
+      "lastIndexed": 1791981089411
+    },
+    "07 MOC/Concepts/Math/MOC Dérivation.md": {
+      "contentHash": "4129cef83cfd8c95c2cc94c2561f045b1a69f3287d30cc0c4d8ff18308ac662e",
+      "lastIndexed": 1791981089945
+    },
+    "07 MOC/Concepts/Math/MOC Analyse.md": {
+      "contentHash": "207f120b8f55252200f9f89d9da68ed0a4a9c377d291f1856ec51e5d47137214",
+      "lastIndexed": 1791981092888
+    },
+    "07 MOC/Concepts/Math/MOC Démonstration.md": {
+      "contentHash": "2e19b50f716b39dca1244e4d5e654db614ea1aa38acc651ec18694c017a12f29",
+      "lastIndexed": 1791981092957
+    },
+    "07 MOC/Concepts/Math/MOC Combinatoire.md": {
+      "contentHash": "c91e5d55e2ec13e56c17fc171f8141ee9e7d55557f5e1445067a8f369d715cdf",
+      "lastIndexed": 1791981093053
+    },
+    "07 MOC/Concepts/Math/MOC Arithmetique.md": {
+      "contentHash": "d1f4495ab02b3e411a4ad6623beb59053fad0bac12eb67086c268624bd5ca776",
+      "lastIndexed": 1791981093531
+    },
+    "07 MOC/Concepts/Math/MOC Dénombrement.md": {
+      "contentHash": "652e74134fc34c186a867fd9c07c7424d749a00b7feae7d54a8c676bc163b23e",
+      "lastIndexed": 1791981094478
+    },
+    "07 MOC/Concepts/Info/MOC Syntaxe.md": {
+      "contentHash": "5770bcf3752c8ff504c3d0c375e34fd71287779026421a7adfd110fcdd181312",
+      "lastIndexed": 1791981097519
+    },
+    "07 MOC/Concepts/Méthodologie_scientifique/MOC Methode.md": {
+      "contentHash": "311a2fb6ffe3a953e336c1e02e5840fed9ef832e7b621dff85843ab5d747245e",
+      "lastIndexed": 1791981097717
+    },
+    "07 MOC/Concepts/Méthodologie_scientifique/MOC Théorie.md": {
+      "contentHash": "8b8abab0b2d19f8bd9aaf2c718a232d808f465acadca064633ee35825882516b",
+      "lastIndexed": 1791981097820
+    },
+    "07 MOC/Concepts/Méthodologie_scientifique/MOC Demarche.md": {
+      "contentHash": "ac3969d2f2919ec869ca6d034d3a35f12544497acfa01cf14728e2a32bf2fe5b",
+      "lastIndexed": 1791981097920
+    },
+    "07 MOC/Concepts/Math/MOC Algèbre.md": {
+      "contentHash": "45a01a9314f8a74272b60ff62992d7beffff880073d393139c466f0aa56c76ba",
+      "lastIndexed": 1791981097922
+    },
+    "07 MOC/Concepts/Info/MOC Algorithmique.md": {
+      "contentHash": "51f36bf9c624b2d127ede43b549d25f26a8b9830d687afd3c8a0d493ba4b8589",
+      "lastIndexed": 1791981100700
+    },
+    "07 MOC/Concepts/Elen1/MOC Methode.md": {
+      "contentHash": "6e6a6da3eb9f5e7d2f00b7602f84ba9b4c3ccc697b7ad6843bfd342e5d9db5e2",
+      "lastIndexed": 1791981100741
+    },
+    "07 MOC/Concepts/Info/MOC Langage C.md": {
+      "contentHash": "6b2648502a139d92740b2210a9015de1af77295f4a28d3fd1446ca30f03fd3ee",
+      "lastIndexed": 1791981100977
+    },
+    "07 MOC/Concepts/Elen1/MOC Theoremes.md": {
+      "contentHash": "89e5bdd3b0196fc1e3a7c9e78fdb0d4a7ae8264bc27b238bdf89b16a5f7fc5c5",
+      "lastIndexed": 1791981101581
+    },
+    "07 MOC/Concepts/Info/MOC Fonctions.md": {
+      "contentHash": "3e817d7bce5d1366912a6e26cb593429d19a710fd92aca88ec3815f792972bb6",
+      "lastIndexed": 1791981101989
+    },
+    "07 MOC/Concepts/Elen1/MOC Analyse.md": {
+      "contentHash": "1f05d6ab2696e3cb119dc6f01f771cf9a92797da4bea864fce68b9b611edca00",
+      "lastIndexed": 1791981104707
+    },
+    "07 MOC/Concepts/Elen1/MOC Composants.md": {
+      "contentHash": "46fc963d10c0aee7f4086698711ce8ffb14a469a29faa24f2d10dc7cc314f946",
+      "lastIndexed": 1791981104720
+    },
+    "07 MOC/Concepts/Elen1/MOC Lois.md": {
+      "contentHash": "dfb01abc965a5cee90ccbd36da7c235061e00e1fe8efeebd4e1654d5b33e3cb9",
+      "lastIndexed": 1791981104988
+    },
+    "07 MOC/Concepts/Elen1/MOC Circuits.md": {
+      "contentHash": "78c1496710bb984abe40b28c72c47cc48cdca48b0fb5565e090a7da3416d6c38",
+      "lastIndexed": 1791981105875
+    },
+    "05 Ressources/Pièces jointes collées/cropped_Pasted Image 20260915150901_837.md": {
+      "contentHash": "e736d794346cd985c664531b6fcbe39d371f16fd9285af5a8a5b76874f305575",
+      "lastIndexed": 1791981108696
+    },
+    "06 Templates/Cours.md": {
+      "contentHash": "183192011e285db29c326c57efa0db02c7cd03df852ce079406a5ae8a5126658",
+      "lastIndexed": 1791981108728
+    },
+    "06 Templates/Concepts.md": {
+      "contentHash": "6683c2766a92ca1d7783763ff570ee31680575ce358bb95aa6526a3a02fd4ceb",
+      "lastIndexed": 1791981108789
+    },
+    "05 Ressources/Tuto utiliser ma configuration.md": {
+      "contentHash": "fe59abd272b8644f15d3157c1e1831fb3f4679bafc295651c5ac764e6b8f8309",
+      "lastIndexed": 1791981108921
+    },
+    "05 Ressources/Latex.md": {
+      "contentHash": "a3481ec8871e0f8490f96ff2a97373b66097b9d2a1df4012eceeb3487c379fc5",
+      "lastIndexed": 1791981109012
+    },
+    "01 Cours/Électronique_numérique/Intro-organisation de cours, Électronique numérique 2026-09-01.md": {
+      "contentHash": "7f284b6ba8b60afaabd2751ef3a2e91076343c51d0da919f35142d2c84cb2d6a",
+      "lastIndexed": 1791981111628
+    },
+    "05 Ressources/Méthode lettre de motivation, annalyse et communication.md": {
+      "contentHash": "0861532e1efa859cc8b4388a4e5c06f2f4735202bbf5565a92ecc1d5a9af0ab9",
+      "lastIndexed": 1791981112117
+    },
+    "01 Cours/Électronique_numérique/Suite chap1, Électronique_numérique 2026-09-03.md": {
+      "contentHash": "119532d637818dc66655d5831a207ce498934049ef77b69e8d5ea1bd8d3fee2a",
+      "lastIndexed": 1791981112294
+    },
+    "01 Cours/Électronique_numérique/Suites portes logiques, Électronique_numérique 2026-09-10.md": {
+      "contentHash": "47e8d1cbf4fa5f73f87f0e5640edeb2b36e92621b17f3762e2a8d73ecef87583",
+      "lastIndexed": 1791981112385
+    },
+    "file_index.sync-conflict-20260921-104130-4HOQBA3.csv": {
+      "contentHash": "41d5eaae6272ebb92a91c1dec5f4ddcaacce80783e9522bf357f9113696978fb",
+      "lastIndexed": 1792001003637
+    },
+    "file_index.sync-conflict-20260912-124739-4HOQBA3.csv": {
+      "contentHash": "3a4c469867113d567426957f9bd2ee21b646d094ef7880343580533e66969840",
+      "lastIndexed": 1792001003721
+    },
+    "file_index.sync-conflict-20260905-211313-HMMSCX5.csv": {
+      "contentHash": "94fbb83c1f57102849b6296e49e9e339668a678483df3bad215e6736f8075c9e",
+      "lastIndexed": 1792001004324
+    },
+    "file_index.sync-conflict-20260914-200159-HMMSCX5.csv": {
+      "contentHash": "3322eb6f96a2e579129e56763b664f1fb719d2bc04edc9d570e7cf59e7a42090",
+      "lastIndexed": 1792001004511
+    },
+    "file_index.csv": {
+      "contentHash": "440bc29ad7b43c4329accede2214fa65c5117bf8ac77aaae55c9f1a568d2c737",
+      "lastIndexed": 1792009388530
+    },
+    "01 Cours/Optique_géometrique/Chapitres 1 2 3 , Optique géometrique 2026-10-14.md": {
+      "contentHash": "0c359882a82a79c7937f41ec3047846b8b1edaf1209396e3131c06debe8da5be",
+      "lastIndexed": 1792003009034
+    },
+    "02 Concepts/Thermodynamique/Système thermodynamique et milieu extérieur.md": {
+      "contentHash": "4b53772903a99f2119a5106bd01a46a88a25529d8eb10839057b9bfb4902a8f4",
+      "lastIndexed": 1792002903623
+    },
+    "02 Concepts/Thermodynamique/Variables d'état et équilibre thermodynamique.md": {
+      "contentHash": "a6935b9422aab6035f61f9932a27307da69db48d8b80a88c7aabd0b205b32eb5",
+      "lastIndexed": 1792002903374
+    },
+    "02 Concepts/Thermodynamique/Énergie interne et formes d'énergie.md": {
+      "contentHash": "ffe8fa27d5dbc25b664ae38f68b43fdb3700f8bc8ada77428ec09ae7b28cd2dc",
+      "lastIndexed": 1792002903200
+    },
+    "02 Concepts/Thermodynamique/Travail des forces de pression et transfert thermique.md": {
+      "contentHash": "470749981a25238f2b998822f5c0f4580210a1fe4541e64c3a60019513a35df0",
+      "lastIndexed": 1792002903769
+    },
+    "02 Concepts/Thermodynamique/Statique des fluides et poussée d'Archimède.md": {
+      "contentHash": "be017f93dad3b8eb66dd522a005d9f6c85cd665b41a68c8a492363944769decc",
+      "lastIndexed": 1792002907207
+    },
+    "02 Concepts/Thermodynamique/Modèle du gaz parfait, lois de Joule et relation de Mayer.md": {
+      "contentHash": "4742a738588809f1705513b45cd164856294ef6c3c58944cde4e2eb4f5bd7938",
+      "lastIndexed": 1792003655126
+    },
+    "02 Concepts/Thermodynamique/Détentes de Joule (Joule-Gay-Lussac et Joule-Thomson).md": {
+      "contentHash": "30f781cb899aea97148d5205b558b7cab625e644d63506b0a46cb02c8e532e73",
+      "lastIndexed": 1792002915426
+    },
+    "copilot/skills/openartifacts-publish/openartifacts-publish.cmd": {
+      "contentHash": "9df9f17bf91eb244c2c7923c886405ea578596cee35580e856971d5d14f17d50",
+      "lastIndexed": 1792002461990
+    },
+    "copilot/skills/openartifacts-publish/openartifacts-publish.ps1": {
+      "contentHash": "33460de7dd492cb5197b290058e743f200f7d477ef75343cbcb817647c334840",
+      "lastIndexed": 1792002462014
+    },
+    "copilot/skills/openartifacts-publish/openartifacts-publish.sh": {
+      "contentHash": "c0a5542d81096b54e703dcc4ef31aacefd82af5b1394f477eea4429917ae66ca",
+      "lastIndexed": 1792002462084
+    },
+    "copilot/skills/copilot-youtube-transcript/youtube-transcript.sh": {
+      "contentHash": "4fc40deb428031cdc267c10988faff2a39e3559b04820c83876c63824ecbfc76",
+      "lastIndexed": 1792002465921
+    },
+    "copilot/skills/copilot-fetch-x/fetch-x.sh": {
+      "contentHash": "6ce7b7c1a9882858a640ddeb9661188c14de82401489ac384a9fa69cbe73c89b",
+      "lastIndexed": 1792002468881
+    },
+    "copilot/skills/copilot-youtube-transcript/youtube-transcript.cmd": {
+      "contentHash": "d6d51708ec768a36daf9928383236ce66c75649989fa069285a34a552451a3b6",
+      "lastIndexed": 1792002469118
+    },
+    "copilot/skills/copilot-youtube-transcript/youtube-transcript.ps1": {
+      "contentHash": "25ed1143d0a146920e0a0fc0fa31f86db3bb0d5d32ea164360073441a98a1b0e",
+      "lastIndexed": 1792002469238
+    },
+    "copilot/skills/copilot-fetch-x/fetch-x.ps1": {
+      "contentHash": "27f621079e5e47b544de90c960284e27177a564794a796dfc3e1aeced91b0557",
+      "lastIndexed": 1792002472483
+    },
+    "copilot/skills/copilot-fetch-x/fetch-x.cmd": {
+      "contentHash": "c30a1d01c592e04b6d0b8d838b378f010854926d6d15fd50e97e5613bb92905e",
+      "lastIndexed": 1792002472704
+    },
+    "05 Ressources/Pièces jointes collées/Diagram.svg.xml": {
+      "contentHash": "e47d9a92cab419d7b711a27033621bf6355176e34231bf508013b06ead7e0b30",
+      "lastIndexed": 1792002477662
+    },
+    "05 Ressources/PDF exos cours/Exercices_info1.pdf": {
+      "contentHash": "3b26f41e5410787895b2a8348b05f4d6745a5e27971d2a5db4a62b0f2eb79ed2",
+      "lastIndexed": 1792002481955
+    },
+    "05 Ressources/PDF Cours physique/Test_28072026163553.pdf": {
+      "contentHash": "83cb1091e4d99bee0b09084c8ed2f04a8b01cdc9ce6e4e318680e8919ab49240",
+      "lastIndexed": 1792002482337
+    },
+    "05 Ressources/PDF Cours physique/Test_28072026163303.pdf": {
+      "contentHash": "6aaa8b3c35a46c595005dddb00fdbcf7dfccaa1aec4d4e74fb611045a60c6627",
+      "lastIndexed": 1792002487713
+    },
+    "05 Ressources/PDF Cours physique/Test_28072026163148.pdf": {
+      "contentHash": "514c5eb897f2a0cef2fa5bf75b7bdd6d0f11d8d831c6ac7ffd440dfc63bc78f6",
+      "lastIndexed": 1792002488011
+    },
+    "05 Ressources/PDF Cours physique/Test_28072026162311.pdf": {
+      "contentHash": "663c341731b331bc658f161834f9afdd0acaeb02cfd79ca7e907021a5c3a31cc",
+      "lastIndexed": 1792002488520
+    },
+    "05 Ressources/PDF Cours physique/Test_28072026162334.pdf": {
+      "contentHash": "206bb95824273d25191f8252be6d886f1940ce2397ba81918d6d61a6cad26956",
+      "lastIndexed": 1792002489855
+    },
+    "05 Ressources/PDF Cours physique/Test_28072026162730.pdf": {
+      "contentHash": "dbd9253b31bbdff67127722b509e3f58cd9c03f1b8fb203b558eb51eb891edc7",
+      "lastIndexed": 1792002491020
+    },
+    "05 Ressources/PDF Cours/TP N°3.pdf": {
+      "contentHash": "bad58ce0c6217a6c9d7c3c42666adfc4da0d886fa6fe42df515cecf9b56b2d38",
+      "lastIndexed": 1792002495740
+    },
+    "05 Ressources/PDF Cours/TP N°4 elen.pdf": {
+      "contentHash": "28bba913f0327e3d90d1e6259eef35e8454c6a3c30c501098f17e5b2e2718dfa",
+      "lastIndexed": 1792002496591
+    },
+    "05 Ressources/PDF Cours/TP N°2 elen.pdf": {
+      "contentHash": "209a9d7b64c858c3e84512a4e118e28bd7437e77ab4abfcbc7249d203818d631",
+      "lastIndexed": 1792002496729
+    },
+    "05 Ressources/PDF Cours/TP1_logique_cablee_CITISE.pdf": {
+      "contentHash": "dc73f2c9c0e27c1bc7dbf5c3d5757e1f7cbd3758cb79d46806c5987fc650be47",
+      "lastIndexed": 1792002497633
+    },
+    "05 Ressources/Prerequis_citise-rentree2026.pdf": {
+      "contentHash": "78bd539ee5309e2a41405be6d9e74efcd0e16a11c4d941c8db31e6fbdb954795",
+      "lastIndexed": 1792002498274
+    },
+    "02 Concepts/Thermodynamique/Entropie et bilan entropique.md": {
+      "contentHash": "d3ec44a7127e8aa8a8e9f990fcc1fb37bb7cb39b71d30b3271463605a32c7286",
+      "lastIndexed": 1792003662886
+    },
+    "05 Ressources/PDF Cours/Thermodynamique chapitre III le second principe.pdf": {
+      "contentHash": "a307c17637fca18994a2edf58831dfe1b0cc357faafc321f43625a273410ee6f",
+      "lastIndexed": 1792002502439
+    },
+    "05 Ressources/PDF Cours/TD1__Thermo_2627.pdf": {
+      "contentHash": "41f28b296cf2d870fb0606204c58b9239edd7e7ca46e31769a05a6a55bd62757",
+      "lastIndexed": 1792002502578
+    },
+    "05 Ressources/PDF Cours/SAÉ_1_Phase_05.pdf": {
+      "contentHash": "d53859ccde3a8df802b7c392701b6431768143587373f6e5f25cafb16bce20c2",
+      "lastIndexed": 1792002503066
+    },
+    "05 Ressources/PDF Cours/Si_cours_math_chap2.pdf": {
+      "contentHash": "39aab2840ca4fb09f0b2672fda2602df4992eabd126843f5ee079a8d64de3359",
+      "lastIndexed": 1792002504238
+    },
+    "05 Ressources/PDF Cours/TD2  Thermo 2627.pdf": {
+      "contentHash": "8e5b44d6e5a22e6684e01a58e77e3b5a3157d6b27979da7fdc39c6df4d82287a",
+      "lastIndexed": 1792002504380
+    },
+    "05 Ressources/PDF Cours/S1_cours_math_chap1.pdf": {
+      "contentHash": "2d74551562aa44b60a89c5654b5b18076f40bc8cef177ea1674ca5cd25ff0eaa",
+      "lastIndexed": 1792002509397
+    },
+    "05 Ressources/PDF Cours/SAÉ_1_Phase_04.pdf": {
+      "contentHash": "bb4a8f9824f2ca5380ba410a2a064862487e7fe0ea1b5591b17294a6c08dc179",
+      "lastIndexed": 1792002509445
+    },
+    "05 Ressources/PDF Cours/SAé Les appareils de mesure.pdf": {
+      "contentHash": "8dc4895bea433504b1e9edc7dfc8c94129f4b79eb3ba7d8d9841ff3673d1e837",
+      "lastIndexed": 1792002509868
+    },
+    "05 Ressources/PDF Cours/SAé_1_Phase_01-version corrigée etudiants.pdf": {
+      "contentHash": "196dca2525c6c679d09733930c5f0b690bd04289d9a76dd90cd1c3aa54ef51e3",
+      "lastIndexed": 1792002510623
+    },
+    "05 Ressources/PDF Cours/SAÉ_1_Phase_02_2023_2024.pdf": {
+      "contentHash": "b9785841bb5381a3195a2351262cd3e188b8c2a7de2166ffe8ae99cdfe12aa2d",
+      "lastIndexed": 1792002510957
+    },
+    "05 Ressources/PDF Cours/math chapitre 4 S1.pdf": {
+      "contentHash": "af9fe552df7e6efe2c96cec03140310a45171d451b8026397786aeeb84c1107c",
+      "lastIndexed": 1792002515574
+    },
+    "05 Ressources/PDF Cours/OPTIQUE GEOMETRIQUE I-II-III.pdf": {
+      "contentHash": "c26429ec6556b5773902676fb2e67f42a1b53ab40196729b6501ff49479f1cd5",
+      "lastIndexed": 1792002516335
+    },
+    "05 Ressources/PDF Cours/math_chapitre_3.pdf": {
+      "contentHash": "79e49c7550e8dd84c54ed43a72a9a3d09954c4d9ee52a44c1e6ce9b2ad3dc09e",
+      "lastIndexed": 1792002516509
+    },
+    "05 Ressources/PDF Cours/Principes de la thermodynamique chapitres I et II.pdf": {
+      "contentHash": "cbf6e1f5fdf83d3e3b4183fac36a09c7595ea26f992eae3146d6685e1bbfced6",
+      "lastIndexed": 1792002516542
+    },
+    "05 Ressources/PDF Cours/Info1_Slides.pdf": {
+      "contentHash": "2f0e68c931b8e72ff333d3b2ed20b46b688c8e75d1117a5da5e9a38ebd9e13ad",
+      "lastIndexed": 1792002524605
+    },
+    "02 Concepts/Thermodynamique/Calcul de la variation d'entropie.md": {
+      "contentHash": "eaa2fa0341ecff46d127bd897d23db6449793151b36c890b01438f823fe1d063",
+      "lastIndexed": 1792002914693
+    },
+    "05 Ressources/PDF Cours/diapo_CITISE_AutoSIN.pdf.jot.json": {
+      "contentHash": "451c9e6f9bac09e4d2030e59685a4c3fb447bd8df71f5c9c20d2aadd55f38d08",
+      "lastIndexed": 1792002527949
+    },
+    "05 Ressources/PDF Cours/Elen1 TP N°1.pdf": {
+      "contentHash": "28210fd9195ff1258069ef23f3b96629f30004caa23497a355b78dba950a8343",
+      "lastIndexed": 1792002529002
+    },
+    "05 Ressources/PDF Cours/Fascicule TD ELEN1 CITISE.pdf": {
+      "contentHash": "d86619708708e79a596b202381f9e3bfe7e2a708814f55b67073df35f6d1b31e",
+      "lastIndexed": 1792002529541
+    },
+    "05 Ressources/PDF Cours/Chapitre IV thermo.pdf": {
+      "contentHash": "fb43221a46ce1f66603f19a3adda850cd29d896ed0305a6bb79f5fc4aa080ca5",
+      "lastIndexed": 1792002530558
+    },
+    "05 Ressources/PDF Cours/diapo_CITISE_AutoSIN.pdf": {
+      "contentHash": "54d2617e71a685560dae5b6a34768abda76d5e0e41dddd341662254d5a77a709",
+      "lastIndexed": 1792002535253
+    },
+    "05 Ressources/LIbreoffice/COMPTE RENDU DE TP 2, mise en page + ajout des schéma.pdf": {
+      "contentHash": "2d882e8a3f9e7f569613a40ffbd11443c3b110f7a0aad869ad84f5b45858b0f6",
+      "lastIndexed": 1792002540417
+    },
+    "05 Ressources/LIbreoffice/COMPTE RENDU DE TP 3, mise en page + ajout des schéma.pdf": {
+      "contentHash": "28882358260823a5b1b836bbc2b05e8c4888c0ab28c75715ed6c491733849c77",
+      "lastIndexed": 1792002540513
+    },
+    "05 Ressources/DS années précédentes/Physique S2/Électrostatique/2026 - TD2 - Électrostat.pdf": {
+      "contentHash": "ecc184cefeff9b4b41df81825c8909fa144008d2b03f75b8948ac216bc71dae4",
+      "lastIndexed": 1792002542931
+    },
+    "05 Ressources/DS années précédentes/Physique S2/Électrostatique/2026 - TD1 - Électrostat.pdf": {
+      "contentHash": "b1923d12107d607628a73f390f7f15254267bec6f312ea221b14894d62a375d1",
+      "lastIndexed": 1792002547428
+    },
+    "05 Ressources/DS années précédentes/Physique S2/Électrostatique/2026 - Khôlles2 - 8 - Électrostat.pdf": {
+      "contentHash": "47b348537788b650fdafde27a69abcaf7f6ccbf98a8e0d5b1b4257b8f1abcbdf",
+      "lastIndexed": 1792002548089
+    },
+    "05 Ressources/DS années précédentes/Physique S2/Électrostatique/2026 - Khôlles2 - 7 - Électrostat.pdf": {
+      "contentHash": "9739215efac1a2bf597d4ca3c85b40cde29699129dba3970b73369e809fe3961",
+      "lastIndexed": 1792002548127
+    },
+    "05 Ressources/DS années précédentes/Physique S2/Électrostatique/2026 - Khôlles2 - 9 - Électrostat.pdf": {
+      "contentHash": "cf62be8bb67a50dfbfa10484441e9eabb9e4ca9973d3bad084d386947be81a19",
+      "lastIndexed": 1792002548389
+    },
+    "05 Ressources/DS années précédentes/Physique S2/Électrostatique/2026 - Khôlles1 - 8 - Électrostat.pdf": {
+      "contentHash": "a4f7b2d63b2c0ba20e94c8c0665775de4fe3a5d48b26097582b3ecb215ce358c",
+      "lastIndexed": 1792002549064
+    },
+    "05 Ressources/DS années précédentes/Physique S2/Électrostatique/2025 - DS2 - Électrostat.pdf": {
+      "contentHash": "958789211ab4d1605503ca9baae8faeb5bba4ccec37c05f2403ca11a1a011324",
+      "lastIndexed": 1792002554910
+    },
+    "05 Ressources/DS années précédentes/Physique S2/Électrostatique/2025 - DS1 - Électrostat.pdf": {
+      "contentHash": "838f7f5c94699c7125bde49ec43d3e408486fff27336e4c5b2cdfd40f41aa375",
+      "lastIndexed": 1792002555445
+    },
+    "05 Ressources/DS années précédentes/Physique S2/Électrostatique/2025 - TD1 - Électrostat.pdf": {
+      "contentHash": "81436f9aab1d8494b8173ee3a3e3a8f4c30ebd6fe7f63ec1de52a6e82ed56a0c",
+      "lastIndexed": 1792002556866
+    },
+    "05 Ressources/DS années précédentes/Physique S2/Électrostatique/2026 - DS1 - Électrostat.pdf": {
+      "contentHash": "fc5a090e9111d03700ece60a9f6949c0c4e745ca5c993a65effdea10c1520176",
+      "lastIndexed": 1792002557750
+    },
+    "05 Ressources/DS années précédentes/Physique S2/Électrostatique/2026 - DS2 - Électrostat.pdf": {
+      "contentHash": "b5d8e545a9b51e016a6cade0e1b4daf49aed1495998f7b8c9af90bf505e7efa1",
+      "lastIndexed": 1792002557788
+    },
+    "05 Ressources/DS années précédentes/Physique S2/Mécanique/TD2 - Méca.pdf": {
+      "contentHash": "633ff772302d9c7b16a8c002909553bd2d8aad02882d0fa185f81eee538a731b",
+      "lastIndexed": 1792002562383
+    },
+    "05 Ressources/DS années précédentes/Physique S2/Mécanique/TP - Méca.pdf": {
+      "contentHash": "74fa930ebd891e2fc241b457ebdd772af2308283ed1e8c07cefe8166c08613d9",
+      "lastIndexed": 1792002562909
+    },
+    "05 Ressources/DS années précédentes/Physique S2/Électrostatique/2024 - DS2 - Électrostat.pdf": {
+      "contentHash": "72f40c88b01966213d69c8ec442a18b1d76ae0276c0dd3ec3b29ec9f4ad2f211",
+      "lastIndexed": 1792002563001
+    },
+    "05 Ressources/DS années précédentes/Physique S2/Électrostatique/2024 - DS1 - Électrostat.pdf": {
+      "contentHash": "6ed2cc44e8d4d7ae5b7b2a9ea5bec0295c16c5cb7dcd14233cfce44a04cecffd",
+      "lastIndexed": 1792002563566
+    },
+    "05 Ressources/DS années précédentes/Physique S2/Électrostatique/2024 - TD1 - Électrostat.pdf": {
+      "contentHash": "6f3b34ca9e640b26cb0caef135de0304cc6aef6ec03dd4120fbb4a7efa65bd9c",
+      "lastIndexed": 1792002563665
+    },
+    "05 Ressources/DS années précédentes/Physique S2/Mécanique/TD1 - Méca.pdf": {
+      "contentHash": "aff6123c8880721f75be7a8f76216d7dcb8faf5b9b43c10e80c7ba655c9976c6",
+      "lastIndexed": 1792002568038
+    },
+    "05 Ressources/DS années précédentes/Physique S2/Mécanique/Formulaire - Méca.pdf": {
+      "contentHash": "8945c8bc59f162c6e300df24f4c652de9aad64e98b247b4bc49f683b4c7ca787",
+      "lastIndexed": 1792002572444
+    },
+    "05 Ressources/DS années précédentes/Physique S2/Mécanique/2026 - DS1 - Méca.pdf": {
+      "contentHash": "4ae5bb99479a463c5edd4fd677260ca8926a3a76e5fe55a6bf5389ed432f6654",
+      "lastIndexed": 1792002572498
+    },
+    "05 Ressources/DS années précédentes/Physique S2/Mécanique/2026 - DS2 - Méca.pdf": {
+      "contentHash": "4cdb24acab56de9a3b45b6accce84fcadbc5963b6d1f57de7034f1c75165c4ee",
+      "lastIndexed": 1792002573234
+    },
+    "05 Ressources/DS années précédentes/Physique S2/Mécanique/CM - Méca.pdf": {
+      "contentHash": "6f6563e6ce42fec3855e6b7fe2caa5fe710ab3d0a9b0910984fcb76cd9e71a61",
+      "lastIndexed": 1792002588077
+    },
+    "05 Ressources/DS années précédentes/Physique S1/Thermodynamique (TSE)/TD1 - Thermo (TSE).pdf": {
+      "contentHash": "1f716e01356e6602c87103b2805d96fc92b8fec23d73c15df04b8b8b2f6efd1b",
+      "lastIndexed": 1792002592272
+    },
+    "05 Ressources/DS années précédentes/Physique S1/Thermodynamique (TSE)/TD2 - Thermo (TSE).pdf": {
+      "contentHash": "f122eb980d0797c3ee55741ce11bcc8716acdb8c0e8b90a7bc0104d39664fa7a",
+      "lastIndexed": 1792002592412
+    },
+    "05 Ressources/DS années précédentes/Physique S2/Mécanique/2024 - DS1 - Méca.pdf": {
+      "contentHash": "adcd6d5bd0a3dffc179322ee98b48ef6b7f9eb9b3f9c4960d18c2c59a3444ea0",
+      "lastIndexed": 1792002592436
+    },
+    "05 Ressources/DS années précédentes/Physique S2/Mécanique/2025 - DS1 - Méca.pdf": {
+      "contentHash": "99b95dbca6ad72d3451f814892414618beeadffee0bea20712449bb309fb0d97",
+      "lastIndexed": 1792002592568
+    },
+    "05 Ressources/DS années précédentes/Physique S2/Mécanique/2025 - DS2 - Méca.pdf": {
+      "contentHash": "97b13f144dcf76db11c42057ff43b80b12d7e58adfa2f4551d797fbddd8537f9",
+      "lastIndexed": 1792002593513
+    },
+    "05 Ressources/DS années précédentes/Physique S1/Thermodynamique (TSE)/Formulaire - Thermo (TSE).pdf": {
+      "contentHash": "296622aa240ecab724b49a5db369753fdf43537d196f4064aaa8ef5ba080f253",
+      "lastIndexed": 1792002598244
+    },
+    "05 Ressources/DS années précédentes/Physique S1/Thermodynamique (TSE)/2025 - DS1 - Thermo (TSE).pdf": {
+      "contentHash": "686af507d9b1cb57f7933f2202bcb04f8b437ef1ffcf3bc7b4f4294de0f147e2",
+      "lastIndexed": 1792002599583
+    },
+    "05 Ressources/DS années précédentes/Physique S1/Thermodynamique (TSE)/2026 - DS1 - Thermo (TSE).pdf": {
+      "contentHash": "871f53d3feedbe33e62f2248014bf43dbc279b88880e17d93fad6461f229bf00",
+      "lastIndexed": 1792002600378
+    },
+    "05 Ressources/DS années précédentes/Physique S1/Thermodynamique (TSE)/2026 - DS2 - Thermo (TSE).pdf": {
+      "contentHash": "824117ade26d2b779ec8d5cfbde619458d7e6d2caf543a4d9eac1430def7c8e2",
+      "lastIndexed": 1792002600980
+    },
+    "05 Ressources/DS années précédentes/Physique S1/Thermodynamique (TSE)/CM - Thermo (TSE).pdf": {
+      "contentHash": "a0cb4edd18b7918dd348cb933859bd6e35e9c312b840a7b253f3102bc2b77259",
+      "lastIndexed": 1792002601071
+    },
+    "02 Concepts/Thermodynamique/Lois de Laplace (Transformations isentropiques).md": {
+      "contentHash": "7d9c5349bea508b906a2d37f7ef12be5d93366391cf61233769bb2d8d6f19e1f",
+      "lastIndexed": 1792002911438
+    },
+    "05 Ressources/DS années précédentes/Physique S1/Optique Géométrique (TSE)/TD2 - Optique (TSE).pdf": {
+      "contentHash": "2b28bc8907cb0696e434fd359bb6703ffa95a70ba993efe2ea8369fd26118496",
+      "lastIndexed": 1792002605535
+    },
+    "05 Ressources/DS années précédentes/Physique S1/Thermodynamique (TSE)/2024 - DS2 - Thermo (TSE).pdf": {
+      "contentHash": "c3ca481e149264c21f970909cb3964222af2eee134343c54148f4b34cd9c35ea",
+      "lastIndexed": 1792002607013
+    },
+    "05 Ressources/DS années précédentes/Physique S1/Thermodynamique (TSE)/2024 - DS1 - Thermo (TSE).pdf": {
+      "contentHash": "ceb0abc6536c262a6f788a4927cc5f8d6d2e22a95f138512cd825a6a4292fdfb",
+      "lastIndexed": 1792002607135
+    },
+    "05 Ressources/DS années précédentes/Physique S1/Thermodynamique (TSE)/2025 - DS2 - Thermo (TSE).pdf": {
+      "contentHash": "c1d7648a5440fcbf2860b9431fdfc588e4c82b8358b48d140cf01200a9f6b507",
+      "lastIndexed": 1792002607211
+    },
+    "05 Ressources/DS années précédentes/Physique S1/Optique Géométrique (TSE)/TP - Optique (TSE).pdf": {
+      "contentHash": "4031505242c5b3b922c2bcea90321693a99f42a310ffed14cbcd5b7d050e7b31",
+      "lastIndexed": 1792002607277
+    },
+    "05 Ressources/DS années précédentes/Physique S1/Optique Géométrique (TSE)/Formulaire - Optique (TSE).pdf": {
+      "contentHash": "9ea70dcf9cda2adabd353eec528a14d1b74b8c9c4f1e59b44e377e7abb72e41d",
+      "lastIndexed": 1792002611310
+    },
+    "05 Ressources/DS années précédentes/Physique S1/Optique Géométrique (TSE)/TD1 - Optique (TSE).pdf": {
+      "contentHash": "1b84bac769aa1eba0706faa1844634ceb120c3e232f6208c433747303113c405",
+      "lastIndexed": 1792002613010
+    },
+    "05 Ressources/DS années précédentes/Physique S1/Optique Géométrique (TSE)/2026 - DS1 - Optique (TSE).pdf": {
+      "contentHash": "adb8f987a6e50b839ec52489afa7ae6c5f944204765e7e0ecd7c4f157c169102",
+      "lastIndexed": 1792002614057
+    },
+    "05 Ressources/DS années précédentes/Physique S1/Optique Géométrique (TSE)/2026 - DS2 - Optique (TSE).pdf": {
+      "contentHash": "d1c0c389daef03564b6338a96b8b88dac00450027f798601a39a842cda1b7d2e",
+      "lastIndexed": 1792002614283
+    },
+    "05 Ressources/DS années précédentes/Physique S1/Optique Géométrique (TSE)/CM - Optique (TSE).pdf": {
+      "contentHash": "1bb422226a16c949bf0b211f06951f8eef5a206743e4cd4cadcb95f6ddcbc757",
+      "lastIndexed": 1792002615925
+    },
+    "05 Ressources/DS années précédentes/Physique S1/Optique Géométrique (TSE)/2025 - TD - Optique (TSE).pdf": {
+      "contentHash": "2a8d3dfc0e3fff5196d83d311c0db83f6ccd7761c0ddb45efb1a618fdcbb3db3",
+      "lastIndexed": 1792002620181
+    },
+    "05 Ressources/DS années précédentes/Physique S1/Optique Géométrique (TSE)/2025 - DS2 - Optique (TSE).pdf": {
+      "contentHash": "53984f63822f0bed64d4a49f8c50a3b33b968ad210f93491132b0803e67e9fd3",
+      "lastIndexed": 1792002620870
+    },
+    "05 Ressources/DS années précédentes/Physique S1/Optique Géométrique (TSE)/2024 - DS2 - Optique (TSE).pdf": {
+      "contentHash": "ecb3ec77a988245020408c696707a4c3f9b9d7565dbb6a81ab75dcd2f2bca1ab",
+      "lastIndexed": 1792002621181
+    },
+    "05 Ressources/DS années précédentes/Physique S1/Optique Géométrique (TSE)/2024 - DS1 - Optique (TSE).pdf": {
+      "contentHash": "241a4287013cd46f28aa892f396f0f0eb0232acb2a618375475fb04555682ee3",
+      "lastIndexed": 1792002621223
+    },
+    "05 Ressources/DS années précédentes/Physique S1/Optique Géométrique (TSE)/2025 - DS1 - Optique (TSE).pdf": {
+      "contentHash": "9a45b51a62e21e9e7716363dc6defcd358d00885c83df8ee986102e657411d0e",
+      "lastIndexed": 1792002621538
+    },
+    "05 Ressources/DS années précédentes/Mathématiques S2/Doc1 - Maths.pdf": {
+      "contentHash": "5052f6e250e4a43473be286fb95944b5b108c285d14bf0179aaa9fa07f1644b6",
+      "lastIndexed": 1792002625462
+    },
+    "05 Ressources/DS années précédentes/Mathématiques S2/2026 - Khôlles5 - 6 - Maths.pdf": {
+      "contentHash": "d4a190f677cacaf284b08ed84ebcca87c34e9b8ab64f105779ec77b250341f33",
+      "lastIndexed": 1792002626513
+    },
+    "05 Ressources/DS années précédentes/Mathématiques S2/TD2 - Cours - Maths.pdf": {
+      "contentHash": "60af5c2108fb7829643270d955fa529173593205bea661ae17e3deb05ff1f2ed",
+      "lastIndexed": 1792002627064
+    },
+    "05 Ressources/DS années précédentes/Mathématiques S2/2026 - TD2 - Khôlles - Maths.pdf": {
+      "contentHash": "dc29f34064cc8b3ef52bba80361c321f28452212bea81729002d4dbc7e38ed73",
+      "lastIndexed": 1792002627579
+    },
+    "05 Ressources/DS années précédentes/Mathématiques S2/Cours2 - Maths.pdf": {
+      "contentHash": "1b578b37e4a61a9b7ab677fa572c5713b1be22164cc77c1fea35c072bae1aeec",
+      "lastIndexed": 1792002633182
+    },
+    "05 Ressources/DS années précédentes/Mathématiques S2/2026 - Khôlles5 - 13 - Maths.pdf": {
+      "contentHash": "fc6c22c39f7f9b2cc57b80fab931d4fbd1469dc34de3c99ba624652b23dff894",
+      "lastIndexed": 1792002637202
+    },
+    "05 Ressources/DS années précédentes/Mathématiques S2/2026 - Khôlles5 - 28 - Maths.pdf": {
+      "contentHash": "e4416b396de134f8e702924a3f322a8bc70bc5775f2cc48c5cac50ecbc3f42b1",
+      "lastIndexed": 1792002637235
+    },
+    "05 Ressources/DS années précédentes/Mathématiques S2/2026 - Khôlles5 - 29 - Maths.pdf": {
+      "contentHash": "4dbbdafee87129e13f832c74dae6b2b4fd1ef262cb80fc95c2e6e751530afeb7",
+      "lastIndexed": 1792002637673
+    },
+    "05 Ressources/DS années précédentes/Mathématiques S2/2026 - DS6 - Maths.pdf": {
+      "contentHash": "f4783f7f0b72df5bab93f6ad808ea6965cf9f6a8a8a5414076c8c022c94de1e2",
+      "lastIndexed": 1792002638239
+    },
+    "05 Ressources/DS années précédentes/Mathématiques S2/2026 - Khôlles5 - 30 - Maths.pdf": {
+      "contentHash": "46adc2b7ed9a154b791616d8837fe866d2c172bd5e4a0c776f89ede3f8ade939",
+      "lastIndexed": 1792002638239
+    },
+    "05 Ressources/DS années précédentes/Mathématiques S2/2025 - DS4 - Maths.pdf": {
+      "contentHash": "c7fd62a001291a2c56025b6f7b1a6b793dc462cacdb8d55c0a11a4331c7a52cd",
+      "lastIndexed": 1792002642733
+    },
+    "05 Ressources/DS années précédentes/Mathématiques S2/2025 - DS6 - Maths.pdf": {
+      "contentHash": "3a20684188e9e49778dc172cbd9423a83b15bd3129ded3ed73cc38f350d9de52",
+      "lastIndexed": 1792002643151
+    },
+    "05 Ressources/DS années précédentes/Mathématiques S2/2025 - DS5 - Maths.pdf": {
+      "contentHash": "f8fc57de56ec37dba809da75187a5498dac1f504ca07f7a5c3584fd15c32a0e7",
+      "lastIndexed": 1792002643550
+    },
+    "05 Ressources/DS années précédentes/Mathématiques S2/2026 - DS5 - Maths.pdf": {
+      "contentHash": "995ac1e8fd4505c3d144f44cf92c9fd83614906e6a999a0ba368421a2b971716",
+      "lastIndexed": 1792002644862
+    },
+    "05 Ressources/DS années précédentes/Mathématiques S2/2026 - DS4 - Maths.pdf": {
+      "contentHash": "0d14d4be1028f2beb457fdaccc202ea4b9d708f2eb03c7755616354ba2d1fffd",
+      "lastIndexed": 1792002644941
+    },
+    "05 Ressources/DS années précédentes/Mathématiques S2/2024 - DS5 - Maths.pdf": {
+      "contentHash": "dfc22f7db5f07e9a4eb375ebc1106115000cffef35849d84f899eb2129d0b08a",
+      "lastIndexed": 1792002649587
+    },
+    "05 Ressources/DS années précédentes/Mathématiques S1/QCM - Maths.pdf": {
+      "contentHash": "43df185b3d6f28f39f8799433f5d24b478734bd0fb8df021cf620a058d100b57",
+      "lastIndexed": 1792002649839
+    },
+    "05 Ressources/DS années précédentes/Mathématiques S1/TD1 - Cours - Maths.pdf": {
+      "contentHash": "ca5c47af64af893453d4be5f9cfc6cb0d60ab3fb2962eed55403cae7c540c740",
+      "lastIndexed": 1792002650239
+    },
+    "05 Ressources/DS années précédentes/Mathématiques S2/2024 - DS4 - Maths.pdf": {
+      "contentHash": "3490261c3b57b59ec65429642d3d7147d1556c115598f91f6086ddee67da3a23",
+      "lastIndexed": 1792002650920
+    },
+    "05 Ressources/DS années précédentes/Mathématiques S1/QCM -  Corrigés - Maths.pdf": {
+      "contentHash": "dd7705a035cd91521a1c69a2ed5deb82924bab46e31dd591d0f3fd7f2bbee5d9",
+      "lastIndexed": 1792002651268
+    },
+    "05 Ressources/DS années précédentes/Mathématiques S1/2026 - TD1 - Khôlles - Maths.pdf": {
+      "contentHash": "d76e52431066b3ce42134eb4dbaf48b80f4f94ecab249acf6b3066ddedfd9995",
+      "lastIndexed": 1792002656549
+    },
+    "05 Ressources/DS années précédentes/Mathématiques S1/2026 - DS2 - Maths.pdf": {
+      "contentHash": "6386dc39115ccaaaa0e8056a0490742d9927cc2c703de5ef53c72ef74e70d665",
+      "lastIndexed": 1792002659531
+    },
+    "05 Ressources/DS années précédentes/Mathématiques S1/2026 - DS3 - Maths.pdf": {
+      "contentHash": "6f3b2a960106ec5049d3625db3a4fbd3237525a49b8e312ffc1973b639b28461",
+      "lastIndexed": 1792002659632
+    },
+    "05 Ressources/DS années précédentes/Mathématiques S1/2026 - DS1 - Maths.pdf": {
+      "contentHash": "83ae6a73198952410628ffe863e793082082e30ff5a803caf1a180cf2d2f2a5c",
+      "lastIndexed": 1792002660420
+    },
+    "05 Ressources/DS années précédentes/Mathématiques S1/CM1 - Maths.pdf": {
+      "contentHash": "a311e8548a785e919d9919193e002477d5cdd3fd5787e92ea6fd025c2802f5a8",
+      "lastIndexed": 1792002668657
+    },
+    "05 Ressources/DS années précédentes/Mathématiques S1/2025 - DS1 - Maths.pdf": {
+      "contentHash": "d98f0be6ab20180e91af620cfd1257bb8d0aaf96c0486359ff9bdfe131750d2b",
+      "lastIndexed": 1792002673220
+    },
+    "05 Ressources/DS années précédentes/Mathématiques S1/2025 - DS2 - Maths.pdf": {
+      "contentHash": "0eadb0be648877ddba07d18a940b342998369fc548f24cdd91ab864e37536983",
+      "lastIndexed": 1792002674832
+    },
+    "05 Ressources/DS années précédentes/Mathématiques S1/2024 - DS2 - Maths.pdf": {
+      "contentHash": "51b0413ea240ff7dc5c7559d63ca9d367a1a0195cffefc9afb3b7dc96308b038",
+      "lastIndexed": 1792002675117
+    },
+    "05 Ressources/DS années précédentes/Mathématiques S1/2025 - DS3 - Maths.pdf": {
+      "contentHash": "347c6c152dab26e514f04eeafa8687e1e33b74ad90eb65843fca13817fb0e002",
+      "lastIndexed": 1792002675900
+    },
+    "05 Ressources/DS années précédentes/Mathématiques S1/2024 - DS3 - Maths.pdf": {
+      "contentHash": "4b41a83947ebf7cb00cc0dbd53c39e642d4a96e19b2e6bca69063e6701147471",
+      "lastIndexed": 1792002676224
+    },
+    "05 Ressources/DS années précédentes/Français, orthographe/2026 - DS1 - Français.pdf": {
+      "contentHash": "2a5c66e72da33fdf52af056421a9ca61f950686591fb16da5de23e7664f453af",
+      "lastIndexed": 1792002680315
+    },
+    "05 Ressources/DS années précédentes/BUT1 GE2I/AutoSIN/TP3 - AutoSIN.pdf": {
+      "contentHash": "fb4c0a39388d1a7925cef263833fc3de9f6aeb37896153a846af03bcfc4b0784",
+      "lastIndexed": 1792002680525
+    },
+    "05 Ressources/DS années précédentes/Mathématiques S1/2023 - DS3 - Maths.pdf": {
+      "contentHash": "8c8f3f9c8cd5d4258796c56f9a1d654444afe9c53c29ad0c060096f2e2d5b812",
+      "lastIndexed": 1792002681106
+    },
+    "05 Ressources/DS années précédentes/Mathématiques S1/2024 - DS1 - Maths.pdf": {
+      "contentHash": "858094d06304f63850399025694ef305046f227421332abcf5db3d0afe995630",
+      "lastIndexed": 1792002681631
+    },
+    "05 Ressources/DS années précédentes/Français, orthographe/2026 - DS3 - Français.pdf": {
+      "contentHash": "a08918c1333e343d9ba34389762f9ebfc06db78909abfbf95eca19f3aef8f95f",
+      "lastIndexed": 1792002692774
+    },
+    "02 Concepts/Thermodynamique/Machines thermiques dithermes (Principes, conventions et bilans).md": {
+      "contentHash": "4d138e5ae1ff8fb6e2769a584861183e395976b40c23da2ad8a1af03f9a3b8c3",
+      "lastIndexed": 1792003574626
+    },
+    "05 Ressources/DS années précédentes/BUT1 GE2I/AutoSIN/TP2 - AutoSIN.pdf": {
+      "contentHash": "096d5b6852d14d900f6774f5cab9a6dd57f827e760688e9dd097bb83be6b20b4",
+      "lastIndexed": 1792002696905
+    },
+    "05 Ressources/DS années précédentes/BUT1 GE2I/AutoSIN/Doc2 - Périphériques - AutoSIN.pdf": {
+      "contentHash": "5a5027e07412ac4b2529f0a2bb1f767bab972b9f43f858731724d3fa2405bca6",
+      "lastIndexed": 1792002697225
+    },
+    "05 Ressources/DS années précédentes/BUT1 GE2I/AutoSIN/TD2 - Mystère- AutoSIN.pdf": {
+      "contentHash": "bc450ff0967414976c25fca47bacba456096dfc5faba818af157a89f74307dea",
+      "lastIndexed": 1792002697704
+    },
+    "05 Ressources/DS années précédentes/BUT1 GE2I/AutoSIN/TP1 - AutoSIN.pdf": {
+      "contentHash": "9c26328ddfe7051f4b5474bf7929e0a18e89380c9aafd98e2d0d7d8cfb14fc54",
+      "lastIndexed": 1792002697738
+    },
+    "05 Ressources/DS années précédentes/BUT1 GE2I/AutoSIN/TD1 - Mystère - AutoSIN.pdf": {
+      "contentHash": "951a62e6cfbfaba5babe6c708fdfbb9e0bbe0735e698833161e26868c83c01c3",
+      "lastIndexed": 1792002697856
+    },
+    "05 Ressources/DS années précédentes/BUT1 GE2I/AutoSIN/Doc1 - Aide outils - AutoSIN.pdf": {
+      "contentHash": "f0d42a972a36d1b5307550c3c42ce30690128d4ecac04a232d19bd16d58972a5",
+      "lastIndexed": 1792002701605
+    },
+    "05 Ressources/DS années précédentes/BUT1 GE2I/Info2/Doc2 - Carte developpement QG8 - Info.pdf": {
+      "contentHash": "5757cd5f737351a8960f58977593e7e137370574458c52795206ea969ca03ecd",
+      "lastIndexed": 1792002702279
+    },
+    "05 Ressources/DS années précédentes/BUT1 GE2I/AutoSIN/TD1 - AutoSIN.pdf": {
+      "contentHash": "086e24fe44ee9012b12b76d3ba5b6a4452e59445a90becaa3ef48355e302eeeb",
+      "lastIndexed": 1792002703756
+    },
+    "05 Ressources/DS années précédentes/BUT1 GE2I/AutoSIN/Cours - AutoSIN.pdf": {
+      "contentHash": "9f99efaeee3f840bc2eda3751a09cedd0b5c7ddf06a4b0f986a4b849dacca864",
+      "lastIndexed": 1792002706935
+    },
+    "05 Ressources/DS années précédentes/BUT1 GE2I/Info2/Doc1 - MC9S08QG8 - Info.pdf": {
+      "contentHash": "e022a348f911d5ab9f54bdb00e65460084f887d5d910cb59d5a515c8b975022d",
+      "lastIndexed": 1792002716026
+    },
+    "05 Ressources/Codes pour la programation/Info/Projet/fonctions.h": {
+      "contentHash": "00904e23e1da78e7309da04fdf9feef008ed34c069f80253c31054d2dac5f629",
+      "lastIndexed": 1792002720219
+    },
+    "05 Ressources/DS années précédentes/Anglais/2025 - DS1 - Anglais.pdf": {
+      "contentHash": "ee2e8f3cc079f0d5698b7fd5c893c93e16ce2c47781c77a0f20cf73d33015312",
+      "lastIndexed": 1792002722108
+    },
+    "05 Ressources/DS années précédentes/BUT1 GE2I/Info2/Cahier - TP - Info.pdf": {
+      "contentHash": "de2a2707b4dc367f38e5af2103ea1121ad0b21e014807958dd655571826f8322",
+      "lastIndexed": 1792002725203
+    },
+    "05 Ressources/DS années précédentes/BUT1 GE2I/Info2/Cours - Info.pdf": {
+      "contentHash": "e085edfc875530c26e548e5accf3e8d4fac26a6f2bac49248bf93daad32f4dd4",
+      "lastIndexed": 1792002725820
+    },
+    "05 Ressources/Codes pour la programation/Info/Fonctions utiles/distance/fonctions.h": {
+      "contentHash": "f176662e38bb603441ffe9c8c0b344ff6e25e0c42473ff0b029de8455bdabafa",
+      "lastIndexed": 1792002881023
+    },
+    "05 Ressources/Codes pour la programation/Info/Exercices/5.6/fonctions.h": {
+      "contentHash": "def76a2bd9eb2c95e3e8a39803088ed15e0101eb17366c461b57de6ae2f8a72d",
+      "lastIndexed": 1792002881039
+    },
+    "05 Ressources/Codes pour la programation/Info/Exercices/5.3/geometrie.h": {
+      "contentHash": "219c8ae3cfd1faee557f2e14bf5bbba514852ce59bb627607821395fbdecc9fa",
+      "lastIndexed": 1792002881276
+    },
+    "05 Ressources/Codes pour la programation/Info/Fonctions utiles/geometrie/geometrie.h": {
+      "contentHash": "759d8dd22c184cc231a51bceea99a4d0533901f3d59802aafbd88d3f510508c1",
+      "lastIndexed": 1792002881362
+    },
+    "05 Ressources/Codes pour la programation/Info/Exercices/Ex 5.1/d_atan/fonctions.h": {
+      "contentHash": "bce7708557df30132e7c2e61109e7c82c1f0b4a666823852ca7c626854018670",
+      "lastIndexed": 1792002881541
+    },
+    "05 Ressources/Codes pour la programation/Info/Exercices/5.2/TVA/fonction.h": {
+      "contentHash": "c42dcfcf8b88d4a956dcc050b5b660d40856c6e883dcc5a5341ab5ac3d85ff8d",
+      "lastIndexed": 1792002884530
+    },
+    "05 Ressources/Codes pour la programation/Info/Exercices/5.2/calcul_volume_sphère/fonctions.h": {
+      "contentHash": "646b7fe9b3454e4edeb9ce90a3a3a5315315d7503d891872f61e385cb56a624a",
+      "lastIndexed": 1792002884619
+    },
+    "05 Ressources/Codes pour la programation/Info/Exercices/5.4/fonctions.h": {
+      "contentHash": "4f50d00f3184e220f09498d15912f4d18ef482b51d7517319789e279a13b31ac",
+      "lastIndexed": 1792002884720
+    },
+    "05 Ressources/Codes pour la programation/Info/Exercices/Ex 5.1/g/fonctions.h": {
+      "contentHash": "cd1607552d13f8516274a1eaab4aa0f1032427f322da186c6c9d70e3ff5163cf",
+      "lastIndexed": 1792002884979
+    },
+    "05 Ressources/Codes pour la programation/Info/Exercices/Ex 5.1/Cel2Far(t)/fonctions.h": {
+      "contentHash": "e49198c89647a2c88790fa1037da01dfbe89ad358b0fbadf72cc30ab735af55c",
+      "lastIndexed": 1792002885209
+    },
+    "02 Concepts/Électronique_numérique/Représentations d'une fonction logique.md": {
+      "contentHash": "ceb6a1294265731a652022a7f97b631fd0fff068444d26ca1284f6d31f1ac680",
+      "lastIndexed": 1792002888069
+    },
+    "02 Concepts/Électronique_numérique/Conversions de bases  Décimal, Binaire et Hexadécimal.md": {
+      "contentHash": "3bd36e136b4d6bd0667ad3b03864e0c195dbdcfc29eaf7e797b6828358bd3fc5",
+      "lastIndexed": 1792002888071
+    },
+    "02 Concepts/Électronique_numérique/Portes logiques et algèbre de Boole.md": {
+      "contentHash": "17896bfc4a08a3d8655dd3b1ec7146bbb003f86fe7f773a6566e1d3de59fba3b",
+      "lastIndexed": 1792002888134
+    },
+    "02 Concepts/Électronique_numérique/Propriétés de l'algèbre de Boole.md": {
+      "contentHash": "ffa11ebec6daab32ad5f56b0e2aa821641e805461406f36ef9eae2da792d7d19",
+      "lastIndexed": 1792002888313
+    },
+    "02 Concepts/Électronique_numérique/Tableau de Karnaugh.md": {
+      "contentHash": "4f5747ad7b41fc77442609f21624203a88ed401dfeeda51d71c026560c30e08a",
+      "lastIndexed": 1792002888359
+    },
+    "02 Concepts/Physique/Transferts thermiques, résistance et loi de Newton.md": {
+      "contentHash": "4592df0c368abfc76114b58377f3ab1ae90fbbb6461f567c42e489e65b385ce7",
+      "lastIndexed": 1792002891958
+    },
+    "02 Concepts/Physique/Modèle du gaz parfait.md": {
+      "contentHash": "de46b2a963b76c90ed692e66e73151e36e4220ffb1ae2831b9fea34dfac77441",
+      "lastIndexed": 1792002892435
+    },
+    "02 Concepts/Physique/Poussée d'Archimède.md": {
+      "contentHash": "2406f70ab6c09e49b8c92b2c8d74280cc91857528ea999926346556ebe99dd8f",
+      "lastIndexed": 1792002892493
+    },
+    "02 Concepts/Physique/La lunette astronomique afocale.md": {
+      "contentHash": "fec65135917efc63c8d39bd3dc58656e533649a7a143a5be303bb12ec71b8fe1",
+      "lastIndexed": 1792002896220
+    },
+    "02 Concepts/Physique/Dynamique des fluides et relation de Bernoulli.md": {
+      "contentHash": "5a1a8eb5542b4c5f3145e791714abd97ea08f7198dd378a6b62de76ebff55559",
+      "lastIndexed": 1792002896432
+    },
+    "02 Concepts/Physique/Le condensateur et l'intensité du courant.md": {
+      "contentHash": "1ab43bd905a0054b2866d358c36f8229dd588a5556e1ab9d3961c3b3a905632d",
+      "lastIndexed": 1792002897112
+    },
+    "02 Concepts/Physique/Cinématique et Deuxième loi de Newton.md": {
+      "contentHash": "7c17da755f3dd069be9ec1687accaa16eac4ef6dcbe469e59e34e2fcc05def7e",
+      "lastIndexed": 1792002900331
+    },
+    "02 Concepts/Physique/Circuit RC - Charge et décharge.md": {
+      "contentHash": "8815163fecd0c06d305f4d89b725d988ef6f5d51b0adfa86c1ac3efdeabbc204",
+      "lastIndexed": 1792002900369
+    },
+    "02 Concepts/Thermodynamique/Mesure de pression et échelles de température.md": {
+      "contentHash": "8f36f749c9e0297bb50b6d56ddd9387b17aa3608a26114200653e2f0db052826",
+      "lastIndexed": 1792002906855
+    },
+    "02 Concepts/Thermodynamique/Moteurs thermiques usuels (Beau de Rochas, Diesel, Brayton).md": {
+      "contentHash": "aba73711cb745813e301965388df1cfa84b5d46245693a5d4d78eed1d5e8fefb",
+      "lastIndexed": 1792003528081
+    },
+    "02 Concepts/Thermodynamique/Le cycle de Carnot et rendement maximal.md": {
+      "contentHash": "30cb544be7be3f63b9bf71713b5d65ccf09905621b750e5d9a400701aa67ed48",
+      "lastIndexed": 1792003629856
+    },
+    "02 Concepts/Thermodynamique/Machines thermiques réceptrices et cycle de Rankine.md": {
+      "contentHash": "85cd34b5357c97b116132314968e8a506eb06974b2e171ae6a75cae354a7c49f",
+      "lastIndexed": 1792003600511
+    },
+    "02 Concepts/Thermodynamique/Calorimétrie et coefficients calorimétriques.md": {
+      "contentHash": "3dd3585750fb41acf6bd7471e21d5c717fa1a4066ddd2f840db357df58bb630b",
+      "lastIndexed": 1792002914066
+    },
+    "02 Concepts/Thermodynamique/Diagramme de Clapeyron.md": {
+      "contentHash": "5d0f2461f93393cad687d9f3115d5634bb3b143807887ab29dae4cea7c55e2eb",
+      "lastIndexed": 1792002914365
+    },
+    "02 Concepts/Thermodynamique/Comparaison des détentes isotherme et adiabatique.md": {
+      "contentHash": "671315fe616753eb03170af1ef9929b3f11ec6cf7aa33007105f513780e6eabe",
+      "lastIndexed": 1792002915140
+    },
+    "02 Concepts/Thermodynamique/0 Toutes les formules.md": {
+      "contentHash": "3089b1bfe7602524d7920f56b292397c4910d883bc0c9d4c2feedb0c3a057d1e",
+      "lastIndexed": 1792002918535
+    },
+    "02 Concepts/SAé/Instrumentation et appareils de mesure en électricité.md": {
+      "contentHash": "f92c88b27c00c5b4fb47afbf925b8081f88d550d6b80fb3c21888f62ee7e2fee",
+      "lastIndexed": 1792002918933
+    },
+    "02 Concepts/Math/Étude et propriétés des fonctions cosinus et sinus.md": {
+      "contentHash": "4e235657770ed53b62fcf791e817b6e753cdafe41a28a581bfa5ad63f725e9cc",
+      "lastIndexed": 1792002921681
+    },
+    "02 Concepts/Math/Équations polynomiales.md": {
+      "contentHash": "697472ddf79bf93c434bf7ff027d5a6dbd9cbb05691cc719729cef96cb4a1bcc",
+      "lastIndexed": 1792002921719
+    },
+    "02 Concepts/Math/Équations diophantiennes linéaires.md": {
+      "contentHash": "ae4aadf12b148a87ee90c8d69ef843ce6573a2123ba9459e7f5d927f58804579",
+      "lastIndexed": 1792002921736
+    },
+    "02 Concepts/Math/Équations et inéquations trigonométriques.md": {
+      "contentHash": "c99593f153fd9c956781d581d4bff3ba3b67639e3c3b1b7f67cd4618621417b6",
+      "lastIndexed": 1792002922009
+    },
+    "02 Concepts/Math/Vecteur normal et équation cartésienne d'un plan.md": {
+      "contentHash": "11cd43696fad2f83f79cf54fc09fd929aeb9ddcd35b814ae3dc24b5a9bea17fc",
+      "lastIndexed": 1792002924935
+    },
+    "02 Concepts/Math/Équations différentielles du premier ordre.md": {
+      "contentHash": "c7a5c920499013ec68d87545b715f883ca66404446345acfc03b9bcd354789ea",
+      "lastIndexed": 1792002925082
+    },
+    "02 Concepts/Math/Échantillons et sommes de variables aléatoires.md": {
+      "contentHash": "d3b9fa43fe11465d0e598a53339ebda30759e52b1e8a60e37957a60cae13d340",
+      "lastIndexed": 1792002925238
+    },
+    "02 Concepts/Math/Valeur absolue et inégalité triangulaire dans R.md": {
+      "contentHash": "90cee65b08e448e337259b505d315f15bec107e68cc29a6dce98712e428b2788",
+      "lastIndexed": 1792002925334
+    },
+    "02 Concepts/Math/Équations du second degré dans C.md": {
+      "contentHash": "5b26045f2f8a1ec2972ee77aaabd4fcae7dd4f8c2f68c15d89a539ffc5aee3a1",
+      "lastIndexed": 1792002926058
+    },
+    "02 Concepts/Math/Théorème du toit.md": {
+      "contentHash": "52c77faa3d3d9e6b5e6ee1af21acc220f5bb9d6f73de3a198551180d4b867eca",
+      "lastIndexed": 1792002928931
+    },
+    "02 Concepts/Math/Théorème du point fixe.md": {
+      "contentHash": "1991f49452b582963a3bf2e87e10d55cbd2d799bdc65d50d89d0414bea71e1e6",
+      "lastIndexed": 1792002928932
+    },
+    "02 Concepts/Math/Théorèmes de Bézout et de Gauss.md": {
+      "contentHash": "298d1adb0b9f142b402805a1b9b86bf72e4450a624de1eb35b83c998eda725d0",
+      "lastIndexed": 1792002928934
+    },
+    "02 Concepts/Math/Théorèmes de comparaison et d'encadrement pour les fonctions.md": {
+      "contentHash": "272d5c5e0b344601fd216bb7bc08a08d3d6215012d91bc08c5368dc0a1821138",
+      "lastIndexed": 1792002929070
+    },
+    "02 Concepts/Math/Triangle de Pascal.md": {
+      "contentHash": "af13e1d63fa9f47b4e92dcc43fe9b2f89616737255982f9212c98bfa63f672b5",
+      "lastIndexed": 1792002929562
+    },
+    "02 Concepts/Math/Théorème d'encadrement (des gendarmes).md": {
+      "contentHash": "cd9ed25bc2c9c421bb713f14b7a55a34d12e5d90022ba43e327e6f5aa8b5bf89",
+      "lastIndexed": 1792002932238
+    },
+    "02 Concepts/Math/Théorème des valeurs intermédiaires.md": {
+      "contentHash": "120bff42e9555b1f62ebbfc49c98ce43dfbfa76ec30b76a4218b2f2a97ee28fc",
+      "lastIndexed": 1792002932564
+    },
+    "02 Concepts/Math/Théorème de comparaison pour les suites.md": {
+      "contentHash": "828a2864a739fcc5fea86f62e7a10b486f4bb83c08004af627994844b7ad4ee9",
+      "lastIndexed": 1792002932675
+    },
+    "02 Concepts/Math/Suites.md": {
+      "contentHash": "6cd5c7e9afe9a946f1a774db3d66213fe907c8801a317f3489e2832e1aff8b32",
+      "lastIndexed": 1792002932862
+    },
+    "02 Concepts/Math/Théorie des ensembles et opérations de base.md": {
+      "contentHash": "acff39b896b06cf10a9059ba175df3e892dabf3a63a17af46afd26753de785a2",
+      "lastIndexed": 1792002932907
+    },
+    "02 Concepts/Math/Succession d'épreuves indépendantes et Schéma de Bernoulli.md": {
+      "contentHash": "b096df44068d8aaf787dfff7053ff7c2a75bcf57270cbcce7b53db083f2a7365",
+      "lastIndexed": 1792002935663
+    },
+    "02 Concepts/Math/Représentation paramétrique d'une droite.md": {
+      "contentHash": "6596222556d6a7182b9ca7cf20917698002a5e39cec7893db9fa99632d14792b",
+      "lastIndexed": 1792002935682
+    },
+    "02 Concepts/Math/Structure de R et densité de Q.md": {
+      "contentHash": "2dc022a5ad565f0ced7a6d1915047c1c18f55825411a439c0e9dc63c822d9019",
+      "lastIndexed": 1792002935854
+    },
+    "02 Concepts/Math/Suites majorées, minorées, bornées.md": {
+      "contentHash": "382966ad5972dd760b5f541e36a395b5fa6fc38dd48d8e82a367a019abb7aaba",
+      "lastIndexed": 1792002935966
+    },
+    "02 Concepts/Math/Sommes, changements d'indice et sommes télescopiques.md": {
+      "contentHash": "f14c4d878276eec9125da81a0d9752af379ac840d9f6b8aabb26f7be8ca2ede3",
+      "lastIndexed": 1792003303110
+    },
+    "02 Concepts/Math/Quantificateurs logiques.md": {
+      "contentHash": "eb90789ac011a40b280196b8c4a99d4b53a929e8f12bc0b08cdcc29487a99edc",
+      "lastIndexed": 1792002938687
+    },
+    "02 Concepts/Math/Propriétés et techniques du calcul intégral.md": {
+      "contentHash": "7b058451c678f320974c6f17511f0aba26a160c7b97a36b19c5b32fc294fe4c5",
+      "lastIndexed": 1792002938733
+    },
+    "02 Concepts/Math/Projection orthogonale et distance dans l'espace.md": {
+      "contentHash": "2cbac5e34501672262ad8b03eb2b685e46687a00592b3189cc35d06de7bdf3d2",
+      "lastIndexed": 1792002938881
+    },
+    "02 Concepts/Math/Représentation graphique de la bijection réciproque.md": {
+      "contentHash": "8cee2cf21b660686ede02ed5a1510fc10bac1b6a45e26b8853b23226436800e0",
+      "lastIndexed": 1792002939694
+    },
+    "02 Concepts/Math/Racines carrées d'un nombre complexe et équations du second degré.md": {
+      "contentHash": "eaf830a3f10815d6735db1e921eb8c820caa14621e99d78cb56c3fe146e2d453",
+      "lastIndexed": 1792002940205
+    },
+    "02 Concepts/Math/Principes additif et multiplicatif en dénombrement.md": {
+      "contentHash": "4002c74250cedcdd3163a91693796da06bf19df493c595cca2eb3f6f0e629743",
+      "lastIndexed": 1792002942668
+    },
+    "02 Concepts/Math/Produit scalaire dans l'espace.md": {
+      "contentHash": "869b1d8237982b81dfaec3957640e465c78b6d8ba7c4b16ef9f67606f8c12285",
+      "lastIndexed": 1792002942972
+    },
+    "02 Concepts/Math/Primitives d'une fonction.md": {
+      "contentHash": "5c8a2dde2d4a27665813a7a279ecd22325dadadbedf854e42134742b09a01967",
+      "lastIndexed": 1792002943103
+    },
+    "02 Concepts/Math/Principe de récurrence et bon ordre de N.md": {
+      "contentHash": "8262a186251534f88c40c9f4029b38fd36844ae36e60e6cea95620e6317c6836",
+      "lastIndexed": 1792002943218
+    },
+    "02 Concepts/Math/Produit cartésien et p-uplets.md": {
+      "contentHash": "fd6049ad50ee2e77eeb25944ea6bce368f078838e2eaa3e1b1995ac2f02b2fee",
+      "lastIndexed": 1792002943610
+    },
+    "02 Concepts/Math/Petit théorème de Fermat.md": {
+      "contentHash": "8c7d05866bc7bc63703959145592e41e74438f672e669a9f2a2e1e29c703c085",
+      "lastIndexed": 1792002946413
+    },
+    "02 Concepts/Math/PGCD et algorithme d'Euclide.md": {
+      "contentHash": "2ac55f731affc670ff2a96c8fbe15b3cb416397913ea38f0497d9ee7a3e138b4",
+      "lastIndexed": 1792002946425
+    },
+    "02 Concepts/Math/Point d'inflexion.md": {
+      "contentHash": "6fa30eec5267012c4e75296f85027f93e3a3ebced09db316706684bcc20a6d7c",
+      "lastIndexed": 1792002946512
+    },
+    "02 Concepts/Math/Orthogonalité et positions relatives dans l'espace.md": {
+      "contentHash": "7d093417b48a2743445c63ae4fdcc0613112bcc7ae7740c854ca06f00c648aef",
+      "lastIndexed": 1792002946991
+    },
+    "02 Concepts/Math/Positions relatives de deux droites dans l'espace.md": {
+      "contentHash": "71880cfab130c785748a819de7d33b1b2a390e1bf1ec3b6ed3c8438c6e11a2dc",
+      "lastIndexed": 1792002947644
+    },
+    "02 Concepts/Math/Nombres premiers.md": {
+      "contentHash": "a9c18bd2ef65dc57b0a3aef46d59991545a748bb56c18da52a9730b9551806a7",
+      "lastIndexed": 1792002950809
+    },
+    "02 Concepts/Math/Nombre dérivé et équation de la tangente.md": {
+      "contentHash": "4816f8667a8378c1849f161dfe244543c185de470d44b67a40acba48f8ad6261",
+      "lastIndexed": 1792002950841
+    },
+    "02 Concepts/Math/Notion d'intégrale et aire sous une courbe.md": {
+      "contentHash": "188fc87823b878aa75bb53899de57f306c3d5beca3d55a373f00de96a531313d",
+      "lastIndexed": 1792002950887
+    },
+    "02 Concepts/Math/Opérations sur les limites et formes indéterminées.md": {
+      "contentHash": "691287f611994baf0531c0219a8bd4918dbc98b80ea0d7a9f7c1a377f54b38ce",
+      "lastIndexed": 1792002951140
+    },
+    "02 Concepts/Math/Nombres complexes et forme algébrique.md": {
+      "contentHash": "4bd0d2a88242a3504db23de0453f6661c9871cf6050d1079b513b7949d0d838a",
+      "lastIndexed": 1792002951308
+    },
+    "02 Concepts/Math/Nombre de parties d'un ensemble.md": {
+      "contentHash": "dfdf6b176a98c4a3962991d70565fc9dc4223adcc915096abbc77c45bb3fc9d8",
+      "lastIndexed": 1792002954515
+    },
+    "02 Concepts/Math/Loi de Bernoulli.md": {
+      "contentHash": "6e3b31ed0c4abe1266acea6b9fca50d5f125d502d67c8d58990db5d417abbc40",
+      "lastIndexed": 1792002954778
+    },
+    "02 Concepts/Math/Modes de raisonnement mathématique.md": {
+      "contentHash": "48a4a1ccc6f3ac0034672e197fe300b8faf3d54eb6f677aece4df4992c6c06b4",
+      "lastIndexed": 1792002954892
+    },
+    "02 Concepts/Math/Majorants, minorants et bornes supérieure et inférieure dans R.md": {
+      "contentHash": "1bf3bfb813d05eb3f9a097c15fa38209b7b5ab0c8a74f861fac25ee1e0cb5e9d",
+      "lastIndexed": 1792002955150
+    },
+    "02 Concepts/Math/Matrices.md": {
+      "contentHash": "06a09d57987fdbfc9873930be5affc247219c996ae5fe2f69411812010352f36",
+      "lastIndexed": 1792002955320
+    },
+    "02 Concepts/Math/Loi binomiale.md": {
+      "contentHash": "940847ba9ec9262ae40256eeac04b12d17c3810bed1f6fd92789df8a779997ce",
+      "lastIndexed": 1792002957869
+    },
+    "02 Concepts/Math/Limites de fonctions et asymptotes.md": {
+      "contentHash": "5e073754ebec350e3aadd4efb90a013b32f0c665d42d77b5b8065844cd4aebe7",
+      "lastIndexed": 1792002958283
+    },
+    "02 Concepts/Math/Limite d'une suite.md": {
+      "contentHash": "e10c6899d52e2fb8f90bdb9c990ac1bd4a0e812dc6038bf7c5c6323d3ac175d5",
+      "lastIndexed": 1792002958337
+    },
+    "02 Concepts/Math/Logique mathématique et booléenne.md": {
+      "contentHash": "bad9b9e4f3b4f438d51317945227149f58585cd8aab98c57464adfb059a26771",
+      "lastIndexed": 1792002958413
+    },
+    "02 Concepts/Math/Limite d'une fonction composée.md": {
+      "contentHash": "50b76345c7310f1181eb454337ad49f038536f252ab048f0d2c268a232ed783f",
+      "lastIndexed": 1792002958654
+    },
+    "02 Concepts/Math/Injectivité, surjectivité et bijectivité.md": {
+      "contentHash": "db602bc80f0f011aad578c874b4747b87f34e81a3d3cef9871cf76e41b19db5b",
+      "lastIndexed": 1792002961565
+    },
+    "02 Concepts/Math/Lien entre intégrale et primitives.md": {
+      "contentHash": "fd6d6eefc6072040f2a3a7efbb89a47e9da8f29f3cd620768b5dff8ea0bd2f71",
+      "lastIndexed": 1792002961706
+    },
+    "02 Concepts/Math/Image directe et image réciproque.md": {
+      "contentHash": "38ca96b62c302b352462efa5f4d95042f73dddad90b58be903fd44690e095251",
+      "lastIndexed": 1792002961838
+    },
+    "02 Concepts/Math/Inégalité de concentration et loi des grands nombres.md": {
+      "contentHash": "652e0212e052f0d3e5eb5f5e20784a9b60dfb6f504a67ae96b8d378240623b37",
+      "lastIndexed": 1792002962095
+    },
+    "02 Concepts/Math/Inégalité de Bienaymé-Tchebychev.md": {
+      "contentHash": "0a05e77b5438795decf4ab1aa4f94d3f631245968b1ca4d1f616e35321b0ddd1",
+      "lastIndexed": 1792002962148
+    },
+    "02 Concepts/Math/Géométrie des nombres complexes.md": {
+      "contentHash": "8952bf022e9166d97e61869b4e6877fefd9c919fd9a230fbd84d36b87f13f794",
+      "lastIndexed": 1792002964866
+    },
+    "02 Concepts/Math/Fonction indicatrice.md": {
+      "contentHash": "a00c878e4fd164c854ae2417c747899aafcfafb66f964fb0842753e3b6dd9e55",
+      "lastIndexed": 1792002964880
+    },
+    "02 Concepts/Math/Ensembles finis, infinis et dénombrabilité.md": {
+      "contentHash": "462276e2f3a21474ee21c40e33f871dce8a11308a9ad73983ddd9a39509cc5d7",
+      "lastIndexed": 1792002965131
+    },
+    "02 Concepts/Math/Formules de De Moivre et racines n-ièmes.md": {
+      "contentHash": "e2d14a3a5a2bba45daf4a216469b02780c0c9147d85e9009f4ae12b7eb621ea1",
+      "lastIndexed": 1792002965192
+    },
+    "02 Concepts/Math/Forme exponentielle et formule d'Euler.md": {
+      "contentHash": "5e1b3535d6451fe3e2a83b839a8329b5539425fe680678aad1de84fa98b7eff7",
+      "lastIndexed": 1792002965369
+    },
+    "02 Concepts/Math/Dérivée, sens de variation et extrémums locaux.md": {
+      "contentHash": "21b19b8122bf7cd740aa6cf43e5fbc0fc958d38b423d7e63167a586c24d6739e",
+      "lastIndexed": 1792002968315
+    },
+    "02 Concepts/Math/Dérivation des fonctions composées et opérations.md": {
+      "contentHash": "6153eff871050d70dc3e47450b1822f9912b8b1e8f9c0d559c74bc2021232d23",
+      "lastIndexed": 1792002968772
+    },
+    "02 Concepts/Math/Fonction exponentielle et logarithme népérien.md": {
+      "contentHash": "c80f9cc0225ff8b423372f3b7c630599b688f07435bb91a283241bb0c417308c",
+      "lastIndexed": 1792002968836
+    },
+    "02 Concepts/Math/Divisibilité dans Z.md": {
+      "contentHash": "c5e3cc1350c0d4981823b58d8c96528410fa4d41fb9d915a7ae25a7249a5c2bb",
+      "lastIndexed": 1792002968984
+    },
+    "02 Concepts/Math/Ensemble des parties d'un ensemble.md": {
+      "contentHash": "d5edb57f5b5d835c1b7e151f8bd34ec993049e616236056929a2560ac052fdb8",
+      "lastIndexed": 1792002969161
+    },
+    "02 Concepts/Math/Division euclidienne dans Z.md": {
+      "contentHash": "dd322a6fb30f0db449327696ca3b96b0f2798c5aeab6a4adcf5b47c9950675a1",
+      "lastIndexed": 1792002972257
+    },
+    "02 Concepts/Math/Congruences.md": {
+      "contentHash": "8cf77778c0c363501f3c732aa5b3a1f8009924bdd6a1e78d3b0a5322f39928d7",
+      "lastIndexed": 1792002972266
+    },
+    "02 Concepts/Math/Continuité d'une fonction.md": {
+      "contentHash": "6528abb31466e40535b2dd9686e54d5b5e9fa4534ba55a47027e3070a16b3068",
+      "lastIndexed": 1792002972323
+    },
+    "02 Concepts/Math/Croissances comparées.md": {
+      "contentHash": "d2a9132f6e6d0f69fa98ad424c17e6d6d9a8344d6f587933a1168b4f218e02b1",
+      "lastIndexed": 1792002972551
+    },
+    "02 Concepts/Math/Convexité et concavité d'une fonction.md": {
+      "contentHash": "25a0422f11834e0cb7e3800a163363840e99ba330b2fa94eed02fc6d7e1d87d2",
+      "lastIndexed": 1792002972690
+    },
+    "02 Concepts/Math/Conjugué et module d'un nombre complexe.md": {
+      "contentHash": "80c0c9590d9ded7c6cf58204ebdbdf393a6d2af423edefd5684e14e40f2c77c9",
+      "lastIndexed": 1792002975853
+    },
+    "02 Concepts/Math/Cercle trigonométrique et angles remarquables.md": {
+      "contentHash": "1603e87cc0cb1903c3e33709fdf33074bce05f3c1b8c95d24b49fe21b9f401ca",
+      "lastIndexed": 1792002975920
+    },
+    "02 Concepts/Math/Composition d'applications et application identité.md": {
+      "contentHash": "1be3e9dfc7a110dc5ab3dc4fb9eed110c991f322cce4f22689d8a09392f1aa26",
+      "lastIndexed": 1792002975932
+    },
+    "02 Concepts/Math/Combinaisons et coefficients binomiaux.md": {
+      "contentHash": "8b404774bde6d819f8bbab7b152dbb22fee1ed7c0c360330936da923b618dda1",
+      "lastIndexed": 1792002976072
+    },
+    "02 Concepts/Math/Binôme de Newton.md": {
+      "contentHash": "09d958897ea0edd08c1b7520fd2ba8f0979d7723caf7343b3542de968ef4eece",
+      "lastIndexed": 1792002976169
+    },
+    "02 Concepts/Math/Applications, restrictions et prolongements.md": {
+      "contentHash": "c7be830da8554309d0ca7ba84868cc9d77dca3f2e1e57fb80cde2f8e25b4c2ea",
+      "lastIndexed": 1792002978933
+    },
+    "02 Concepts/Math/Argument et forme trigonométrique d'un nombre complexe.md": {
+      "contentHash": "911104ae27c10269c359223b6db7083f881f91e15588248a31dac240ef73cad4",
+      "lastIndexed": 1792002979067
+    },
+    "02 Concepts/Math/Bases et repères de l'espace.md": {
+      "contentHash": "9978b3c27bdca382743b3b3f3e2ed5779249035ff4110265bdf987ef36126bc6",
+      "lastIndexed": 1792002979175
+    },
+    "02 Concepts/Math/Arrangements et permutations.md": {
+      "contentHash": "ad27a9028bc7720ecc9ef1f32f6731fb9d325e6211dfd82b3aa911c3e0930fb6",
+      "lastIndexed": 1792002979239
+    },
+    "02 Concepts/Math/Application réciproque d'une bijection.md": {
+      "contentHash": "1ab877e94842e4ccecbf3110a02e80e1336ae5c047e042f8b971346433317eaa",
+      "lastIndexed": 1792002979660
+    },
+    "02 Concepts/Info/Types de données élémentaires.md": {
+      "contentHash": "10ad7db7529636bef06358b3d7d7cd8e4c7dc43b193965b00a19fa4ece668904",
+      "lastIndexed": 1792002982435
+    },
+    "02 Concepts/Info/Variables et constantes en C.md": {
+      "contentHash": "ae5f9fb7b7b9533c3d104ef451a648a71fbc422de6ecce954f00bc8f3c7dba0a",
+      "lastIndexed": 1792002982695
+    },
+    "02 Concepts/Info/Syntaxe et structure de base en C - C++.md": {
+      "contentHash": "618064955fc5b48611f4147ec5e2d40cd476d1074f995051219208b9ecdca9c8",
+      "lastIndexed": 1792003636655
+    },
+    "02 Concepts/Info/Fonctions et modularité en algorithmique.md": {
+      "contentHash": "5da0cda519861138ec82b12b338a69efc92c69e1645f993880d14d1b0061a6bf",
+      "lastIndexed": 1792002982764
+    },
+    "02 Concepts/Info/Syntaxe et structure en algorithmique.md": {
+      "contentHash": "ce99daacf5a12539d27b6b3b8b84b2c1b4f28a964e19d41a23828e75bd41cb8d",
+      "lastIndexed": 1792002982932
+    },
+    "02 Concepts/Méthodologie_scientifique/Méthodes d’apprentissage efficaces et fausses bonnes idées.md": {
+      "contentHash": "6e180b77e14eaf60469e66edb02b24b5c641972e73fcbd8200ccd108204cec22",
+      "lastIndexed": 1792002985745
+    },
+    "02 Concepts/Info/Fonctions et découpage fonctionnel en C++.md": {
+      "contentHash": "2c6c9bbbb1607c7cce46c848d57d6fbbf5624d2a076262329141d93cde78ea75",
+      "lastIndexed": 1792002985746
+    },
+    "02 Concepts/Méthodologie_scientifique/Usage critique des intelligences artificielles.md": {
+      "contentHash": "e59440d886d3aa0daf8937447c65579134535fefa90c817e3b578dd8394729b3",
+      "lastIndexed": 1792002985764
+    },
+    "02 Concepts/Méthodologie_scientifique/Techniques d'apprentissage et rappel actif.md": {
+      "contentHash": "348db22dcdb2ff9ae221b87f231a6abe72896516b379f8d0a19a3c8bc6421e6f",
+      "lastIndexed": 1792002986065
+    },
+    "02 Concepts/Méthodologie_scientifique/Rôle et responsabilité de l'ingénieur.md": {
+      "contentHash": "8480f45bb9312ada1d8c5de29afc375c0a12c67ca2f75915e24e4ec815655c5c",
+      "lastIndexed": 1792002986196
+    },
+    "02 Concepts/Elen1/Résistance électrique et loi d'Ohm.md": {
+      "contentHash": "7eb386d06fb05a691f3aa6bba8b30a15224a29ea6a6621fff28b7e3b73745683",
+      "lastIndexed": 1792002989218
+    },
+    "02 Concepts/Elen1/Théorème de superposition.md": {
+      "contentHash": "176e972e06b1c0ae5f2daa369d82776eb071647c7f6ed1432e2b9209475498b4",
+      "lastIndexed": 1792002989568
+    },
+    "02 Concepts/Méthodologie_scientifique/La démarche scientifique et réfutabilité.md": {
+      "contentHash": "49dd6c2d9732ee25266e02898b70c79e665093595fea21b85049521f138efeb1",
+      "lastIndexed": 1792002989583
+    },
+    "02 Concepts/Elen1/Types de régime en électicité.md": {
+      "contentHash": "2ac6dd3cabdf26fd3bbc05c31d601396c23e9cc68108c028ac83126442e8d032",
+      "lastIndexed": 1792002989786
+    },
+    "02 Concepts/Méthodologie_scientifique/Les 5 niveaux de savoir.md": {
+      "contentHash": "58c4af60b28fe79ce5031767a36f99dfe45c2253a2b1cb749591dd493d9bcf83",
+      "lastIndexed": 1792002990018
+    },
+    "02 Concepts/Elen1/Montages de base à Amplificateur Opérationnel (AOP).md": {
+      "contentHash": "0c35aceb0aa4c354683a8359dc887ada884e549e1ca5a96a1223f0299c20621f",
+      "lastIndexed": 1792002992956
+    },
+    "02 Concepts/Elen1/Lois fondamentales de l'électricité (Kirchhoff et Ohm).md": {
+      "contentHash": "c379495faa30be22000f829f85d2bbeabecc0b02f138984e9bd599bbf87c2011",
+      "lastIndexed": 1792002992977
+    },
+    "02 Concepts/Elen1/Méthode de résolution d'un circuit électrique.md": {
+      "contentHash": "ee5c35b0e1bfaeae51231935f161432a66f5762bd2b529d8b392626942b1ab6b",
+      "lastIndexed": 1792002993190
+    },
+    "02 Concepts/Elen1/Pont diviseur de tension.md": {
+      "contentHash": "ea033af7b55847c8384cd04d0917efb2555cdd6114bbc21d1c0957a55cb4b7d3",
+      "lastIndexed": 1792002993227
+    },
+    "02 Concepts/Elen1/Modèle et théorème de Thévenin.md": {
+      "contentHash": "309bd94cc9d2b9a7195b21c700fb6e5fc4aea48eb1266b36c7b8a9be6406f5a7",
+      "lastIndexed": 1792002993489
+    },
+    "02 Concepts/Elen1/Branchement en électricité.md": {
+      "contentHash": "e6a5db99fb5939450d630ea87eff8b13c7e0c41703e778d342177791301d4ad0",
+      "lastIndexed": 1792002996280
+    },
+    "02 Concepts/Elen1/Composants réactifs ; Condensateur et Inductance.md": {
+      "contentHash": "7a0999f628caaf34bcf28b711783ffc3d0604eb3a9b8b581718be618a0c8a65a",
+      "lastIndexed": 1792002996414
+    },
+    "02 Concepts/Elen1/Groupements de résistances (Série et Parallèle).md": {
+      "contentHash": "f559a6e8f5e83df495618b69396c730ced589ad927014b7e15c35ab859a06cc0",
+      "lastIndexed": 1792002996733
+    },
+    "02 Concepts/Elen1/Analyse indicielle et circuit RC du premier ordre.md": {
+      "contentHash": "8faf603d74c5789625ea9cf5605d666b08b66678d10d029ea9f865d339e2c468",
+      "lastIndexed": 1792002996841
+    },
+    "02 Concepts/Elen1/Conventions en électricité.md": {
+      "contentHash": "0028a3b2591e600888bd0bbd1c7a8652893b473ed9c48cb5890b4cadd24264ba",
+      "lastIndexed": 1792002996894
+    },
+    "01 Cours/Virtual Events.md": {
+      "contentHash": "c0e494cd338af880381a51625f3050da73141210eac52c8116bc53a4814edf5f",
+      "lastIndexed": 1792002999881
+    },
+    "02 Concepts/Elen1/Analyse harmonique et diagrammes de Bode.md": {
+      "contentHash": "0e781608def3d6505af92f63d80a4bf738fbd1f74b92612c570a3d948dcb7d82",
+      "lastIndexed": 1792003273583
+    },
+    "01 Cours/Thermodynamique/Suite TD2, Thermodynamique 2026-10-09.md": {
+      "contentHash": "7f57e15161e57a4103c1adc861d0b926191856745ac1bac79a974b5c028b11af",
+      "lastIndexed": 1792003002709
+    },
+    "01 Cours/SAé/Phase4 et 5, SAé 2026-10-13.md": {
+      "contentHash": "3e233cb39a6d4240fa70b56324a562bceb588a57ba5f1af76117cd9e3503ccd6",
+      "lastIndexed": 1792003003096
+    },
+    "01 Cours/SAé/Intro, SAé 2026-09-08.md": {
+      "contentHash": "155460cd0d440c7937716605dcfd0256134dc643ab18fdb8eb92725582da889b",
+      "lastIndexed": 1792003003149
+    },
+    "01 Cours/SAé/Proteus - interrupteurs - batteries - soudure , SAé 2026-09-15.md": {
+      "contentHash": "c99f5074ffd765f8194e98f1e04759728d859909767088e7b6ab89eeb8eff3b1",
+      "lastIndexed": 1792003003203
+    },
+    "01 Cours/SAé/Suite, SAé 2026-09-22.md": {
+      "contentHash": "78cd405c5ff2ac8078d5e5c180b418189acf36623b885b964c8162ba573c2229",
+      "lastIndexed": 1792003003394
+    },
+    "01 Cours/Thermodynamique/Suite chapitre 1 et 2, Thermodynamique 2026-09-09.md": {
+      "contentHash": "85edcebdf84525c22bbb1fc0de96e2a830749a8a9071665163b88bba3aaf6545",
+      "lastIndexed": 1792003006150
+    },
+    "01 Cours/Thermodynamique/Exos en TD, Thermodynamique 2026-09-11.md": {
+      "contentHash": "3e0436bfd6dce3905862c027dcca716b8cb898964f550ebfe7b09039e47eda35",
+      "lastIndexed": 1792003006164
+    },
+    "01 Cours/Thermodynamique/Chapitre III le second principe de la Thermodynamique, Thermodynamique 2026-09-16.md": {
+      "contentHash": "07a668ca5b0d0a9c41ea4fff630d3b78fd3618fe096557beacb8034458233d55",
+      "lastIndexed": 1792003006179
+    },
+    "01 Cours/Thermodynamique/entropie en TD, Thermodynamique 2026-10-02.md": {
+      "contentHash": "0b17a2ccb04c1d8441fa281f36945630cdf79f26b48cce7e0c36c799a0ddf421",
+      "lastIndexed": 1792003006350
+    },
+    "01 Cours/Thermodynamique/Intro à la Thermodynamique, Thermodynamique 2026-09-04.md": {
+      "contentHash": "d3de3945acecea7128279efa5aa66ddcf09beb504599a25ba54cced4707a6ed2",
+      "lastIndexed": 1792003006369
+    },
+    "01 Cours/Thermodynamique/chapitre 4 , Thermodynamique 2026-09-30.md": {
+      "contentHash": "372a26e5689469bc852a6bcd88d32aade5f138695271bb984f01465ce9cb0705",
+      "lastIndexed": 1792003009222
+    },
+    "01 Cours/Méthodologie_scientifique/duck.ai_2026-09-28_20-37-31 1.md": {
+      "contentHash": "281055828990636e9da30d589c6aaef9a09dfe222c9bec102182c07f0cf843ed",
+      "lastIndexed": 1792003009241
+    },
+    "01 Cours/Méthodologie_scientifique/chat.txt": {
+      "contentHash": "281055828990636e9da30d589c6aaef9a09dfe222c9bec102182c07f0cf843ed",
+      "lastIndexed": 1792003009362
+    },
+    "01 Cours/Méthodologie_scientifique/résolution des exercices et analyse critique de l'IA.pdf": {
+      "contentHash": "7fb46e142672d00d2d45c23cd0c5d21badb2f7ffce61f8d880b4cb03734cf130",
+      "lastIndexed": 1792003010748
+    },
+    "01 Cours/Méthodologie_scientifique/Intro, Méthodologie_scientifique 2026-09-02.md": {
+      "contentHash": "3efc7c7c3358f29af5473ebe1d6afffc390a23aab032cd11f773d8c6af28024e",
+      "lastIndexed": 1792003013464
+    },
+    "01 Cours/Méthodologie_scientifique/r_solution_td_applications_et_bijections.md": {
+      "contentHash": "e07259b384f7875342b2f502c4afe58bdebb74893f0872f4266c22cf83725f41",
+      "lastIndexed": 1792003013714
+    },
+    "01 Cours/Math/Suite chatpitre II et chapitre III, Math 2026-09-16.md": {
+      "contentHash": "63ffcc1eb53a2ff645c1424126f50b5e788799eb73617ae963b4016180f8fff9",
+      "lastIndexed": 1792003013839
+    },
+    "01 Cours/Math/Suite des raisonnement et Ensembles, Math 2026-09-04.md": {
+      "contentHash": "df94b087ec70baa3b72de40d0d328ee9890b2027d2862babf0e35cdb5ec21808",
+      "lastIndexed": 1792003014116
+    },
+    "01 Cours/Méthodologie_scientifique/Apprendre à apprendrer, Méthodologie_scientifique 2026-09-04.md": {
+      "contentHash": "51de2461db10ea75d321d97a34c6d6a8642a1026ee808018715c65f1ba6d4e54",
+      "lastIndexed": 1792003014727
+    },
+    "01 Cours/Math/Intro-Logique et raisonnement mathématiques, Math 2026-09-02.md": {
+      "contentHash": "f10fdd26f9a65b173bd6f0863586a337360d43f71f3528a8e5d5620838b8f5d1",
+      "lastIndexed": 1792003017506
+    },
+    "01 Cours/Math/Chapitre 3 Nombres complexes, Math 2026-09-23.md": {
+      "contentHash": "7646692bb79c3df49a664049adec1d234e70fff8f07317b1e8a52bca34914a0b",
+      "lastIndexed": 1792003017532
+    },
+    "01 Cours/Math/chapitre 4 les sommes, Math 2026-10-07.md": {
+      "contentHash": "e7c6e098a4ab255ff515d574519ccc8df262b9feb5c322b69ce79c8411526f14",
+      "lastIndexed": 1792003017825
+    },
+    "01 Cours/Math/r_solution_td_applications_et_bijections.md": {
+      "contentHash": "36dff6c6106d1132bbcdf3bea23338611a2640936676ed8d465fbbd999d57d5d",
+      "lastIndexed": 1792003017987
+    },
+    "01 Cours/Math/ensemble chapitre 2, Math 2026-09-09.md": {
+      "contentHash": "36df90d7614572edf39d3e1115d89427fb8908aa321d53055d7ef5ecbc4aa6db",
+      "lastIndexed": 1792003019022
+    },
+    "01 Cours/Info/Visionnage de la vidéo, Info 2026-09-02.md": {
+      "contentHash": "6f714013e5769f370b4ff9359495a32197b7b9a4b1a890b4db838b67a4f48d7d",
+      "lastIndexed": 1792003021755
+    },
+    "01 Cours/Info/Video L'anaylse de cas, Info 2026-10-11.md": {
+      "contentHash": "523a58252dcc41a01e4b865ea13d26203b7a8eb9b0b64ca9d7392336d1484111",
+      "lastIndexed": 1792003022107
+    },
+    "01 Cours/Info/Visionnage vidéo chap3, Info 2026-09-09.md": {
+      "contentHash": "561baed4aacb26b49dd595b07cfc797caef3347928a7343efeaf82d83a2f7bb4",
+      "lastIndexed": 1792003022411
+    },
+    "01 Cours/Info/suite algo et exos, Info 2026-09-07.md": {
+      "contentHash": "62a905f13b3bf38ec589ec5f0adea096218128970377699cc9fc9fac2094cbe2",
+      "lastIndexed": 1792003022412
+    },
+    "01 Cours/Info/Visionnage vidéo chapitre 4, Info 2026-09-20.md": {
+      "contentHash": "a622c5371e797ae737c1a5271f49ecb4d1f43c461a212948a804b5827cb5b419",
+      "lastIndexed": 1792003022529
+    },
+    "01 Cours/Info/Dessin carré et exos,  2026-09-07.md": {
+      "contentHash": "a11c4d7fa257694b6fda983036322479cea0f3ab2bd7235389b108567f0a56ee",
+      "lastIndexed": 1792003025161
+    },
+    "01 Cours/Info/Exos chapitre 3, Info 2026-09-14.md": {
+      "contentHash": "3800860e67fc431cda8617442c55ae525e92ad727dc64f8ab404042f4dad1dfd",
+      "lastIndexed": 1792003025187
+    },
+    "01 Cours/Info/Intro au C, Info 2026-09-21.md": {
+      "contentHash": "2130eb8f1bc6add45c22f37adf35e6842db7f552d0549d95e40bbd385fa1a4ec",
+      "lastIndexed": 1792003025188
+    },
+    "01 Cours/Info/Intro à l'algo et au language C, Info 2026-09-01.md": {
+      "contentHash": "3bb7b24288b71c39a1548c2f6093c27fdf148e0ccad86a3287c453f31361628d",
+      "lastIndexed": 1792003026021
+    },
+    "01 Cours/Info/Les fonctions, Info 2026-09-10.md": {
+      "contentHash": "f7ef3522a4429d5f1fdbaa870330b6b685734e4e81d9d0e2dfd9bba3dfb4520e",
+      "lastIndexed": 1792003026279
+    },
+    "01 Cours/Elen1/Théorème de superposition, Elen1 2026-09-15.md": {
+      "contentHash": "e668b65478c44d448ae9556b12b5727a049afcf7b86e48a7d2e012bcd520deb8",
+      "lastIndexed": 1792003028958
+    },
+    "01 Cours/Elen1/Prépatation TP3, Elen1 2026-10-07.md": {
+      "contentHash": "8de53d03ea8e6839bbfd52387a1b9ca3bed776eeeac1f26a097629ff562a3a22",
+      "lastIndexed": 1792003029070
+    },
+    "01 Cours/Elen1/préparation tp4, Elen1 2026-10-12.md": {
+      "contentHash": "9761c5a49729210654b9fa916c6e1868b79a9534bad0eca4e1c10050eab1e39f",
+      "lastIndexed": 1792003029278
+    },
+    "01 Cours/Elen1/TP1 Matéo BESQUEUT Maxime BRUEL , Elen1 2026-09-29.md": {
+      "contentHash": "53af19bbece5cac90d9ef70435a5ca170b2297efab0cfeaad0f3686603254081",
+      "lastIndexed": 1792003029280
+    },
+    "01 Cours/Elen1/Suites exos, Elen1 2026-09-22.md": {
+      "contentHash": "c3c4d4218f9c029f37206d07c344fb63798d6f37f52d3bf8811f00eb3615a963",
+      "lastIndexed": 1792003029321
+    },
+    "01 Cours/Elen1/Les filtres actifs, Elen1 2026-10-13.md": {
+      "contentHash": "148363002ff387c4800a6d23735dd2a91d5b25b06788a58c91eaf158129398bb",
+      "lastIndexed": 1792003031854
+    },
+    "01 Cours/Elen1/Intro Cm1-Types de régime en électicité, Elen1 2026-09-01.md": {
+      "contentHash": "66164450cebd7b9fa12a130b2c6f73dd86aa94cefbad9ee284803540fbe0b3d3",
+      "lastIndexed": 1792003031864
+    },
+    "01 Cours/Elen1/Pont diviseur-Générateur et résistance Thévenin, Elen1 2026-09-14.md": {
+      "contentHash": "687bd22199007e8fe5a32f54f848aa5e19589006911d6198f3adc3d1baa9b1bb",
+      "lastIndexed": 1792003032159
+    },
+    "01 Cours/Elen1/Préparation TP1, Elen1 2026-09-17.md": {
+      "contentHash": "69918296c64e00441aae683f8b44bcb4f8114138374ac1b77ca59f51ea4a73e3",
+      "lastIndexed": 1792003032375
+    },
+    "01 Cours/Elen1/Préparation TP2, Elen1 2026-10-03.md": {
+      "contentHash": "c70ad58141eead1574ae7dcd9cff805b24cd3398870ba71b1221b8e9baa19a7d",
+      "lastIndexed": 1792003032579
+    },
+    "01 Cours/Elen1/CM2, Elen1 2026-09-07.md": {
+      "contentHash": "da50b9dcb795714f07bdc86d42f17076a81910a9902b8147f18a92c967dfc662",
+      "lastIndexed": 1792003035271
+    },
+    "01 Cours/Elen1/Exercices sur les lois générales d'électricité, Elen1 2026-09-03.md": {
+      "contentHash": "5c80ab00cb0af594ff1e244abed150863f7db5b36743a3b89362b16d81ac189e",
+      "lastIndexed": 1792003035613
+    },
+    "01 Cours/Elen1/Exos RC en td, Elen1 2026-09-21.md": {
+      "contentHash": "c6d27a956c1e0b0965adab24e88a5bdd712231f7a4ff1fe2e2b1037c5702782e",
+      "lastIndexed": 1792003035675
+    },
+    "01 Cours/Elen1/exos sur l'aop, Elen1 2026-10-01.md": {
+      "contentHash": "f882947856e66b2bcc26d297fcde76cbfec9f36b596ef2bfdab11f4487b87da4",
+      "lastIndexed": 1792003035757
+    },
+    "01 Cours/Elen1/Exos et cours sur les mailles et les noeuds, Elen1 2026-09-07.md": {
+      "contentHash": "ae2150059b9067911e460b30db59c1fa21a37f19f22fd26751ce6d2557675574",
+      "lastIndexed": 1792003035767
+    },
+    "01 Cours/Elen1/Analyse harmonique, Elen1 2026-10-06.md": {
+      "contentHash": "3a9f0e901ab0cb95eaf2821cb7f58a77ef17521c0b9410b223e165c0d597dd0b",
+      "lastIndexed": 1792003038473
+    },
+    "01 Cours/Elen1/Analyse harmonique, Elen1 2026-10-08.md": {
+      "contentHash": "d02dc474597f529f6f420f0d670a03d896bfdf27f96afe097dc78254879ffca8",
+      "lastIndexed": 1792003038760
+    },
+    "01 Cours/Elen1/CM condensateurs inductances et Analyse indicielle, Elen1 2026-09-21.md": {
+      "contentHash": "c10de4c858fc63fb1840e3b15a358a564673918cc0ba767025c07325d35a97be",
+      "lastIndexed": 1792003038799
+    },
+    "01 Cours/Elen1/Amplificateur opérationnel ou AOP, Elen1 2026-09-28.md": {
+      "contentHash": "be7238128486e07d529ca302e64e73cb1732e0f0fe187626abbcb5ae46c2b3d9",
+      "lastIndexed": 1792003038801
+    },
+    "01 Cours/Elen1/Analyse harmonique suite, Elen1 2026-10-12.md": {
+      "contentHash": "1135071e2783aac854a53f21546905af19ca0eaa69b867720c30917086ab67c4",
+      "lastIndexed": 1792003039157
+    }
+  },
+  "indexingInProgress": false,
+  "lastIndexedFile": "01 Cours/Elen1/Analyse harmonique suite, Elen1 2026-10-12.md"
+}

@@ -16,6 +16,25 @@ Ressources:
 
 > [!info] Définition courte
 > La **calorimétrie** est l'ensemble des techniques expérimentales et théoriques de mesure des transferts thermiques $Q$, s'appuyant sur les capacités thermiques et les coefficients thermodynamiques des corps.
+```dataviewjs
+const currentFile = app.workspace.getActiveFile();
+const cache = app.metadataCache.getFileCache(currentFile);
+
+if (cache && cache.headings) {
+    let toc = "";
+    for (let h of cache.headings) {
+        // Optionnel : ignorer le tout premier titre niveau 1 si c'est le titre de la note
+        if (h.level === 1) continue;
+        
+        // Calcul de l'indentation selon le niveau du titre (h2, h3, etc.)
+        const indent = "    ".repeat(h.level - 2);
+        toc += `${indent}- [[#${h.heading}|${h.heading}]]\n`;
+    }
+    dv.paragraph(toc);
+} else {
+    dv.paragraph("Aucun titre trouvé dans cette note.");
+}
+```
 
 
 ## 1. Transfert thermique et capacité thermique
@@ -37,7 +56,7 @@ $$\delta Q = C \, dT$$
 ## 2. Bilan calorimétrique
 
 Pour un système fermé adiabatique (ou isolé) subissant un échange thermique entre plusieurs sous-systèmes sans travail mécanique ($W = 0$) ::$$\sum Q_i = 0$$
-<!--SR:!2026-10-16,8,170-->
+<!--SR:!2026-11-08,19,190-->
 
 - *Exemple avec un calorimètre de capacité $C_{\text{cal}}$ contenant une masse $m_1$ d'eau à $\theta_1$ mélangée à une masse $m_2$ d'eau à $\theta_2$* :
   $$(m_1 c_{\text{eau}} + C_{\text{cal}})(\theta_F - \theta_1) + m_2 c_{\text{eau}} (\theta_F - \theta_2) = 0$$
@@ -50,7 +69,7 @@ Pour une transformation infinitésimale décrivant la variation de deux variable
 - **En variables $(T, V)$** :  $$\delta Q = C_V \, dT + l \, dV$$
 - **En variables $(T, P)$** :  $$\delta Q = C_P \, dT + h \, dP$$
 $C_V$, $C_P$, $l$ (chaleur latente de dilatation) et $h$ (chaleur latente de compression) sont appelés les **coefficients calorimétriques**.
-<!--SR:!2026-10-20,17,250-->
+<!--SR:!2026-12-18,59,270-->
 
 
 ## Concepts liés

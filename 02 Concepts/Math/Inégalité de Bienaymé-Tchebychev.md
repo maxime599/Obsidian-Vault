@@ -15,6 +15,25 @@ date_creation: 2026-07-27
 
 > [!info] Définition courte
 > L'**inégalité de Bienaymé-Tchebychev** permet de majorer la probabilité qu'une variable aléatoire $X$ s'écarte de son espérance $E(X)$ d'une valeur supérieure ou égale à une distance $\delta > 0$, connaissant uniquement sa variance $V(X)$.
+```dataviewjs
+const currentFile = app.workspace.getActiveFile();
+const cache = app.metadataCache.getFileCache(currentFile);
+
+if (cache && cache.headings) {
+    let toc = "";
+    for (let h of cache.headings) {
+        // Optionnel : ignorer le tout premier titre niveau 1 si c'est le titre de la note
+        if (h.level === 1) continue;
+        
+        // Calcul de l'indentation selon le niveau du titre (h2, h3, etc.)
+        const indent = "    ".repeat(h.level - 2);
+        toc += `${indent}- [[#${h.heading}|${h.heading}]]\n`;
+    }
+    dv.paragraph(toc);
+} else {
+    dv.paragraph("Aucun titre trouvé dans cette note.");
+}
+```
 
 
 ## Explication intuitive

@@ -19,7 +19,6 @@ FROM "01 Cours"
 WHERE !completed
 GROUP BY regexreplace(file.folder, ".*/", "")
 ```
-Math : tranformer en concept
 
 
 # Derniers concepts vus aujourd'hui

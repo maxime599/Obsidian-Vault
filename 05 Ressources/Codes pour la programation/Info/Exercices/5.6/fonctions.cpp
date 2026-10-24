@@ -1,3 +1,4 @@
+//g++ main.cpp fonctions.cpp '../../Fonctions utiles/geometrie/geometrie.cpp' -o output/mon_programme
 #include<cmath>
 #include<iostream>
 using namespace std;

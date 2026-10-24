@@ -9,7 +9,8 @@ const matieres = [
   "Physique",
   "Thermodynamique",
   "Anglais",
-  "SAé"
+  "SAé",
+  "Optique_géometrique"
 ];
 
 const dossiers = [
@@ -21,7 +22,8 @@ const dossiers = [
   "07 MOC/Concepts/Physique",
   "07 MOC/Concepts/Thermodynamique",
   "07 MOC/Concepts/Anglais",
-  "07 MOC/Concepts/SAé"
+  "07 MOC/Concepts/SAé",
+  "07 MOC/Concepts/Optique_géometrique"
 ];
 
 // Menu déroulant
@@ -38,8 +40,7 @@ sujet = sujet.charAt(0).toUpperCase() + sujet.slice(1);
 
 // 3. NETTOYAGE DES TAGS
 let dossierParentTag = nomMatiere
-  .toLowerCase()
-  .normalize("NFD")
+  
   .replace(/[\u0300-\u036f]/g, "")
   .replaceAll(" ", "-");
 

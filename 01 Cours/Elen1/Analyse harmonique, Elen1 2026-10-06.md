@@ -106,5 +106,5 @@ $|H(j \omega)|=20\log(|j \tau \omega|)+20 \log\left(| \frac{1}{1+j \tau \omega} 
 -
 ## Travail à faire
 
-- [ ] reprendre les exos
+- [x] reprendre les exos
 

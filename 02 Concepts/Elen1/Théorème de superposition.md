@@ -15,7 +15,28 @@ Ressources:
 
 > [!info] Définition courte
 > Le **théorème de superposition** énonce que ==dans un circuit électrique linéaire comportant plusieurs sources indépendantes, la grandeur électrique (tension ou intensité) en un point est égale à la **somme algébrique** des grandeurs produites par chaque source agissant seule.==
-<!--SR:!2026-10-16,20,250-->
+<!--SR:!2026-10-24,4,270-->
+
+```dataviewjs
+const currentFile = app.workspace.getActiveFile();
+const cache = app.metadataCache.getFileCache(currentFile);
+
+if (cache && cache.headings) {
+    let toc = "";
+    for (let h of cache.headings) {
+        // Optionnel : ignorer le tout premier titre niveau 1 si c'est le titre de la note
+        if (h.level === 1) continue;
+        
+        // Calcul de l'indentation selon le niveau du titre (h2, h3, etc.)
+        const indent = "    ".repeat(h.level - 2);
+        toc += `${indent}- [[#${h.heading}|${h.heading}]]\n`;
+    }
+    dv.paragraph(toc);
+} else {
+    dv.paragraph("Aucun titre trouvé dans cette note.");
+}
+```
+<!--SR:!2026-12-29,70,270-->
 
 
 ## 1. Principe et extinction des sources

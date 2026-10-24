@@ -17,6 +17,25 @@ Ressources:
 
 > [!info] Définition courte
 > Un **gaz parfait** est un modèle idéal de fluide constitué de particules ponctuelles sans interactions à distance, obéissant à l'équation d'état $PV = nRT$ et satisfaisant aux deux lois de Joule.
+```dataviewjs
+const currentFile = app.workspace.getActiveFile();
+const cache = app.metadataCache.getFileCache(currentFile);
+
+if (cache && cache.headings) {
+    let toc = "";
+    for (let h of cache.headings) {
+        // Optionnel : ignorer le tout premier titre niveau 1 si c'est le titre de la note
+        if (h.level === 1) continue;
+        
+        // Calcul de l'indentation selon le niveau du titre (h2, h3, etc.)
+        const indent = "    ".repeat(h.level - 2);
+        toc += `${indent}- [[#${h.heading}|${h.heading}]]\n`;
+    }
+    dv.paragraph(toc);
+} else {
+    dv.paragraph("Aucun titre trouvé dans cette note.");
+}
+```
 
 
 ## 1. Équation d'état du gaz parfait
@@ -43,9 +62,9 @@ Les capacités thermiques molaires dépendent de la structure atomique des molé
 <!--SR:!2026-12-10,63,310!2026-12-12,65,310!2026-11-17,45,290!2026-11-30,55,310-->
 
 - **Relation de Mayer** :: $$C_P - C_V = nR$$
-<!--SR:!2026-10-11,15,230-->
+<!--SR:!2026-11-28,48,250-->
 - **Coefficient isentropique (ou d'adiabatique)** $\gamma$ :: $$\gamma = \frac{C_P}{C_V}$$
-<!--SR:!2026-10-14,16,230-->
+<!--SR:!2026-12-05,52,250-->
 - **Expressions de $C_V$ et $C_P$ en fonction de $\gamma$** ::  $$C_V = \frac{nR}{\gamma - 1}, \qquad C_P = \frac{\gamma nR}{\gamma - 1}$$
 <!--SR:!2026-11-12,39,270-->
 
@@ -57,14 +76,14 @@ Pour tout gaz parfait :
 - **1ʳᵉ loi de Joule** :: Dans un gaz parfait, l'énergie interne $U$ ne dépend que de la température $T$.
 <!--SR:!2026-12-02,57,310-->
   Formule de la 1ʳᵉ loi de Joule :: $$dU = C_V \, dT \implies \Delta U = C_V \Delta T$$
-<!--SR:!2026-10-13,14,210-->
+<!--SR:!2026-11-24,42,230-->
   *(Pour une transformation isotherme d'un gaz parfait, $\Delta U$ = ==$0$==)*.
 <!--SR:!2026-12-14,67,310-->
 
 - **2ᵈᵉ loi de Joule** :: L'enthalpie $H = U + PV$ ne dépend que de la température $T$.
 <!--SR:!2026-11-13,38,290-->
   Formule de la 2ᵈᵉ loi de Joule :: $$dH = C_P \, dT \implies \Delta H = C_P \Delta T$$
-<!--SR:!2026-10-12,9,190-->
+<!--SR:!2026-11-01,12,190-->
   *(Pour une transformation isotherme, $\Delta H$ = ==$0$==)*.
 <!--SR:!2026-12-04,57,310-->
 
@@ -74,7 +93,6 @@ Pour tout gaz parfait :
 - [[Modèle du gaz parfait]]
 - [[Détentes de Joule (Joule-Gay-Lussac et Joule-Thomson)]]
 - [[Énergie interne et formes d'énergie]]
-- [[Diagramme de Clapeyron]]
 - [[Lois de Laplace (Transformations isentropiques)]]
 - [[Comparaison des détentes isotherme et adiabatique]]
 

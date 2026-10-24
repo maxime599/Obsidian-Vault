@@ -13,6 +13,25 @@ date_creation: 2026-09-01
 
 > [!info] Définition courte
 > Un **signal électrique** correspond à la circulation d'un courant électrique $I$ (en Ampères, $\text{A}$) engendré par une différence de potentiel ou tension $U$, $E$ ou $V$ (en Volts, $\text{V}$) aux bornes d'un circuit.
+```dataviewjs
+const currentFile = app.workspace.getActiveFile();
+const cache = app.metadataCache.getFileCache(currentFile);
+
+if (cache && cache.headings) {
+    let toc = "";
+    for (let h of cache.headings) {
+        // Optionnel : ignorer le tout premier titre niveau 1 si c'est le titre de la note
+        if (h.level === 1) continue;
+        
+        // Calcul de l'indentation selon le niveau du titre (h2, h3, etc.)
+        const indent = "    ".repeat(h.level - 2);
+        toc += `${indent}- [[#${h.heading}|${h.heading}]]\n`;
+    }
+    dv.paragraph(toc);
+} else {
+    dv.paragraph("Aucun titre trouvé dans cette note.");
+}
+```
 
 
 ## 1. Les différents régimes électriques

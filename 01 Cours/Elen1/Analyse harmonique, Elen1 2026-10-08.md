@@ -10,6 +10,8 @@ tags:
   - Elen1
 Concepts:
   - "[[Analyse harmonique et diagrammes de Bode]]"
+  - "[[Conjugué et module d'un nombre complexe]]"
+  - "[[Argument et forme trigonométrique d'un nombre complexe]]"
 Ressources:
   - "[[Fascicule TD ELEN1 CITISE.pdf]]"
 ---
@@ -105,7 +107,7 @@ Voir termes précedents
 
 
 
-
+![[Fascicule TD ELEN1 CITISE.pdf#page=16&rect=64,536,423,759|Fascicule TD ELEN1 CITISE, p.16]]
 ![[Drawing 2026-10-08 08.55.23.excalidraw]]
 
 
@@ -138,6 +140,9 @@ $T(j \omega)= \frac{j}{1+j}$
 Donc $|T(j \omega)| = \frac{1}{\sqrt{ 2 }}$
 $\implies 20\log|T(j \omega)| =20\log\left( \frac{1}{\sqrt{ 2 }} \right) = -3dB$
 Donc le tracé réel du montage passe en dessous du tracé rougeq 
+
+$arg(T(j \omega)) = arg(j)-arg(1+j) = \frac{\pi}{4}$
+
 
 ## À retenir
 -

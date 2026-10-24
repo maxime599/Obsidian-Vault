@@ -15,6 +15,25 @@ date_creation: 2026-07-26
 
 > [!info] Définition courte
 > La limite d'une fonction $f$ en un point $a$ ou en $\pm\infty$ décrit la valeur vers laquelle tend $f(x)$ lorsque $x$ se rapproche de $a$ ou s'éloigne vers l'infini. Si cette limite est infinie en un point ou finie à l'infini, la courbe représentative admet des **asymptotes**.
+```dataviewjs
+const currentFile = app.workspace.getActiveFile();
+const cache = app.metadataCache.getFileCache(currentFile);
+
+if (cache && cache.headings) {
+    let toc = "";
+    for (let h of cache.headings) {
+        // Optionnel : ignorer le tout premier titre niveau 1 si c'est le titre de la note
+        if (h.level === 1) continue;
+        
+        // Calcul de l'indentation selon le niveau du titre (h2, h3, etc.)
+        const indent = "    ".repeat(h.level - 2);
+        toc += `${indent}- [[#${h.heading}|${h.heading}]]\n`;
+    }
+    dv.paragraph(toc);
+} else {
+    dv.paragraph("Aucun titre trouvé dans cette note.");
+}
+```
 
 
 ## Explication intuitive

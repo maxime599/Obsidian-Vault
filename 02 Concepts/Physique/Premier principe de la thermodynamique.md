@@ -9,13 +9,32 @@ tags:
   - thermodynamique/principe
 MOC:
   - "[[MOC Thermodynamique]]"
-  - "[[MOC Principe]]"
+  - "[[07 MOC/Concepts/Thermodynamique/MOC Principe]]"
 date_creation: 2026-07-28
 ---
 # Premier principe de la thermodynamique
 
 > [!info] Définition courte
 > Le **premier principe de la thermodynamique** traduit la conservation de l'énergie : pour un système fermé et au repos macroscopique, la variation de son énergie interne $\Delta U$ est égale à la somme des énergies échangées avec l'extérieur sous forme de travail $W$ et de transfert thermique $Q$.
+```dataviewjs
+const currentFile = app.workspace.getActiveFile();
+const cache = app.metadataCache.getFileCache(currentFile);
+
+if (cache && cache.headings) {
+    let toc = "";
+    for (let h of cache.headings) {
+        // Optionnel : ignorer le tout premier titre niveau 1 si c'est le titre de la note
+        if (h.level === 1) continue;
+        
+        // Calcul de l'indentation selon le niveau du titre (h2, h3, etc.)
+        const indent = "    ".repeat(h.level - 2);
+        toc += `${indent}- [[#${h.heading}|${h.heading}]]\n`;
+    }
+    dv.paragraph(toc);
+} else {
+    dv.paragraph("Aucun titre trouvé dans cette note.");
+}
+```
 
 
 ## Explication intuitive
@@ -58,9 +77,6 @@ $$\Delta U = Q = m \cdot c \cdot \Delta T = C \cdot \Delta T$$
 - $\Delta T = T_{\text{finale}} - T_{\text{initiale}}$ : variation de température ($\text{K}$ ou $^\circ\text{C}$)
 
 
-## Liens avec les Mathématiques
-
-- [[Fonction exponentielle et logarithme népérien]] *(pour la résolution des évolutions thermiques)*
 
 
 ## Concepts liés

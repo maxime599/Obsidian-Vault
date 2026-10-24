@@ -15,6 +15,25 @@ Ressources:
 
 > [!info] Définition courte
 > La **statique des fluides** étudie les propriétés et l'équilibre des fluides au repos. Les forces de pression exercées sur tout corps immergé engendrent une résultante appelée **poussée d'Archimède**.
+```dataviewjs
+const currentFile = app.workspace.getActiveFile();
+const cache = app.metadataCache.getFileCache(currentFile);
+
+if (cache && cache.headings) {
+    let toc = "";
+    for (let h of cache.headings) {
+        // Optionnel : ignorer le tout premier titre niveau 1 si c'est le titre de la note
+        if (h.level === 1) continue;
+        
+        // Calcul de l'indentation selon le niveau du titre (h2, h3, etc.)
+        const indent = "    ".repeat(h.level - 2);
+        toc += `${indent}- [[#${h.heading}|${h.heading}]]\n`;
+    }
+    dv.paragraph(toc);
+} else {
+    dv.paragraph("Aucun titre trouvé dans cette note.");
+}
+```
 
 
 ## 1. Force et pression dans un fluide
@@ -45,7 +64,6 @@ Avec :
 ## Concepts liés
 
 - [[Mesure de pression et échelles de température]]
-- [[Travail des forces de pression et transfert thermique]]
 - [[Poussée d'Archimède]]
 - [[Vecteur normal et équation cartésienne d'un plan]]
 

@@ -19,6 +19,25 @@ date_creation: 2026-07-27
 
 > [!info] Définition courte
 > La fonction exponentielle $x\mapsto e^x$ est définie sur $\mathbb{R}$, strictement croissante et toujours positive. Le logarithme népérien, noté $\ln$, est sa fonction réciproque : il est défini sur $]0\,;\,+\infty[$ et vérifie $\ln(e^x)=x$ ainsi que $e^{\ln(x)}=x$ pour $x>0$.
+```dataviewjs
+const currentFile = app.workspace.getActiveFile();
+const cache = app.metadataCache.getFileCache(currentFile);
+
+if (cache && cache.headings) {
+    let toc = "";
+    for (let h of cache.headings) {
+        // Optionnel : ignorer le tout premier titre niveau 1 si c'est le titre de la note
+        if (h.level === 1) continue;
+        
+        // Calcul de l'indentation selon le niveau du titre (h2, h3, etc.)
+        const indent = "    ".repeat(h.level - 2);
+        toc += `${indent}- [[#${h.heading}|${h.heading}]]\n`;
+    }
+    dv.paragraph(toc);
+} else {
+    dv.paragraph("Aucun titre trouvé dans cette note.");
+}
+```
 
 ## Explication intuitive
 

@@ -16,6 +16,25 @@ Ressources: "[[diapo_CITISE_AutoSIN.pdf]]"
 > [!info] Définition courte
 > L'**algèbre de Boole** est le cadre mathématique manipulant des variables binaire à deux états ($0$ ou $1$, Faux ou Vrai). Les **portes logiques** sont les composants électroniques élémentaires qui réalisent matériellement ces opérations logiques sur des signaux électriques.
 
+```dataviewjs
+const currentFile = app.workspace.getActiveFile();
+const cache = app.metadataCache.getFileCache(currentFile);
+
+if (cache && cache.headings) {
+    let toc = "";
+    for (let h of cache.headings) {
+        // Optionnel : ignorer le tout premier titre niveau 1 si c'est le titre de la note
+        if (h.level === 1) continue;
+        
+        // Calcul de l'indentation selon le niveau du titre (h2, h3, etc.)
+        const indent = "    ".repeat(h.level - 2);
+        toc += `${indent}- [[#${h.heading}|${h.heading}]]\n`;
+    }
+    dv.paragraph(toc);
+} else {
+    dv.paragraph("Aucun titre trouvé dans cette note.");
+}
+```
 
 ## 1. Principes de l'électronique numérique
 
@@ -220,21 +239,3 @@ FROM "01 Cours"
 WHERE contains(file.outlinks, this.file.link)
 SORT date_cours ASC
 ````
-
-
-
-
-
-## Concepts liés
-
-- [[Représentations d'une fonction logique]]
-
-
-## 📚 Cours associés
-
-```dataview
-TABLE date AS Date, regexreplace(file.folder, ".*\/", "") AS Matière
-FROM "01 Cours"
-WHERE contains(file.outlinks, this.file.link)
-SORT date_cours ASC
-```

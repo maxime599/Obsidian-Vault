@@ -17,6 +17,25 @@ Ressources:
 
 > [!info] Définition courte
 > La **valeur absolue** $\vert{}x\vert{}$ mesure la distance de $x$ à l'origine. Elle vérifie l'**inégalité triangulaire** $\vert{}x + y\vert{} \le \vert{}x\vert{} + \vert{}y\vert{}$, fondamentale pour l'analyse des limites et la caractérisation des parties bornées.
+```dataviewjs
+const currentFile = app.workspace.getActiveFile();
+const cache = app.metadataCache.getFileCache(currentFile);
+
+if (cache && cache.headings) {
+    let toc = "";
+    for (let h of cache.headings) {
+        // Optionnel : ignorer le tout premier titre niveau 1 si c'est le titre de la note
+        if (h.level === 1) continue;
+        
+        // Calcul de l'indentation selon le niveau du titre (h2, h3, etc.)
+        const indent = "    ".repeat(h.level - 2);
+        toc += `${indent}- [[#${h.heading}|${h.heading}]]\n`;
+    }
+    dv.paragraph(toc);
+} else {
+    dv.paragraph("Aucun titre trouvé dans cette note.");
+}
+```
 
 
 ## 1. Définition et propriétés de base
@@ -38,8 +57,8 @@ En particulier, $\vert{}x\vert{}$ représente la distance du point d'abscisse $x
 
 ## 3. Inégalité triangulaire
 
-Pour tous réels $x$ et $y$ :
-$$\vert{}x + y\vert{} \le \vert{}x\vert{} + \vert{}y\vert{}$$
+Pour tous réels $x$ et $y$ (Inégalité triangulaire)::$$\vert{}x + y\vert{} \le \vert{}x\vert{} + \vert{}y\vert{}$$
+<!--SR:!2026-10-30,15,290-->
 
 ### Démonstration
 Pour tout réel $t$, on a $-\vert{}t\vert{} \le t \le \vert{}t\vert{}$. En appliquant ceci à $x$ et $y$ :

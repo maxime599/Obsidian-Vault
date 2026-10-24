@@ -15,6 +15,25 @@ Ressources:
 
 > [!info] Définition courte
 > Une **résistance** est un composant passif qui s'oppose au passage du courant électrique en dissipant de l'énergie sous forme thermique. La **loi d'Ohm** établit la relation linéaire fondamentale entre la tension à ses bornes et le courant qui la traverse.
+```dataviewjs
+const currentFile = app.workspace.getActiveFile();
+const cache = app.metadataCache.getFileCache(currentFile);
+
+if (cache && cache.headings) {
+    let toc = "";
+    for (let h of cache.headings) {
+        // Optionnel : ignorer le tout premier titre niveau 1 si c'est le titre de la note
+        if (h.level === 1) continue;
+        
+        // Calcul de l'indentation selon le niveau du titre (h2, h3, etc.)
+        const indent = "    ".repeat(h.level - 2);
+        toc += `${indent}- [[#${h.heading}|${h.heading}]]\n`;
+    }
+    dv.paragraph(toc);
+} else {
+    dv.paragraph("Aucun titre trouvé dans cette note.");
+}
+```
 
 
 ## 1. Expression de la résistance géométrique

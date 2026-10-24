@@ -14,6 +14,25 @@ Ressources: "[[diapo_CITISE_AutoSIN.pdf]]"
 
 > [!info] Définition courte
 > Les **propriétés de l'algèbre de Boole** regroupent l'ensemble des lois mathématiques qui régissent la manipulation et la simplification des expressions logiques binaire.
+```dataviewjs
+const currentFile = app.workspace.getActiveFile();
+const cache = app.metadataCache.getFileCache(currentFile);
+
+if (cache && cache.headings) {
+    let toc = "";
+    for (let h of cache.headings) {
+        // Optionnel : ignorer le tout premier titre niveau 1 si c'est le titre de la note
+        if (h.level === 1) continue;
+        
+        // Calcul de l'indentation selon le niveau du titre (h2, h3, etc.)
+        const indent = "    ".repeat(h.level - 2);
+        toc += `${indent}- [[#${h.heading}|${h.heading}]]\n`;
+    }
+    dv.paragraph(toc);
+} else {
+    dv.paragraph("Aucun titre trouvé dans cette note.");
+}
+```
 
 
 ## 1. Propriétés algébriques fondamentales
@@ -53,7 +72,7 @@ Ces théorèmes permettent de réduire directement la taille d'une équation :
 - $a \cdot (a \lor b)$ = ==$a$==
 - $a \lor (\bar{a} \cdot b)$ = ==$a \lor b$==
 - $a \cdot (\bar{a} \lor b)$ = ==$a \cdot b$==
-<!--SR:!2026-12-09,62,310!2026-10-16,8,270!2026-11-29,54,310!2026-10-13,17,250-->
+<!--SR:!2026-12-09,62,310!2026-10-24,4,250!2026-11-29,54,310!2026-12-15,63,270-->
 
 
 ## 3. Lois de De Morgan

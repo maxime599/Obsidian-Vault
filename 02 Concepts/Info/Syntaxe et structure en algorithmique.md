@@ -18,6 +18,25 @@ Ressources:
 
 > [!info] Définition courte
 > La **syntaxe algorithmique** définit l'ensemble des règles formelles (déclaration du lexique, typage, affectation, entrées/sorties) permettant d'écrire une suite d'instructions claires et exécutables indépendamment d'un langage de programmation spécifique.
+```dataviewjs
+const currentFile = app.workspace.getActiveFile();
+const cache = app.metadataCache.getFileCache(currentFile);
+
+if (cache && cache.headings) {
+    let toc = "";
+    for (let h of cache.headings) {
+        // Optionnel : ignorer le tout premier titre niveau 1 si c'est le titre de la note
+        if (h.level === 1) continue;
+        
+        // Calcul de l'indentation selon le niveau du titre (h2, h3, etc.)
+        const indent = "    ".repeat(h.level - 2);
+        toc += `${indent}- [[#${h.heading}|${h.heading}]]\n`;
+    }
+    dv.paragraph(toc);
+} else {
+    dv.paragraph("Aucun titre trouvé dans cette note.");
+}
+```
 
 
 ## 1. Structure générale d'un algorithme
@@ -95,6 +114,51 @@ Fin
 #### Découpe fonctionnel simple
 Découpage dans lequel on ==ne met pas dans des fonctions les fonctions de bases Écrire et Lire==
 <!--SR:!2026-12-05,60,310-->
+
+
+## 4. Syntaxes des blocs de condition :
+Pour faire des conditions en algo :
+?
+```
+Lexique :
+---
+
+
+Algorithme :
+Début
+........
+	Si condition
+		Alors
+			bloc de code
+		Sinon
+			bloc de code
+	FinSi
+```
+On peut représenter ça sous forme de graphe
+<!--SR:!2026-10-26,11,270-->
+
+
+Syntaxe Selon en algo :
+?
+```
+Lexique :
+---
+
+
+Algorithme :
+Début
+........
+	Selon var
+		valeur1 : bloc de code
+		valeur2 : bloc de code
+		...
+		autrement : bloc de code
+```
+<!--SR:!2026-10-30,15,290-->
+
+
+
+
 
 ## Exemple :
 ```

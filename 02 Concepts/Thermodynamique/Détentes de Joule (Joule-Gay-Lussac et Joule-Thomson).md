@@ -14,6 +14,25 @@ Ressources:
 
 > [!info] Définition courte
 > Les **détentes de Joule** sont deux transformations irréversibles fondamentales caractérisant le comportement des fluides lors d'une expansion : la détente libre dans le vide (isoénergétique) et la détente pécoulante à travers un obstacle (isenthalpique).
+```dataviewjs
+const currentFile = app.workspace.getActiveFile();
+const cache = app.metadataCache.getFileCache(currentFile);
+
+if (cache && cache.headings) {
+    let toc = "";
+    for (let h of cache.headings) {
+        // Optionnel : ignorer le tout premier titre niveau 1 si c'est le titre de la note
+        if (h.level === 1) continue;
+        
+        // Calcul de l'indentation selon le niveau du titre (h2, h3, etc.)
+        const indent = "    ".repeat(h.level - 2);
+        toc += `${indent}- [[#${h.heading}|${h.heading}]]\n`;
+    }
+    dv.paragraph(toc);
+} else {
+    dv.paragraph("Aucun titre trouvé dans cette note.");
+}
+```
 
 
 ## 1. Détente de Joule-Gay-Lussac (détente libre dans le vide)
@@ -40,7 +59,7 @@ Un fluide s'écoule en régime permanent à travers un milieu poreux d'une zone 
   - Côté haute pression : le fluide reçoit le travail $W_0 = P_0 V_0$.
   - Côté basse pression : le fluide fournit le travail $W_1 = -P_1 V_1$.
 - **Bilan du 1ᵉʳ principe** de la détente de Joule-Thomson :: $$\Delta U = U_1 - U_0 = W_0 + W_1 = P_0 V_0 - P_1 V_1$$$$U_1 + P_1 V_1 = U_0 + P_0 V_0$$
-<!--SR:!2026-10-12,9,190-->
+<!--SR:!2026-10-31,18,190-->
 - **Enthalpie (==$H = U + PV$==)** :
   $$H_1 = H_0 \implies \Delta H = 0$$
   La détente de Joule-Thomson est **isenthalpique**.
@@ -51,8 +70,8 @@ Un fluide s'écoule en régime permanent à travers un milieu poreux d'une zone 
 ## Concepts liés
 
 - [[Modèle du gaz parfait, lois de Joule et relation de Mayer]]
-- [[Typologie des transformations et réversibilité - Premier Principe de la thermodynamique]]
 - [[Énergie interne et formes d'énergie]]
+- [[Travail des forces de pression et transfert thermique]]
 
 
 ## 📚 Cours associés

@@ -9,6 +9,10 @@ tags:
   - cours
   - Thermodynamique
 Concepts:
+  - "[[Machines thermiques dithermes (Principes, conventions et bilans)]]"
+  - "[[Le cycle de Carnot et rendement maximal]]"
+  - "[[Moteurs thermiques usuels (Beau de Rochas, Diesel, Brayton)]]"
+  - "[[Machines thermiques réceptrices et cycle de Rankine]]"
 Ressources:
   - "[[Chapitre IV thermo.pdf]]"
 ---
@@ -119,11 +123,11 @@ Si la transformation est réversible, $S_{e} = 0$ donc $\frac{Q_1}{T_1} + \frac{
 
 #### 3.3 Tableau récapitulatif des machines thermiques
 
-| Machine Thermique | Travail $W$ | $Q_1$ (Source froide $T_1$) | $Q_2$ (Source chaude $T_2$) | Efficacité réelle $\eta$ ou $r$ | Efficacité de Carnot $\eta_{\text{Carnot}}$ |
-| :--- | :---: | :---: | :---: | :---: | :---: |
-| **Moteur** | $W < 0$ | $Q_1 < 0$ | $Q_2 > 0$ | $r = \frac{-W}{Q_2} = 1 + \frac{Q_1}{Q_2}$ | $r_{\text{Carnot}} = 1 - \frac{T_1}{T_2}$ |
-| **Réfrigérateur** | $W > 0$ | $Q_1 > 0$ | $Q_2 < 0$ | $\eta = \frac{Q_1}{W}$ | $\eta_{\text{Carnot}} = \frac{T_1}{T_2 - T_1}$ |
-| **Pompe à chaleur** | $W > 0$ | $Q_1 > 0$ | $Q_2 < 0$ | $\eta = -\frac{Q_2}{W}$ | $\eta_{\text{Carnot}} = \frac{T_2}{T_2 - T_1}$ |
+| Machine Thermique   | Travail $W$ | $Q_1$ (Source froide $T_1$) | $Q_2$ (Source chaude $T_2$) |      Efficacité réelle $\eta$ ou $r$       |  Efficacité de Carnot $\eta_{\text{Carnot}}$   |
+| :------------------ | :---------: | :-------------------------: | :-------------------------: | :----------------------------------------: | :--------------------------------------------: |
+| **Moteur**          |   $W < 0$   |          $Q_1 < 0$          |          $Q_2 > 0$          | $r = \frac{-W}{Q_2} = 1 + \frac{Q_1}{Q_2}$ |   $r_{\text{Carnot}} = 1 - \frac{T_1}{T_2}$    |
+| **Réfrigérateur**   |   $W > 0$   |          $Q_1 > 0$          |          $Q_2 < 0$          |           $\eta = \frac{Q_1}{W}$           | $\eta_{\text{Carnot}} = \frac{T_1}{T_2 - T_1}$ |
+| **Pompe à chaleur** |   $W > 0$   |          $Q_1 > 0$          |          $Q_2 < 0$          |          $\eta = -\frac{Q_2}{W}$           | $\eta_{\text{Carnot}} = \frac{T_2}{T_2 - T_1}$ |
 On sait que $r= -\frac{W}{Q_{2}}$
 Comme $\Delta U=0$, $W+Q_{1}+Q_{2}=0$, $-W=Q_{1}+Q_{2}$
 Donc $r=\frac{Q_{1}+Q_{2}}{Q_{2}}$, ou $r=1+\frac{Q_{1}}{Q_{2}}$
@@ -182,10 +186,10 @@ Donc $\Delta S_{eau}+\Delta S_{fluide}+\Delta S_{atmosphère}=0$
 -
 ## Travail à faire
 
-- [ ] transformer en concept
-- [ ] ajouter des flashcardes
-- [ ] comprendre
-- [ ] apprendre
-- [ ] s'entrainer
+- [x] transformer en concept
+- [x] ajouter des flashcardes
+- [x] comprendre
+- [x] apprendre
+- [x] s'entrainer
 
 

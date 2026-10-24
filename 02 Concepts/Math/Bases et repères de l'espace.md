@@ -16,6 +16,25 @@ date_creation: 2026-07-26
 > [!info] Définition courte
 > 
 > Une **base de l'espace** est constituée de 3 vecteurs non coplanaires $(\vec{i}, \vec{j}, \vec{k})$. Un **repère de l'espace** associe une origine $O$ à cette base, noté $(O; \vec{i}, \vec{j}, \vec{k})$.
+```dataviewjs
+const currentFile = app.workspace.getActiveFile();
+const cache = app.metadataCache.getFileCache(currentFile);
+
+if (cache && cache.headings) {
+    let toc = "";
+    for (let h of cache.headings) {
+        // Optionnel : ignorer le tout premier titre niveau 1 si c'est le titre de la note
+        if (h.level === 1) continue;
+        
+        // Calcul de l'indentation selon le niveau du titre (h2, h3, etc.)
+        const indent = "    ".repeat(h.level - 2);
+        toc += `${indent}- [[#${h.heading}|${h.heading}]]\n`;
+    }
+    dv.paragraph(toc);
+} else {
+    dv.paragraph("Aucun titre trouvé dans cette note.");
+}
+```
 
 ## Explication intuitive
 

@@ -15,6 +15,25 @@ Ressources:
 
 > [!info] Définition courte
 > Les **montages fondamentaux à AOP** en régime linéaire (amplificateur inverseur, non-inverseur et suiveur) exploitent la contre-réaction négative pour réaliser des fonctions d'amplification de tension, d'inversion de phase et d'adaptation d'impédance.
+```dataviewjs
+const currentFile = app.workspace.getActiveFile();
+const cache = app.metadataCache.getFileCache(currentFile);
+
+if (cache && cache.headings) {
+    let toc = "";
+    for (let h of cache.headings) {
+        // Optionnel : ignorer le tout premier titre niveau 1 si c'est le titre de la note
+        if (h.level === 1) continue;
+        
+        // Calcul de l'indentation selon le niveau du titre (h2, h3, etc.)
+        const indent = "    ".repeat(h.level - 2);
+        toc += `${indent}- [[#${h.heading}|${h.heading}]]\n`;
+    }
+    dv.paragraph(toc);
+} else {
+    dv.paragraph("Aucun titre trouvé dans cette note.");
+}
+```
 
 
 ## 1. Schéma et hypothèses du régime linéaire
@@ -116,6 +135,15 @@ $$e^+ = V_e \quad \text{et} \quad e^- = V_s \implies V_s = V_e$$
 
 > [!info] Rôle d'adaptation d'impédance
 > Le montage suiveur possède un **gain en tension unitaire ($A_v = 1$)**. Il sert d'**adaptateur d'impédance** (isolateur) grâce à son impédance d'entrée quasi-infinie et son impédance de sortie quasi-nulle.
+
+## L'AOP en régime saturé
+![[Pasted image 20261020133913.png]]
+En régime saturé, la sortie ne peux pas prendre autre chose que ==$+V_{sat}$ ou $-V_{sat}$==
+
+C'est un comparateur et il n'y a pas de contre-réaction
+
+Si $V_e > V_{0} \implies V_s = +V_{sat}$
+Si $V_e < V_{0} \implies V_s = -V_{sat}$
 
 ## Concepts liés
 

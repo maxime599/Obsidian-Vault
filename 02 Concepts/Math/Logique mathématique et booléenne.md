@@ -15,6 +15,25 @@ Ressources: "[[S1_cours_math_chap1.pdf]]"
 
 > [!info] Définition courte
 > La **logique mathématique** est l'étude des assertions et des règles formelles permettant de combiner des propositions pour déterminer leur valeur de vérité (**Vrai** ou **Faux**, notés $1$ ou $0$ en informatique et électronique).
+```dataviewjs
+const currentFile = app.workspace.getActiveFile();
+const cache = app.metadataCache.getFileCache(currentFile);
+
+if (cache && cache.headings) {
+    let toc = "";
+    for (let h of cache.headings) {
+        // Optionnel : ignorer le tout premier titre niveau 1 si c'est le titre de la note
+        if (h.level === 1) continue;
+        
+        // Calcul de l'indentation selon le niveau du titre (h2, h3, etc.)
+        const indent = "    ".repeat(h.level - 2);
+        toc += `${indent}- [[#${h.heading}|${h.heading}]]\n`;
+    }
+    dv.paragraph(toc);
+} else {
+    dv.paragraph("Aucun titre trouvé dans cette note.");
+}
+```
 
 
 ## 1. Assertions et connecteurs élémentaires
@@ -58,7 +77,7 @@ L'assertion « $P$ si et seulement si $Q$ » est vraie si :: $P$ et $Q$ ont exac
 
 > [!theorem] Équivalences fondamentales de l'implication
 > - Forme disjonctive : $[P \implies Q] \iff$::$[\text{non}(P) \text{ ou } Q]$
-<!--SR:!2026-10-11,3,190-->
+<!--SR:!2026-11-17,28,230-->
 > - Négation de l'implication : $\text{non}(P \implies Q) \iff$::$[P \text{ et } \text{non}(Q)]$
 <!--SR:!2026-11-11,38,290-->
 > - Contraposée : $[P \implies Q] \iff$::$[\text{non}(Q) \implies \text{non}(P)]$

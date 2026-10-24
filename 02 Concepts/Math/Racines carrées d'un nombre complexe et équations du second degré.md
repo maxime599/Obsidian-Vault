@@ -19,6 +19,25 @@ Ressources:
 
 > [!info] Définition courte
 > Dans $\mathbb{C}$, tout nombre complexe non nul $A$ admet exactement deux **racines carrées** complexes opposées. La détermination de ces racines permet la résolution de toutes les équations du second degré à coefficients complexes.
+```dataviewjs
+const currentFile = app.workspace.getActiveFile();
+const cache = app.metadataCache.getFileCache(currentFile);
+
+if (cache && cache.headings) {
+    let toc = "";
+    for (let h of cache.headings) {
+        // Optionnel : ignorer le tout premier titre niveau 1 si c'est le titre de la note
+        if (h.level === 1) continue;
+        
+        // Calcul de l'indentation selon le niveau du titre (h2, h3, etc.)
+        const indent = "    ".repeat(h.level - 2);
+        toc += `${indent}- [[#${h.heading}|${h.heading}]]\n`;
+    }
+    dv.paragraph(toc);
+} else {
+    dv.paragraph("Aucun titre trouvé dans cette note.");
+}
+```
 
 
 ## 1. Définition et règle de notation
@@ -38,7 +57,7 @@ $$z^2 = A$$
 ## 2. Méthode algébrique de calcul
 
 Pour déterminer les racines carrées $z = x + jy$ d'un complexe $A = a + jb \neq 0$ :
-
+$z^2 = x^2 - y^2+2xyj  =A$
 1. **Système à 3 équations** :
    $$\begin{cases} x^2 - y^2 = a & \text{(1) Partie réelle de } z^2 = A \\ x^2 + y^2 = \sqrt{a^2 + b^2} & \text{(2) Module } (|z|^2 = |A|) \\ 2xy = b & \text{(3) Partie imaginaire (fixe le signe du produit } xy) \end{cases}$$
 
@@ -47,7 +66,7 @@ Pour déterminer les racines carrées $z = x + jy$ d'un complexe $A = a + jb \ne
    - $(1) + (2) \implies 2x^2 = a + \sqrt{a^2 + b^2} \implies x = \pm \sqrt{\frac{a + \sqrt{a^2 + b^2}}{2}}$
    - $(2) - (1) \implies 2y^2 = \sqrt{a^2 + b^2} - a \implies y = \pm \sqrt{\frac{\sqrt{a^2 + b^2} - a}{2}}$
    - L'équation $(3)$ détermine si $x$ et $y$ sont de même signe ($b > 0$) ou de signes contraires ($b < 0$).
-<!--SR:!2026-10-18,15,290-->
+<!--SR:!2026-12-18,59,310-->
 
 
 
@@ -60,7 +79,7 @@ Soit l'équation $a z^2 + b z + c = 0$ avec $a, b, c \in \mathbb{C}$ et $a \neq 
 2. **Recherche d'une racine carrée de $\Delta$** :
    On cherche un complexe $\delta \in \mathbb{C}$ tel que $\delta^2 = \Delta$.
 3. **Solutions** de l'équation du second degré ::$$z_1 = \frac{-b + \delta}{2a} \quad \text{et} \quad z_2 = \frac{-b - \delta}{2a}$$
-<!--SR:!2026-10-15,12,270-->
+<!--SR:!2026-11-27,43,290-->
 4. **Factorisation** :
    $$a z^2 + b z + c = a(z - z_1)(z - z_2)$$
 
@@ -68,7 +87,7 @@ Soit l'équation $a z^2 + b z + c = 0$ avec $a, b, c \in \mathbb{C}$ et $a \neq 
 ## 4. Relations entre coefficients et racines
 
 Les complexes $z_1$ et $z_2$ sont les deux solutions de $a z^2 + b z + c = 0$ si et seulement si ::$$\begin{cases} S = z_1 + z_2 = -\dfrac{b}{a} \\[2mm] P = z_1 z_2 = \dfrac{c}{a} \end{cases}$$
-<!--SR:!2026-10-12,9,250-->
+<!--SR:!2026-11-15,33,270-->
 
 
 ## Concepts liés

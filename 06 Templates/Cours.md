@@ -1,7 +1,7 @@
 <%*
 // 1. CONFIGURATION DE TES MATIÈRES ET DOSSIERS DE CONCEPTS
-const matieres = ["Électronique_numérique", "Elen1", "Info", "Math", "Méthodologie_scientifique", "Physique", "Thermodynamique", "Anglais", "SAé"];
-const dossiers = ["01 Cours/Électronique_numérique", "01 Cours/Elen1", "01 Cours/Info", "01 Cours/Math", "01 Cours/Méthodologie_scientifique", "01 Cours/Physique", "01 Cours/Thermodynamique", "01 Cours/Anglais", "01 Cours/SAé"];
+const matieres = ["Électronique_numérique", "Elen1", "Info", "Math", "Méthodologie_scientifique", "Physique", "Thermodynamique", "Anglais", "SAé", "Optique_géometrique"];
+const dossiers = ["01 Cours/Électronique_numérique", "01 Cours/Elen1", "01 Cours/Info", "01 Cours/Math", "01 Cours/Méthodologie_scientifique", "01 Cours/Physique", "01 Cours/Thermodynamique", "01 Cours/Anglais", "01 Cours/SAé", "01 Cours/Optique_géometrique"];
 
 // Demande la matière via un menu déroulant
 const dossierCible = await tp.system.suggester(matieres, dossiers);

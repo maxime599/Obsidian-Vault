@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:\"02 Concepts/Math\"  ",
@@ -153,11 +153,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1.04795425257732,
   "lineSizeMultiplier": 0.987967139175258,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.445238574592309,
   "repelStrength": 10.1511603150947,
   "linkStrength": 0.848399436279444,
   "linkDistance": 30,
-  "scale": 0.1493553544222978,
+  "scale": 0.19489630885173514,
   "close": true
 }

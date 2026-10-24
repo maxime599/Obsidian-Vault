@@ -18,6 +18,25 @@ Ressources:
 
 > [!info] Définition courte
 > Le symbole $\sum$ (sigma) permet d'écrire de manière condensée la somme des termes d'une suite. La manipulation des sommes repose sur la **linéarité**, le **changement d'indice**, la simplification de **sommes télescopiques** et l'utilisation de **sommes usuelles** (arithmétiques et géométriques).
+```dataviewjs
+const currentFile = app.workspace.getActiveFile();
+const cache = app.metadataCache.getFileCache(currentFile);
+
+if (cache && cache.headings) {
+    let toc = "";
+    for (let h of cache.headings) {
+        // Optionnel : ignorer le tout premier titre niveau 1 si c'est le titre de la note
+        if (h.level === 1) continue;
+        
+        // Calcul de l'indentation selon le niveau du titre (h2, h3, etc.)
+        const indent = "    ".repeat(h.level - 2);
+        toc += `${indent}- [[#${h.heading}|${h.heading}]]\n`;
+    }
+    dv.paragraph(toc);
+} else {
+    dv.paragraph("Aucun titre trouvé dans cette note.");
+}
+```
 
 
 ## 1. Le symbole $\sum$ et ses conventions
@@ -36,7 +55,7 @@ $$\sum_{k=m}^{n} a_k = a_m + a_{m+1} + \dots + a_{n-1} + a_n$$
 - **Additivité** :
   $$\sum_{k=m}^{n} (a_k + b_k) = \sum_{k=m}^{n} a_k + \sum_{k=m}^{n} b_k$$
 - **Multiplication par une constante** : Pour tout réel ou complexe $\lambda$ ne dépendant pas de l'indice $k$ ::$$\sum_{k=m}^{n} \lambda a_k = \lambda \sum_{k=m}^{n} a_k$$
-<!--SR:!2026-10-12,4,270-->
+<!--SR:!2026-10-28,15,290-->
 
 > [!warning] Incompatibilité avec le produit
 > En général, la sommation ne se distribue pas sur la multiplication :
@@ -56,7 +75,7 @@ Le changement d'indice permet de modifier les bornes de la somme ou de simplifie
 ## 4. Sommes télescopiques
 
 Lors d'une somme de différences de termes consécutifs, tous les termes intermédiaires s'annulent deux à deux ::$$\sum_{k=m}^{n} (a_{k+1} - a_k) = a_{n+1} - a_m$$
-<!--SR:!2026-10-09,1,230-->
+<!--SR:!2026-10-26,12,270-->
 
 
 ## 5. Sommes usuelles
@@ -68,7 +87,7 @@ $$\sum_{k=0}^{n} k = \sum_{k=1}^{n} k = \frac{n(n+1)}{2}$$
 ### B. Somme des puissances (Suite géométrique)
 Pour tout $q \neq 1$ et tout $n \in \mathbb{N}$ :
 $\sum_{k=0}^{n} q^k$ = ==$\frac{1 - q^{n+1}}{1 - q}$==
-<!--SR:!2026-10-12,4,270-->
+<!--SR:!2026-10-23,3,250-->
 
 
 ## Concepts liés
