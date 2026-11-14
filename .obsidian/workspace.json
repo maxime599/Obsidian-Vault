@@ -4,61 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "808669c46dc918f5",
+        "id": "301e219e93351154",
         "type": "tabs",
         "children": [
           {
-            "id": "9e5fb34184e19147",
+            "id": "fe4d196effdb486a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Cours/Elen1/AOP en régime saturé et Analyse qualitative, Elen1 2026-10-20.md",
+                "file": "Dashboard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AOP en régime saturé et Analyse qualitative, Elen1 2026-10-20"
+              "title": "Dashboard"
             }
           },
           {
-            "id": "52d74edc57a93c38",
+            "id": "93ba64bff92d2e5a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Cours/Optique_géometrique/TD1 exo4, Optique_géometrique 2026-10-23.md",
+                "file": "01 Cours/Elen-Ener/Exos RC en td, Elen1 2026-09-21.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TD1 exo4, Optique_géometrique 2026-10-23"
-            }
-          },
-          {
-            "id": "c9c1b842596f7380",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2026-10-23 13.34.39.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-10-23 13.34.39.excalidraw"
-            }
-          },
-          {
-            "id": "dd42ed5c0d34455d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vue graphique"
+              "title": "Exos RC en td, Elen1 2026-09-21"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": " sphérique",
+                "query": "passe haut",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -125,7 +103,7 @@
         "dimension": 24.343434343434346,
         "children": [
           {
-            "id": "b7676589b29b89e6",
+            "id": "427c6f80d1381391",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -138,7 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.4765625
+    "width": 243.7265625
   },
   "right": {
     "id": "94f8b3aa2bee7d17",
@@ -352,51 +330,52 @@
   },
   "active": "aeb8dcd12e8ef37d",
   "lastOpenFiles": [
-    "01 Cours/Elen1/AOP en régime saturé et Analyse qualitative, Elen1 2026-10-20.md",
-    "01 Cours/Elen1/Analyse qualitative, Elen1 2026-10-22.md",
+    "02 Concepts/Elen-Ener/Analyse indicielle et circuit RC du premier ordre.md",
+    "02 Concepts/Elen-Ener/Composants réactifs ; Condensateur et Inductance.md",
     "Dashboard.md",
-    "01 Cours/Optique_géometrique/TD1 exo4, Optique_géometrique 2026-10-23.md",
-    "05 Ressources/LIbreoffice/TP5 v2.odt",
-    "05 Ressources/DS années précédentes/Physique S1/Optique Géométrique (TSE)/TD1 - Optique (TSE).pdf",
+    "01 Cours/Optique_géometrique/Suite trois premiers chapitres + chapitre 4, Optique_géometrique 2026-10-16.md",
     "optique_geometrique chapitre 4.md",
+    "01 Cours/Optique_géometrique/TD1 exo4, Optique_géometrique 2026-10-23.md",
+    "Excalidraw/Drawing 2026-10-13 11.41.03.excalidraw.md",
+    "02 Concepts/SAé/Utilisation du transistor driver et dimensionnement.md",
+    "01 Cours/SAé/phase 5, SAé 2026-10-20.md",
+    "01 Cours/SAé/Phase 5 et 6, SAé 2026-11-03.md",
+    "01 Cours/Elen-Ener/Triphasé, Elen-Ener 2026-11-09.md",
+    "02 Concepts/Elen-Ener/Puissances en régime triphasé et relèvement du facteur de puissance.md",
+    "02 Concepts/Elen-Ener/Puissances en régime sinusoïdal et Théorème de Boucherot.md",
+    "02 Concepts/Elen-Ener/Couplages des récepteurs triphasés équilibrés (Étoile et Triangle).md",
+    "05 Ressources/PDF Cours/ENER1 triphasé.pdf",
+    "07 MOC/Concepts/Elen-Ener/MOC Puissance.md",
+    "02 Concepts/Elen-Ener/Systèmes triphasés (Tensions simples et composées).md",
+    "07 MOC/Concepts/Elen-Ener/MOC Triphase.md",
+    "01 Cours/Info/Les tableaux, Info 2026-11-07.md",
+    "02 Concepts/Info/Syntaxe et structure de base en C - C++.md",
+    "02 Concepts/Électronique_numérique/Les bases du langage VHDL.md",
+    "02 Concepts/Info/Syntaxe et structure en algorithmique.md",
+    "01 Cours/Elen-Ener/Suites exos, Elen-Ener 2026-11-10.md",
+    "05 Ressources/PDF Cours/TD ENER1.pdf",
+    "02 Concepts/Elen-Ener/Groupements de résistances (Série et Parallèle).md",
+    "05 Ressources/PDF Cours/ENER1 cours.md",
+    "01 Cours/Elen-Ener/Frenel et exos en TD , Elen-Ener 2026-11-02.md",
+    "01 Cours/Elen-Ener/Rappel de cours sur les complexes et exos, Elen-Ener 2026-11-03.md",
+    "05 Ressources/PDF Cours/SAÉ_1_Phase_05.pdf",
+    "05 Ressources/PDF Cours/SAÉ_1_Phase_06.pdf",
+    "123t.pdsprj",
+    "05 Ressources/PDF Cours/SAÉ_1_Phase_06.pdf.crdownload",
     "05 Ressources/PDF Cours/OPTIQUE GEOMETRIQUE IV.pdf",
-    "02 Concepts/Optique_géometrique/Nature des objets, des images et foyers optiques.md",
-    "02 Concepts/Optique_géometrique/Stigmatisme et conditions de Gauss.md",
-    "Excalidraw/Drawing 2026-10-23 13.34.39.excalidraw.md",
-    "05 Ressources/PDF Cours/Maths chapitre 5.pdf",
-    "07 MOC/Concepts/Math/MOC Nombres complexes.md",
-    "01 Cours/Math/chapitre 5 nombres complé et trigo, Math 2026-10-23.md",
-    "02 Concepts/Elen1/Types de régime en électicité.md",
-    "01 Cours/Math/maths_chapitre_5_nombres_complexes_et_trigonom_trie.md",
-    "maths_chapitre_5_nombres_complexes_et_trigonom_trie.md.crdownload",
-    "05 Ressources/PDF Cours/math chapitre 4 S1.pdf",
-    "01 Cours/Math/chapitre 4 les sommes, Math 2026-10-07.md",
-    "02 Concepts/Elen1/Analyse qualitative des filtres (circuits passifs et AOP).md",
-    "02 Concepts/Elen1/Montages de base à Amplificateur Opérationnel (AOP).md",
-    "02 Concepts/Elen1/Analyse harmonique et diagrammes de Bode.md",
+    "05 Ressources/PDF Cours/cours_triphas_obsidian.md.crdownload",
+    "05 Ressources/TP elen/TP3.pdf",
+    "05 Ressources/PDF exos cours/Exercices_info1.pdf",
+    "05 Ressources/Pièces jointes collées/Pasted Image 20261103103703_583.png",
+    "05 Ressources/Pièces jointes collées/Pasted Image 20261103085323_106.png",
+    "05 Ressources/Pièces jointes collées/Pasted image 20261102141819.png",
     "05 Ressources/Pièces jointes collées/Pasted image 20261020133913.png",
-    "01 Cours/Optique_géometrique/TD1, Optique_géometrique 2026-10-21.md",
-    "02 Concepts/Optique_géometrique/Lois de Snell-Descartes et réflexion totale.md",
-    "02 Concepts/Optique_géometrique/Principe de Fermat et indépendance des rayons lumineux.md",
-    "02 Concepts/Optique_géometrique/Principes fondamentaux de propagation de la lumière.md",
-    "02 Concepts/Optique_géometrique/Cadre et modèle du rayon en optique géométrique.md",
-    "02 Concepts/Optique_géometrique/Modèle des photons et dualité onde-corpuscule.md",
-    "02 Concepts/Optique_géometrique/Modèle des ondes électromagnétiques et indice de réfraction.md",
-    "01 Cours/Elen1/exos sur l'aop, Elen1 2026-10-01.md",
-    "01 Cours/Elen1/Amplificateur opérationnel ou AOP, Elen1 2026-09-28.md",
-    "05 Ressources/PDF Cours/TP N°5 elen.pdf",
-    "05 Ressources/LIbreoffice/lu80923tnc.tmp",
-    "05 Ressources/LIbreoffice/Tp6 template.odt",
-    "05 Ressources/LIbreoffice/lu80923tj8.tmp",
     "05 Ressources/Pièces jointes collées/Pasted Image 20261020084929_213.png",
     "05 Ressources/Pièces jointes collées/Pasted image 20261018111459.png",
     "05 Ressources/Pièces jointes collées/Pasted image 20261018111455.png",
     "05 Ressources/Pièces jointes collées/Pasted Image 20261013114104_300.png",
     "05 Ressources/Pièces jointes collées/Q7.1,2.bmp",
     "05 Ressources/Pièces jointes collées/Q7.1 (1).bmp",
-    "05 Ressources/Pièces jointes collées/Q7.1.bmp",
-    "05 Ressources/Pièces jointes collées/Q6.7curseurs.bmp",
-    "05 Ressources/Pièces jointes collées/Q6.310ns.bmp",
     "Sans titre.canvas"
   ]
 }

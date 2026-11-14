@@ -18,7 +18,7 @@ Ressources:
 
 > [!info] Définition courte
 > L'**application réciproque** $f^{-1}$ d'une bijection $f : E \to F$ est l'application de $F$ dans $E$ qui :: associe à tout élément de $F$ son unique antécédent dans $E$ par $f$.
-<!--SR:!2026-10-21,18,270-->
+<!--SR:!2027-01-01,68,290-->
 ```dataviewjs
 const currentFile = app.workspace.getActiveFile();
 const cache = app.metadataCache.getFileCache(currentFile);
@@ -59,14 +59,14 @@ $$f \circ f^{-1} = \text{Id}_F \quad \text{et} \quad f^{-1} \circ f = \text{Id}_
 
 > [!theorem] Théorème de caractérisation
 > Une application $f: E \to F$ est bijective si et seulement s'il existe :: une application $g: F \to E$ telle que : $$f \circ g = \text{Id}_F \quad \text{et} \quad g \circ f = \text{Id}_E$$
-<!--SR:!2026-10-29,26,270-->
+<!--SR:!2027-02-04,98,290-->
 > Dans ce cas, la bijection réciproque de $f$ est $f^{-1} = g$.
 
 
 ## 3. Réciproque d'une composée
 
 Si $f$ est une bijection de $E$ dans $F$ et $g$ une bijection de $F$ dans $G$, alors $g \circ f$ est une bijection de $E$ dans $G$ et son application réciproque s'écrit ::$$(g \circ f)^{-1} = f^{-1} \circ g^{-1}$$
-<!--SR:!2026-10-23,25,270-->
+<!--SR:!2027-01-26,93,290-->
 
 
 ## Concepts liés

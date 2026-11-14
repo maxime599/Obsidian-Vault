@@ -45,12 +45,12 @@ if (cache && cache.headings) {
 ??
 - Fournit des tensions et courants continus ($DC$) stables nécessaires au fonctionnement des circuits.
 - Intègre une protection par limitation de courant pour sécuriser les composants en cas de court-circuit.
-<!--SR:!2026-11-09,37,290!2026-11-18,46,290-->
+<!--SR:!2027-04-10,149,310!2026-11-18,46,290-->
 
 **Générateur Basses Fréquences (GBF)** :
 ??
 - Source de tension délivrant des signaux périodiques de formes variées (sinusoïdal, carré, triangulaire).
-<!--SR:!2026-11-10,38,290!2026-12-04,59,310-->
+<!--SR:!2027-04-14,153,310!2026-12-04,59,310-->
 
 
 ## 2. Mesure et observation
@@ -80,7 +80,7 @@ Lors de la mesure ou de l'observation d'un signal :
 
 - **Câbles ==Banane==** : Principalement utilisés pour les connexions de puissance et les mesures en courant continu (multimètre, alimentation).
 - **Câbles ==BNC**== : Câbles coaxiaux utilisés pour acheminer des signaux à haute fréquence ou haute précision sans interférences (GBF, oscilloscope).
-<!--SR:!2026-12-05,60,310!2026-10-30,27,290-->
+<!--SR:!2026-12-05,60,310!2027-02-19,109,310-->
 
 
 ## Concepts liés

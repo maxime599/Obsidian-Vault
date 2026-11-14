@@ -6,6 +6,7 @@ tags:
   - math
   - math/nombrescomplexes
   - math/trigonométrie
+  - flashcards/Math
 MOC:
   - "[[MOC Nombres complexes]]"
   - "[[MOC Trigonométrie]]"
@@ -60,6 +61,14 @@ Pour multiplier ou diviser des complexes écrits sous forme exponentielle :
 
 Deux identités particulières sont :
 $$e^{i\pi}=-1\qquad e^{i\pi}+1=0.$$
+
+
+## Formules d'Euler 
+Formules d'Euler pour $\cos(\theta)$::$$\cos(\theta) = \frac{e^{j\theta} + e^{-j\theta}}{2}$$
+<!--SR:!2026-11-13,15,290-->
+Formules d'Euler pour $\sin(\theta)$::$$\sin(\theta) = \frac{e^{j\theta} - e^{-j\theta}}{2j}$$
+<!--SR:!2026-11-14,16,290-->
+
 
 ## Concepts liés
 

@@ -106,7 +106,7 @@ else{
 //Sinon
 }
 ```
-<!--SR:!2026-10-31,16,290-->
+<!--SR:!2027-01-05,64,310-->
 
 Selon en cpp:
 ?
@@ -123,7 +123,7 @@ switch(var){
 
 ## Exemple de programme complet
 ```
-<!--SR:!2026-10-31,11,250-->
+<!--SR:!2026-12-11,39,270-->
 
 ### 1. Opérateurs de Comparaison (Relationnels)
 
@@ -137,7 +137,7 @@ Ces opérateurs permettent de comparer deux valeurs et renvoient un booléen (`t
 | `>`       | Strictement supérieur | `5 > 3`  | `true`   |
 | `<=`      | Inférieur ou égal     | `5 <= 5` | `true`   |
 | `>=`      | Supérieur ou égal     | `5 >= 6` | `false`  |
-<!--SR:!2026-10-30,15,290-->
+<!--SR:!2027-01-01,60,310-->
 
 ### 2. Opérateurs Logiques
 
@@ -149,6 +149,19 @@ Ces opérateurs permettent de combiner plusieurs conditions booléennes.
 |`\|`|OU logique (OR)|Vrai si **au moins une** condition est vraie|`(5 > 3) \| (10 < 4)`|`true`|
 |`!`|NON logique (NOT)|Inverse l'état booléen|`!(5 > 3)`|`false`|
 
+### Les tableaux en C++
+
+**Déclaration et remplissage**
+- Exemple de syntaxe d'un tableau en cpp :: `float ex_tableau[3] = {1, 2, 3};`
+<!--SR:!2026-11-16,4,270-->
+- Le remplissage s'effectue traditionnellement case par case à l'aide d'une boucle.
+
+**Gestion de la taille**
+- L'utilisation d'une variable pour dimensionner la taille du tableau est tolérée uniquement si cette variable est une constante, faute de quoi la compilation échoue.
+
+**Protection en lecture seule**
+- Le qualificatif `const` permet de rendre un tableau non modifiable.
+- Contrainte technique : un tableau déclaré `const` doit impérativement être initialisé dès sa déclaration.
 
 ## Exemple de programme
 ```cpp

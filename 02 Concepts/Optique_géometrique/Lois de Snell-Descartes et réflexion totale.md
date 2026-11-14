@@ -40,25 +40,25 @@ if (cache && cache.headings) {
   - Réflexion *==spéculaire==* sur une surface polie (miroirs).
   - Réflexion *==diffuse==* sur une surface rugueuse (dispersion aléatoire).
 - **Réfraction** :: Changement de direction du rayon lumineux lors de la traversée d'un **dioptre** (surface séparant deux milieux transparents d'indices $n_1$ et $n_2$).
-<!--SR:!2026-10-24,4,270-->
+<!--SR:!2027-01-03,56,310-->
 
 
 ## 2. Les 3 lois de Snell-Descartes
 
 1. **1ère loi** : Les rayons réfléchis et réfractés sont ==contenus dans le **plan d'incidence** (formé par le rayon incident et la normale au dioptre).==
 2. **2ème loi (Réflexion)** : L'angle de réflexion $r$ est égal à :: l'angle d'incidence $i_1$ :$$r = i_1$$
-<!--SR:!2026-10-24,4,270-->
+<!--SR:!2027-01-05,58,310-->
 3. **3ème loi (Réfraction)** : La relation entre l'angle d'incidence $i_1$, l'angle de réfraction $i_2$ et les indices optiques s'écrit ::$$n_1 \sin(i_1) = n_2 \sin(i_2)$$
-<!--SR:!2026-10-24,4,270-->
+<!--SR:!2027-01-15,64,310-->
 
 
 ## 3. Conséquences et Réflexion totale
 
 - **Cas $n_1 < n_2$** : Le rayon réfracté existe toujours et ==se rapproche== de la normale ($i_2 < i_1$). Le milieu $n_2$ est dit ==plus réfringent.==
 - **Cas $n_1 > n_2$** : Le rayon ==s'éloigne== de la normale. La réfraction n'est possible que jusqu'à un **angle limite d'incidence $i_l$** tel que $i_2 = 90^\circ$ ::$$\sin(i_l) = \frac{n_2}{n_1}$$
-<!--SR:!2026-10-23,3,250-->
+<!--SR:!2026-12-23,45,290-->
 - **Réflexion totale** : Pour tout angle d'incidence supérieur à l'angle limite ($i_1 > i_l$), il n'y a plus de ==rayon réfracté==, toute la lumière est réfléchie (applications : prismes à réflexion totale, fibres optiques).
-<!--SR:!2026-10-24,4,270-->
+<!--SR:!2027-01-14,63,310-->
 
 
 ## Concepts liés

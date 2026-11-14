@@ -19,7 +19,7 @@ Ressources:
 
 > [!info] Définition courte
 > La **fonction indicatrice** (ou caractéristique) :: d'une partie $A \subset E$, notée $\mathbb{1}_A$, est l'application de $E$ dans $\{0, 1\}$ qui vaut $1$ sur $A$ et $0$ en dehors.
-<!--SR:!2026-11-09,37,290-->
+<!--SR:!2027-04-08,149,310-->
 ```dataviewjs
 const currentFile = app.workspace.getActiveFile();
 const cache = app.metadataCache.getFileCache(currentFile);

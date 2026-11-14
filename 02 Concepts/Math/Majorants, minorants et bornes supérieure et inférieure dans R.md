@@ -47,7 +47,7 @@ Soit $A$ une partie de $\mathbb{R}$.
 - **Minorée** :: $\exists m \in \mathbb{R}, \, \forall x \in A, \, m \le x$. $m$ est un *minorant* de $A$.
 <!--SR:!2026-11-20,47,290-->
 - **Bornée** :: $A$ est à la fois majorée et minorée.
-<!--SR:!2026-11-12,39,270-->
+<!--SR:!2027-04-07,146,290-->
 
 
 ## 2. Maximum et Minimum
@@ -62,7 +62,7 @@ Soit $A$ une partie de $\mathbb{R}$.
 
 Soit $A$ une partie non vide de $\mathbb{R}$ :
 - **Borne supérieure ($\sup(A)$)** :: Si $A$ est majorée, l'ensemble des majorants de $A$ admet un plus petit élément, noté $\sup(A)$.
-<!--SR:!2026-11-11,39,290-->
+<!--SR:!2027-03-06,114,290-->
 - **Borne inférieure ($\inf(A)$)** :: Si $A$ est minorée, l'ensemble des minorants de $A$ admet un plus grand élément, noté $\inf(A)$.
 <!--SR:!2026-12-11,64,310-->
 

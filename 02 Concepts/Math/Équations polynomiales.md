@@ -7,10 +7,12 @@ tags:
   - math/algebre
   - math/résolutiondequations
   - math/nombrescomplexes
+  - math/polynomes
 MOC:
   - "[[MOC Algèbre]]"
   - "[[MOC Résolution d'équations]]"
   - "[[MOC Nombres complexes]]"
+  - "[[MOC Polynomes]]"
 date_creation: 2026-07-28
 ---
 # Équations polynomiales
@@ -77,6 +79,7 @@ Si les coefficients sont réels, toute racine non réelle apparaît avec son con
 - [[Nombres complexes et forme algébrique]]
 - [[Binôme de Newton]]
 - [[Formules de De Moivre et racines n-ièmes]]
+- [[Définition, degré et opérations sur les polynômes]]
 
 ## 📚 Cours associés
 

@@ -41,7 +41,7 @@ Une onde lumineuse sinusoïdale est caractérisée par :
 - **Sa fréquence $f$**, inverse de la période temporelle $T$.
 - **Sa pulsation $\omega$** : $\omega = 2\pi f$.
 - **Sa longueur d'onde** :: $\lambda = v \cdot T = \frac{v}{f}$.
-<!--SR:!2026-10-22,2,250-->
+<!--SR:!2026-12-06,24,270-->
 
 
 ## 2. Vitesse de propagation et indice de réfraction
@@ -49,13 +49,13 @@ Une onde lumineuse sinusoïdale est caractérisée par :
 La vitesse de propagation $v$ dépend de la nature du milieu traversé :
 - **Dans le vide** : $v = c \approx 3 \cdot 10^8\text{ m}\cdot\text{s}^{-1}$.
 - **Dans un milieu matériel** (vitesse de propagation d'une onde) :: $v = \frac{c}{n}$, où $n$ est **l'indice optique** (ou indice de réfraction) du milieu, avec $n \ge 1$.
-<!--SR:!2026-11-03,14,290-->
+<!--SR:!2026-12-28,54,310-->
 
 
 ## 3. Dispersion et loi de Cauchy
 
 L'indice de réfraction $n$ n'est pas toujours constant : il dépend de la fréquence $f$, et donc de la longueur d'onde $\lambda$. Cette dépendance est modélisée par la **loi de Cauchy** ::$$n = A + \frac{B}{\lambda_0^2}$$![[OPTIQUE GEOMETRIQUE I-II-III.pdf#page=4&rect=53,17,428,262|OPTIQUE GEOMETRIQUE I-II-III, p.4]]
-<!--SR:!2026-11-03,14,290-->
+<!--SR:!2026-12-29,55,310-->
 
 
 ## 4. Spectre électromagnétique et domaine visible

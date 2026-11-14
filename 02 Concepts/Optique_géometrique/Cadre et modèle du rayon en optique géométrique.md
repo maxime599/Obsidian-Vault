@@ -16,7 +16,7 @@ Ressources:
 
 > [!info] Définition courte
 > L'**optique géométrique** étudie la ==formation des images et la propagation de la lumière à l'aide de la notion de **rayon lumineux**, en s'affranchissant des phénomènes ondulatoires complexes sous certaines conditions d'échelle.==
-<!--SR:!2026-11-04,15,290-->
+<!--SR:!2027-01-03,60,310-->
 
 ```dataviewjs
 const currentFile = app.workspace.getActiveFile();

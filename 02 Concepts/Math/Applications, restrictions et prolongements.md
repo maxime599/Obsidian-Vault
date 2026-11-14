@@ -64,7 +64,7 @@ $$f_{|A} : A \to F, \quad x \mapsto f(x)$$
 ## 3. Prolongement d'une application
 
 Soit $f : A \to F$ avec $A \subset E$. Un **prolongement** de $f$ à $E$ est :: toute application $\tilde{f} : E \to F$ telle que sa restriction à $A$ égale $f$ ($\tilde{f}_{|A} = f$).
-<!--SR:!2026-11-03,31,270-->
+<!--SR:!2027-03-01,117,290-->
 
 > [!example] Prolongement par continuité
 > Pour $f : \mathbb{R}^* \to \mathbb{R}, \, x \mapsto \frac{\sin(x)}{x}$, un prolongement continu à $\mathbb{R}$ est :

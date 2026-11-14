@@ -37,7 +37,7 @@ if (cache && cache.headings) {
 ## 1. Principe de Fermat (Temps extrémal)
 
 Pour aller d'un point $A$ à un point $B$, la lumière suit, parmi toutes les trajectoires possibles, celle dont le temps de parcours $T_{AB}$ est extrémal (minimal ou maximal) ($T_{AB}$)::$$T_{AB} = \frac{AI}{v_1} + \frac{IB}{v_2}$$
-<!--SR:!2026-10-24,4,270-->
+<!--SR:!2026-12-01,26,290-->
 - **Conséquences** : Ce principe fondamental permet de démontrer la propagation rectiligne de la lumière dans un milieu homogène ainsi que de retrouver les lois de Snell-Descartes.
 - **Dépendance** : La durée du trajet dépend de la position du point d'incidence $I$ et, par conséquent, des angles d'incidence.
 

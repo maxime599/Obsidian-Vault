@@ -79,7 +79,7 @@ L'assertion « $P$ si et seulement si $Q$ » est vraie si :: $P$ et $Q$ ont exac
 > - Forme disjonctive : $[P \implies Q] \iff$::$[\text{non}(P) \text{ ou } Q]$
 <!--SR:!2026-11-17,28,230-->
 > - Négation de l'implication : $\text{non}(P \implies Q) \iff$::$[P \text{ et } \text{non}(Q)]$
-<!--SR:!2026-11-11,38,290-->
+<!--SR:!2026-11-30,18,270-->
 > - Contraposée : $[P \implies Q] \iff$::$[\text{non}(Q) \implies \text{non}(P)]$
 <!--SR:!2026-12-10,63,310-->
 

@@ -2,7 +2,7 @@
 // 1. CONFIGURATION DES MATIÈRES ET DOSSIERS
 const matieres = [
   "Électronique_numérique",
-  "Elen1",
+  "Elen-Ener",
   "Info",
   "Math",
   "Méthodologie_scientifique",
@@ -15,7 +15,7 @@ const matieres = [
 
 const dossiers = [
   "07 MOC/Concepts/Électronique_numérique",
-  "07 MOC/Concepts/Elen1",
+  "07 MOC/Concepts/Elen-Ener",
   "07 MOC/Concepts/Info",
   "07 MOC/Concepts/Math",
   "07 MOC/Concepts/Méthodologie_scientifique",

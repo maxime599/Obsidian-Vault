@@ -57,21 +57,21 @@
       }
     },
     {
-      "query": "path:\"02 Concepts/Elen1\"  ",
+      "query": "path:\"02 Concepts/Elen-Ener\"  ",
       "color": {
         "a": 1,
         "rgb": 39311
       }
     },
     {
-      "query": "path:\"07 MOC/Concepts/Elen1\"  ",
+      "query": "path:\"07 MOC/Concepts/Elen-Ener\"  ",
       "color": {
         "a": 1,
         "rgb": 65518
       }
     },
     {
-      "query": "path:\"01 Cours/Elen1\"  ",
+      "query": "path:\"01 Cours/Elen-Ener\"  ",
       "color": {
         "a": 1,
         "rgb": 3627094
@@ -153,11 +153,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1.04795425257732,
   "lineSizeMultiplier": 0.987967139175258,
-  "collapse-forces": true,
-  "centerStrength": 0.445238574592309,
+  "collapse-forces": false,
+  "centerStrength": 0.382826655929132,
   "repelStrength": 10.1511603150947,
   "linkStrength": 0.848399436279444,
   "linkDistance": 30,
-  "scale": 0.19489630885173514,
+  "scale": 0.03992210382807157,
   "close": true
 }

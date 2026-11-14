@@ -86,7 +86,7 @@ Si tu veux, je peux aussi te proposer une recherche plus adaptée selon si tu ch
 
 **ai**: Je ne vois aucune note supplémentaire exploitable dans le contexte fourni, seulement les éléments déjà visibles sur le tableau de bord :
 
-- [[01 Cours/Elen1/Analyse harmonique suite, Elen1 2026-10-12.md]]
+- [[Analyse harmonique suite, Elen1 2026-10-12]]
 
 Si tu veux, je peux aussi te lister les autres notes visibles depuis les extraits du tableau de bord.
 [Timestamp: 2026/10/12 16:18:40]
@@ -165,8 +165,8 @@ Ce que je vois seulement, c’est :
 - [[02 Concepts/Math]]
   - [[Suites]]
 - [[01 Cours/Elen1]]
-  - [[Analyse harmonique suite, Elen1 2026-10-12.md]]
-  - [[Analyse harmonique, Elen1 2026-10-06.md]]
+  - [[Analyse harmonique suite, Elen1 2026-10-12]]
+  - [[Analyse harmonique, Elen1 2026-10-06]]
 
 Si tu veux, envoie le contenu du panneau de fichiers ou un export de l’arborescence et je te la remettrai proprement.
 [Timestamp: 2026/10/12 16:21:31]
@@ -219,8 +219,8 @@ Comment puis-je t'aider autrement ?
 - [[02 Concepts/Math]]
   - [[Suites]]
 - [[01 Cours/Elen1]]
-  - [[Analyse harmonique suite, Elen1 2026-10-12.md]]
-  - [[Analyse harmonique, Elen1 2026-10-06.md]]
+  - [[Analyse harmonique suite, Elen1 2026-10-12]]
+  - [[Analyse harmonique, Elen1 2026-10-06]]
 
 Si tu veux, je peux aussi te dire ce que je vois dans un dossier précis.
 [Timestamp: 2026/10/12 16:26:27]
@@ -273,8 +273,8 @@ Si tu veux viser un dossier ou un mot précis, mets-le dans la même ligne que `
 **ai**: Je ne vois que ces notes dans le contexte fourni :
 
 - [[Suites]]
-- [[Analyse harmonique suite, Elen1 2026-10-12.md]]
-- [[Analyse harmonique, Elen1 2026-10-06.md]]
+- [[Analyse harmonique suite, Elen1 2026-10-12]]
+- [[Analyse harmonique, Elen1 2026-10-06]]
 [Timestamp: 2026/10/12 16:28:50]
 
 **user**: {/} et là ?

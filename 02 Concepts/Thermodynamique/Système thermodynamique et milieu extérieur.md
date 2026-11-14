@@ -3,7 +3,7 @@ type: concept
 tags:
   - concepts
   - Thermodynamique
-  - flashcards/thermodynamique
+  - flashcards/Thermodynamique
 MOC:
   - "[[MOC Systeme]]"
 date_creation: 2026-09-04

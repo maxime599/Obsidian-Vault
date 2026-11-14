@@ -53,7 +53,7 @@ Pour tout $n \in \mathbb{N}^*$, on note $[\![ 1 ; n ]\!] = \{1, 2, \dots, n\}$.
 Un ensemble $E$ est **infini** s'il n'est pas fini.
 
 > **Théorème de caractérisation** :: S'il existe une bijection entre un ensemble $E$ et une partie propre $A \subsetneq E$ ($A \neq E$), alors $E$ est infini.
-<!--SR:!2026-10-23,20,250-->
+<!--SR:!2027-01-03,70,270-->
 
 ### Exemple : Infinitude de $\mathbb{N}$
 Soit $2\mathbb{N} = \{2k \mid k \in \mathbb{N}\}$ l'ensemble des entiers pairs ($2\mathbb{N} \subsetneq \mathbb{N}$).

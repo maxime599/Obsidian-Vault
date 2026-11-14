@@ -48,9 +48,9 @@ Un système optique relie un point objet $A$ à un point image $A'$ (points conj
 ## 2. Les foyers d'un système optique
 
 - **Foyer image ($F'$)** :: Point vers lequel convergent les rayons émergents lorsque le faisceau incident arrive parallèle à l'axe optique (un objet à l'infini donne une image en $F'$).
-<!--SR:!2026-10-24,4,270-->
+<!--SR:!2027-01-02,55,310-->
 - **Foyer objet ($F$)** :: Point source positionné de telle sorte que les rayons émergents du système sortent parallèles à l'axe optique (un objet en $F$ donne une image à l'infini).
-<!--SR:!2026-10-24,4,270-->
+<!--SR:!2027-01-11,60,310-->
 
 
 ## Concepts liés

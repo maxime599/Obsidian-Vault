@@ -4,7 +4,7 @@ tags:
   - concepts
   - Thermodynamique
   - thermodynamique/variables
-  - flashcards/thermodynamique
+  - flashcards/Thermodynamique
 MOC:
   - "[[MOC Variables]]"
 date_creation: 2026-09-04

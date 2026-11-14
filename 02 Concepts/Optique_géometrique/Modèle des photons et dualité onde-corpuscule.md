@@ -41,7 +41,7 @@ if (cache && cache.headings) {
 - L'énergie d'une onde électromagnétique est quantifiée : elle est composée de quanta énergétiques appelés **photons**.
 - Un photon est une particule de masse nulle et de charge nulle se déplaçant à la vitesse de la lumière. Il n'est détecté que lors de ==son interaction avec la matière==.
 - **Énergie d'un photon** ::$$E = h \cdot f$$
-<!--SR:!2026-10-22,2,250-->
+<!--SR:!2026-11-28,26,290-->
   *(où $h \approx 6{,}6 \cdot 10^{-34}\text{ J}\cdot\text{s}$ est la constante de Planck, et $f$ la fréquence).*
 
 
@@ -50,7 +50,7 @@ if (cache && cache.headings) {
 La lumière présente un comportement **dual** selon les expériences menées :
 1. **Comportement ondulatoire** : mis en évidence par ==les phénomènes d'interférence et de diffraction==.
 2. **Comportement corpusculaire** : mis en évidence par ==l'effet photoélectrique (interaction photon-matière avec éjection d'électrons)==.
-<!--SR:!2026-10-27,7,250!2026-11-01,12,270-->
+<!--SR:!2026-11-24,26,270!2026-12-17,45,290-->
 
 
 ## Concepts liés

@@ -6,6 +6,7 @@ tags:
   - math
   - math/nombrescomplexes
   - math/trigonométrie
+  - flashcards/Math
 MOC:
   - "[[MOC Nombres complexes]]"
   - "[[MOC Trigonométrie]]"
@@ -15,8 +16,8 @@ date_creation: 2026-07-28
 # Formules de De Moivre et racines n-ièmes
 
 > [!info] Définition courte
-> La formule de **De Moivre** donne les puissances d'un complexe de module $r$ et d'argument $\theta$ :
-> $$\left(r(\cos\theta+i\sin\theta)\right)^n=r^n\left(\cos(n\theta)+i\sin(n\theta)\right).$$
+> La formule de **De Moivre** donne les puissances d'un complexe de module $r$ et d'argument $\theta$::$$\left(r(\cos\theta+i\sin\theta)\right)^n=r^n\left(\cos(n\theta)+i\sin(n\theta)\right).$$
+<!--SR:!2026-11-14,16,290-->
 > Elle permet notamment de déterminer les racines $n$-ièmes d'un complexe non nul.
 ```dataviewjs
 const currentFile = app.workspace.getActiveFile();
@@ -48,8 +49,8 @@ Pour résoudre $z^n=w$ avec $w=\rho e^{i\varphi}\ne0$ :
 
 1. Prendre le module : $|z|=\rho^{1/n}$.
 2. Résoudre $n\theta\equiv\varphi\ [2\pi]$ pour l'argument.
-3. Obtenir les $n$ solutions :
-   $$z_k=\rho^{1/n}e^{i\left(\frac{\varphi+2k\pi}{n}\right)},\quad k=0,1,\dots,n-1.$$
+3. Obtenir les $n$ solutions (formule de la racine n-ième)::$$z_k=\rho^{1/n}e^{i\left(\frac{\varphi+2k\pi}{n}\right)},\quad k=0,1,\dots,n-1.$$
+<!--SR:!2027-01-07,56,310-->
 4. Les représenter : elles sont régulièrement réparties sur un cercle de rayon $\rho^{1/n}$.
 
 ## Exemple simple

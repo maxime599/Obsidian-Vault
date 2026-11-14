@@ -55,7 +55,7 @@ $$\sum_{k=m}^{n} a_k = a_m + a_{m+1} + \dots + a_{n-1} + a_n$$
 - **Additivité** :
   $$\sum_{k=m}^{n} (a_k + b_k) = \sum_{k=m}^{n} a_k + \sum_{k=m}^{n} b_k$$
 - **Multiplication par une constante** : Pour tout réel ou complexe $\lambda$ ne dépendant pas de l'indice $k$ ::$$\sum_{k=m}^{n} \lambda a_k = \lambda \sum_{k=m}^{n} a_k$$
-<!--SR:!2026-10-28,15,290-->
+<!--SR:!2026-12-30,62,310-->
 
 > [!warning] Incompatibilité avec le produit
 > En général, la sommation ne se distribue pas sur la multiplication :
@@ -75,7 +75,7 @@ Le changement d'indice permet de modifier les bornes de la somme ou de simplifie
 ## 4. Sommes télescopiques
 
 Lors d'une somme de différences de termes consécutifs, tous les termes intermédiaires s'annulent deux à deux ::$$\sum_{k=m}^{n} (a_{k+1} - a_k) = a_{n+1} - a_m$$
-<!--SR:!2026-10-26,12,270-->
+<!--SR:!2026-12-15,47,290-->
 
 
 ## 5. Sommes usuelles
@@ -87,7 +87,7 @@ $$\sum_{k=0}^{n} k = \sum_{k=1}^{n} k = \frac{n(n+1)}{2}$$
 ### B. Somme des puissances (Suite géométrique)
 Pour tout $q \neq 1$ et tout $n \in \mathbb{N}$ :
 $\sum_{k=0}^{n} q^k$ = ==$\frac{1 - q^{n+1}}{1 - q}$==
-<!--SR:!2026-10-23,3,250-->
+<!--SR:!2026-12-21,43,290-->
 
 
 ## Concepts liés

@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "storeName": "fileSearchStores/obsidiancourstlcom-uhfzo8jg4cse",
-  "lastSync": 1792009388530,
+  "lastSync": 1793361276788,
   "files": {
     "Sans titre.md": {
       "contentHash": "4bba04d0e16aa807cc5f9fdc80aee4e325c1e5659ee81f24f84d5a3c776dae36",
@@ -60,8 +60,8 @@
       "lastIndexed": 1791980394016
     },
     "02 Concepts/Optique_géometrique/Modèle des ondes électromagnétiques et indice de réfraction.md": {
-      "contentHash": "cfb2d45e09bbf9eae1592a076793f35617cad7a3a63aadc0ed461758f2269993",
-      "lastIndexed": 1792003471135
+      "contentHash": "fba97514fae117d2223907ce84e8429d1fab04e01a7d8e8a72ec1e123e1582e2",
+      "lastIndexed": 1793267849013
     },
     "Excalidraw/Drawing 2026-09-22 15.51.59.excalidraw.md": {
       "contentHash": "ab1d0ce12b9b8acae3f041e38e835c767b6cf2f5ca9b87b92771526e3939e5a7",
@@ -120,8 +120,8 @@
       "lastIndexed": 1791980726959
     },
     "02 Concepts/Optique_géometrique/Modèle des photons et dualité onde-corpuscule.md": {
-      "contentHash": "9a7e223d6548998f8f38635ab940148406ceebc5f39c3d4e8c150415c3f40c77",
-      "lastIndexed": 1792003457644
+      "contentHash": "5e76c12f20cf13336642665533b1c003e1ea072f36a0696f1c9f9de0c0b87ab4",
+      "lastIndexed": 1793267865466
     },
     "07 MOC/Concepts/Optique_géometrique/MOC Quantique.md": {
       "contentHash": "d4262e542706c0ec84cdd334ee8e1490d7ecf745a1f3167688f8ecf67ad0a2cf",
@@ -160,8 +160,8 @@
       "lastIndexed": 1791981041518
     },
     "Dashboard.md": {
-      "contentHash": "1e2318e99b0f78774107e1182eef99d899b845c46df54dcdb884ab72b4cc7ae1",
-      "lastIndexed": 1791981121527
+      "contentHash": "9aab6f93a91da2f7a10dec8038d1aa5d9e8315a165c206a8e48de40e07ea7e05",
+      "lastIndexed": 1793266900760
     },
     "copilot/skills/obsidian-cli/SKILL.md": {
       "contentHash": "0b49b34483b94bda1562891c9ba04e58561e173a6eccfac263346c0631a80eb0",
@@ -548,8 +548,8 @@
       "lastIndexed": 1792001004511
     },
     "file_index.csv": {
-      "contentHash": "440bc29ad7b43c4329accede2214fa65c5117bf8ac77aaae55c9f1a568d2c737",
-      "lastIndexed": 1792009388530
+      "contentHash": "9457323a513d04e4fb71ec4f0ead377333821157535666c31f59680614ab5e25",
+      "lastIndexed": 1793361276788
     },
     "01 Cours/Optique_géometrique/Chapitres 1 2 3 , Optique géometrique 2026-10-14.md": {
       "contentHash": "0c359882a82a79c7937f41ec3047846b8b1edaf1209396e3131c06debe8da5be",
@@ -1204,8 +1204,8 @@
       "lastIndexed": 1792002888071
     },
     "02 Concepts/Électronique_numérique/Portes logiques et algèbre de Boole.md": {
-      "contentHash": "17896bfc4a08a3d8655dd3b1ec7146bbb003f86fe7f773a6566e1d3de59fba3b",
-      "lastIndexed": 1792002888134
+      "contentHash": "07a38ebe775df73d4abae3127d5d4db2aae111ab5794ea0d92c30ca0274159d5",
+      "lastIndexed": 1793267925262
     },
     "02 Concepts/Électronique_numérique/Propriétés de l'algèbre de Boole.md": {
       "contentHash": "ffa11ebec6daab32ad5f56b0e2aa821641e805461406f36ef9eae2da792d7d19",
@@ -1376,8 +1376,8 @@
       "lastIndexed": 1792002935966
     },
     "02 Concepts/Math/Sommes, changements d'indice et sommes télescopiques.md": {
-      "contentHash": "f14c4d878276eec9125da81a0d9752af379ac840d9f6b8aabb26f7be8ca2ede3",
-      "lastIndexed": 1792003303110
+      "contentHash": "29712957cd8b075f04e06a08898a225729169a53702fc068514d58723198bdfd",
+      "lastIndexed": 1793267505114
     },
     "02 Concepts/Math/Quantificateurs logiques.md": {
       "contentHash": "eb90789ac011a40b280196b8c4a99d4b53a929e8f12bc0b08cdcc29487a99edc",
@@ -1532,12 +1532,12 @@
       "lastIndexed": 1792002965131
     },
     "02 Concepts/Math/Formules de De Moivre et racines n-ièmes.md": {
-      "contentHash": "e2d14a3a5a2bba45daf4a216469b02780c0c9147d85e9009f4ae12b7eb621ea1",
-      "lastIndexed": 1792002965192
+      "contentHash": "5818f7869c9e3be3a95ecbd6f36381e51cea0e32dd9d6764f5ab652cdae64352",
+      "lastIndexed": 1793267790539
     },
     "02 Concepts/Math/Forme exponentielle et formule d'Euler.md": {
-      "contentHash": "5e1b3535d6451fe3e2a83b839a8329b5539425fe680678aad1de84fa98b7eff7",
-      "lastIndexed": 1792002965369
+      "contentHash": "3aa3010b48ab1dc9f3e21ed0ba7472341b743f14354fb73944be19364f3889f3",
+      "lastIndexed": 1793267820985
     },
     "02 Concepts/Math/Dérivée, sens de variation et extrémums locaux.md": {
       "contentHash": "21b19b8122bf7cd740aa6cf43e5fbc0fc958d38b423d7e63167a586c24d6739e",
@@ -1616,8 +1616,8 @@
       "lastIndexed": 1792002979239
     },
     "02 Concepts/Math/Application réciproque d'une bijection.md": {
-      "contentHash": "1ab877e94842e4ccecbf3110a02e80e1336ae5c047e042f8b971346433317eaa",
-      "lastIndexed": 1792002979660
+      "contentHash": "1be19407ef77822d1ede001b26de9d450dc292ebe395897fa962e58eab5e3987",
+      "lastIndexed": 1793267801733
     },
     "02 Concepts/Info/Types de données élémentaires.md": {
       "contentHash": "10ad7db7529636bef06358b3d7d7cd8e4c7dc43b193965b00a19fa4ece668904",
@@ -1636,8 +1636,8 @@
       "lastIndexed": 1792002982764
     },
     "02 Concepts/Info/Syntaxe et structure en algorithmique.md": {
-      "contentHash": "ce99daacf5a12539d27b6b3b8b84b2c1b4f28a964e19d41a23828e75bd41cb8d",
-      "lastIndexed": 1792002982932
+      "contentHash": "3eba3f169c0fffc7218f76d60718be3817280f5612e5eaee8095a316bc2d21a9",
+      "lastIndexed": 1793267909331
     },
     "02 Concepts/Méthodologie_scientifique/Méthodes d’apprentissage efficaces et fausses bonnes idées.md": {
       "contentHash": "6e180b77e14eaf60469e66edb02b24b5c641972e73fcbd8200ccd108204cec22",
@@ -1672,16 +1672,16 @@
       "lastIndexed": 1792002989583
     },
     "02 Concepts/Elen1/Types de régime en électicité.md": {
-      "contentHash": "2ac6dd3cabdf26fd3bbc05c31d601396c23e9cc68108c028ac83126442e8d032",
-      "lastIndexed": 1792002989786
+      "contentHash": "93a13c5d78c340f6dc5878709d01a0830ec3fc5c3a925c18891d6ff42e17d044",
+      "lastIndexed": 1793267315314
     },
     "02 Concepts/Méthodologie_scientifique/Les 5 niveaux de savoir.md": {
       "contentHash": "58c4af60b28fe79ce5031767a36f99dfe45c2253a2b1cb749591dd493d9bcf83",
       "lastIndexed": 1792002990018
     },
     "02 Concepts/Elen1/Montages de base à Amplificateur Opérationnel (AOP).md": {
-      "contentHash": "0c35aceb0aa4c354683a8359dc887ada884e549e1ca5a96a1223f0299c20621f",
-      "lastIndexed": 1792002992956
+      "contentHash": "ca9fada73079a0738fa6cd6f865a2cec995f2c50d94cbd26f7447d433b93a95a",
+      "lastIndexed": 1793267350687
     },
     "02 Concepts/Elen1/Lois fondamentales de l'électricité (Kirchhoff et Ohm).md": {
       "contentHash": "c379495faa30be22000f829f85d2bbeabecc0b02f138984e9bd599bbf87c2011",
@@ -1712,8 +1712,8 @@
       "lastIndexed": 1792002996733
     },
     "02 Concepts/Elen1/Analyse indicielle et circuit RC du premier ordre.md": {
-      "contentHash": "8faf603d74c5789625ea9cf5605d666b08b66678d10d029ea9f865d339e2c468",
-      "lastIndexed": 1792002996841
+      "contentHash": "69c8af0c39741a3e598ac0b7ccadbf3213858216e2b899f8ccca350e4d6ad650",
+      "lastIndexed": 1793266937500
     },
     "02 Concepts/Elen1/Conventions en électricité.md": {
       "contentHash": "0028a3b2591e600888bd0bbd1c7a8652893b473ed9c48cb5890b4cadd24264ba",
@@ -1724,8 +1724,8 @@
       "lastIndexed": 1792002999881
     },
     "02 Concepts/Elen1/Analyse harmonique et diagrammes de Bode.md": {
-      "contentHash": "0e781608def3d6505af92f63d80a4bf738fbd1f74b92612c570a3d948dcb7d82",
-      "lastIndexed": 1792003273583
+      "contentHash": "798ee9ef22305ed1388cf99fc43c2ca276f123d86a21f3f54915c4487c060250",
+      "lastIndexed": 1793267356884
     },
     "01 Cours/Thermodynamique/Suite TD2, Thermodynamique 2026-10-09.md": {
       "contentHash": "7f57e15161e57a4103c1adc861d0b926191856745ac1bac79a974b5c028b11af",
@@ -1942,6 +1942,50 @@
     "01 Cours/Elen1/Analyse harmonique suite, Elen1 2026-10-12.md": {
       "contentHash": "1135071e2783aac854a53f21546905af19ca0eaa69b867720c30917086ab67c4",
       "lastIndexed": 1792003039157
+    },
+    "02 Concepts/Elen1/Analyse qualitative des filtres (circuits passifs et AOP).md": {
+      "contentHash": "4840f06408f8fdbc3c7f12e832e89457a20078804caa514b53e8d71737b3cec5",
+      "lastIndexed": 1793267353774
+    },
+    "02 Concepts/Math/Factorisation par l'arc moitié (Exponentielles complexes).md": {
+      "contentHash": "54f78013d1e2ff71fd36b5ace9760ac69b521a533b94ca9fc9bc1273dd0a3afa",
+      "lastIndexed": 1793267435094
+    },
+    "02 Concepts/Math/Fonction tangente et propriétés.md": {
+      "contentHash": "450f6341dedc59354fe0d81edd2312cc2e90ae3bf0de056dfb5763f12527b259",
+      "lastIndexed": 1793267511857
+    },
+    "02 Concepts/Optique_géometrique/Principe de Fermat et indépendance des rayons lumineux.md": {
+      "contentHash": "4bac0004540125b9c81d93d54b6f5a8f64fbbd0813ffaa992c48c6bbba657a54",
+      "lastIndexed": 1793267861961
+    },
+    "02 Concepts/Optique_géometrique/Stigmatisme et conditions de Gauss.md": {
+      "contentHash": "8f45a9f67bdaa0fc9cc538a0bf62e60b15c983fb323e32bc24ca5e83a587889c",
+      "lastIndexed": 1793267879774
+    },
+    "05 Ressources/TP elen/TP6.pdf": {
+      "contentHash": "76e70598c725c7bf39e067e995542da9d00243111224ee36a8de993a82aa15a6",
+      "lastIndexed": 1793360012518
+    },
+    "05 Ressources/TP elen/TP5.pdf": {
+      "contentHash": "51a22cc75d4749ec861321a55996d778f2890ebc87e93b8447a80183948e82d1",
+      "lastIndexed": 1793360017344
+    },
+    "05 Ressources/TP elen/TP4.pdf": {
+      "contentHash": "92e664bbf64e441c386ceb4ec5e1fefb9edb2b674240fdfd220b707661b08942",
+      "lastIndexed": 1793360023086
+    },
+    "05 Ressources/TP elen/TP3.pdf": {
+      "contentHash": "28882358260823a5b1b836bbc2b05e8c4888c0ab28c75715ed6c491733849c77",
+      "lastIndexed": 1793360027484
+    },
+    "05 Ressources/TP elen/TP2.pdf": {
+      "contentHash": "2d882e8a3f9e7f569613a40ffbd11443c3b110f7a0aad869ad84f5b45858b0f6",
+      "lastIndexed": 1793360032594
+    },
+    "05 Ressources/TP elen/TP1.pdf": {
+      "contentHash": "c8a8ceff1227f3d517e2240e4556b3ab67562dcc4d22f9e6e551bad39205fcbd",
+      "lastIndexed": 1793360037189
     }
   },
   "indexingInProgress": false,

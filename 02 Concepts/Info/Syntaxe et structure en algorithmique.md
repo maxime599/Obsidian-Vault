@@ -44,7 +44,7 @@ if (cache && cache.headings) {
 Un algorithme bien structuré se divise en deux parties principales :
 
 - **Le Lexique (ou Déclarations)** : Répertorie ==l'ensemble des objets manipulés en précisant leur type.==
-<!--SR:!2026-11-12,40,290-->
+<!--SR:!2027-04-21,160,310-->
 
   - **Constante** : Valeur ==fixe== définie dès le début (ex: `TAUX : ==constante réelle := 6.55957`==).
 <!--SR:!2026-12-12,65,310!2026-12-08,61,310-->
@@ -108,7 +108,7 @@ Fin
 1. Lister = déclarer dans le lexique principal avec R, E, S les fonctions du découpage
 2. Compléter le lexique principal et réaliser l'algo principal en appelant les fonctions du découpage
 3. Définir chaque fonctions du découpage, en dehors de l'algo principal
-<!--SR:!2026-10-22,24,270-->
+<!--SR:!2027-01-22,89,290-->
 
 
 #### Découpe fonctionnel simple
@@ -135,7 +135,7 @@ Début
 	FinSi
 ```
 On peut représenter ça sous forme de graphe
-<!--SR:!2026-10-26,11,270-->
+<!--SR:!2026-11-28,30,270-->
 
 
 Syntaxe Selon en algo :
@@ -154,10 +154,26 @@ Début
 		...
 		autrement : bloc de code
 ```
-<!--SR:!2026-10-30,15,290-->
+<!--SR:!2026-12-31,59,310-->
 
 
+### 5. Les tableaux en algorithmique
 
+**Déclaration et accès**
+- Exemple de déclaration d'un tableau en algo :: `ex_tableau : tableau de 3 entiers := {1, 2, 3}`
+<!--SR:!2026-11-15,3,250-->
+- Accès à un élément d'un tableau en algo:: `ex_tableau[1]` (pour cibler l'indice 1)
+<!--SR:!2026-11-16,4,270-->
+
+**Copie de tableaux**
+- L'affectation directe `tab2 \leftarrow tab1` est impossible, car `tab1` et `tab2` désignent des tableaux et non des variables simples.
+- La copie d'un tableau nécessite obligatoirement ==le parcours des éléments via une boucle pour les copier case par case.==
+<!--SR:!2026-11-16,4,270-->
+
+**Passage aux fonctions**
+- Une fonction ne réalise jamais de copie d'un tableau : elle transmet uniquement son adresse.
+- Modifier un tableau en paramètre dans une fonction modifie ==donc directement le tableau original.==
+<!--SR:!2026-11-16,4,270-->
 
 
 ## Exemple :

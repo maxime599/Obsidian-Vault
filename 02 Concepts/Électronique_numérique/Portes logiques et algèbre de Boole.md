@@ -136,7 +136,7 @@ La sortie est vraie ($1$) si au moins une des entrées est vraie ($1$).
 ### Fonction XOR (Disjonction exclusive / OU Exclusif)
 La sortie est vraie ($1$) si et seulement si les deux entrées ont des états logiques différents.
 - **Équation** porte XOR ::: $s = a \oplus b$
-<!--SR:!2026-10-27,28,270!2026-12-11,64,310-->
+<!--SR:!2027-02-12,106,290!2026-12-11,64,310-->
 - **Table de vérité** porte XOR :
 ??
 | $a$ | $b$ | $s$ |

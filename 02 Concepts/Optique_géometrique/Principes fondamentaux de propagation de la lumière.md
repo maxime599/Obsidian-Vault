@@ -41,21 +41,21 @@ Un milieu matériel de propagation se caractérise par ses propriétés physique
 - **Homogène** : possède les mêmes propriétés en tout point.
 - **Isotrope** : ses propriétés sont indépendantes de la direction de propagation.
 - **Transparent** : laisse passer la lumière (par opposition aux milieux opaques ou absorbants).
-<!--SR:!2026-11-01,12,270-->
+<!--SR:!2026-12-05,33,270-->
 
 
 ## 2. Principe de propagation rectiligne et milieux inhomogènes
 
 - **Règle générale** : Dans un milieu transparent, homogène et isotrope, la lumière se propage en ==ligne droite de la source au récepteur==.
 - **Cas des milieux inhomogènes** : Si l'indice $n$ varie (par exemple en raison d'un gradient de température), les rayons lumineux se ==courbent==. C'est l'origine physique du **phénomène de mirage** (où l'œil, habitué à la ligne droite, interprète faussement la provenance du rayon).
-<!--SR:!2026-11-03,14,290!2026-11-04,15,290-->
+<!--SR:!2026-12-30,56,310!2027-01-06,63,310-->
 
 
 ## 3. Principe de retour inverse de la lumière
 
 - Le trajet suivi par un rayon lumineux est **==indépendant== du sens de propagation**.
 - Si un rayon émis par une source $A$ se propage jusqu'en $B$, alors ==une source placée en $B$ émettra un rayon suivant exactement le même chemin en sens inverse jusqu'en $A$, quels que soient les milieux traversés.==
-<!--SR:!2026-11-04,15,290!2026-11-05,16,290-->
+<!--SR:!2027-01-02,59,310!2027-01-08,64,310-->
 
 
 ## Concepts liés

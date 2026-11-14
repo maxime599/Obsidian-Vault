@@ -1,8 +1,8 @@
 <%*
 // 1. CONFIGURATION DE TES MATIÈRES ET DOSSIERS DE CONCEPTS
 // Modifie/ajoute les dossiers où tu souhaites ranger tes concepts :
-const matieres = ["Électronique_numérique", "Elen1", "Info", "Math", "Méthodologie_scientifique", "Physique", "Thermodynamique", "Anglais", "SAé", "Optique_géometrique"];
-const dossiers = ["02 Concepts/Électronique_numérique", "02 Concepts/Elen1", "02 Concepts/Info", "02 Concepts/Math", "02 Concepts/Méthodologie_scientifique", "02 Concepts/Physique", "02 Concepts/Thermodynamique", "02 Concepts/Anglais", "02 Concepts/SAé", "02 Concepts/Optique_géometrique"];
+const matieres = ["Électronique_numérique", "Elen-Ener", "Info", "Math", "Méthodologie_scientifique", "Physique", "Thermodynamique", "Anglais", "SAé", "Optique_géometrique"];
+const dossiers = ["02 Concepts/Électronique_numérique", "02 Concepts/Elen-Ener", "02 Concepts/Info", "02 Concepts/Math", "02 Concepts/Méthodologie_scientifique", "02 Concepts/Physique", "02 Concepts/Thermodynamique", "02 Concepts/Anglais", "02 Concepts/SAé", "02 Concepts/Optique_géometrique"];
 
 
 // Demande la matière via un menu déroulant

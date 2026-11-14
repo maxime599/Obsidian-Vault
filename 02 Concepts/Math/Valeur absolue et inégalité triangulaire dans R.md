@@ -58,7 +58,7 @@ En particulier, $\vert{}x\vert{}$ représente la distance du point d'abscisse $x
 ## 3. Inégalité triangulaire
 
 Pour tous réels $x$ et $y$ (Inégalité triangulaire)::$$\vert{}x + y\vert{} \le \vert{}x\vert{} + \vert{}y\vert{}$$
-<!--SR:!2026-10-30,15,290-->
+<!--SR:!2027-01-04,63,310-->
 
 ### Démonstration
 Pour tout réel $t$, on a $-\vert{}t\vert{} \le t \le \vert{}t\vert{}$. En appliquant ceci à $x$ et $y$ :

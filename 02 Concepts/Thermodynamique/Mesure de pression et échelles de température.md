@@ -11,7 +11,7 @@ date_creation: 2026-09-04
 Ressources:
   - "[[Principes de la thermodynamique chapitres I et II.pdf]]"
 ---
-# Mesure de pression et échelles de température
+t# Mesure de pression et échelles de température
 
 > [!info] Définition courte
 > La **mesure de la pression et de la température** repose sur l'exploitation de propriétés physiques identifiables (dilatation thermique, forces de fluide) étalonnées selon des échelles de référence.

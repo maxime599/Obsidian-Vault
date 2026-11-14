@@ -9,6 +9,15 @@ tags:
   - cours
   - Math
 Concepts:
+  - "[[Nombres complexes et forme algébrique]]"
+  - "[[Forme exponentielle et formule d'Euler]]"
+  - "[[Étude et propriétés des fonctions cosinus et sinus]]"
+  - "[[Fonction tangente et propriétés]]"
+  - "[[Argument et forme trigonométrique d'un nombre complexe]]"
+  - "[[Formules de De Moivre et racines n-ièmes]]"
+  - "[[Factorisation par l'arc moitié (Exponentielles complexes)]]"
+  - "[[Formules trigonométriques avancées (Addition, duplication et transformation)]]"
+  - "[[Réduction de a sin(wt) + b cos(wt) (Angle auxiliaire)]]"
 Ressources:
 ---
 
@@ -220,7 +229,7 @@ $$\tan(u) = \tan(v) \iff u = v + k\pi \quad (k \in \mathbb{Z})$$
 > [!note] Remarque 5
 > Pour résoudre des équations du type $\cos(u) = \sin(v)$, on peut employer la relation de complémentarité : $\sin(v) = \cos\left(\frac{\pi}{2} - v\right)$.
 
-#### Théorème 11 : Identity fondamentale
+#### Théorème 11 : Identité fondamentale
 Pour tout réel $x$ :
 $$\cos^2(x) + \sin^2(x) = 1$$
 
@@ -278,6 +287,6 @@ où :
 ## À retenir
 -
 ## Travail à faire
-- [ ] mettre sous forme de concept
-
+- [x] mettre sous forme de concept
+- [x] ajouter des flashcards
 

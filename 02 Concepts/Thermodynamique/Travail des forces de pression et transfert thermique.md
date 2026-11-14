@@ -4,7 +4,7 @@ tags:
   - concepts
   - Thermodynamique
   - thermodynamique/transfert
-  - flashcards/thermodynamique
+  - flashcards/Thermodynamique
 MOC:
   - "[[MOC Transfert]]"
 date_creation: 2026-09-04

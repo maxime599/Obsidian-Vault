@@ -4,7 +4,7 @@ tags:
   - concepts
   - Thermodynamique
   - thermodynamique/energie
-  - flashcards/thermodynamique
+  - flashcards/Thermodynamique
 MOC:
   - "[[MOC Energie]]"
 date_creation: 2026-09-04

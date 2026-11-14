@@ -37,7 +37,7 @@ if (cache && cache.headings) {
 
 - **Stigmatisme rigoureux** : Un système est stigmatique pour un couple $(A, A')$ si ==tout rayon issu de $A$ converge exactement en $A'$ (ex : le miroir plan).==
 - **Stigmatisme approché** : Les rayons issus de $A$ passent ==au voisinage de $A'$ sans créer de tache perçue comme floue par le récepteur (œil ou capteur photo),== l'écart étant inférieur à la limite de résolution. $A'$ est alors une image virtuelle ou approchée.
-<!--SR:!2026-10-23,3,250!2026-10-24,4,270-->
+<!--SR:!2026-12-16,41,290!2027-01-04,57,310-->
 
 
 ## 2. Les Conditions de Gauss
@@ -53,13 +53,13 @@ Pour qu'un système optique centré réalise un stigmatisme approché de qualit�
 
 - **Aplanétisme** : Propriété d'un système optique centré fonctionnant dans les conditions de Gauss dont l'image d'un objet plan perpendiculaire à l'axe optique est elle-même plane et perpendiculaire à cet axe.
 - **Condition d'Abbe** :: $n \cdot \overline{AB} \cdot \sin(u) = n' \cdot \overline{A'B'} \cdot \sin(u')$ (qui se simplifie sous Gauss par $n \cdot \overline{AB} \cdot u = n' \cdot \overline{A'B'} \cdot u'$).
-<!--SR:!2026-10-24,4,270-->
+<!--SR:!2026-11-21,9,270-->
 - **Grandissements** :
   - Grandissement transversal : $\gamma = \frac{\overline{A'B'}}{\overline{AB}}$
   - Grossissement angulaire :: $G = \frac{u'}{u}$
-<!--SR:!2026-10-24,4,270-->
+<!--SR:!2026-12-03,21,270-->
   - Relation fondamentale :: $\gamma \cdot G = \frac{n}{n'}$
-<!--SR:!2026-10-21,1,230-->
+<!--SR:!2026-11-17,5,230-->
 
 
 ## Concepts liés
