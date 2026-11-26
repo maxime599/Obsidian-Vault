@@ -50,7 +50,7 @@ if (cache && cache.headings) {
 La lumière présente un comportement **dual** selon les expériences menées :
 1. **Comportement ondulatoire** : mis en évidence par ==les phénomènes d'interférence et de diffraction==.
 2. **Comportement corpusculaire** : mis en évidence par ==l'effet photoélectrique (interaction photon-matière avec éjection d'électrons)==.
-<!--SR:!2026-11-24,26,270!2026-12-17,45,290-->
+<!--SR:!2027-03-02,98,290!2026-12-17,45,290-->
 
 
 ## Concepts liés

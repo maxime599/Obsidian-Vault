@@ -40,20 +40,20 @@ if (cache && cache.headings) {
 ## 1. Polynôme dérivé et propriétés
 
 Soit $P(X) = \sum_{k=0}^{+\infty} a_k X^k$. Son **polynôme dérivé** est défini par ::$$P'(X) = \sum_{k=1}^{+\infty} k a_k X^{k-1}$$
-<!--SR:!2026-11-24,16,290-->
+<!--SR:!2027-01-26,63,310-->
 
 - **Propriétés** : 
   - $P(X)$ est constant $\iff$::$P'(X) = 0$.
-<!--SR:!2026-11-24,16,290-->
+<!--SR:!2026-12-01,7,270-->
   - Linéarité, règle du produit, règle de la puissance et règle de la composée.
 - **Formule de Leibniz** (dérivée $n$-ième d'un produit) ::$$(PQ)^{(n)}(X) = \sum_{k=0}^{n} \binom{n}{k} P^{(k)}(X) Q^{(n-k)}(X)$$
-<!--SR:!2026-11-20,12,270-->
+<!--SR:!2026-11-26,6,250-->
 
 
 ## 2. Formule de Taylor pour les polynômes
 
 Pour tout polynôme $P(X)$ de degré $n$ et tout $\alpha \in \mathbb{C}$ (Formule de Taylor)::$$P(X) = \sum_{k=0}^{n} \frac{P^{(k)}(\alpha)}{k!} (X - \alpha)^k$$
-<!--SR:!2026-11-15,5,230-->
+<!--SR:!2026-11-28,8,230-->
 $$P(X) = P(\alpha) + \frac{P'(\alpha)}{1!}(X-\alpha) + \frac{P''(\alpha)}{2!}(X-\alpha)^2 + \dots + \frac{P^{(n)}(\alpha)}{n!}(X-\alpha)^n$$
 
 En particulier, pour $\alpha = 0$ :

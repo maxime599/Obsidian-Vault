@@ -8,16 +8,6 @@ MOC:
 date_creation: 2026-11-12
 Ressources:
 ---
----
-type: concept
-matière: Physique / Électronique / Systèmes Embarqués
-tags:
-  - concept
-  - electronique
-  - transistor-driver
-  - commutation
-date_creation: 2026-11-12
----
 
 # Utilisation du transistor driver et dimensionnement
 
@@ -73,9 +63,7 @@ Le calcul de la résistance de base se fait en plusieurs étapes pour s'assurer 
 
 ## Concepts liés
 
-- [[Représentation de Fresnel et dipôles élémentaires (R, L, C)]]
 - [[Lois fondamentales de l'électricité (Kirchhoff et Ohm)]]
-- [[Composants réactifs ; Condensateur et Inductance]]
 
 
 ## 📚 Cours associés

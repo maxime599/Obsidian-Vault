@@ -1,0 +1,806 @@
+{
+  "annotations": [
+    {
+      "anchor": {
+        "componentId": "c-mwurwpjo-f2-0yxclch",
+        "kind": "pin",
+        "pinId": "1"
+      },
+      "global": true,
+      "id": "a-mwurwpjo-f3-cb77sex",
+      "kind": "label",
+      "locked": false,
+      "position": {
+        "x": 152,
+        "y": -32
+      },
+      "size": {
+        "x": 160,
+        "y": 96
+      },
+      "text": "GND",
+      "zIndex": 0
+    },
+    {
+      "anchor": {
+        "componentId": "c-mwut4yle-1pl-e4ujfb7",
+        "kind": "pin",
+        "pinId": "1"
+      },
+      "global": true,
+      "id": "a-mwut4yle-1pm-dpsh6py",
+      "kind": "label",
+      "locked": false,
+      "position": {
+        "x": -136,
+        "y": -88
+      },
+      "size": {
+        "x": 160,
+        "y": 96
+      },
+      "text": "GND",
+      "zIndex": 0
+    },
+    {
+      "anchor": {
+        "componentId": "c-mwut53ai-1q5-e5kx5ff",
+        "kind": "pin",
+        "pinId": "1"
+      },
+      "global": true,
+      "id": "a-mwut53ai-1q6-0t21o7u",
+      "kind": "label",
+      "locked": false,
+      "position": {
+        "x": -448,
+        "y": -128
+      },
+      "size": {
+        "x": 160,
+        "y": 96
+      },
+      "text": "GND",
+      "zIndex": 0
+    }
+  ],
+  "components": [
+    {
+      "definitionId": "builtin.resistor.v1",
+      "id": "c-mwurvfcu-6u-4parh7a",
+      "locked": false,
+      "mirrorX": false,
+      "mirrorY": false,
+      "position": {
+        "x": -64,
+        "y": -288
+      },
+      "properties": {
+        "value": "10k"
+      },
+      "reference": "R1",
+      "rotation": 180
+    },
+    {
+      "definitionId": "builtin.analog-0.v1",
+      "id": "c-mwurvpqg-6v-v63fjbv",
+      "locked": false,
+      "mirrorX": false,
+      "mirrorY": false,
+      "position": {
+        "x": -88,
+        "y": -160
+      },
+      "properties": {},
+      "reference": "U1",
+      "rotation": 0
+    },
+    {
+      "definitionId": "builtin.ground.v1",
+      "id": "c-mwurwpjo-f2-0yxclch",
+      "locked": false,
+      "mirrorX": false,
+      "mirrorY": false,
+      "position": {
+        "x": 136,
+        "y": 0
+      },
+      "properties": {},
+      "reference": "GND1",
+      "rotation": 0
+    },
+    {
+      "definitionId": "builtin.resistor.v1",
+      "id": "c-mwurx5jv-fo-82hrxe5",
+      "locked": false,
+      "mirrorX": false,
+      "mirrorY": false,
+      "position": {
+        "x": -200,
+        "y": -176
+      },
+      "properties": {
+        "value": "10k"
+      },
+      "reference": "R2",
+      "rotation": 0
+    },
+    {
+      "definitionId": "builtin.ac-voltage.v1",
+      "id": "c-mwurygoy-ks-ldchim5",
+      "locked": false,
+      "mirrorX": false,
+      "mirrorY": false,
+      "position": {
+        "x": -296,
+        "y": -200
+      },
+      "properties": {
+        "value": "230V"
+      },
+      "reference": "V1",
+      "rotation": 0
+    },
+    {
+      "definitionId": "builtin.load-4.v1",
+      "id": "c-mwus094a-yf-b7ke6y2",
+      "locked": false,
+      "mirrorX": false,
+      "mirrorY": false,
+      "position": {
+        "x": 64,
+        "y": -80
+      },
+      "properties": {},
+      "reference": "TP1",
+      "rotation": 0
+    },
+    {
+      "definitionId": "builtin.load-4.v1",
+      "id": "c-mwus18xo-111-832fpuz",
+      "locked": false,
+      "mirrorX": false,
+      "mirrorY": false,
+      "position": {
+        "x": -408,
+        "y": -208
+      },
+      "properties": {},
+      "reference": "TP2",
+      "rotation": 0
+    },
+    {
+      "definitionId": "builtin.ground.v1",
+      "id": "c-mwut4yle-1pl-e4ujfb7",
+      "locked": false,
+      "mirrorX": false,
+      "mirrorY": false,
+      "position": {
+        "x": -152,
+        "y": -56
+      },
+      "properties": {},
+      "reference": "GND2",
+      "rotation": 0
+    },
+    {
+      "definitionId": "builtin.ground.v1",
+      "id": "c-mwut53ai-1q5-e5kx5ff",
+      "locked": false,
+      "mirrorX": false,
+      "mirrorY": false,
+      "position": {
+        "x": -464,
+        "y": -96
+      },
+      "properties": {},
+      "reference": "GND3",
+      "rotation": 0
+    }
+  ],
+  "definitions": [
+    {
+      "aliases": [
+        "resistance",
+        "ohm"
+      ],
+      "bounds": {
+        "height": 64,
+        "width": 64,
+        "x": -32,
+        "y": -32
+      },
+      "category": "Passive",
+      "defaults": {
+        "value": "10k"
+      },
+      "id": "builtin.resistor.v1",
+      "name": "Resistor",
+      "pins": [
+        {
+          "id": "1",
+          "name": "1",
+          "role": "passive",
+          "side": "left",
+          "width": 1,
+          "x": -48,
+          "y": 0
+        },
+        {
+          "id": "2",
+          "name": "2",
+          "role": "passive",
+          "side": "right",
+          "width": 1,
+          "x": 48,
+          "y": 0
+        }
+      ],
+      "prefix": "R",
+      "primitives": [
+        {
+          "d": "M -48 0 H -24 M 24 0 H 48 M -24 -10 H 24 V 10 H -24 Z",
+          "kind": "path"
+        }
+      ],
+      "version": 1
+    },
+    {
+      "aliases": [
+        "op-amp"
+      ],
+      "bounds": {
+        "height": 64,
+        "width": 64,
+        "x": -32,
+        "y": -32
+      },
+      "category": "Analog",
+      "defaults": {},
+      "id": "builtin.analog-0.v1",
+      "name": "Op-amp",
+      "pins": [
+        {
+          "id": "-positive",
+          "name": "+",
+          "role": "input",
+          "side": "left",
+          "width": 1,
+          "x": -48,
+          "y": 16
+        },
+        {
+          "id": "-",
+          "name": "-",
+          "role": "input",
+          "side": "left",
+          "width": 1,
+          "x": -48,
+          "y": -16
+        },
+        {
+          "id": "out",
+          "name": "out",
+          "role": "output",
+          "side": "right",
+          "width": 1,
+          "x": 48,
+          "y": 0
+        },
+        {
+          "id": "V-positive",
+          "name": "V+",
+          "role": "power",
+          "side": "top",
+          "width": 1,
+          "x": 0,
+          "y": -48
+        },
+        {
+          "id": "V-",
+          "name": "V-",
+          "role": "power",
+          "side": "bottom",
+          "width": 1,
+          "x": 0,
+          "y": 48
+        }
+      ],
+      "prefix": "U",
+      "primitives": [
+        {
+          "d": "M -24 -32 L 32 0 L -24 32 Z M -48 -16 H -24 M -48 16 H -24 M 32 0 H 48 M 0 -48 V -18 M 0 48 V 18",
+          "kind": "path"
+        },
+        {
+          "kind": "text",
+          "size": 12,
+          "text": "−",
+          "x": -15,
+          "y": -12
+        },
+        {
+          "kind": "text",
+          "size": 12,
+          "text": "+",
+          "x": -15,
+          "y": 20
+        }
+      ],
+      "version": 1
+    },
+    {
+      "aliases": [
+        "gnd",
+        "reference"
+      ],
+      "bounds": {
+        "height": 64,
+        "width": 64,
+        "x": -32,
+        "y": -32
+      },
+      "category": "Connectivity",
+      "defaults": {},
+      "id": "builtin.ground.v1",
+      "name": "Ground",
+      "pins": [
+        {
+          "id": "1",
+          "name": "Reference",
+          "role": "power",
+          "side": "top",
+          "width": 1,
+          "x": 0,
+          "y": -32
+        }
+      ],
+      "prefix": "GND",
+      "primitives": [
+        {
+          "d": "M 0 -32 V 0 M -24 0 H 24 M -16 8 H 16 M -8 16 H 8",
+          "kind": "path"
+        }
+      ],
+      "version": 1
+    },
+    {
+      "aliases": [
+        "resistance",
+        "ohm"
+      ],
+      "bounds": {
+        "height": 64,
+        "width": 64,
+        "x": -32,
+        "y": -32
+      },
+      "category": "Passive",
+      "defaults": {
+        "value": "10k"
+      },
+      "id": "definition-mwurwxds-fe-ogg1quw",
+      "name": "Resistor",
+      "pins": [
+        {
+          "id": "1",
+          "name": "1",
+          "role": "passive",
+          "side": "left",
+          "width": 1,
+          "x": -48,
+          "y": 0
+        },
+        {
+          "id": "2",
+          "name": "2",
+          "role": "passive",
+          "side": "right",
+          "width": 1,
+          "x": 48,
+          "y": 0
+        }
+      ],
+      "prefix": "R",
+      "primitives": [
+        {
+          "d": "M -48 0 H -24 M 24 0 H 48 M -24 -10 H 24 V 10 H -24 Z",
+          "kind": "path"
+        }
+      ],
+      "version": 1
+    },
+    {
+      "aliases": [
+        "gnd",
+        "reference"
+      ],
+      "bounds": {
+        "height": 64,
+        "width": 64,
+        "x": -32,
+        "y": -32
+      },
+      "category": "Connectivity",
+      "defaults": {},
+      "id": "definition-mwurwxds-ff-4nzhnn2",
+      "name": "Ground",
+      "pins": [
+        {
+          "id": "1",
+          "name": "Reference",
+          "role": "power",
+          "side": "top",
+          "width": 1,
+          "x": 0,
+          "y": -32
+        }
+      ],
+      "prefix": "GND",
+      "primitives": [
+        {
+          "d": "M 0 -32 V 0 M -24 0 H 24 M -16 8 H 16 M -8 16 H 8",
+          "kind": "path"
+        }
+      ],
+      "version": 1
+    },
+    {
+      "aliases": [
+        "ac"
+      ],
+      "bounds": {
+        "height": 64,
+        "width": 64,
+        "x": -32,
+        "y": -32
+      },
+      "category": "Sources",
+      "defaults": {
+        "value": "230V"
+      },
+      "id": "builtin.ac-voltage.v1",
+      "name": "AC voltage source",
+      "pins": [
+        {
+          "id": "1",
+          "name": "1",
+          "role": "passive",
+          "side": "left",
+          "width": 1,
+          "x": -48,
+          "y": 0
+        },
+        {
+          "id": "2",
+          "name": "2",
+          "role": "passive",
+          "side": "right",
+          "width": 1,
+          "x": 48,
+          "y": 0
+        }
+      ],
+      "prefix": "V",
+      "primitives": [
+        {
+          "d": "M -48 0 H -24 M 24 0 H 48",
+          "kind": "path"
+        },
+        {
+          "kind": "circle",
+          "radius": 24,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "d": "M -16 0 C -16 -20 0 -20 0 0 C 0 20 16 20 16 0",
+          "kind": "path"
+        }
+      ],
+      "version": 1
+    },
+    {
+      "aliases": [
+        "instrument",
+        "scope probe"
+      ],
+      "bounds": {
+        "height": 64,
+        "width": 64,
+        "x": -32,
+        "y": -32
+      },
+      "category": "Loads & instruments",
+      "defaults": {},
+      "id": "builtin.load-4.v1",
+      "name": "Scope probe",
+      "pins": [
+        {
+          "id": "1",
+          "name": "1",
+          "role": "passive",
+          "side": "left",
+          "width": 1,
+          "x": -48,
+          "y": 0
+        },
+        {
+          "id": "2",
+          "name": "2",
+          "role": "passive",
+          "side": "right",
+          "width": 1,
+          "x": 48,
+          "y": 0
+        }
+      ],
+      "prefix": "TP",
+      "primitives": [
+        {
+          "d": "M -48 0 H -24 M 24 0 H 48",
+          "kind": "path"
+        },
+        {
+          "kind": "circle",
+          "radius": 24,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "kind": "text",
+          "size": 20,
+          "text": "~",
+          "x": 0,
+          "y": 6
+        }
+      ],
+      "version": 1
+    }
+  ],
+  "format": "logic-electric-circuit",
+  "groups": [],
+  "id": "doc-mwurv4cp-6s-ayly4ej",
+  "metadata": {},
+  "nodes": [
+    {
+      "explicit": true,
+      "id": "n-mwurysyj-ty-aoka61g",
+      "position": {
+        "x": -328,
+        "y": -56
+      }
+    },
+    {
+      "explicit": true,
+      "id": "n-mwus0bcd-z9-95gb4da",
+      "position": {
+        "x": 0,
+        "y": -160
+      }
+    }
+  ],
+  "schemaVersion": 1,
+  "title": "Untitled circuit",
+  "wires": [
+    {
+      "a": {
+        "componentId": "c-mwurvfcu-6u-4parh7a",
+        "kind": "pin",
+        "pinId": "1"
+      },
+      "b": {
+        "kind": "node",
+        "nodeId": "n-mwus0bcd-z9-95gb4da"
+      },
+      "id": "w-mwurwgjx-ez-a9zji8o",
+      "locked": false,
+      "route": {
+        "geometry": "orthogonal",
+        "horizontalFirst": true,
+        "mode": "manual",
+        "vertices": [
+          {
+            "id": "bend-mwus0bcd-za-815a769",
+            "locked": true,
+            "x": -8,
+            "y": -264
+          }
+        ]
+      },
+      "width": 1
+    },
+    {
+      "a": {
+        "componentId": "c-mwus094a-yf-b7ke6y2",
+        "kind": "pin",
+        "pinId": "1"
+      },
+      "b": {
+        "kind": "node",
+        "nodeId": "n-mwus0bcd-z9-95gb4da"
+      },
+      "id": "w-mwus0bcd-zd-m9dqtji",
+      "locked": false,
+      "route": {
+        "geometry": "orthogonal",
+        "horizontalFirst": true,
+        "mode": "auto",
+        "vertices": [
+          {
+            "id": "bend-mwut5uyi-1tf-s4fnecc",
+            "locked": false,
+            "x": 0,
+            "y": -80
+          }
+        ]
+      },
+      "width": 1
+    },
+    {
+      "a": {
+        "componentId": "c-mwus094a-yf-b7ke6y2",
+        "kind": "pin",
+        "pinId": "2"
+      },
+      "b": {
+        "componentId": "c-mwurwpjo-f2-0yxclch",
+        "kind": "pin",
+        "pinId": "1"
+      },
+      "id": "w-mwus0dxm-10k-bh115xm",
+      "locked": false,
+      "route": {
+        "geometry": "orthogonal",
+        "horizontalFirst": true,
+        "mode": "auto",
+        "vertices": [
+          {
+            "id": "bend-mwut7dya-1yt-ow4uwwp",
+            "locked": false,
+            "x": 136,
+            "y": -80
+          }
+        ]
+      },
+      "width": 1
+    },
+    {
+      "a": {
+        "componentId": "c-mwurvpqg-6v-v63fjbv",
+        "kind": "pin",
+        "pinId": "-"
+      },
+      "b": {
+        "componentId": "c-mwurvfcu-6u-4parh7a",
+        "kind": "pin",
+        "pinId": "2"
+      },
+      "id": "w-mwus2z2n-15w-5rh0dvm",
+      "locked": false,
+      "route": {
+        "geometry": "orthogonal",
+        "horizontalFirst": true,
+        "mode": "auto",
+        "vertices": [
+          {
+            "id": "bend-mwut64xk-1uj-upv3b4r",
+            "locked": false,
+            "x": -144,
+            "y": -176
+          },
+          {
+            "id": "bend-mwut64xk-1uk-2enmxj8",
+            "locked": false,
+            "x": -144,
+            "y": -288
+          }
+        ]
+      },
+      "width": 1
+    },
+    {
+      "a": {
+        "componentId": "c-mwurx5jv-fo-82hrxe5",
+        "kind": "pin",
+        "pinId": "2"
+      },
+      "b": {
+        "componentId": "c-mwurvpqg-6v-v63fjbv",
+        "kind": "pin",
+        "pinId": "-"
+      },
+      "id": "w-mwus3ikt-1b6-9culgcy",
+      "locked": false,
+      "route": {
+        "geometry": "orthogonal",
+        "horizontalFirst": true,
+        "mode": "auto",
+        "vertices": []
+      },
+      "width": 1
+    },
+    {
+      "a": {
+        "componentId": "c-mwus18xo-111-832fpuz",
+        "kind": "pin",
+        "pinId": "2"
+      },
+      "b": {
+        "componentId": "c-mwurygoy-ks-ldchim5",
+        "kind": "pin",
+        "pinId": "1"
+      },
+      "id": "w-mwusb281-1ki-dgvkcrx",
+      "locked": false,
+      "route": {
+        "geometry": "orthogonal",
+        "horizontalFirst": true,
+        "mode": "auto",
+        "vertices": [
+          {
+            "id": "bend-mwusb282-1kj-zbs5nfp",
+            "locked": false,
+            "x": -352,
+            "y": -208
+          },
+          {
+            "id": "bend-mwusb282-1kk-l9em83g",
+            "locked": false,
+            "x": -352,
+            "y": -200
+          }
+        ]
+      },
+      "width": 1
+    },
+    {
+      "a": {
+        "componentId": "c-mwut53ai-1q5-e5kx5ff",
+        "kind": "pin",
+        "pinId": "1"
+      },
+      "b": {
+        "componentId": "c-mwus18xo-111-832fpuz",
+        "kind": "pin",
+        "pinId": "1"
+      },
+      "id": "w-mwut554s-1qp-ffg8o5k",
+      "locked": false,
+      "route": {
+        "geometry": "orthogonal",
+        "horizontalFirst": true,
+        "mode": "auto",
+        "vertices": [
+          {
+            "id": "bend-mwut554s-1qq-ejcwbef",
+            "locked": false,
+            "x": -464,
+            "y": -208
+          }
+        ]
+      },
+      "width": 1
+    },
+    {
+      "a": {
+        "componentId": "c-mwurvpqg-6v-v63fjbv",
+        "kind": "pin",
+        "pinId": "out"
+      },
+      "b": {
+        "kind": "node",
+        "nodeId": "n-mwus0bcd-z9-95gb4da"
+      },
+      "id": "w-mwut6gc2-1uu-abmidnr",
+      "locked": false,
+      "route": {
+        "geometry": "orthogonal",
+        "horizontalFirst": true,
+        "mode": "auto",
+        "vertices": []
+      },
+      "width": 1
+    }
+  ]
+}

@@ -65,9 +65,9 @@ $$e^{i\pi}=-1\qquad e^{i\pi}+1=0.$$
 
 ## Formules d'Euler 
 Formules d'Euler pour $\cos(\theta)$::$$\cos(\theta) = \frac{e^{j\theta} + e^{-j\theta}}{2}$$
-<!--SR:!2026-11-13,15,290-->
+<!--SR:!2027-01-13,59,310-->
 Formules d'Euler pour $\sin(\theta)$::$$\sin(\theta) = \frac{e^{j\theta} - e^{-j\theta}}{2j}$$
-<!--SR:!2026-11-14,16,290-->
+<!--SR:!2027-01-21,67,310-->
 
 
 ## Concepts liés

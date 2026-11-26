@@ -61,8 +61,8 @@ $\mathbb{R}$ est muni d'une **relation d'ordre total $\le$** (réflexive, transi
 
 ## 3. Densité de Q dans R et Racine carrée
 
-- **Densité** :: Tout nombre réel est la limite d'une suite de nombres rationnels. Entre deux réels distincts, il existe toujours une infinité de rationnels.
-<!--SR:!2026-11-23,41,250-->
+- **Densité**  Tout nombre réel est la limite d'une suite de nombres rationnels. Entre deux réels distincts, il existe toujours une infinité de rationnels.
+
 - **Théorème de la racine carrée** : Pour tout réel $a > 0$, il existe un unique réel strictement positif $l > 0$ tel que $l^2 = a$, noté $\sqrt{a}$ ou $a^{1/2}$.
 
 

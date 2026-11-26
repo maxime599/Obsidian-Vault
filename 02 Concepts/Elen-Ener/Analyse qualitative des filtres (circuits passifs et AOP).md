@@ -43,13 +43,13 @@ Pour mener l'analyse qualitative, on étudie l'impédance complexe $Z$ des compo
 - Quand $\omega \to 0$ : $|\underline{Z}_C| \to$::$+\infty \implies$ **Interrupteur ouvert**.
 <!--SR:!2027-01-07,56,310-->
 - Quand $\omega \to +\infty$ : $|\underline{Z}_C| \to$::$0 \implies$  **Interrupteur fermé** (court-circuit).
-<!--SR:!2026-11-13,15,290-->
+<!--SR:!2027-01-13,59,310-->
 
 ### B. Inductance / Bobine ($\underline{Z}_L = j\omega L$)
 - Quand $\omega \to 0$ : $|\underline{Z}_L| \to$::$0 \implies$ **Interrupteur fermé** (court-circuit).
-<!--SR:!2026-11-13,15,290-->
+<!--SR:!2027-01-16,62,310-->
 - Quand $\omega \to +\infty$ : $|\underline{Z}_L| \to$::$+\infty \implies$ **Interrupteur ouvert**.
-<!--SR:!2026-11-13,15,290-->
+<!--SR:!2027-01-12,58,310-->
 
 
 ## 2. Exemples de circuits passifs

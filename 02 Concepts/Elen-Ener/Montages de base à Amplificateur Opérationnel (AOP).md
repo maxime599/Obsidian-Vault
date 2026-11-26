@@ -141,7 +141,7 @@ $$e^+ = V_e \quad \text{et} \quad e^- = V_s \implies V_s = V_e$$
 ## L'AOP en régime saturé
 ![[Pasted image 20261020133913.png]]
 En régime saturé, la sortie ne peux pas prendre autre chose que ==$+V_{sat}$ ou $-V_{sat}$==
-<!--SR:!2026-11-14,16,290-->
+<!--SR:!2027-01-17,63,310-->
 
 C'est un comparateur et il n'y a pas de contre-réaction
 
@@ -159,6 +159,6 @@ Si $V_e < V_{0} \implies V_s = -V_{sat}$
 TABLE date AS Date, regexreplace(file.folder, ".*\/", "") AS Matière
 FROM "01 Cours"
 WHERE contains(file.outlinks, this.file.link)
-SORT date_cours ASC
+SORT date ASC
 
 ```

@@ -17,7 +17,7 @@ Ressources:
 
 > [!info] Définition courte
 > Une **application** est :: une relation binaire entre deux ensembles qui associe à chaque élément de départ une image unique dans l'ensemble d'arrivée.
-<!--SR:!2026-11-18,46,290-->
+<!--SR:!2027-05-24,185,310-->
 ```dataviewjs
 const currentFile = app.workspace.getActiveFile();
 const cache = app.metadataCache.getFileCache(currentFile);
@@ -45,13 +45,13 @@ if (cache && cache.headings) {
 - **Fonction** : Certains éléments de $E$ peuvent n'avoir aucune image. Le domaine de définition $D_f$ est une partie de $E$.
 
 Différence application et fonction : :: Application = Tout élément de l'ensemble de départ $E$ possède **exactement une** image dans $F$, fonction = Certains éléments de $E$ peuvent n'avoir aucune image
-<!--SR:!2026-11-14,42,290-->
+<!--SR:!2027-05-03,169,310-->
 > [!example] Vocabulaire
 > Pour $f(x) = y$ :
 > - $E$ est ==l'ensemble de départ==, $F$ ==l'ensemble d'arrivée==.
 > - $y$ est ==l'**image** de $x$==.
 > - $x$ est un ==**antécédent** de $y$== (il peut y en avoir zéro, un ou plusieurs).
-<!--SR:!2026-12-14,67,310!2026-12-14,67,310!2026-11-20,47,290!2026-11-19,47,290-->
+<!--SR:!2026-12-14,67,310!2026-12-14,67,310!2027-05-28,189,310!2027-05-29,190,310-->
 
 
 ## 2. Restriction d'une application

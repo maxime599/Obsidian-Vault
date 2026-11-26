@@ -57,7 +57,7 @@ Soit $E$ un ensemble, $A \subset E$ et $B \subset E$ :
 
 > [!note] Parties disjointes
 > Deux parties $A$ et $B$ sont dites **disjointes** si :: leur intersection est vide :$A \cap B = \emptyset$.
-<!--SR:!2026-11-18,45,290-->
+<!--SR:!2027-05-20,181,310-->
 
 
 ## 3. Lois de De Morgan

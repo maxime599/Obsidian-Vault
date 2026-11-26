@@ -73,7 +73,7 @@ $$f \text{ est surjective} \iff f(E) = F$$
 ## 3. Application bijective
 
 Une application $f: E \to F$ est **bijective** lorsque :: elle est **à la fois injective et surjective**. Tout élément de $F$ possède un **unique antécédent** dans $E$.
-<!--SR:!2026-11-16,44,290-->
+<!--SR:!2027-05-15,176,310-->
 
 - *Exemple (Bijection par restriction)* : $f: \mathbb{R} \to \mathbb{R}, \, x \mapsto x^2$ n'est pas bijective, mais sa restriction aux ensembles $[0, +\infty[$ au départ et à l'arrivée est une bijection.
 - **Théorème** : La composée de deux applications bijectives est :: bijective.

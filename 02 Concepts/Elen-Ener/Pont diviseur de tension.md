@@ -40,11 +40,10 @@ if (cache && cache.headings) {
 Soit un circuit composé d'un générateur de tension $E$ alimentant deux résistances $R_1$ et $R_2$ placées en série.
 
 ### Démonstration pont diviseur de tension
-?
 1. Loi des mailles : $E = U_1 + U_2$
 2. Loi d'Ohm : $E = R_1 I + R_2 I = (R_1 + R_2) I$
 3. Expression de l'intensité : $I = \frac{E}{R_1 + R_2}$
-<!--SR:!2026-11-17,45,290-->
+
 
 ### Formules de tension
 En réinjectant $I$ dans la loi d'Ohm aux bornes de chaque résistance :

@@ -121,5 +121,5 @@ La tension de sortie $V_s$ est prélevée aux bornes de la résistance $R$.
 TABLE date AS Date, regexreplace(file.folder, ".*\/", "") AS Matière
 FROM "01 Cours"
 WHERE contains(file.outlinks, this.file.link)
-SORT date_cours ASC
+SORT date ASC
 ```

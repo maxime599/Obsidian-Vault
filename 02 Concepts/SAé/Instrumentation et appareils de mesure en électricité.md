@@ -45,7 +45,7 @@ if (cache && cache.headings) {
 ??
 - Fournit des tensions et courants continus ($DC$) stables nécessaires au fonctionnement des circuits.
 - Intègre une protection par limitation de courant pour sécuriser les composants en cas de court-circuit.
-<!--SR:!2027-04-10,149,310!2026-11-18,46,290-->
+<!--SR:!2027-04-10,149,310!2027-05-23,184,310-->
 
 **Générateur Basses Fréquences (GBF)** :
 ??
@@ -63,7 +63,7 @@ if (cache && cache.headings) {
 **Oscilloscope** :
 ??
 - Appareil de visualisation permettant d'observer l'évolution temporelle de $1$ ou $2$ signaux électriques simultanément.
-<!--SR:!2026-11-13,41,290!2026-12-02,57,310-->
+<!--SR:!2027-04-28,164,310!2026-12-02,57,310-->
 
 
 ## 3. Modes d'affichage et couplage (AC / DC)
@@ -73,7 +73,7 @@ Lors de la mesure ou de l'observation d'un signal :
 - **Couplage DC (*Direct Current*)** ::: Conserve la totalité du signal (composante continue $+$ composante alternative).
 <!--SR:!2026-12-10,63,310!2026-12-06,61,310-->
 - **Couplage AC (*Alternating Current*)** ::: Filtre la composante continue pour ne conserver et n'afficher que la composante alternative du signal.
-<!--SR:!2026-11-15,43,290!2026-12-11,64,310-->
+<!--SR:!2027-05-06,172,310!2026-12-11,64,310-->
 
 
 ## 4. Connectique de laboratoire

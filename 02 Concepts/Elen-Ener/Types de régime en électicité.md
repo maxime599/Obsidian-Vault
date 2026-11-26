@@ -60,7 +60,7 @@ L'expression temporelle de la tension est donnée par :
 - **Amplitude crête à crête ($V_{\text{pp}}$)** : Écart total entre le maximum et le minimum :: $$V_{\text{pp}} = V_{\text{max}} - V_{\text{min}}$$
 <!--SR:!2026-12-11,64,310-->
 - **Amplitude ($V_m$)** :: $$V_m = \frac{V_{\text{max}} - V_{\text{min}}}{2}$$
-<!--SR:!2026-11-16,14,250-->
+<!--SR:!2027-01-10,51,270-->
 - **Tension efficace ($V_{\text{eff}}$)** : Tension continue équivalente fournissant les mêmes performances énergétiques dans un récepteur ::  $$V_{\text{eff}} = \frac{V_{\text{crête}}}{\sqrt{2}}$$
 <!--SR:!2026-12-01,56,310-->
 

@@ -36,5 +36,7 @@
   "obsidian-plugin-toc",
   "persistent-graph",
   "obsidian-local-rest-api",
-  "gemini-scribe"
+  "gemini-scribe",
+  "group-tabs",
+  "logic-electric-circuit-builder"
 ]

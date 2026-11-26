@@ -38,7 +38,7 @@ if (cache && cache.headings) {
 ## 1. Définition et domaine de définition
 
 Pour tout nombre réel $\theta$ tel que $\cos(\theta) \neq 0$, on définit la **tangente** de $\theta$ par ::$$\tan(\theta) = \frac{\sin(\theta)}{\cos(\theta)}$$
-<!--SR:!2026-11-13,15,290-->
+<!--SR:!2027-01-14,60,310-->
 
 - **Ensemble de définition** : La fonction tangente est définie sur $\mathbb{R} \setminus \left\{ \frac{\pi}{2} + k\pi, \, k \in \mathbb{Z} \right\}$.
 - **Périodicité** : La fonction tangente est $\pi$-périodique : $\tan(\theta + \pi) = \tan(\theta)$.

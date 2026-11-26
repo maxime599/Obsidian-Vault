@@ -17,7 +17,7 @@ Ressources:
 
 > [!info] Définition courte
 > En régime sinusoïdal, on distingue la **puissance active** ($P$), la **puissance réactive** ($Q$) et la **puissance apparente** ($S$). Le **théorème de Boucherot** permet de ==sommer ces puissances au sein d'un réseau de dipôles==.
-<!--SR:!2026-11-19,11,270-->
+<!--SR:!2026-12-30,40,290-->
 
 ```dataviewjs
 const currentFile = app.workspace.getActiveFile();
@@ -40,25 +40,25 @@ if (cache && cache.headings) {
 
 Soit un dipôle soumis à $u(t)$ et traversé par $i(t)$, déphasés d'un angle $\varphi = \varphi_u - \varphi_i$ :
 - **Puissance instantanée** : $p(t) =$:: $u(t) \cdot i(t)$
-<!--SR:!2026-11-21,9,230-->
+<!--SR:!2026-12-20,28,250-->
 - **Puissance active $P$** (en Watts, W) ::$$P = U \cdot I \cos\varphi$$
-<!--SR:!2026-11-17,7,250-->
+<!--SR:!2026-12-12,25,270-->
 - **Puissance réactive $Q$** (en Volt-Ampères Réactifs, VAR) ::$$Q = U \cdot I \sin\varphi$$
-<!--SR:!2026-11-17,7,250-->
+<!--SR:!2026-12-12,25,270-->
 - **Puissance apparente $S$** (en Volt-Ampères, VA) ::$$S = U \cdot I = \sqrt{P^2 + Q^2}$$
-<!--SR:!2026-11-16,6,230-->
+<!--SR:!2026-12-02,15,230-->
 - **Facteur de puissance $k$** ::$$k = \cos\varphi = \frac{P}{S}$$
-<!--SR:!2026-11-17,9,230-->
+<!--SR:!2026-12-07,20,230-->
 
 
 ## 2. Interprétation du signe de la puissance réactive $Q$
 
 - Si $Q > 0$ : le dipôle est ::**inductif** (consommateurs de réactifs).
-<!--SR:!2026-11-23,15,290-->
+<!--SR:!2027-01-22,60,310-->
 - Si $Q < 0$ : le dipôle est ::**capacitif** (fournisseurs de réactifs).
-<!--SR:!2026-11-24,16,290-->
+<!--SR:!2027-01-29,66,310-->
 - Si $Q = 0$ : le dipôle est ::**purement résistif**.
-<!--SR:!2026-11-24,16,290-->
+<!--SR:!2027-01-28,65,310-->
 
 
 ## 3. Théorème de Boucherot
@@ -66,7 +66,7 @@ Soit un dipôle soumis à $u(t)$ et traversé par $i(t)$, déphasés d'un angle 
 Dans un groupement de dipôles en parallèle, les puissances actives et réactives se somment algébriquement :
 $$P_{\text{tot}} = \sum P_i \quad \text{et} \quad Q_{\text{tot}} = \sum Q_i$$
 La puissance apparente totale se déduit par le théorème de Pythagore ::$$S_{\text{tot}} = \sqrt{P_{\text{tot}}^2 + Q_{\text{tot}}^2}$$
-<!--SR:!2026-11-22,14,290-->
+<!--SR:!2027-01-17,56,310-->
 
 
 ## 4. Synthèse par dipôle élémentaire

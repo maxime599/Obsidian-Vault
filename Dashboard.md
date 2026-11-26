@@ -19,14 +19,9 @@ FROM "01 Cours"
 WHERE !completed
 GROUP BY regexreplace(file.folder, ".*/", "")
 ```
-- [ ] Réviser pour les maths
-- [ ] Réviser pour ELEN (comprendre c'est quoi l'AOP en régime linéaire)
-- [ ] Réviser pour SAé
 - [ ] Ajouter l'auto aux concepts
-- [ ] ajouter des flashcards aux 3 derniers conceptes d'enert
-- [ ] ajouter l'optique aux cconcepts
-- [ ] ajouter les maths au conceptes
-
+- [ ] ajouter les deux CM d'optique aux concepts
+- [ ] réviser pour l'optique
 
 
 # Derniers concepts vus aujourd'hui

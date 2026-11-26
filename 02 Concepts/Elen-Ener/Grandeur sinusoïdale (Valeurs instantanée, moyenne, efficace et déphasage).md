@@ -37,7 +37,7 @@ if (cache && cache.headings) {
 ## 1. Valeur instantanée et paramètres temporels
 
 L'expression générale d'une tension sinusoïdale est ::$$u(t) = \hat{U} \cos(\omega t + \varphi)$$
-<!--SR:!2026-11-20,12,270-->
+<!--SR:!2027-01-06,47,290-->
 
 
 - $u(t)$ : valeur instantanée (en V)
@@ -52,13 +52,13 @@ L'expression générale d'une tension sinusoïdale est ::$$u(t) = \hat{U} \cos(\
 
 ### A. Valeur moyenne
 La valeur moyenne $\overline{x}$ d'une grandeur périodique $x(t)$ de période $T$ est ::$$\overline{x} = \frac{1}{T} \int_{T} x(t) \, \text{d}t$$
-<!--SR:!2026-11-19,11,270-->
+<!--SR:!2026-12-31,41,290-->
 *(NB : La valeur moyenne d'un signal purement sinusoïdal est nulle, $\overline{u} = 0$).*  
 *Mesure* : Voltmètre numérique ou magnéto-électrique en position DC (pour $f \in [10\text{ Hz}, 5\text{ kHz}]$).
 
 ### B. Valeur efficace
 La valeur efficace $Y$ d'une grandeur périodique $y(t)$ se calcule par ::$$Y = \sqrt{\frac{1}{T} \int_{T} y^2(t) \, \text{d}t}$$
-<!--SR:!2026-11-15,3,230-->
+<!--SR:!2026-11-25,10,250-->
 Pour un signal purement sinusoïdal :
 $$U = \frac{\hat{U}}{\sqrt{2}}$$
 *Mesure* : Voltmètre numérique TRMS (Root Mean Square) en position AC + DC.
@@ -70,16 +70,16 @@ Les grandeurs sinusoïdales s'écrivent :
 ?
 - $u(t) = \hat{U} \cos(\omega t + \varphi_u)$
 - $i(t) = \hat{I} \cos(\omega t + \varphi_i)$
-<!--SR:!2026-11-21,9,250-->
+<!--SR:!2026-11-27,5,230-->
 
 ![[Pasted image 20261102141819.png]]
 
 Le **déphasage** $\varphi$ entre $u(t)$ et $i(t)$ est la différence entre leurs phases initiales ::$$\varphi = \varphi_u - \varphi_i$$
-<!--SR:!2026-11-23,15,290-->
+<!--SR:!2027-01-24,62,310-->
 - Si $\varphi > 0$ :: la tension $u$ est en **avance** sur l'intensité $i$.
-<!--SR:!2026-11-23,15,290-->
+<!--SR:!2027-01-25,63,310-->
 - Si $\varphi < 0$ :: la tension $u$ est en **retard** sur l'intensité $i$.
-<!--SR:!2026-11-22,14,290-->
+<!--SR:!2027-01-02,41,290-->
 - Relation avec le décalage temporel $\tau$ : $|\varphi| = \frac{2\pi \tau}{T}$.
 
 

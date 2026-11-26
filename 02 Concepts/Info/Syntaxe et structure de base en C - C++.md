@@ -48,7 +48,7 @@ Tout programme écrit en C / C++ s'articule autour des éléments fondamentaux s
 (ex: `#include <iostream>` pour la gestion des flux d'entrées/sorties).
 - **Espace de nom** : ==`using namespace std;`== permet d'utiliser directement les fonctions de la bibliothèque standard sans devoir ajouter le préfixe `std::`.
 - **Fonction principale  :: `main()`** : Point d'entrée obligatoire du programme (`int main() { ... return 0; }`).
-<!--SR:!2026-11-14,41,290-->
+<!--SR:!2027-04-30,166,310-->
 - **Portée globale** : Tout élément déclaré en dehors de la fonction `main()` possède une portée globale (ex. fonctions secondaires).
 - **Fin d'instruction** : Chaque instruction doit impérativement se terminer par ==un point-virgule `;`.==
 - **Commentaires** :
@@ -149,11 +149,11 @@ Ces opérateurs permettent de combiner plusieurs conditions booléennes.
 |`\|`|OU logique (OR)|Vrai si **au moins une** condition est vraie|`(5 > 3) \| (10 < 4)`|`true`|
 |`!`|NON logique (NOT)|Inverse l'état booléen|`!(5 > 3)`|`false`|
 
-### Les tableaux en C++
+## 6. Les tableaux en C++
 
 **Déclaration et remplissage**
 - Exemple de syntaxe d'un tableau en cpp :: `float ex_tableau[3] = {1, 2, 3};`
-<!--SR:!2026-11-16,4,270-->
+<!--SR:!2026-12-04,14,290-->
 - Le remplissage s'effectue traditionnellement case par case à l'aide d'une boucle.
 
 **Gestion de la taille**
@@ -162,6 +162,26 @@ Ces opérateurs permettent de combiner plusieurs conditions booléennes.
 **Protection en lecture seule**
 - Le qualificatif `const` permet de rendre un tableau non modifiable.
 - Contrainte technique : un tableau déclaré `const` doit impérativement être initialisé dès sa déclaration.
+
+**Les chaines de caractère**
+- Une chaine de caractère peut être définie par un tableau de caractère + la caractère \0
+- Exemple : 
+	`char mois[10]={’s’,’e’,’p’,’t’,’e’,’m’,’b’,’r’,’e’,’\0’};
+	`char mois2[10]=’’septembre’’;`
+- On peut ici faire un cin dans un tableau de caractère sans problème, tout comme faire un cout d'un tableau de caractère
+
+**Les matrices**
+- Pour les définir : `float matrices[3][4]`
+- Pour les passer dans une fonction, il faut préciser dans la définition et la déclaration de la fonction le nombre de colonnes, mais pas le nombre de lignes
+## 7. Les types composés
+```cpp
+struct nom_nouveau_type{
+	type1 champ1;
+	type2 champ2;
+};
+nom_nouveau_type nom_variable;
+```
+Pour manipuler des types composés, il faut les définir avant les fonctions, donc en haut du .h
 
 ## Exemple de programme
 ```cpp

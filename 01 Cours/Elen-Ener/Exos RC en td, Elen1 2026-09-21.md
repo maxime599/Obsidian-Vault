@@ -80,7 +80,7 @@ $V_{s}(t) = e(t)-U_{c}(t)$
 ### Ex3
 ![[Drawing 2026-09-21 16.15.37.excalidraw]]
 $U_{r}(t) + U_{L}(t) = e(t)$
-$R.i(t)+U_{L}(t)= e(t)$ avec 
+$R.i(t)+U_{L}(t)= e(t)$  
 $R*i+L \frac{di}{dt}=E$
 $L \frac{di}{dt} + R*i=E$
 $\frac{L}{R}* \frac{di}{dt} +i=\frac{E}{R}$ (on divises par R)

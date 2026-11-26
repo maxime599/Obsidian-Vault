@@ -53,13 +53,13 @@ Pour qu'un système optique centré réalise un stigmatisme approché de qualit�
 
 - **Aplanétisme** : Propriété d'un système optique centré fonctionnant dans les conditions de Gauss dont l'image d'un objet plan perpendiculaire à l'axe optique est elle-même plane et perpendiculaire à cet axe.
 - **Condition d'Abbe** :: $n \cdot \overline{AB} \cdot \sin(u) = n' \cdot \overline{A'B'} \cdot \sin(u')$ (qui se simplifie sous Gauss par $n \cdot \overline{AB} \cdot u = n' \cdot \overline{A'B'} \cdot u'$).
-<!--SR:!2026-11-21,9,270-->
+<!--SR:!2026-11-27,5,250-->
 - **Grandissements** :
   - Grandissement transversal : $\gamma = \frac{\overline{A'B'}}{\overline{AB}}$
   - Grossissement angulaire :: $G = \frac{u'}{u}$
 <!--SR:!2026-12-03,21,270-->
   - Relation fondamentale :: $\gamma \cdot G = \frac{n}{n'}$
-<!--SR:!2026-11-17,5,230-->
+<!--SR:!2026-12-01,8,230-->
 
 
 ## Concepts liés

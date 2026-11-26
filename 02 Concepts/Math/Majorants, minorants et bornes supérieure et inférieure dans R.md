@@ -45,7 +45,7 @@ Soit $A$ une partie de $\mathbb{R}$.
 - **Majorée** :: $\exists M \in \mathbb{R}, \, \forall x \in A, \, x \le M$. $M$ est un *majorant* de $A$.
 <!--SR:!2026-12-11,64,310-->
 - **Minorée** :: $\exists m \in \mathbb{R}, \, \forall x \in A, \, m \le x$. $m$ est un *minorant* de $A$.
-<!--SR:!2026-11-20,47,290-->
+<!--SR:!2027-05-27,188,310-->
 - **Bornée** :: $A$ est à la fois majorée et minorée.
 <!--SR:!2027-04-07,146,290-->
 
@@ -55,7 +55,7 @@ Soit $A$ une partie de $\mathbb{R}$.
 - **Maximum ($\max$)** :: Si $A$ est majorée et que son majorant appartient à $A$, cet élément est unique et constitue le maximum : $\max(A) \in A$.
 <!--SR:!2026-12-09,62,310-->
 - **Minimum ($\min$)** :: Si $A$ est minorée et que son minorant appartient à $A$, cet élément est unique et constitue le minimum : $\min(A) \in A$.
-<!--SR:!2026-11-15,43,290-->
+<!--SR:!2027-05-07,173,310-->
 
 
 ## 3. Théorème de la borne supérieure et inférieure

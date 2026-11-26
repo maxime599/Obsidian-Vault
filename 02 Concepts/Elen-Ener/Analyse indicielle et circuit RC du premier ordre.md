@@ -17,7 +17,7 @@ Ressources:
 
 > [!info] Définition courte
 > L'**analyse indicielle** consiste à ==étudier la réponse transitoire d'un circuit soumis à un échelon de tension (passage brutal de $0$ à $E$).== Appliquée au circuit $RC$, elle conduit à une équation différentielle du premier ordre décrivant la charge du condensateur.
-<!--SR:!2026-11-22,14,290-->
+<!--SR:!2027-01-16,55,310-->
 
 ```dataviewjs
 const currentFile = app.workspace.getActiveFile();
@@ -108,5 +108,5 @@ $$U_{C}(t) = -Ee^{-t/\tau}+E$$$$U_C(t) = E \cdot \left(1 - e^{-t/\tau}\right)$$
 TABLE date AS Date, regexreplace(file.folder, ".*\/", "") AS Matière
 FROM "01 Cours"
 WHERE contains(file.outlinks, this.file.link)
-SORT date_cours ASC
+SORT date ASC
 ```

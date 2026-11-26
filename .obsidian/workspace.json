@@ -4,39 +4,113 @@
     "type": "split",
     "children": [
       {
-        "id": "301e219e93351154",
+        "id": "2e686012ee4740a2",
         "type": "tabs",
         "children": [
           {
-            "id": "fe4d196effdb486a",
+            "id": "e55f6b1a6a400925",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard.md",
+                "file": "02 Concepts/Optique_géometrique/Miroir plan et miroir sphérique.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dashboard"
+              "title": "Miroir plan et miroir sphérique"
             }
           },
           {
-            "id": "93ba64bff92d2e5a",
+            "id": "48d61c4fa8434a11",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "05 Ressources/DS années précédentes/Physique S1/Optique Géométrique (TSE)/TD1 - Optique (TSE).pdf",
+                "page": 1,
+                "left": 0,
+                "top": 845,
+                "zoom": 1.12
+              },
+              "icon": "lucide-file-text",
+              "title": "TD1 - Optique (TSE)"
+            }
+          },
+          {
+            "id": "e93a933373cb4b86",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Cours/Elen-Ener/Exos RC en td, Elen1 2026-09-21.md",
+                "file": "02 Concepts/Optique_géometrique/Dioptre sphérique, dioptre plan et vergence.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Exos RC en td, Elen1 2026-09-21"
+              "title": "Dioptre sphérique, dioptre plan et vergence"
+            }
+          },
+          {
+            "id": "f850ba8a6e01210c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 Concepts/Optique_géometrique/Miroir plan et miroir sphérique.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Miroir plan et miroir sphérique"
+            }
+          },
+          {
+            "id": "59c7b3d5362e3af7",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "05 Ressources/PDF Cours/OPTIQUE GEOMETRIQUE I-II-III.pdf",
+                "page": 16,
+                "left": -12,
+                "top": 417,
+                "zoom": 1.25390625
+              },
+              "icon": "lucide-file-text",
+              "title": "OPTIQUE GEOMETRIQUE I-II-III"
+            }
+          },
+          {
+            "id": "cc94bf84bcf8a0d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 Concepts/Optique_géometrique/Modèle des ondes électromagnétiques et indice de réfraction.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Modèle des ondes électromagnétiques et indice de réfraction"
+            }
+          },
+          {
+            "id": "d415736f56e58e37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 Concepts/Optique_géometrique/Lois de Snell-Descartes et réflexion totale.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lois de Snell-Descartes et réflexion totale"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -48,7 +122,7 @@
       {
         "id": "289ebf2b2dde5655",
         "type": "tabs",
-        "dimension": 75.65656565656566,
+        "dimension": 73.36734693877551,
         "children": [
           {
             "id": "a3835c23a2cd8cab",
@@ -71,7 +145,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "passe haut",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,16 +168,26 @@
               "icon": "lucide-bookmark",
               "title": "Signets"
             }
+          },
+          {
+            "id": "621b17f19f12fa21",
+            "type": "leaf",
+            "state": {
+              "type": "group-tabs-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "Recent tab groups"
+            }
           }
         ]
       },
       {
-        "id": "5b19ca114ab303ca",
+        "id": "d175928143d7d339",
         "type": "tabs",
-        "dimension": 24.343434343434346,
+        "dimension": 26.632653061224488,
         "children": [
           {
-            "id": "427c6f80d1381391",
+            "id": "09014962756dbced",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -116,7 +200,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.7265625
+    "width": 207.5,
+    "collapsed": true
   },
   "right": {
     "id": "94f8b3aa2bee7d17",
@@ -325,47 +410,50 @@
       "obsidian-spaced-repetition:Apprendre les flashcards": false,
       "code-space:Open code space dashboard": false,
       "copilot:Open Copilot Agent Chat": false,
-      "gemini-scribe:Gemini Scribe : Mode agent": false
+      "gemini-scribe:Gemini Scribe : Mode agent": false,
+      "logic-electric-circuit-builder:New circuit": false,
+      "group-tabs:Recent tab groups": false
     }
   },
   "active": "aeb8dcd12e8ef37d",
   "lastOpenFiles": [
-    "02 Concepts/Elen-Ener/Analyse indicielle et circuit RC du premier ordre.md",
-    "02 Concepts/Elen-Ener/Composants réactifs ; Condensateur et Inductance.md",
-    "Dashboard.md",
-    "01 Cours/Optique_géometrique/Suite trois premiers chapitres + chapitre 4, Optique_géometrique 2026-10-16.md",
-    "optique_geometrique chapitre 4.md",
-    "01 Cours/Optique_géometrique/TD1 exo4, Optique_géometrique 2026-10-23.md",
-    "Excalidraw/Drawing 2026-10-13 11.41.03.excalidraw.md",
-    "02 Concepts/SAé/Utilisation du transistor driver et dimensionnement.md",
-    "01 Cours/SAé/phase 5, SAé 2026-10-20.md",
-    "01 Cours/SAé/Phase 5 et 6, SAé 2026-11-03.md",
-    "01 Cours/Elen-Ener/Triphasé, Elen-Ener 2026-11-09.md",
-    "02 Concepts/Elen-Ener/Puissances en régime triphasé et relèvement du facteur de puissance.md",
-    "02 Concepts/Elen-Ener/Puissances en régime sinusoïdal et Théorème de Boucherot.md",
-    "02 Concepts/Elen-Ener/Couplages des récepteurs triphasés équilibrés (Étoile et Triangle).md",
-    "05 Ressources/PDF Cours/ENER1 triphasé.pdf",
-    "07 MOC/Concepts/Elen-Ener/MOC Puissance.md",
-    "02 Concepts/Elen-Ener/Systèmes triphasés (Tensions simples et composées).md",
-    "07 MOC/Concepts/Elen-Ener/MOC Triphase.md",
-    "01 Cours/Info/Les tableaux, Info 2026-11-07.md",
+    "02 Concepts/Optique_géometrique/Miroir plan et miroir sphérique.md",
+    "05 Ressources/DS années précédentes/Physique S1/Optique Géométrique (TSE)/TD1 - Optique (TSE).pdf",
+    "05 Ressources/PDF Cours/OPTIQUE GEOMETRIQUE I-II-III.pdf",
+    "02 Concepts/Optique_géometrique/Lois de Snell-Descartes et réflexion totale.md",
+    "02 Concepts/Optique_géometrique/Modèle des ondes électromagnétiques et indice de réfraction.md",
+    "02 Concepts/Optique_géometrique/Dioptre sphérique, dioptre plan et vergence.md",
+    "01 Cours/Optique_géometrique/TD1, Optique_géometrique 2026-10-21.md",
+    "01 Cours/Info/Les types composés, Info 2026-11-23.md",
+    "01 Cours/Elen-Ener/Les schémas, Elen-Ener 2026-11-24.md",
+    "Excalidraw/Drawing 2026-11-24 14.32.01.excalidraw.md",
+    "Excalidraw/Drawing 2026-11-24 14.45.19.excalidraw.md",
     "02 Concepts/Info/Syntaxe et structure de base en C - C++.md",
-    "02 Concepts/Électronique_numérique/Les bases du langage VHDL.md",
     "02 Concepts/Info/Syntaxe et structure en algorithmique.md",
-    "01 Cours/Elen-Ener/Suites exos, Elen-Ener 2026-11-10.md",
-    "05 Ressources/PDF Cours/TD ENER1.pdf",
-    "02 Concepts/Elen-Ener/Groupements de résistances (Série et Parallèle).md",
-    "05 Ressources/PDF Cours/ENER1 cours.md",
-    "01 Cours/Elen-Ener/Frenel et exos en TD , Elen-Ener 2026-11-02.md",
-    "01 Cours/Elen-Ener/Rappel de cours sur les complexes et exos, Elen-Ener 2026-11-03.md",
-    "05 Ressources/PDF Cours/SAÉ_1_Phase_05.pdf",
+    "01 Cours/Elen-Ener/Amplificateur opérationnel ou AOP, Elen1 2026-09-28.md",
+    "Dashboard.md",
+    "05 Ressources/PDF Cours/ENER Schema-cours-TD.pdf",
+    "Untitled circuit.lecircuit",
+    "Excalidraw/Drawing 2026-11-24 14.07.07.excalidraw.md",
+    "01 Cours/Elen-Ener/TP1 Matéo BESQUEUT Maxime BRUEL , Elen1 2026-09-29.md",
+    "01 Cours/Elen-Ener/exos sur l'aop, Elen1 2026-10-01.md",
+    "02 Concepts/Elen-Ener/Montages de base à Amplificateur Opérationnel (AOP).md",
+    "05 Ressources/PDF Cours/AOP Saturation.pdf",
+    "Circuit recovery/recovery-mwurv4h3-6t-4pukpb5-2.json",
+    "Circuit recovery/recovery-mwurv4h3-6t-4pukpb5-1.json",
+    "Circuit recovery/00_README.md",
+    "Circuit recovery/recovery-mwurv4h3-6t-4pukpb5-0.json",
+    "Circuit recovery",
+    "Excalidraw/Drawing 2026-11-24 14.10.53.excalidraw.md",
     "05 Ressources/PDF Cours/SAÉ_1_Phase_06.pdf",
-    "123t.pdsprj",
-    "05 Ressources/PDF Cours/SAÉ_1_Phase_06.pdf.crdownload",
-    "05 Ressources/PDF Cours/OPTIQUE GEOMETRIQUE IV.pdf",
-    "05 Ressources/PDF Cours/cours_triphas_obsidian.md.crdownload",
-    "05 Ressources/TP elen/TP3.pdf",
-    "05 Ressources/PDF exos cours/Exercices_info1.pdf",
+    "01 Cours/SAé/Phase 5 et 6, SAé 2026-11-03.md",
+    "01 Cours/SAé/suite moteur, SAé 2026-11-24.md",
+    "01 Cours/Elen-Ener/Exos sur la triphasé, Elen-Ener 2026-11-17.md",
+    "Excalidraw/Drawing 2026-11-23 15.06.47.excalidraw.md",
+    "02 Concepts/Math/Structure de R et densité de Q.md",
+    "02 Concepts/Elen-Ener/Puissances en régime triphasé et relèvement du facteur de puissance.md",
+    "05 Ressources/Pièces jointes collées/Pasted image 20261123150613.png",
+    "05 Ressources/Pièces jointes collées/Pasted image 20261123143653.png",
     "05 Ressources/Pièces jointes collées/Pasted Image 20261103103703_583.png",
     "05 Ressources/Pièces jointes collées/Pasted Image 20261103085323_106.png",
     "05 Ressources/Pièces jointes collées/Pasted image 20261102141819.png",
@@ -374,8 +462,6 @@
     "05 Ressources/Pièces jointes collées/Pasted image 20261018111459.png",
     "05 Ressources/Pièces jointes collées/Pasted image 20261018111455.png",
     "05 Ressources/Pièces jointes collées/Pasted Image 20261013114104_300.png",
-    "05 Ressources/Pièces jointes collées/Q7.1,2.bmp",
-    "05 Ressources/Pièces jointes collées/Q7.1 (1).bmp",
     "Sans titre.canvas"
   ]
 }

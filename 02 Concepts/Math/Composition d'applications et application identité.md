@@ -57,7 +57,7 @@ Soient $f, g : \mathbb{R} \to \mathbb{R}$ définies par $f(x) = x^2 - 1$ et $g(x
 ## 2. Application identité
 
 Soit $E$ un ensemble. L'**application identité** de $E$, notée $\text{Id}_E$, est définie par ::$$\text{Id}_E : E \to E, \quad x \mapsto x$$
-<!--SR:!2026-11-17,45,290-->
+<!--SR:!2027-05-19,180,310-->
 
 ### Propriété d'élément neutre
 Pour toute application $f: E \to E$ :

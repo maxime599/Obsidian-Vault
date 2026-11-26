@@ -43,37 +43,37 @@ USE ieee.std_logic_1164.ALL;
 L'entité décrit le composant tel qu'on le perçoit de l'extérieur (son nom, ses entrées et ses sorties) :
 - **Modes de port** : 
   - `IN` :: Port d'entrée (données uniquement lues).
-<!--SR:!2026-11-16,4,270-->
+<!--SR:!2026-12-06,16,290-->
   - `OUT` :: Port de sortie (données uniquement écrites).
-<!--SR:!2026-11-16,4,270-->
+<!--SR:!2026-12-06,16,290-->
   - `INOUT` :: Port bidirectionnel.
-<!--SR:!2026-11-16,4,270-->
+<!--SR:!2026-12-05,15,290-->
 - **Types de port** :
   - `STD_LOGIC` :: Signal sur un seul bit.
-<!--SR:!2026-11-15,3,250-->
+<!--SR:!2026-11-25,10,270-->
   - `STD_LOGIC_VECTOR` :: Bus de plusieurs bits.
-<!--SR:!2026-11-16,4,270-->
+<!--SR:!2026-12-04,14,290-->
 
 ### B. Gestion des Bus (`STD_LOGIC_VECTOR`)
 Un bus permet de regrouper plusieurs signaux d'un bit . 
 - **Déclaration de bus** :: `STD_LOGIC_VECTOR(n - 1 DOWNTO 0)` (ex: `STD_LOGIC_VECTOR(7 DOWNTO 0)` pour un bus de 8 bits) .
-<!--SR:!2026-11-16,4,270-->
+<!--SR:!2026-12-04,14,290-->
 - **Accès aux sous-groupes d'un bus** :: Utilisation de parenthèses (ex: `s(0)` pour un bit, `s(7 DOWNTO 4)` pour une tranche de bits) .
-<!--SR:!2026-11-16,4,270-->
+<!--SR:!2026-12-05,15,290-->
 - **Concaténation d'un bus** :: Réalisée à l'aide de l'opérateur `&` (ex: `s <= a & b & c`) .
-<!--SR:!2026-11-16,4,270-->
+<!--SR:!2026-12-04,14,290-->
 
 
 ## 2. La partie Architecture et Expressions logiques
 
 L'architecture (`ARCHITECTURE`) décrit ==l'intérieur du composant, c'est-à-dire la manière dont les entrées sont transformées pour obtenir les sorties.==
-<!--SR:!2026-11-16,4,270-->
+<!--SR:!2026-12-06,16,290-->
 
 ### A. Affectation inconditionnelle et opérateurs logiques
 Pour connecter les signaux au sein de l'architecture, on utilise l'affectation inconditionnelle ==`<=`==. Les opérateurs logiques disponibles sont :
 - `NOT`, `AND`, `NAND`, `OR`, `NOR`, `XOR`, `XNOR`.
 *Attention :* L'utilisation de parenthèses est obligatoire pour expliciter les priorités (ex: `y <= (a AND b) OR (c AND d);`).
-<!--SR:!2026-11-16,4,270-->
+<!--SR:!2026-12-04,14,290-->
 
 
 ## 3. Structures conditionnelles : WHEN et WITH SELECT
@@ -88,7 +88,7 @@ s <= b WHEN a = '1' ELSE
      f; -- Cas par défaut indispensable
 ```
 *Note :* Les conditions sont évaluées dans l'ordre d'écriture, et cette structure instancie une suite de ==multiplexeurs==.
-<!--SR:!2026-11-15,3,250-->
+<!--SR:!2026-11-26,11,270-->
 
 ### B. Affectation sélective (`WITH ... SELECT ... WHEN`)
 L'affectation sélective est idéale pour tester les différentes valeurs possibles d'un signal de sélection unique (comme dans un codeur ou un multiplexeur) :
@@ -99,7 +99,7 @@ WITH signal_selection SELECT
                      valeur_1 WHEN valeur_1_sel,
                      valeur_par_defaut WHEN OTHERS;
 ```
-<!--SR:!2026-11-16,4,270-->
+<!--SR:!2026-11-30,10,270-->
 
 
 ## 4. Gestion d'un Buffer Tri-State et Entrées/Sorties Bidirectionnelles
@@ -110,7 +110,7 @@ Le buffer tri-state permet de déconnecter un signal de manière contrôlée gr�
 - Niveau logique haut (`1`).
 - Niveau logique bas (`0`).
 - État de haute impédance noté `'Z'`.
-<!--SR:!2026-11-16,4,270-->
+<!--SR:!2026-12-05,15,290-->
 
 ### B. Implémentation d'une E/S bidirectionnelle (`INOUT`)
 Pour gérer des broches configurables alternativement en entrée ou en sortie, on utilise le mode `INOUT` associé à une affectation conditionnelle affectant la haute impédance `'Z'` lorsque le buffer est inactif  :

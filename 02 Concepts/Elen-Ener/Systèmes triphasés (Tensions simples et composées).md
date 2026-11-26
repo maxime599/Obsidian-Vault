@@ -54,47 +54,54 @@ La distribution se fait à partir de quatre bornes :
 - Les tensions sont déphasées de $\frac{2\pi}{3}$ l'une par rapport à l'autre ;
 - Elles ont la même valeur efficace ![[ENER1 triphasé.pdf#page=2&rect=290,238,528,376|ENER1 triphasé, p.2]].
 
-> **Définition** : Un système triphasé est **équilibré** lorsque les trois tensions possèdent la même valeur efficace et qu'elles sont déphasées de $\frac{2\pi}{3}$ l'une par rapport à l'autre.
+> **Définition** : Un système triphasé est **équilibré** lorsque :: les trois tensions possèdent la même valeur efficace et qu'elles sont déphasées de $\frac{2\pi}{3}$ l'une par rapport à l'autre.
+<!--SR:!2026-12-01,11,270-->
 
-### B. Équations horaires
+### B. Équations horaires pour $v_{1}, v_{2}, v_{3}$
+?
 $$v_1(t) = V\sqrt{2}\sin(\omega t)$$
 $$v_2(t) = V\sqrt{2}\sin\left(\omega t - \frac{2\pi}{3}\right)$$
 $$v_3(t) = V\sqrt{2}\sin\left(\omega t - \frac{4\pi}{3}\right)$$
+<!--SR:!2026-11-25,2,170-->
 
 ### C. Vecteurs de Fresnel associés
 On déduit des équations horaires les vecteurs suivants :
 $$\vec{V}_1 \begin{pmatrix} V \\ 0 \end{pmatrix} ; \quad \vec{V}_2 \begin{pmatrix} V \\ -\frac{2\pi}{3} \end{pmatrix} ; \quad \vec{V}_3 \begin{pmatrix} V \\ -\frac{4\pi}{3} \end{pmatrix}$$
 ![[ENER1 triphasé.pdf#page=3&rect=290,621,555,742|ENER1 triphasé, p.3]]
 Le système est **équilibré direct** :
-- **Équilibré** car la construction de Fresnel montre que $\vec{V}_1 + \vec{V}_2 + \vec{V}_3 = \vec{0} \implies v_1 + v_2 + v_3 = 0$.
-- **Direct** car un observateur immobile verrait les vecteurs défiler devant lui dans l'ordre $1, 2, 3$.
+- Système **Équilibré** car la construction de Fresnel montre que :: $\vec{V}_1 + \vec{V}_2 + \vec{V}_3 = \vec{0} \implies v_1 + v_2 + v_3 = 0$.
+<!--SR:!2026-12-09,15,290-->
+- Système **Direct** car :: un observateur immobile verrait les vecteurs défiler devant lui dans l'ordre $1, 2, 3$.
+<!--SR:!2026-11-26,4,270-->
 
 
 ## 3. Étude des tensions composées
 ![[ENER1 triphasé.pdf#page=3&rect=72,425,415,514|ENER1 triphasé, p.3]]
 ### A. Définition et relations vectorielles
-Les tensions composées ont la même fréquence que les tensions simples  :
+Les tensions composées ont la même fréquence que les tensions simples  : (calcule des $u_{ij}$ )
+?
 $$u_{12} = v_1 - v_2 \implies \vec{U}_{12} = \vec{V}_1 - \vec{V}_2$$
 $$u_{23} = v_2 - v_3 \implies \vec{U}_{23} = \vec{V}_2 - \vec{V}_3$$
 $$u_{31} = v_3 - v_1 \implies \vec{U}_{31} = \vec{V}_3 - \vec{V}_1$$
+<!--SR:!2026-12-07,15,290-->
 
 ### B. Vecteurs de Fresnel associés et équations horaires
-![[ENER1 triphasé.pdf#page=3&rect=189,124,538,286|ENER1 triphasé, p.3]]
-$$\vec{U}_1 \begin{pmatrix} U \\ \frac{\pi}{6} \end{pmatrix} ; \quad \vec{U}_2 \begin{pmatrix} U \\ -\frac{3\pi}{6} \end{pmatrix} ; \quad \vec{U}_3 \begin{pmatrix} U \\ -\frac{7\pi}{6} \end{pmatrix}$$
+![[ENER1 triphasé.pdf#page=3&rect=189,124,538,286|ENER1 triphasé, p.3]]Coordonées des vecteurs $U_{ij}$ : $$\vec{U}_{12} \begin{pmatrix} U \\ \frac{\pi}{6} \end{pmatrix} ; \quad \vec{U}_{23} \begin{pmatrix} U \\ -\frac{3\pi}{6} \end{pmatrix} ; \quad \vec{U}_{31} \begin{pmatrix} U \\ -\frac{7\pi}{6} \end{pmatrix}$$
 
 Si le réseau est équilibré : $\vec{U}_{12} + \vec{U}_{23} + \vec{U}_{31} = \vec{0} \iff u_{12} + u_{23} + u_{31} = 0$. Le système des trois tensions composées est équilibré direct.
+<!--SR:!2026-11-23,3,250-->
 
-Équations horaires :
+Équations horaires pour les tension composées:
+?
 $$u_{12}(t) = U\sqrt{2}\sin\left(\omega t + \frac{\pi}{6}\right)$$
 $$u_{23}(t) = U\sqrt{2}\sin\left(\omega t - \frac{\pi}{2}\right)$$
 $$u_{31}(t) = U\sqrt{2}\sin\left(\omega t - \frac{7\pi}{6}\right)$$
 ![[ENER1 triphasé.pdf#page=4&rect=218,595,546,756|ENER1 triphasé, p.4]]
 ### C. Relation fondamentale entre $U$ et $V$
-*(ENER1 triphasé, p.4)*
-$$U = 2V\cos(30^\circ) = 2V\frac{\sqrt{3}}{2}$$
-![[ENER1 triphasé.pdf#page=4&rect=306,430,556,520|ENER1 triphasé, p.4]]
+![[ENER1 triphasé.pdf#page=4&rect=306,430,556,520|ENER1 triphasé, p.4]] Relation fondamentale entre $U$ et $V$ : $$U = 2V\cos(30^\circ) = 2V\frac{\sqrt{3}}{2}$$
 $$\boxed{U = V\sqrt{3}}$$
 *Cette relation est toujours vraie quelle que soit la charge.*
+<!--SR:!2026-11-25,2,210-->
 
 
 ## Concepts liés

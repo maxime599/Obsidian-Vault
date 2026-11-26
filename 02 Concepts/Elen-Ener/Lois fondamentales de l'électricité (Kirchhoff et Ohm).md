@@ -39,7 +39,7 @@ if (cache && cache.headings) {
 ## 1. Loi des mailles
 
 Une **maille** est :: un ensemble d'éléments formant une boucle fermée dans un circuit.
-<!--SR:!2026-11-16,44,290-->
+<!--SR:!2027-05-16,177,310-->
 
 Loi des mailles
 ?

@@ -87,7 +87,7 @@ Soit l'équation $a z^2 + b z + c = 0$ avec $a, b, c \in \mathbb{C}$ et $a \neq 
 ## 4. Relations entre coefficients et racines
 
 Les complexes $z_1$ et $z_2$ sont les deux solutions de $a z^2 + b z + c = 0$ si et seulement si ::$$\begin{cases} S = z_1 + z_2 = -\dfrac{b}{a} \\[2mm] P = z_1 z_2 = \dfrac{c}{a} \end{cases}$$
-<!--SR:!2026-11-15,33,270-->
+<!--SR:!2027-02-11,88,270-->
 
 
 ## Concepts liés

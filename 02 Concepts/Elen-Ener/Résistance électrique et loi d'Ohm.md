@@ -45,7 +45,7 @@ $$R = \frac{\rho \cdot L}{S}$$
 - $\rho$ : résistivité du matériau en Ohms-mètres ($\Omega\cdot\text{m}$)
 - $L$ : longueur du matériau en mètres ($\text{m}$)
 - $S$ : section transversale du matériau en mètres carrés ($\text{m}^2$)
-<!--SR:!2026-11-13,41,290-->
+<!--SR:!2027-04-29,165,310-->
 
 
 ## 2. Loi d'Ohm

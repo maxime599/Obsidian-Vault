@@ -17,7 +17,7 @@ date_creation: 2026-07-28
 
 > [!info] Définition courte
 > La formule de **De Moivre** donne les puissances d'un complexe de module $r$ et d'argument $\theta$::$$\left(r(\cos\theta+i\sin\theta)\right)^n=r^n\left(\cos(n\theta)+i\sin(n\theta)\right).$$
-<!--SR:!2026-11-14,16,290-->
+<!--SR:!2027-01-20,66,310-->
 > Elle permet notamment de déterminer les racines $n$-ièmes d'un complexe non nul.
 ```dataviewjs
 const currentFile = app.workspace.getActiveFile();
